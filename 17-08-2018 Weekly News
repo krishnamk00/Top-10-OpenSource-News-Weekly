@@ -1,5 +1,5 @@
 
-News Links:
+## News Links:
 
 1.	Tesla Self driving Open source  - Elon Musk Plans To Open Source Tesla Software Code
 2.	TIBCO Flogo Edge  -  A Lightweight Runtime for Edge Computing released
@@ -13,9 +13,10 @@ News Links:
 10.	Hollywood Goes Open Source - Collaborates With Linux Foundation – Establish Academy Software Foundation(ASF)!
 
 
-Detailed:
+## Detailed:
 
-Elon Musk Plans To Open Source Tesla Software Code
+
+## Elon Musk Plans To Open Source Tesla Software Code
 https://fossbytes.com/elon-musk-tesla-open-source-code/
 August 13, 2018
 One of the biggest advantages of open sourcing your software is allowing the independent security researchers to access the code and spot the vulnerabilities that might go unnoticed during the internal auditing.
@@ -32,7 +33,7 @@ For more related stories and interesting development, keep reading Fossbytes.
 
 
 
-Project Flogo: A Lightweight Runtime for Edge Computing
+## Project Flogo: A Lightweight Runtime for Edge Computing
 https://thenewstack.io/project-flogo-a-lightweight-runtime-for-edge-computing/
 13 Aug 2018 8:46am, by Janakiram MSV
 The rise of edge computing marks the beginning of the next wave for enterprise Internet of Things platforms. Major public cloud providers — AWS, Google, and Microsoft — have extended their IoT platforms to the edge. For customers, edge computing is an extension of the public cloud. They get micro versions of cloud services including device management, machine-to-machine communication, authentication & authorization along with core compute services that are often delivered through containers and functions.
@@ -69,7 +70,7 @@ In an upcoming article, I will walk you through steps in building and deploying 
 
 
 
-Oracle open sources Graphpipe to standardize machine learning model deployment
+## Oracle open sources Graphpipe to standardize machine learning model deployment
 https://techcrunch.com/2018/08/15/oracle-open-sources-graphpipe-to-standardize-machine-learning-model-deployment/
 Oracle, a company not exactly known for having the best relationship with the open source community, is releasing a new open source tool today called Graphpipe, which is designed to simplify and standardize the deployment of machine learning models.
 The tool consists of a set of libraries and tools for following the standard.
@@ -87,7 +88,7 @@ Graphpipe is available starting today on the Oracle GitHub Graphpipe page.
 
 
 
-Nvidia Debuts AI-Ready Turing GPUs, with Real-Time Ray Tracing
+## Nvidia Debuts AI-Ready Turing GPUs, with Real-Time Ray Tracing
 https://thenewstack.io/nvidia-debuts-ai-ready-turing-gpus-with-real-time-ray-tracing/
 GPU Manufacturer Nvidia has introduced a new chip architecture designed specifically for artificial intelligence deep learning work. The GPUs, dubbed Turing, also will be able to do real-time ray-tracing, a long sought-after capability for the $250 billion visual effects industry.
 “This fundamentally changes how computer graphics will be done,” said Nvidia CEO Jensen Huang, during a Monday keynote at the SIGGRAPHprofessional graphics conference in Vancouver.
@@ -105,7 +106,7 @@ Nvidia has found support for Turing from system makers such as Dell EMC, HP, Inc
 
 
 
-Salesforce plans to open-source the technology behind its Einstein machine-learning services
+## Salesforce plans to open-source the technology behind its Einstein machine-learning services
 https://www.geekwire.com/2018/salesforce-plans-open-source-technology-behind-einstein-machine-learning-services/
 The Salesforce West Building in San Francisco. (Salesforce Photo)
 Salesforce is open-sourcing the method it has developed for using machine-learning techniques at scale — without mixing valuable customer data — in hopes other companies struggling with data science problems can benefit from its work.
@@ -120,7 +121,7 @@ As befits a company like Salesforce, the project is primarily concerned with hel
 
 
 
-OPEN SOURCE PROJECT ZOWE: FAST, SIMPLE, FAMILIAR Z/OS DEVELOPMENT
+## OPEN SOURCE PROJECT ZOWE: FAST, SIMPLE, FAMILIAR Z/OS DEVELOPMENT
 https://www.thegreengrid.org/en/newsroom/blog/open-source-project-zowe-fast-simple-familiar-zos-development
 15 August, 2018 - Barry Baker - IBM
 The IT landscape is evolving at a fast pace. Organizations continue to digitally transform to better serve the demands of their customers and differentiate themselves from their competitors. Many of these businesses have a mainframe as an essential asset at the heart of their digital transformation, and to drive the business. IBM Z mainframe strengths — security, availability, performance, data integrity and scalability – were validated in a recent Linux Foundation Open Mainframe Project survey as to why it’s the platform for some of the most important production workloads in the world.
@@ -135,7 +136,7 @@ The post Open source project Zowe: Fast, simple, familiar z/OS development appea
 
 
 
-Amazon open sources Alexa ‘auto’ SDK for cars
+## Amazon open sources Alexa ‘auto’ SDK for cars
 https://www.computerweekly.com/blog/Open-Source-Insider/Amazon-open-sources-Alexa-auto-SDK-for-cars
 Cloud giant Amazon has announced the open source release of its Alexa Auto SDK (Software Development Kit).
 The news comes from the company’s Amazon Voice Services (AVS) division.
@@ -155,7 +156,7 @@ The SDK is available on GitHub.
 
 
 
-Sonatype offers developers free security scan tool on GitHub
+## Sonatype offers developers free security scan tool on GitHub
 https://techcrunch.com/2018/08/14/sonatype-now-offers-free-open-source-vulnerability-scans-to-github-users/
 Sonatype helps enterprises identify and remediate vulnerabilities in open source library dependencies and release more secure code. Today, they announced a free tool called DepShield that offers a basic level of protection for GitHub developers.
 The product is actually two parts. For starters, Sonatype has a database of open source dependency vulnerabilities called OSS Index. The company gathers this information from a variety of public sources, says Sonatype CEO Wayne Jackson. While it isn’t as highly curated as the company’s commercial offerings, it does offer a layer of protection that most individual developers or small shops wouldn’t normally have access to.
@@ -171,7 +172,7 @@ Sonatype, which is based in Maryland, launched in 2008 and has raised almost $75
 
 
 
-Infineon enables open source TSS ESAPI layer
+## Infineon enables open source TSS ESAPI layer
 https://www.electronicsweekly.com/news/business/infineon-enables-open-source-tss-esapi-layer-2018-08/
 Infineon  has enabled a new open source software stack which aims to make work easier for developers who want to use the Trusted Platform Module (TPM) 2.0 – a standardized hardware-based security solution for securing industrial, automotive and other applications such as network equipment.
 This is the first open source TPM middleware that complies with the Software Stack (TSS) Enhanced System API (ESAPI) specification of the Trusted Computing Group .
@@ -190,7 +191,7 @@ Application developers can use the OPTIGA TPM SLB 9670 Iridium boards offered by
 
 
 
-Hollywood Goes Open Source; Collaborates With Linux Foundation
+## Hollywood Goes Open Source; Collaborates With Linux Foundation
 https://fossbytes.com/hollywood-open-source-linux-foundation/
 August 11, 2018
 The Academy of Motion Picture Arts and Sciences which is best known for organizing the Oscars has announced its love for open source tech. It has joined hands with the Linux Foundation to establish the Academy Software Foundation (ASWF).
@@ -200,6 +201,6 @@ Nearly 84% of Hollywood already uses open source software to throw in visual eff
 Also, licensing such work has proved to be a challenge, partly because studios didn’t know which license they should choose. The foundation would probably try to solve this problem through shared licensing templates, and also look after the management of relevant open source projects.
 With the Academy Software Foundation, open source developers in the motion picture and media space will now be able to join their efforts and bring the next wave of innovation through interoperability.
 
-__END__
+## __END__
 
 
