@@ -8,6 +8,19 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2018-08-31
+1.	[VMworld 2018 highlights – Acquired CloudHealth, Concord Blockchain, Vcenter Server, Converge tool, Content libraries for Multi VC, new SaaS services, Hybrid cloud expanded](https://appdevelopermagazine.com/vmworld-2018-developer-highlights/)
+2.	[Google discharges open source support learning structure for preparing AI models]( https://techstory.in/google-ai-models-2018/)
+3.	[Telcos need to rethink how they think about open source]( https://disruptive.asia/telcos-must-rethink-open-source/?utm_source=nyoooz&utm_medium=post)
+4.	[Apple sees the (augmented) light, buys holo-glass tech startup]( https://www.theregister.co.uk/2018/08/30/apple_sees_the_augmented_light_and_buys_holo_glass_tech_startup/)
+5.	[Google sets Kubernetes free with $9m in its pocket for expenses]( https://www.theregister.co.uk/2018/08/30/google_kubernetes_project/)
+6.	[CNCF to Host TiKV in the Sandbox]( https://www.cncf.io/blog/2018/08/28/cncf-to-host-tikv-in-the-sandbox/)
+7.	[Qiskit, IBM's open source quantum computing framework]( https://www.computerworlduk.com/open-source/inside-qiskit-ibms-open-source-quantum-computing-framework-3682891/)
+8.	[Storj Labs – cloud strage company - forges open-source vendors and cloud services alliance]( https://www.zdnet.com/article/storj-labs-forges-open-source-vendors-and-cloud-services-alliance/)
+9.	[TODO group Open source survey]( https://github.com/todogroup/survey)
+10.	 [25 Machine Learning Startups To Watch In 2018]( https://www.forbes.com/sites/louiscolumbus/2018/08/26/25-machine-learning-startups-to-watch-in-2018/)
+
+
 ## 2018-08-24
 1.	[Redis has a license to kill: Open-source database maker takes some code proprietary](https://www.theregister.co.uk/2018/08/23/redis_database_license_change/)
 2.	[Microsoft move to open source its network emulator](https://guardian.ng/technology/microsoft-move-to-open-source-its-network-emulator/)
