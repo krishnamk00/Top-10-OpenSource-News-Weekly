@@ -12,13 +12,13 @@ This aggregation is for just information/education purpose only.
 1.	[LinkedIn open-sources a tool to run TensorFlow on Hadoop](https://www.infoworld.com/article/3305590/tensorflow/linkedin-open-sources-a-tool-to-run-tensorflow-on-hadoop.html)
 2.	[Microsoft's Cloud Outage Postmortem: What Went Wrong after lightning strikes!]( https://rcpmag.com/articles/2018/09/11/microsoft-cloud-outage-postmortem.aspx)
 3.	[Oracle forges a Java microservices framework]( https://www.infoworld.com/article/3305758/java/oracle-forges-a-java-microservices-framework.html)
-4.	[The What-If Tool: Code-Free Probing of Machine Learning Models]( https://ai.googleblog.com/2018/09/the-what-if-tool-code-free-probing-of.html
+4.	[The Google What-If Tool: Code-Free Probing of Machine Learning Models](https://ai.googleblog.com/2018/09/the-what-if-tool-code-free-probing-of.html)
 5.	[Introducing TensorFlow Data Validation: Data Understanding, Validation, and Monitoring At Scale]( https://medium.com/tensorflow/introducing-tensorflow-data-validation-data-understanding-validation-and-monitoring-at-scale-d38e3952c2f0?linkId=56682628)
 6.	[Announcing Azure Pipelines with unlimited CI/CD minutes for open source](https://azure.microsoft.com/en-us/blog/announcing-azure-pipelines-with-unlimited-ci-cd-minutes-for-open-source/)
 7.	[Commons Clause stops open-source abuse]( https://techcrunch.com/2018/09/07/commons-clause-stops-open-source-abuse/)
 8.	[Gartner claims pure-play IaaS providers could be sidelined as enterprise attitudes to cloud mature](https://www.computerweekly.com/news/252448518/Gartner-claims-pure-play-IaaS-providers-could-be-sidelined-as-enterprise-attitudes-to-cloud-mature?)
 9.	[Altair Introduces Open Source and Free Basic Editions for Model-Based Development Offerings]( https://www.samacharlive.com/Business/altair-introduces-open-source-and-free-basic-editions-for-model-based-development-offerings)
-10.	[SRT Alliance to Promote the Adoption of the Open Source Low Latency]( http://virtual-strategy.com/2018/09/13/srt-alliance-to-promote-the-adoption-of-the-open-source-low-latency/)
+10.	[Microsoft with SRT Alliance to Promote the Adoption of the Open Source Low Latency]( http://virtual-strategy.com/2018/09/13/srt-alliance-to-promote-the-adoption-of-the-open-source-low-latency/)
 11.	[Uber Marmaray: An Open Source Generic Data Ingestion and Dispersal Framework and Library for Apache Hadoop]( https://eng.uber.com/marmaray-hadoop-ingestion-open-source/)
 
 
