@@ -8,6 +8,33 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2018-09-14
+1.	[LinkedIn open-sources a tool to run TensorFlow on Hadoop](https://www.infoworld.com/article/3305590/tensorflow/linkedin-open-sources-a-tool-to-run-tensorflow-on-hadoop.html)
+2.	[Microsoft's Cloud Outage Postmortem: What Went Wrong after lightning strikes!]( https://rcpmag.com/articles/2018/09/11/microsoft-cloud-outage-postmortem.aspx)
+3.	[Oracle forges a Java microservices framework]( https://www.infoworld.com/article/3305758/java/oracle-forges-a-java-microservices-framework.html)
+4.	[The What-If Tool: Code-Free Probing of Machine Learning Models]( https://ai.googleblog.com/2018/09/the-what-if-tool-code-free-probing-of.html
+5.	[Introducing TensorFlow Data Validation: Data Understanding, Validation, and Monitoring At Scale]( https://medium.com/tensorflow/introducing-tensorflow-data-validation-data-understanding-validation-and-monitoring-at-scale-d38e3952c2f0?linkId=56682628)
+6.	[Announcing Azure Pipelines with unlimited CI/CD minutes for open source](https://azure.microsoft.com/en-us/blog/announcing-azure-pipelines-with-unlimited-ci-cd-minutes-for-open-source/)
+7.	[Commons Clause stops open-source abuse]( https://techcrunch.com/2018/09/07/commons-clause-stops-open-source-abuse/)
+8.	[Gartner claims pure-play IaaS providers could be sidelined as enterprise attitudes to cloud mature](https://www.computerweekly.com/news/252448518/Gartner-claims-pure-play-IaaS-providers-could-be-sidelined-as-enterprise-attitudes-to-cloud-mature?)
+9.	[Altair Introduces Open Source and Free Basic Editions for Model-Based Development Offerings]( https://www.samacharlive.com/Business/altair-introduces-open-source-and-free-basic-editions-for-model-based-development-offerings)
+10.	[SRT Alliance to Promote the Adoption of the Open Source Low Latency]( http://virtual-strategy.com/2018/09/13/srt-alliance-to-promote-the-adoption-of-the-open-source-low-latency/)
+11.	[Uber Marmaray: An Open Source Generic Data Ingestion and Dispersal Framework and Library for Apache Hadoop]( https://eng.uber.com/marmaray-hadoop-ingestion-open-source/)
+
+
+## 2018-09-07
+1.	[Cloudera teams up with Red Hat and Eurotech for end-to-end open source IoT architecture](https://www.iottechnews.com/news/2018/sep/07/cloudera-teams-red-hat-and-eurotech-end-end-open-source-iot-architecture/)
+2.	[AWS balances GA of Aurora Serverless with new instance types](https://searchaws.techtarget.com/blog/AWS-Cloud-Cover/AWS-balances-GA-of-Aurora-Serverless-with-new-instance-types)
+3.	[DIY: Open-source Raspberry Pi Phone](https://chipsnwafers.electronicsforu.com/2018/09/04/raspberry-pi-phone/)
+4.	[New Indico Open Source Project Delivers Dramatic Improvements to Machine Learning Model Training](https://www.samacharlive.com/Business/new-indico-open-source-project-delivers-dramatic-improvements-to-machine-learning-model-training)
+5.	[BYD launches open source platform for smart transportation](https://auto.economictimes.indiatimes.com/news/auto-technology/byd-launches-open-source-platform-for-smart-transportation/65706769)
+6.	[As AI and IoT Space See A Major Boom, Open Source RISC-V Chips Can Address The Computing Needs](https://www.analyticsindiamag.com/as-ai-and-iot-space-see-a-major-boom-open-source-risc-v-chips-can-address-the-computing-needs/)
+7.	[TensorFlow | A Concise Handbook of TensorFlow – English & Chinese version](https://tf.wiki/?linkId=56717302)
+8.	[Open source is free like a puppy, but ROI is worth it, says Microsoft](https://siliconangle.com/2018/09/13/open-source-is-free-like-a-puppy-but-roi-is-worth-it-says-microsoft-attspark/)
+9.	[Hasura debuts open source event system to simplify serverless development](https://techcrunch.com/2018/09/05/hasura-debuts-event-system-to-simplify-serverless-development/)
+10.	[New Cloud Native landscape published](https://landscape.cncf.io/format=landscape)
+
+
 ## 2018-08-31
 1.	[VMworld 2018 highlights – Acquired CloudHealth, Concord Blockchain, Vcenter Server, Converge tool, Content libraries for Multi VC, new SaaS services, Hybrid cloud expanded](https://appdevelopermagazine.com/vmworld-2018-developer-highlights/)
 2.	[Google discharges open source support learning structure for preparing AI models]( https://techstory.in/google-ai-models-2018/)
