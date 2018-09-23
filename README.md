@@ -8,6 +8,29 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2018-09-21
+1.	[CNCF Survey: Use of Cloud Native Technologies in Production Has Grown Over 200%]
+(https://www.cncf.io/blog/2018/08/29/cncf-survey-use-of-cloud-native-technologies-in-production-has-grown-over-200-percent/)
+2.	[Qualcomm announces open-source DIRBS platform to combat counterfeit, stolen devices]
+(https://www.fonearena.com/blog/263983/qualcomm-dirbs-platform-combat-counterfeit-stolen-devices.html)
+3.	[IBM open source ‘anti-bias’ AI tool to combat racist robot fear factor]
+(https://www.computerweekly.com/blog/Open-Source-Insider/IBM-open-source-anti-bias-AI-tool-to-combat-racist-robot-fear-factor)
+4.	[Is Hortonworks rewriting Hadoop to make it cloud-native (or just its own platform?)]
+(https://digitizingpolaris.com/is-hortonworks-rewriting-hadoop-to-make-it-cloud-native-or-just-its-own-platform-be816ff3335e)
+5.	[NetApp Acquires StackPointCloud to Stake Kubernetes Claim]
+(https://containerjournal.com/2018/09/20/netapp-acquires-stackpointcloud-to-stake-kubernetes-claim/)
+6.	[Open Source Powered CRM has Become an Intelligent Tool to Drive Customer Engagement]
+(http://www.voicendata.com/open-source-powered-crm-has-become-an-intelligent-tool-to-drive-customer-engagement/)
+7.	[Microsoft is upping its A.I. battle with Salesforce]
+(https://www.cnbc.com/2018/09/18/microsoft-salesforce-battle-ai-dynamics.html?)
+8.	[South Korea’s largest telecom could bring blockchain to 38M people]
+(https://thenextweb.com/hardfork/2018/09/20/icon-sk-planet-blockchain-partnership/)
+9.	[Infosys partners Google Cloud to develop 'Data Native Intelligent Enterprise']
+(https://www.moneycontrol.com//news/india/infosys-partners-google-cloud-to-develop-data-native-intelligent-enterprise-2975191.html)
+10.	[Alibaba wants to ship its own neural network silicon by H2 2019]
+(https://www.theregister.co.uk/2018/09/20/alibaba_ai_silicon_business/)
+
+
 ## 2018-09-14
 1.	[LinkedIn open-sources a tool to run TensorFlow on Hadoop](https://www.infoworld.com/article/3305590/tensorflow/linkedin-open-sources-a-tool-to-run-tensorflow-on-hadoop.html)
 2.	[Microsoft's Cloud Outage Postmortem: What Went Wrong after lightning strikes!]( https://rcpmag.com/articles/2018/09/11/microsoft-cloud-outage-postmortem.aspx)
