@@ -8,6 +8,19 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2018-09-28
+1.	[Tim Berners-Lee launches open source project Solid to decentralize the web and place users in control of data]( https://betanews.com/2018/09/29/tim-berners-lee-solid/)
+2.	[Eclipse Foundation and CNCF working together to bring Kubernetes to IoT edge] (https://www.dailyhostnews.com/eclipse-foundation-and-cncf-working-together-to-bring-kubernetes-to-iot-edge/)
+3.	[Azure Sphere is here - public preview and dev kits now available] (https://azure.microsoft.com/en-us/blog/azure-sphere-is-here-public-preview-and-dev-kits-now-available/)
+4.	[Pulsar graduates to being an Apache top-level project] (https://www.zdnet.com/article/pulsar-graduates-to-being-an-apache-top-level-project/)
+5.	[BOSSIE - Best open source award – year 2018] (https://www.infoworld.com/article/3306843/open-source-tools/bossies-2018-the-best-of-open-source-software-awards.html)
+6.	[Snyk raises $22M on a $100M valuation to detect security vulnerabilities in open source code] (https://techcrunch.com/2018/09/25/snyk-raises-22m-on-a-100m-valuation-to-detect-security-vulnerabilities-in-open-source-code/)
+7.	[Braiins OS Publishes Open Source Firmware for Mining Rigs] (https://news.bitcoin.com/braiins-os-publishes-open-source-firmware-for-mining-rigs/)
+8.	[Announcing EthHub – for Ethereum] (https://www.reddit.com/r/ethereum/comments/9jde4k/announcing_ethhub_and_how_you_can_help/)
+9.	[Arm Delivers Production-Ready Open Source Bluetooth Low Energy Software Stack to Unleash IoT Innovation] (https://businesswireindia.com/news/fulldetails/arm-delivers-production-ready-open-source-bluetooth-low-energy-software-stack-unleash-iot-innovation/60061)
+10.	[Open Source Intelligence (OSINT) Market to witness steady growth by 2022 Says Marketresearchpro] (https://www.newsient.com/open-source-intelligence-osint-market-research-report/87301/)
+
+
 ## 2018-09-21
 1.	[CNCF Survey: Use of Cloud Native Technologies in Production Has Grown Over 200%](https://www.cncf.io/blog/2018/08/29/cncf-survey-use-of-cloud-native-technologies-in-production-has-grown-over-200-percent/)
 2.	[Qualcomm announces open-source DIRBS platform to combat counterfeit, stolen devices](https://www.fonearena.com/blog/263983/qualcomm-dirbs-platform-combat-counterfeit-stolen-devices.html)
