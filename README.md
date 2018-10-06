@@ -8,6 +8,19 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2018-10-05
+1.	[The Microsoft Infer.NET machine learning framework goes open source](https://www.microsoft.com/en-us/research/blog/the-microsoft-infer-net-machine-learning-framework-goes-open-source/?ocid=msr_blog_infernet_tw)
+2.	[Cloudera and Hortonworks agree to merge!](https://hortonworks.com/press-releases/cloudera-hortonworks-announce-merger-create-worlds-leading-next-generation-data-platform-deliver-industrys-first-enterprise-data-cloud/)
+3.	[CNCF to Host Cloud Native Buildpacks in the Sandbox](https://www.cncf.io/blog/2018/10/03/cncf-to-host-cloud-native-buildpacks-in-the-sandbox/)
+4.	[China's going to make a mobile OS and everyone will love it, predict ball-gazing analysts](https://www.theregister.co.uk/2018/10/04/ccs_insight_tech_predictions/)
+5.	[The Node.js and JS foundations want to merge](https://techcrunch.com/2018/10/04/the-node-js-and-javascript-foundations-want-to-merge/)
+6.	[Microsoft open sourced DOS original](https://github.com/Microsoft/MS-DOS)
+7.	[Haiku, an open source system inspired by BeOS, has just turned beta](https://www.haiku-os.org/get-haiku/release-notes/)
+8.	[AWS Service Operator for Kubernetes Now Available](https://aws.amazon.com/blogs/opensource/aws-service-operator-kubernetes-available/)
+9.	[DDN steps out of HPC niche and into enterprise AI systems hurly-burly](https://www.theregister.co.uk/2018/10/04/ddn_jumps_into_ai_fray_taking_on_pure_netapp_cisco_and_dell_emc/)
+10.	[Enterprise Ethereum Alliance Open-Source Partnership with Hyperledger](https://cream.technology/crypto-news/145-general/1769-enterprise-ethereum-alliance-open-source-partnership-with-hyperledger)
+
+
 ## 2018-09-28
 1.	[Tim Berners-Lee launches open source project Solid to decentralize the web and place users in control of data](https://betanews.com/2018/09/29/tim-berners-lee-solid/)
 2.	[Eclipse Foundation and CNCF working together to bring Kubernetes to IoT edge](https://www.dailyhostnews.com/eclipse-foundation-and-cncf-working-together-to-bring-kubernetes-to-iot-edge/)
