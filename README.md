@@ -10,7 +10,7 @@ This aggregation is for just information/education purpose only.
 
 ## 2018-10-05
 1.	[The Microsoft Infer.NET machine learning framework goes open source](https://www.microsoft.com/en-us/research/blog/the-microsoft-infer-net-machine-learning-framework-goes-open-source/?ocid=msr_blog_infernet_tw)
-2.	[Cloudera and Hortonworks agree to merge!](https://hortonworks.com/press-releases/cloudera-hortonworks-announce-merger-create-worlds-leading-next-generation-data-platform-deliver-industrys-first-enterprise-data-cloud/)
+2.	[Cloudera and Hortonworks merger means Hadoop’s influence is declining!](https://venturebeat.com/2018/10/06/cloudera-and-hortonworks-merger-means-hadoops-influence-is-declining/)
 3.	[CNCF to Host Cloud Native Buildpacks in the Sandbox](https://www.cncf.io/blog/2018/10/03/cncf-to-host-cloud-native-buildpacks-in-the-sandbox/)
 4.	[China's going to make a mobile OS and everyone will love it, predict ball-gazing analysts](https://www.theregister.co.uk/2018/10/04/ccs_insight_tech_predictions/)
 5.	[The Node.js and JS foundations want to merge](https://techcrunch.com/2018/10/04/the-node-js-and-javascript-foundations-want-to-merge/)
