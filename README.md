@@ -8,6 +8,19 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2018-10-12
+1.	[MICROSOFT MAKES 60,000 PATENTS OPEN SOURCE IN A BID TO HELP PROTECT LINUX](https://www.firstpost.com/tech/news-analysis/microsoft-makes-60000-patents-open-source-in-a-bid-to-help-protect-linux-5357831.html)
+2.	[NVIDIA debuts RAPIDS, its open-source GPU-acceleration platform for large-scale data analytics and machine learning](http://wwpi.com/2018/10/10/nvidia-debuts-rapids-its-open-source-gpu-acceleration-platform-for-large-scale-data-analytics-and-machine-learning/)
+3.	[Microsoft reveals xlang: Cross-language, cross-compiler and coming to a platform near you](https://www.theregister.co.uk/2018/10/12/microsoft_xlang/)
+4.	[The Linux Foundation to Drive Shift to Container Network Functions](https://containerjournal.com/2018/10/05/the-linux-foundation-to-drive-shift-to-container-network-functions/)
+5.	[Global Open Source Services Market - Technologies, Market Share and Industry Forecast to 2024: Expected to Grow at a CAGR of 24% - ResearchAndMarkets.com](https://www.businesswire.com/news/home/20181012005315/en/Global-Open-Source-Services-Market---Technologies)
+6.	[IBM and NVIDIA Collaborate to Expand Open Source Machine Learning Tools for Data Scientists](https://www.hpcwire.com/off-the-wire/ibm-and-nvidia-collaborate-to-expand-open-source-machine-learning-tools-for-data-scientists/)
+7.	[Why Data Scientists Are Heavily Weighted Towards Open Source Frameworks: CG Venkatesh of LTI Explains](https://www.analyticsindiamag.com/why-data-scientists-are-heavily-weighted-towards-open-source-frameworks-cg-venkatesh-of-lti-explains)
+8.	[CAN YOU “TAKE BACK” OPEN SOURCE CODE?](https://hackaday.com/2018/09/27/can-you-take-back-open-source-code/)
+9.	[INGDAN.com Partners with Unisound's Open Source Chip Program to Support AIoT Technology Development](http://itbusinessnet.com/article/INGDANcom-Partners-with-Unisounds-Open-Source-Chip-Program-to-Support-AIoT-Technology-Development-5614207)
+10.	[AI's next battlefield is literally the battlefield: In 20 years, bots will fight our wars – Army boffin](https://www.theregister.co.uk/2018/10/12/ai_soldiers_fighting/)
+
+
 ## 2018-10-05
 1.	[The Microsoft Infer.NET machine learning framework goes open source](https://www.microsoft.com/en-us/research/blog/the-microsoft-infer-net-machine-learning-framework-goes-open-source/?ocid=msr_blog_infernet_tw)
 2.	[Cloudera and Hortonworks merger means Hadoop’s influence is declining!](https://venturebeat.com/2018/10/06/cloudera-and-hortonworks-merger-means-hadoops-influence-is-declining/)
