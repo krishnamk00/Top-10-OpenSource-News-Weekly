@@ -12,22 +12,22 @@ This aggregation is for just information/education purpose only.
 1.	[Microsoft revamps machine learning tools for Apache Spark](https://www.infoworld.com/article/3315666/machine-learning/microsoft-revamps-machine-learning-tools-for-apache-spark.html)
 2.	[Mirantis Rides Kubernetes to Supercharge Open Source Edge Ecosystem](https://www.sdxcentral.com/articles/news/mirantis-rides-kubernetes-to-charge-open-source-edge-ecosystem/2018/10/)
 3.	[Roughly 30 years after its birth at UK's Acorn Computers, RISC OS 5 is going open source](https://www.theregister.co.uk/2018/10/23/risc_os_open_source/)
-4.	[Crypto Quantique claims launch of first quantum-driven secure chip on silicon to strengthen IoT security]((https://www.iottechnews.com/news/2018/oct/18/crypto-quantique-claims-launch-first-quantum-driven-secure-chip-silicon-strengthen-iot-security/)
+4.	[Crypto Quantique claims launch of first quantum-driven secure chip on silicon to strengthen IoT security](https://www.iottechnews.com/news/2018/oct/18/crypto-quantique-claims-launch-first-quantum-driven-secure-chip-silicon-strengthen-iot-security/)
 5.	[Infosys Launches Enterprise Class Open Source DevOps Platform](https://techstory.in/infosys-launches-enterprise-class-open-source-devops-platform-2018/)
 6.	[New report: Open Source Software market research](https://www.whatech.com/market-research/it/522978-new-report-open-source-software-market-research)
 7.	[SUSE Gets OpenChain Certification, To Make Open Source More Reliable](https://opensourceforu.com/2018/10/suse-gets-openchain-certification-to-make-open-source-more-reliable/)
 8.	[Mac@IBM code goes open source](https://betanews.com/2018/10/23/mac-at-ibm-goes-open-source/)
-9.	[Payments Company Square Open-Sources Its Code](https://opensourceforu.com/2018/10/payments-company-square-open-sources-its-code/
+9.	[Payments Company Square Open-Sources Its Code](https://opensourceforu.com/2018/10/payments-company-square-open-sources-its-code/)
 10. [Microsoft and HashiCorp collaborate to build a better Terraform provider](https://open.microsoft.com/2018/10/23/microsoft-and-hashicorp-collaborate-to-build-a-better-terraform-provider/)
 
 
 ## 2018-10-19
-1.	[Microsoft bring an open-source model of Component Firmware Update (CFU) for peripheral developers](https://hub.packtpub.com/microsoft-bring-an-open-source-model-of-component-firmware-update-cfu-for-peripheral-developers/
+1.	[Microsoft bring an open-source model of Component Firmware Update CFU for peripheral developers](https://hub.packtpub.com/microsoft-bring-an-open-source-model-of-component-firmware-update-cfu-for-peripheral-developers/
 2.	[MongoDB introduces the Server Side Public License for open source](https://sdtimes.com/os/mongodb-introduces-the-server-side-public-license-for-open-source/)
 3.	[Google says it will open source the firmware for Titan M, the secure chip in Pixel 3 phones](https://www.wired.com/story/google-titan-m-security-chip-pixel-3/)
-4.	[IBM Employs Kubernetes to Tame Multi-Cloud Computing](https://containerjournal.com/2018/10/17/ibm-employs-kubernetes-to-tame-multi-cloud-computing/
+4.	[IBM Employs Kubernetes to Tame Multi-Cloud Computing](https://containerjournal.com/2018/10/17/ibm-employs-kubernetes-to-tame-multi-cloud-computing/)
 5.	[Bentley Systems Releases iModel.js, an Open-Source Library](https://opensourceforu.com/2018/10/bentley-systems-releases-imodel-js-an-open-source-library/?)
-6.	[Why Uber created Hudi, an open source incremental processing framework on Apache Hadoop?])(https://hub.packtpub.com/why-uber-created-hudi-an-open-source-incremental-processing-framework-on-apache-hadoop/)
+6.	[Why Uber created Hudi, an open source incremental processing framework on Apache Hadoop?](https://hub.packtpub.com/why-uber-created-hudi-an-open-source-incremental-processing-framework-on-apache-hadoop/)
 7.	[Open source security management firm WhiteSource raises $35 million](https://in.reuters.com/article/tech-whitesource-fundraising/open-source-security-management-firm-whitesource-raises-35-million-idINKCN1MR1WD)
 8.	[Braiins OS: An Open Source Alternative to Bitcoin Mining Firmware ](https://finance.yahoo.com/news/braiins-os-open-source-alternative-195048567.html)
 9.	[Telcos zero in on generic (and ideally open source) AI platforms](https://disruptive.asia/telcos-generic-ai-platforms/)
