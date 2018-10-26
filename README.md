@@ -22,7 +22,7 @@ This aggregation is for just information/education purpose only.
 
 
 ## 2018-10-19
-1.	[Microsoft bring an open-source model of Component Firmware Update CFU for peripheral developers](https://hub.packtpub.com/microsoft-bring-an-open-source-model-of-component-firmware-update-cfu-for-peripheral-developers/
+1.	[Microsoft bring an open-source model of Component Firmware Update CFU for peripheral developers](https://hub.packtpub.com/microsoft-bring-an-open-source-model-of-component-firmware-update-cfu-for-peripheral-developers/)
 2.	[MongoDB introduces the Server Side Public License for open source](https://sdtimes.com/os/mongodb-introduces-the-server-side-public-license-for-open-source/)
 3.	[Google says it will open source the firmware for Titan M, the secure chip in Pixel 3 phones](https://www.wired.com/story/google-titan-m-security-chip-pixel-3/)
 4.	[IBM Employs Kubernetes to Tame Multi-Cloud Computing](https://containerjournal.com/2018/10/17/ibm-employs-kubernetes-to-tame-multi-cloud-computing/)
