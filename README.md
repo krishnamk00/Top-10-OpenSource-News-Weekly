@@ -8,6 +8,32 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2018-11-09
+1.	[World Wide Web inventor wants new 'contract' to make web safe](https://cio.economictimes.indiatimes.com/news/internet/world-wide-web-inventor-wants-new-contract-to-make-web-safe/66532664)
+2.	[Why VMware Is Acquiring Heptio and Going All In for Kubernetes](http://www.eweek.com/cloud/why-vmware-is-acquiring-heptio-and-going-all-in-for-kubernetes)
+3.	[Microsoft’s attempt to fork Kubernetes via AKS will fail](https://www.infoworld.com/article/3319576/kubernetes/microsofts-attempt-to-fork-kubernetes-via-aks-will-fail.html)
+4.	[VMware and Lenovo are about to hit go-go on Project Dimension beta](https://www.theregister.co.uk/2018/11/08/lenovo_vmware_project_dimension/)
+5.	[GPL Initiative Expands with 16 Additional Companies Joining Campaign for Greater Predictability in Open Source Licensing](https://www.globalbankingandfinance.com/gpl-initiative-expands-with-16-additional-companies-joining-campaign-for-greater-predictability-in-open-source-licensing/)
+6.	[To build the PlayStation Classic, Sony turned to an open-source emulator](https://www.cnet.com/news/to-build-the-playstation-classic-sony-turned-to-an-open-source-emulator/)
+7.	[Cisco Unveils Hybrid Kubernetes Platform for AWS](https://containerjournal.com/2018/11/09/cisco-unveils-hybrid-kubernetes-platform-for-aws/)
+8.	[Microsoft may be the world's largest open source contributor, but developers don't care—yet](https://www.techrepublic.com/article/microsoft-may-be-the-worlds-largest-open-source-contributor-but-developers-dont-yet-care/)
+9.	[Facebook's open-source license drama-zone GraphQL gets swanky digs in Linux mansion](https://www.theregister.co.uk/2018/11/07/graphql_on_linux/)
+10.	[OPNids Open-Source Project Lays Foundation for AI Driven Alert Triage](https://www.globalbankingandfinance.com/opnids-open-source-project-lays-foundation-for-ai-driven-alert-triage/)
+
+
+## 2018-11-02
+1.	[facebook Horizon: The first open source reinforcement learning platform for large-scale products and services](https://code.fb.com/ml-applications/horizon/)
+2.	[4 reasons IBM bought Red Hat for $34 billion](https://hub.packtpub.com/4-reasons-ibm-bought-red-hat-for-34-billion/)
+3.	[Cloud Foundry Foundation Moves Closer to Kubernetes with project Eirini]( https://containerjournal.com/2018/10/31/cloud-foundry-foundation-moves-closer-to-kubernetes/)
+4.	[Oracle’s Open source Wookiee brings microservices to Scala developers](https://www.infoworld.com/article/3316942/scala/oracles-wookiee-brings-microservices-to-scala-developers.html)
+5.	[Cockroach Labs launches CockroachDB as managed service](https://techcrunch.com/2018/10/30/cockroach-labs-launches-cockroachdb-as-managed-service/)
+6.	[Open-source cloud tooling maker HashiCorp bags $100M round at $1.9B valuation](https://siliconangle.com/2018/11/01/open-source-cloud-tooling-maker-hashicorp-bags-100m-round-1-9b-valuation/)
+7.	[System76 Thelio computer is open source, Linux-powered, and made in the USA](https://betanews.com/2018/11/01/system76-thelio-open-source-linux-usa/)
+8.	[More Than Half of Cloud Developers Contribute to Open Source: DigitalOcean Survey](https://opensourceforu.com/2018/10/more-than-half-of-cloud-developers-contribute-to-open-source-survey/)
+9.	[OVH: the open source public cloud alternative from Paris](https://www.computerdealernews.com/news/ovh-the-open-source-public-cloud-alternative-from-paris/62485)
+10.	[Facebook open-sources new suite of Linux kernel components and tools](https://code.fb.com/open-source/linux/)
+
+
 ## 2018-10-26
 1.	[Microsoft revamps machine learning tools for Apache Spark](https://www.infoworld.com/article/3315666/machine-learning/microsoft-revamps-machine-learning-tools-for-apache-spark.html)
 2.	[Mirantis Rides Kubernetes to Supercharge Open Source Edge Ecosystem](https://www.sdxcentral.com/articles/news/mirantis-rides-kubernetes-to-charge-open-source-edge-ecosystem/2018/10/)
