@@ -8,6 +8,19 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2018-11-16
+1.	[Linux Foundation Launches Open Source Ceph Storage Group](https://www.sdxcentral.com/articles/news/linux-foundation-launches-open-source-ceph-storage-group/2018/11/)
+2.	[Google open-sources AI that can distinguish between voices with 92% accuracy](https://venturebeat.com/2018/11/12/google-open-sources-ai-that-can-distinguish-between-voices-with-92-percent-accuracy/)
+3.	[Amazon announces Corretto, a open source, production-ready distribution of OpenJDK backed by AWS](https://hub.packtpub.com/amazon-announces-corretto-a-open-source-production-ready-distribution-of-openjdk-backed-by-aws/)
+4.	[The Role of Open Source Software and Artificial Intelligence in Defence Systems](https://opensourceforu.com/2018/11/the-role-of-open-source-software-and-artificial-intelligence-in-defence-systems/)
+5.	[FHIR Server for Azure: An open source project for cloud-based health solutions](https://cloudblogs.microsoft.com/industry-blog/industry/health/fhir-server-for-azure-an-open-source-project-for-cloud-based-health-solutions/)
+6.	[OpenStack Foundation Board Expands Mission to Host New Open Source Projects as Part of Open Infrastructure Transformation](https://www.businesswire.com/news/home/20181113005317/en/OpenStack-Foundation-Board-Expands-Mission-Host-New)
+7.	[Meet TiDB: An open source NewSQL database](https://opensource.com/article/18/11/key-differences-between-mysql-and-tidb?sc_cid=70160000001273HAAQ)
+8.	[Uber joins Linux Foundation, cementing commitment to open-source tools](https://techcrunch.com/2018/11/15/uber-joins-linux-foundation-cementing-commitment-to-open-source-tools/)
+9.	[Google Chrome Labs releases open source, browser-based image optimization tool, Squoosh](https://9to5google.com/2018/11/12/google-chrome-labs-releases-open-source-browser-based-image-optimization-tool-squoosh/)
+10.	[ActiveState Creates Open Source Language Automation Category](https://markets.businessinsider.com/news/stocks/activestate-creates-open-source-language-automation-category-1027730467)
+
+
 ## 2018-11-09
 1.	[World Wide Web inventor wants new 'contract' to make web safe](https://cio.economictimes.indiatimes.com/news/internet/world-wide-web-inventor-wants-new-contract-to-make-web-safe/66532664)
 2.	[Why VMware Is Acquiring Heptio and Going All In for Kubernetes](http://www.eweek.com/cloud/why-vmware-is-acquiring-heptio-and-going-all-in-for-kubernetes)
