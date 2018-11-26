@@ -8,6 +8,18 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2018-11-23
+1.	[Google’s Move To Open Source BERT May Change NLP Forever](https://www.analyticsindiamag.com/googles-move-to-open-source-bert-may-change-nlp-forever/)
+2.	[Sorry, Linux. Kubernetes is now the OS that matters](https://www.infoworld.com/article/3322120/kubernetes/sorry-linux-kubernetes-is-now-the-os-that-matters.html)
+3.	[AWS, Oracle trash talk spotlights cloud database migration](https://searchaws.techtarget.com/news/252452571/AWS-Oracle-trash-talk-spotlights-cloud-database-migration?)
+4.	[OpenStack: Beyond the cloud](https://www.zdnet.com/article/openstack-beyond-the-cloud/)
+5.	[Drone.io Cloud buzzes open source projects with free CI service](https://devclass.com/2018/11/22/drone-io-buzzes-open-source-projects-service/)
+6.	[Introducing SuperGloo: The Service Mesh Orchestration Platform](https://medium.com/solo-io/https-medium-com-solo-io-supergloo-ff2aae1fb96f)
+7.	[New – Predictive Scaling for EC2, Powered by Machine Learning](https://aws.amazon.com/blogs/aws/new-predictive-scaling-for-ec2-powered-by-machine-learning/)
+8.	[Xanadu Unveils Open Source ML Software for Quantum Computers](https://opensourceforu.com/2018/11/xanadu-unveils-open-source-ml-software-for-quantum-computers/)
+9.	[Machine learning lessons: 5 companies share their mistakes](https://www.infoworld.com/article/3319665/machine-learning/machine-learning-lessons-5-companies-share-their-mistakes.html)
+10.	[CNCF Survey: Cloud Usage in Asia Has Grown 135% Since March 2018](https://www.cncf.io/blog/2018/11/13/cncf-survey-china-november-2018/)
+
 ## 2018-11-16
 1.	[Linux Foundation Launches Open Source Ceph Storage Group](https://www.sdxcentral.com/articles/news/linux-foundation-launches-open-source-ceph-storage-group/2018/11/)
 2.	[Google open-sources AI that can distinguish between voices with 92% accuracy](https://venturebeat.com/2018/11/12/google-open-sources-ai-that-can-distinguish-between-voices-with-92-percent-accuracy/)
@@ -180,7 +192,6 @@ This aggregation is for just information/education purpose only.
 
 
 ## 2018-08-17
-
 1.	[Tesla - Elon Musk Plans To Open Source Tesla Software Code](https://fossbytes.com/elon-musk-tesla-open-source-code/)
 2.	[TIBCO Flogo Edge - A Lightweight Runtime for Edge Computing released](https://thenewstack.io/project-flogo-a-lightweight-runtime-for-edge-computing/)
 3.	[Oracle - Open sources Graphpipe to standardize machine learning model deployment](https://techcrunch.com/2018/08/15/oracle-open-sources-graphpipe-to-standardize-machine-learning-model-deployment/)
@@ -191,5 +202,393 @@ This aggregation is for just information/education purpose only.
 8.	[Security scan Github - Sonatype offers developers free tool on GitHub](https://techcrunch.com/2018/08/14/sonatype-now-offers-free-open-source-vulnerability-scans-to-github-users/)
 9.	[TSS ESAPI HW security  - Infineon enables open source HW Security](https://www.electronicsweekly.com/news/business/infineon-enables-open-source-tss-esapi-layer-2018-08/)
 10.	[Hollywood Goes Open Source - Collaborates With Linux Foundation – Establish Academy Software Foundation(ASF)](https://fossbytes.com/hollywood-open-source-linux-foundation/)
+
+## 2017-08-10
+1.	Amazon joins Kubernetes-focused CNCF industry group
+2.	IBM CIO leaves for AWS – IBM's next-generation cloud platform
+3.	Microsoft Unveils Coco: An Open-Source Blockchain Framework
+4.	Chalice 1.0.0 went GA last week. Chalice is an opensource  serverless  microframework with a variety of AWS resources
+5.	3 open source projects that make Kubernetes easier
+6.	IBM Cloud turns TLS 1.0 off and then turns it on again
+7.	In The Era Of Artificial Intelligence, GPUs Are The New CPUs
+8.	AN OPEN-SOURCE TOOLKIT TO HELP PATCH CELL NETWORKS' CRITICAL FLAW
+9.	All the open source code in GitHub now shared within BigQuery: Analyze all the code!
+10.	Google releases TensorFlow Serving library
+
+## 2017-08-03
+1.	Machine learning comes to your browser via JavaScript
+2.	Manifesto: A New Open Source Container Metadata Tool from Aqua Security
+3.	Pivotal’s New Open Source Web-Based Administration UI for MySQL for Pivotal Cloud Foundry
+4.	From kaftans to Kubernetes - how open source took over the world
+5.	GitHub developer starts petition to open source Adobe Flash
+6.	Visualizing Convolutional Neural Networks with Open-source Picasso
+7.	Open Source AI Solutions Evolve through Community Development
+8.	OpenSource FLARE VM: The Windows Malware Analysis Distribution
+9.	JetBrains Web UI components open-sourced
+10.	GigaSpaces Spins Off Cloudify, Its Open Source Cloud Orchestration Unit
+
+## 2017-07-27
+1.	Microsoft previews Azure Container Instances – with per-second billing
+2.	Apple Launches Open-source, Dedicated Machine Learning Journal
+3.	How Microsoft Deployed Kubernetes to Speed Testing of SQL Server 2017 on Linux
+4.	Announcing Ghost 1.0 - next great open source blogging platform.
+5.	FLASH will be killed in 2020 – will it opensource?
+6.	Malware in my Docker container? It's more common than you think
+7.	Juniper Developing Open-Source Intent-Based Networking Approach of Its Own
+8.	Millions of IoT devices hit by 'Devil's Ivy' bug in open source code library
+9.	Data is eating the software that is eating the world
+10.	Another opinionated article on how to start contributing to a large open source software repository
+
+## 2017-07-20
+1.	Yandex open sources CatBoost machine learning library
+2.	Google Facets: An Open Source Visualization Tool for Machine Learning Training Data
+3.	The Enterprise Ethereum Alliance Just Got A Whole Lot Stronger
+4.	Microsoft Azure Stack has leg up on VMware Cloud on AWS
+5.	OCI container standards arrive at last
+6.	IEEE creating standards to regulate AI – to save us!
+7.	Deutsche Telekom G.fast demo pushes G.Fast faster, further
+8.	Nvidia's new TensorRT speeds machine learning predictions
+9.	Mozilla wants to use your voice to help developers create new apps – will be open sourced
+10.	Google doesn't just believe in, we participate to create & support LOTS of it. 15000 projects in 2016.
+
+## 2017-07-13
+1.	How Google Turned Open Source Into A Key Differentiator For Its Cloud Platform
+2.	Creative AI looks to take machines into uncharted territory
+3.	Google acquires Halli Labs, a Bengaluru-based AI company 
+4.	Microsoft aim to Inspire with new app integration and partner program
+5.	Open-source world resurrects Oracle-free Solaris project OmniOS
+6.	Cisco gobbles up security cloud upstart Observable Networks
+7.	LinkedIn's New Open Source Apps Should Get Quick DevOps Uptake
+8.	Could Open-Source Code Make Our Y2K Fears Finally Come True?
+9.	Uber Unveils New Privacy Tool That Protects Individual User Data
+10.	Why Modern Open Source Projects Fail
+
+## 2017-07-06
+1.	Microsoft previews Azure Container Instances – with per-second billing
+2.	Apple Launches Open-source, Dedicated Machine Learning Journal
+3.	How Microsoft Deployed Kubernetes to Speed Testing of SQL Server 2017 on Linux
+4.	Announcing Ghost 1.0 - next great open source blogging platform.
+5.	FLASH will be killed in 2020 – will it opensource?
+6.	Malware in my Docker container? It's more common than you think
+7.	Juniper Developing Open-Source Intent-Based Networking Approach of Its Own
+8.	Millions of IoT devices hit by 'Devil's Ivy' bug in open source code library
+9.	Data is eating the software that is eating the world
+10.	Another opinionated article on how to start contributing to a large open source software repository
+
+## 2017-06-30
+1.	Microsoft Trims Nano Server for Container Work
+2.	GitHub declares every Friday open source day
+3.	Cisco Live 2017: A tale of shifting skills and increased security
+4.	Three New Open Source Container Utilities
+5.	Newly Google-emboldened Nutanix aims for data centre dominance
+6.	US army spin-off GPU database bags $50m Series A funding
+7.	MBRFilter — Open Source Tool to Protect Against 'Master Boot Record' Malware
+8.	ARM talks up fresh CPUs and a GPU, all tuned for AI
+9.	Why Open Source will Overtake Proprietary Software by 2020
+10.	AT&T Passive Optical Network Trial to Test Open Source Software
+
+## 2017-06-23
+1.	Alibaba Edges in as Microsoft, Amazon Grow Stronger – Gartner IaaS magic Quadrant 2017
+2.	OpenDev Conference - How Microsoft Is Shifting Focus to Open Source
+3.	sonar – JS Foundation Welcomes Newest Project
+4.	Amazon adds Hyper-V file support to its storage gateway – to take on Azure
+5.	Alibaba joins key open-source cloud computing foundation CNCF
+6.	McKinsey AI research finds slender user adoption outside tech
+7.	Facebook open sources its IT management tool for distributing Adobe’s Creative Cloud tools to employees
+8.	Red Hat Unveils Open Source Hyper-Converged Infrastructure Offering
+9.	'One machine learning model to rule them all': Google open-sources tools for simpler AI
+10.	Half of Third-Party Software Components Are Outdated
+
+## 2017-06-16
+1.	Oath makes first Yahoo open source contribution with Bullet
+2.	Facebook releases open source chatbot code
+3.	Microsoft Ventures: A look at Redmond's latest 13 investments
+4.	FPGAs and the New Era of Cloud-based ‘Hardware Microservices’
+5.	Microsoft joins the open source Cloud Foundry Foundation
+6.	New open-source website features blueprints for lab-on-a-chip devices
+7.	Supercharge your Computer Vision models with the TensorFlow Object Detection API
+8.	Palo Alto Networks set to drive new era in security innovation
+9.	How do attackers use Microsoft Application Verifier for hijacking?
+10.	Hortonworks feathers nest with IBM deal
+
+## 2017-06-09
+1.	Facebook Takes TIP in New Direction as Investors Doubt Open Source Payback
+2.	Synopsys Expands ARC Processors and Open Source Projects to Accelerate Development of Embedded Systems
+3.	FireEye cloud based platforms - Cyberhumans as a Service to detect threat
+4.	Oracle: We Will 'Earn Our Spot' In Kubernetes Open Source Community
+5.	Open Source Survey Exposes Community Troubles
+6.	Facebook is planning to move WhatsApp off IBM's public cloud, to their cloud.
+7.	Microsoft Azure adds OpenBSD support
+8.	ColoredCoins Goes Blockchain Agnostic, Will Open-Source its Tools
+9.	Ocado Technology’s Kubermesh Open Source Package for Smart Factories
+10.	AI Will Be Able to Beat Us at Everything by 2060, Say Experts 
+
+## 2017-06-02
+1.	Microsoft releases open-source toolkit to accelerate deep learning
+2.	Google reportedly launched an AI investment program
+3.	Cloud spending to catch data center, according to Meeker's 2017 trends report
+4.	Andy Rubin says Essential’s Ambient OS will be open source, just like Android
+5.	Toyota Camry to Run on Open-source Software, New Approach to In-car Tech
+6.	Oracle's next big business is selling your info
+7.	GitHub Changes Integrations, GraphQL API - Dice Insights
+8.	What Blockchain and Open Source Software Share in Common
+9.	The Open Source K-Type Keyboard Makes A Fantastic First Impression
+10.	WHAT WENT WRONG IN BRITISH AIRWAYS DATACENTER IN MAY 2017?
+
+## 2017-05-26
+1.	Google, IBM and Lyft announced the alpha release of Istio: microservices Tool
+2.	Codenvy Acquisition: Red Hat can’t resist Che – cloud developr tools
+3.	Kubernetes foundation takes on container networking CNI
+4.	Microsoft's Opne Source P language is aimed at where cloud, AI, and IoT meet
+5.	Yahoo fuels open source speedway with Daytona, looks to automate application analysis
+6.	Apple reportedly building Artificial Intelligence chip for iPhone
+7.	Microsoft To Buy Security Analytics Company Hexadite For $100M
+8.	Google’s New Home for All Things Open Source Runs Deep
+9.	Machine learning analytics get a boost from GPU Data Frame project - GPU Open Analytics Initiative (GOAI)
+10.	Launching Open Hardware Satellites
+
+## 2017-05-19
+1.	THE 10 BIGGEST ANNOUNCEMENTS FROM GOOGLE I/O 2017 
+2.	Why open source AI voice assistants pose little threat to Amazon Alexa and Apple's Siri
+3.	Sprint (S) to Launch C3PO Open Sources NFV/SDN Developed by Intel
+4.	VMware acquires app analytics start-up Apteligent in UX push
+5.	TJBot is an open source way to create your own cardboard AI robo-pal powered by IBM Watson.
+6.	Open-Source GPUs Could Speed Deep Learning, Big Data Analytics
+7.	Microsoft makes another open-source move with machine learning tech
+8.	Open Source JULIA LANGUAGE now availABle in RASPBERRY PI
+9.	Picasso: A free open-source visualizer for Convolutional Neural Networks
+10.	Helios4 Personal Cloud - the World's 1st Open Source NAS
+
+## 2017-05-12
+1.	Microsoft Build 2017: the biggest highlights and all the news – AI, cloud, devices, Windows, etc.
+2.	IT pros ponder the future of OpenStack and Kubernetes – which one will win?
+3.	OSCON - Highlights from the O'Reilly OSCON Conference in Austin 2017
+4.	Amazon Dominates the Cloud as AWS Revenue Soars in Q1 + AWS stepping up open source contribution…
+5.	SNAS.io, Formerly OpenBMP Project, Joins The Linux Foundation’s Open Source Networking Umbrella
+6.	Cisco adds AI to Spark collaboration platform with MindMeld buy
+7.	Google IO 2017: dates, schedule and rumors for Google's big developer conference – Project treble a new version of Android.
+8.	H2O.AI Brings Lightning-Fast Machine Learning to Enterprises with NVIDIA GPU Acceleration
+9.	MapD's GPU-powered database is now open source
+10.	Is Linux kernel design outdated?
+
+## 2017-05-05
+1.	Top takeaways from Red Hat's OpenShift, AWS deal, News announcement, etc.
+2.	Cisco buys SDN business Viptela
+3.	Open Source ModelDB aims to keep track of machine learning modeling process
+4.	Open-source chip mimics Linux's path to take on closed x86 and ARM CPUs
+5.	Airbnb acquired its React Native partner Deco Software, Deco IDE goes open source
+6.	Google AI Releases DIY Open Source Raspberry Pi Voice Kit Hardware
+7.	Canonical and NetApp enters in collaboration to deliver open cloud solutions
+8.	Verizon Open Source White Box ‘Coming Soon,’ VP Says
+9.	FLYING THE FIRST OPEN SOURCE SATELLITE
+10.	Founded by former Google and Apple engineers, DeepMap is mapping the future for self-driving cars
+
+## 2017-04-28
+1.	Huawei develops ARM-Android open source platform for Linaro
+2.	EdgeX brings open source interoperability to IoT
+3.	Project Halium Could Open the Floodgates for Non-Android Custom ROMs
+4.	Airbnb’s new open source library lets you design with React and render to Sketch
+5.	Oracle draws curtains on OmniOS
+6.	German states adopt open source-based security checks system
+7.	An Aerospace Coder Drags a Stodgy Industry Toward Open Source
+8.	Herolens released our first open-source reactjs component
+9.	HPE discontinues its OpenSDN networking product suite
+10.	New Open Source Licence For Seeds
+
+## 2017-04-21
+1.	Docker Launches LinuxKit and the Moby Project for Building Containerized Infrastructure
+2.	Announcing Longhorn from Rancher: an open source project for microservices-based distributed block storage
+3.	Mirantis launches its new OpenStack and Kubernetes cloud platform – cut  OpenStack support in September 2019
+4.	Achievement open source DC/OS’s first birthday, and we have plenty to celebrate!
+5.	Talking fiber, drones and open-source hardware with Facebook’s Yael Maguire
+6.	Facebook expands its open-source portfolio with new UI framework for Android and Caffe2 deep learning framework
+7.	Baidu to Open Source Its Self-Driving Technology
+8.	Intel Open Sources All Lustre FS – Parallel storage
+9.	Dell EMC Releases Open Source Storage Updates Designed for Security and Easier Consumption
+10.	Just Released - New Survey Result 2017 - OpenStack community’s opinions, adoption and technology choices
+
+## 2017-04-14
+1.	Microsoft makes acquisition Dies to help it catch Amazon's cloud
+2.	PAX: Android patent protection consortium formed
+3.	Microsoft Azure launches 3 new tools to speed migration to hybrid cloud and optimize deployment
+4.	JenKin Blue Ocean User Experience Released  
+5.	Kubernetes is king in container survey
+6.	Sprint,  the latest companies to join the Open Network Foundation’s ONF CORD
+7.	Cloud Appeal of Google, Microsoft To Enterprise Improves
+8.	A10 adapts to companies using open source load balancer
+9.	Free at last! D language's official compiler is open source
+10.	Linux Foundation offers Hadoop training
+
+## 2017-04-07
+1.	Alibaba joins Microsoft’s open source networking software community
+2.	Google DeepMind open sources Sonnet so you can build neural networks in TensorFlow even quicker
+3.	Google Cloud to host open source Elasticsearch
+4.	IBM will launch Nvidia Tesla P100 GPUs in its cloud later this month
+5.	Tracking the explosive growth of open-source software
+6.	Adobe partners with Google to launch new open-source pan-Chinese-Japanese-Korean font
+7.	Open source routing project (Free Range Routing (FRR)) gets a vital technology infusion
+8.	AT&T engineers flip switch on multisupplier open source white box - ultimately could lead to the network of the future
+9.	Microsoft ReactXP cross platform development - Open sourced 
+10.	Uber’s open source data visualization tool now goes beyond maps
+
+## 2017-03-31
+1.	Google Brings All Its Open Source Projects Under One Roof
+2.	MIT-Stanford project uses LLVM to break big data bottlenecks – Speedup spark & Tensorflow
+3.	Contanerd from Docker and rkt from CoreOS now part of CNCF
+4.	Open source project uses Docker swam for serverless computing – FaaS by Alex Ellis
+5.	Researchers steal data from CPU cache shared by two VMs
+6.	Linux kernel holds key for advanced container networking - open source Cilium project
+7.	Cloud Foundry launches its developer certification program
+8.	Microsoft Closes Its Open Source Code Hosting Service CodePlex, Asks Devs To Move To GitHub
+9.	Cloudera Is the Next Enterprise Tech IPO Based on Open-Source Software
+10.	Open-source developers targeted in sophisticated malware attack - their code on GitHub
+
+## 2017-03-24
+1.	Azure Service Fabric takes first tentative steps toward open source
+2.	IBM's cloud dreams soar on the wings of AI, open source - unveils Blockchain as a Service based on open source Hyperledger
+3.	How Open-Source Robotics Hardware Is Accelerating Research and Innovation
+4.	Mashape, Creator of Top Open Source API Management Tool Kong, Raises $18M
+5.	Hyperledger Bond Trading Platform Goes Open Source
+6.	PENTAGON LAUNCHES OPEN-SOURCE EXPERIMENT
+7.	Samsung has a plan to turn Google into a dumb pipe
+8.	Oracle Unveils Asset Performance Management Tools for Utilities in cloud
+9.	Bitcoin Core Roadmap Unveils Signature Optimization Plan
+10.	Strata+Hadoop World postmortem: Making it real (time)
+
+## 2017-03-17
+1.	Docker donates core container code to DevOps world's DMZ
+2.	Google releases open source 'Guetzli' JPEG encoder
+3.	AirSim: A Simulator to Help AI Research for Use in Drones
+4.	How to Maintain Open Source Compliance After Code Changes
+5.	GitLab acquires software chat startup Gitter, will open-source the code
+6.	A general-purpose encoder-decoder framework for Tensorflow – just released
+7.	The open-source BeagleBone Blue board can be the brain inside robots and drones
+8.	Barefoot Networks' Ethernet switch chip wins Network Innovation Award – Revolution in SDN.
+9.	DARPA's latest idea could put today's Turing-era computers at risk - Lifelong Learning Machine (L2M)
+10.	What Satya Nadella did at Microsoft – (From Steve Ballmer called ‘open source is cancer’ to Nadella says ‘Microsoft loves Linux’)
+
+## 2017-03-10
+1.	Google Next 2017 Update: Lots of things happening at Google…
+2.	IBM Unveils Quantum Computing Initiative for Business and Research
+3.	Teradata debuts open-source Kylo to Quickly Build, manage data pipelines
+4.	Salesforce and IBM Infuse CRM with Artificial Intelligence
+5.	Microsoft: Can't wait for ARM to power MOST of our cloud data centers! 
+6.	AMD Collaborates with Microsoft to Advance Open Source Cloud Hardware
+7.	Is Amazon's Growth Running A Little Out Of Control?
+8.	Pivotal hops aboard Kubernetes container orchestration tools bandwagon
+9.	Galactic Exchange Announces DataEnchilada(TM) -- Industry's First Big Data Ingestion Tool Powered by Artificial Intelligence
+10.	Announcing A New Open-Source Privacy Standard For The Internet Of Things
+
+## 2017-03-03
+1.	Docker looks big biz in the eye: It's not you, it's EE – Enterprise Edition
+2.	End-to-End Email Encryption: Google Pushes Latest Project to Open Source
+3.	As the Software Supply Chain Shifts, Enterprise Open Source Programs Ramp Up
+4.	The world’s first app-enabled, reconfigurable open source production-ready mobile base station
+5.	Google Cloud launches VM instances with 64 virtual CPU cores
+6.	CNCF ADDED gRPC & CoreDNS to its fold
+7.	Sorry, socialists: Open source is a capitalist's game
+8.	Open Source Block Chain Strong Momentum in 2017 with 11 New Members
+9.	Gartner Magic Quadrant for Data Science 2017 – IBM leading
+10.	Facebook  Released A New Open Source Library For Clustering Big Data
+
+## 2017-02-24
+1.	Netflix Releases Open Source Security Tool "Stethoscope"
+2.	Largest network merger in open source history creates new ONAP  (ECOMP + Open-O)
+3.	Open Source Risks & Rewards, GPL Declines, & NPR Visits Black Duck
+4.	Google Upspin Secure File-Sharing Released to Open Source
+5.	Google Launches Troll-Fighting Tool Powered by Machine Learning
+6.	Google, Dutch institute crack key internet security standard
+7.	The Code for This Bitcoin Node Scanner is Now Open Source
+8.	RightScale just published its annual report on the state of the cloud
+9.	Dropbox delivers open source automated cyber security with new chatbot
+10.	An AI Hedge Fund Created a New Currency to Make Wall Street Work Like Open Source
+
+## 2017-02-17
+1.	Linux Foundation releases business open source basics ebook
+2.	Scope: A Serverless Project to Manage Open Source Projects
+3.	Yahoo open-sources TensorFlowOnSpark, new distributed deep learning framework
+4.	Microsoft Calls for Digital Geneva Convention
+5.	Microsoft open sources a simulator for training drones, self-driving cars and more
+6.	Google's latest project lets you play piano alongside an AI
+7.	IBM and Indiegogo are bringing Watson's smarts to the masses
+8.	Cloud industry body sets up new data protection code
+9.	Oracle hatches 'incubator' OpenJDK APIs idea
+10.	A new open source dataset links human motion and language
+
+## 2017-02-10
+1.	Microsoft To Defend Cloud-Computing Customers from Patent Trolls
+2.	CNCF Purchases RethinkDB and moved it to Linux Foundation
+3.	Google Unveils Cloud Search for Queries across G Suite
+4.	Open Source Azure IoT Hub Connector to Cassandra now available
+5.	Nokia’s New Cloud Packet Core is More Than a Virtual EPC
+6.	Udacity open sources its self-driving car simulator for anyone to use
+7.	Telerik UI for UWP Now Open Source
+8.	Microsoft open-sources Graph Engine
+9.	What’s next for open-source Spark?
+10.	Hazelcast Release Jet, Open-Source Stream Processing Engine
+
+## 2017-02-03
+1.	Airbnb - StreamAlert: Opensourced Real-time Data Analysis and Alerting
+2.	The Linux Foundation Announces the Formation of a New Project ECOMP
+3.	Amazon's deep learning darling MXNet hits Apache Incubator
+4.	Facebook opensourced GraphQL Language Service, an interface for building @GraphQL IDE support
+5.	Google will soon open-source Google Earth Enterprise
+6.	Chrome on iOS is now open source
+7.	AWS Intros IoT Button for the Enterprise
+8.	The 20 Coolest Cloud Platform And Development Vendors Of The 2017 Cloud 100
+9.	Airbnb open source introduces Lottie, a tool to help developers add animations to apps
+10.	Humans are going down -- AI Decisively Defeats Human Poker Players !!
+
+## 2017-01-27
+1.	2016 Open Source Yearbook
+2.	Technology of the Year 2017: The best hardware, software, and cloud services
+3.	Platform9’s Fission Puts an Open Source Spin on Serverless
+4.	How Kubernetes Came To Lead The Container Management Pack
+5.	Oracle's Top 6 Predictions for Developers in 2017
+6.	Facebook, Cumulus take on Cisco with 128 ports of open networking iron
+7.	Kinetica Uses GPUs for Advanced In-Database Analytics
+8.	MalDuino is an arduino-powered USB device will be made open source 
+9.	Open source projects financially in bad shape generally 
+10.	From Cisco - swooped in and nabbed AppDynamics at the last minute
+11.	AI’s open source model is closed, inadequate, and outdated
+
+## 2017-01-20
+1.	Microsoft to Acquire Deep Learning Startup Maluuba
+2.	Oracle trumpets cloud applications progress at start of 2017
+3.	Intel's Cloud-Friendly Clear Linux Hits Microsoft Azure
+4.	Google's VR art app is open source and ready to get weird
+5.	Facebook brings GPU-powered machine learning to Python
+6.	Yahoo adds Screwdriver to devops toolbelt
+7.	Microsoft's support could be first shot fired in the Container Wars – docker vs. Kubernetes
+8.	Amdocs, Linux Foundation tie-up to accelerate OpenECOMP adoption in open source
+9.	French car manufacturer’s open source car uses two Raspberry Pis
+10.	5 Ways to Be Successful with Open-Source Software: Hadoop Creator Doug Cutting’s Advice for 2017
+
+## 2017-01-13
+1.	Quantum Computing Is Real, and D-Wave Just Open-Sourced It
+2.	Gartner App Platform Report Calls Java EE Obsolete
+3.	Google, IBM back new open source graph database project, JanusGraph
+4.	Continuous Deployment to Google Cloud Platform with Drone
+5.	Eagle Joins a Slew of Big Data Projects Open Sourced by Apache
+6.	SiFive rolls out fully open source chip for IoT devices
+7.	Google’s Cloud Platform gets a new key management service
+8.	7 DevOps trends to watch in 2017 (serverless & Kubernetes will be huge)
+9.	Deutsche Telekom leads $4.1 million round for Internet of Things startup Roambee
+10.	List of interesting open source projects in С, C++, Clojure, Golang, JavaScript, Python, R 
+
+## 2017-01-06
+1.	Microsoft launches a new cloud platform for connected cars
+2.	Google betting big on artificial intelligence, machine learning: Sundar Pichai
+3.	IBM predicts 5 life-changing innovations in the next 5 years
+4.	Kubernetes tool saves eBay from its OpenStack woes
+5.	Google's big Spanner in the works for price war against AWS
+6.	Google's Grumpy code makes Python Go
+7.	Open Source Pioneer Mark Shuttleworth Says Smart “Edge’ Devices Spawn New Business
+8.	Guide to the Open Cloud: The State of IaaS and PaaS
+9.	Ford and Toyota establish SmartDeviceLink IoT Consortium
+10.	SEVEN notable legal developments in open source in 2016
+
+##
+Welcome to the New Year 2017! Hope to see lots of actions in Open Source World......
 
 #__END
