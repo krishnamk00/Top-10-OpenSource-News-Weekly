@@ -13,7 +13,7 @@ This aggregation is for just information/education purpose only.
 2.	[The Amazon Effect on Open Source](https://thenewstack.io/the-amazon-effect-on-open-source/)
 3.	[RISC-V and Linux Foundations will partner to promote open source CPU](https://www.techrepublic.com/article/risc-v-and-linux-foundations-will-partner-to-promote-open-source-cpu/)
 4.	[Red Hat buys hybrid-cloud, data-storage company NooBaa](https://www.zdnet.com/article/red-hat-buys-hybrid-cloud-data-storage-company-noobaa/)
-5.	[AWS Announcing the Firecracker Open Source Technology: Secure and Fast microVM for Serverless Computing(https://aws.amazon.com/blogs/opensource/firecracker-open-source-secure-fast-microvm-serverless/)
+5.	[AWS Announcing the Firecracker Open Source Technology: Secure and Fast microVM for Serverless Computing](https://aws.amazon.com/blogs/opensource/firecracker-open-source-secure-fast-microvm-serverless/)
 6.	[Cloud Native Computing Foundation Announces Envoy Graduation](https://www.cncf.io/announcement/2018/11/28/cncf-announces-envoy-graduation/)
 7.	[What to expect of Linux in 2019](https://www.networkworld.com/article/3323390/linux/what-to-expect-of-linux-in-2019.html)
 8.	[New fastMRI open source AI research tools from Facebook and NYU School of Medicine](https://code.fb.com/ai-research/fastmri/)
