@@ -8,6 +8,18 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2018-12-07
+1.	[Microsoft Connect 2018: Edge on top of Chromium; Open source ML ONNX Runtime + WPF + WinForms + WinUI XAML & more….](https://azure.microsoft.com/en-us/updates/connect/)
+2.	[Toyota security researcher develop a new Car hacking toolkit, which they will soon release/open-source on Github](https://github.com/pasta-auto?tab=repositories)
+3.	[IBM Dual 8-Bit Breakthroughs Bring AI to the Edge](https://www.ibm.com/blogs/research/2018/12/8-bit-breakthroughs-ai/)
+4.	[Linux Foundation’s OpenChain project welcomes Google, Facebook and Uber](https://techcrunch.com/2018/12/06/linux-foundations-openchain-project-welcomes-google-facebook-and-uber/)
+5.	[Google Integrates Istio Service Mesh into Kubernetes Service](https://thenewstack.io/google-integrates-istio-service-mesh-into-kubernetes-service/)
+6.	[DockerCon: Microsoft, Docker Announce Cloud Native Application Bundles Spec](http://www.eweek.com/cloud/microsoft-docker-announce-cloud-native-application-bundles-spec)
+7.	[Introducing Makisu: Uber’s Fast, Reliable Docker Image Builder for Apache Mesos and Kubernetes](https://eng.uber.com/makisu/)
+8.	[NVIDIA PhysX Goes Open Source](http://www.legitreviews.com/nvidia-physx-goes-open-source_209466)
+9.	[Upbound Makes Multicloud a Reality with Crossplane, An Open Source Multicloud Control Plane](https://www.globalbankingandfinance.com/upbound-makes-multicloud-a-reality-with-crossplane-an-open-source-multicloud-control-plane/)
+10.	[Global Open Source Services Market to Grow at a CAGR of +22% During Forecast Period 2018-2023](http://www.sbwire.com/press-releases/global-open-source-services-market-to-grow-at-a-cagr-of-22-during-forecast-period-2018-2023-1099088.htm)
+
 ## 2018-11-30
 1.	[Everything you need to know about AWS re:Invent 2018](https://www.cnet.com/news/everything-you-need-to-know-about-aws-reinvent-2018/)
 2.	[The Amazon Effect on Open Source](https://thenewstack.io/the-amazon-effect-on-open-source/)
