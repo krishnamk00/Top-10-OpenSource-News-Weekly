@@ -8,6 +8,18 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2018-12-14
+1.	[Kafka Confluent becomes latest open-source company to set new restrictions on usage](https://www.geekwire.com/2018/concerned-cloud-providers-confluent-becomes-latest-open-source-company-set-new-restrictions-usage/)
+2.	[Top Nine Vendor Highlights From KubeCon](https://www.forbes.com/sites/jasonbloomberg/2018/12/15/top-nine-vendor-highlights-from-kubecon/#37a4d32945e4)
+3.	[Alibaba, joins Open Invention Network patent protection group](https://www.zdnet.com/article/major-china-company-alibaba-joins-open-invention-network-patent-protection-group/)
+4.	[Facebook has released PyText, natural language processing framework](https://www.theregister.co.uk/2018/12/15/ai_roundup_141218/)
+5.	[Telcos enlist Google, Amazon to help protect Europe's data from Big Tech](https://www.theregister.co.uk/2018/12/13/european_telcos_enlist_google_amazon_to_save_europe_from_google_amazon/)
+6.	[The State of the Octoverse: new open source projects in 2018](https://blog.github.com/2018-12-13-new-open-source-projects/)
+7.	[Hyperledger Adds Alibaba Cloud, Citi, Deutsche Telekom, we.trade and 12 more New Members at Hyperledger Global Forum](https://www.hyperledger.org/announcements/2018/12/11/hyperledger-adds-alibaba-cloud-citi-deutsche-telekom-we-trade-and-12-more-new-members-at-hyperledger-global-forum)
+8.	[Linux will seem to be everywhere in 2019](https://www.networkworld.com/article/3323390/linux/what-to-expect-of-linux-in-2019.html
+9.	[How Java has stood the test of time](https://www.networkworld.com/article/3325334/linux/how-java-has-stood-the-test-of-time.html)
+10.	[CableLabs Open Source IoT Project Shoots for Scale](https://www.lightreading.com/iot/industrial-iot/cablelabs-open-source-iot-project-shoots-for-scale/d/d-id/748305)
+
 ## 2018-12-07
 1.	[Microsoft Connect 2018: Edge on top of Chromium; Open source ML ONNX Runtime + WPF + WinForms + WinUI XAML & more….](https://azure.microsoft.com/en-us/updates/connect/)
 2.	[Toyota security researcher develop a new Car hacking toolkit, which they will soon release/open-source on Github](https://github.com/pasta-auto?tab=repositories)
