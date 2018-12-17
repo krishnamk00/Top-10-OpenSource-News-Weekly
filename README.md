@@ -16,7 +16,7 @@ This aggregation is for just information/education purpose only.
 5.	[Telcos enlist Google, Amazon to help protect Europe's data from Big Tech](https://www.theregister.co.uk/2018/12/13/european_telcos_enlist_google_amazon_to_save_europe_from_google_amazon/)
 6.	[The State of the Octoverse: new open source projects in 2018](https://blog.github.com/2018-12-13-new-open-source-projects/)
 7.	[Hyperledger Adds Alibaba Cloud, Citi, Deutsche Telekom, we.trade and 12 more New Members at Hyperledger Global Forum](https://www.hyperledger.org/announcements/2018/12/11/hyperledger-adds-alibaba-cloud-citi-deutsche-telekom-we-trade-and-12-more-new-members-at-hyperledger-global-forum)
-8.	[Linux will seem to be everywhere in 2019](https://www.networkworld.com/article/3323390/linux/what-to-expect-of-linux-in-2019.html
+8.	[Linux will seem to be everywhere in 2019](https://www.networkworld.com/article/3323390/linux/what-to-expect-of-linux-in-2019.html)
 9.	[How Java has stood the test of time](https://www.networkworld.com/article/3325334/linux/how-java-has-stood-the-test-of-time.html)
 10.	[CableLabs Open Source IoT Project Shoots for Scale](https://www.lightreading.com/iot/industrial-iot/cablelabs-open-source-iot-project-shoots-for-scale/d/d-id/748305)
 
