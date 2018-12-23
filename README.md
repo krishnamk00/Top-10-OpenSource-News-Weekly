@@ -8,6 +8,18 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2018-12-21
+1.	[Facebook Open sourcing wav2letter++, the fastest state-of-the-art speech system, and flashlight, an ML library going native](https://code.fb.com/ai-research/wav2letter/)
+2.	[Open Source Next Stop for RISC-V](https://www.eetindia.co.in/news/article/18121904-open-source-next-stop-for-risc-v)
+3.	[Microsoft announces Project Mu, an open-source release of the UEFI core](https://betanews.com/2018/12/20/microsoft-project-mu/)
+4.	[Complete Report on Global Open Source Software Market 2018-2025:](https://www.whatech.com/market-research/it/541548-complete-report-on-global-open-source-software-market-2018-2025)
+5.	[Microsoft announced the open-source release of its streaming data analysis and query tool Trill](https://sdtimes.com/data/sd-times-open-source-project-of-the-week-trill/)
+6.	[Talend 2019 Predictions: Cloud, Data, AI/ML, Serverless and Open Source](http://vmblog.com/archive/2018/12/18/talend-2019-predictions-cloud-data-ai-ml-serverless-and-open-source.aspx#.XB95wFUzZhE)
+7.	[Thousands of Jenkins servers will let anonymous users become admins](https://www.zdnet.com/article/thousands-of-jenkins-servers-will-let-anonymous-users-become-admins/)
+8.	[Facebook Like, social sharing buttons on your website may land you in GDPR hot water if data goes a-wanderin'](https://www.theregister.co.uk/2018/12/20/eu_facebook_like_button_gdpr/)
+9.	[Red Hat offers support for open source Java on Windows](https://www.infoworld.com/article/3328493/java/red-hat-supporting-open-source-java-on-windows.html)
+10.	[Save Open Source, Save the World](https://medium.com/@johnmark/save-open-source-save-the-world-f2b0bf6ec630)
+
 ## 2018-12-14
 1.	[Kafka Confluent becomes latest open-source company to set new restrictions on usage](https://www.geekwire.com/2018/concerned-cloud-providers-confluent-becomes-latest-open-source-company-set-new-restrictions-usage/)
 2.	[Top Nine Vendor Highlights From KubeCon](https://www.forbes.com/sites/jasonbloomberg/2018/12/15/top-nine-vendor-highlights-from-kubecon/#37a4d32945e4)
