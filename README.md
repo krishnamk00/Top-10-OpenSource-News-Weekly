@@ -8,6 +8,18 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2018-12-28
+1.	[5 Modern Infrastructure Trends To Watch Out for in 2019](https://www.forbes.com/sites/janakirammsv/2018/12/20/5-modern-infrastructure-trends-to-watch-out-for-in-2019/#74abe3b417db)
+2.	[Tech Mahindra GAiA: The First Enterprise Edition Open Source AI Platform](https://www.dqindia.com/tech-mahindra-gaia-first-enterprise-edition-open-source-ai-platform/)
+3.	[China looks to private capital, open source technology for global tech game advantage](https://e27.co/china-looks-to-private-capital-open-source-technology-for-global-tech-game-advantage-20181224/)
+4.	[Microsoft Had Another Year Of Big Open-Source Surprises](https://www.phoronix.com/scan.php?page=news_item&px=Microsoft-2018-Surprises)
+5.	[The LibreRouter project aims to make mesh networks simple and affordable](https://techcrunch.com/2018/12/19/the-librerouter-project-aims-to-make-mesh-networks-simple-and-affordable/)
+6.	[The top 10 stories of 2018: BlockChain rises, open source reigns, trust wanes](https://www.computerworld.com/article/3330041/enterprise-applications/the-top-10-stories-of-2018-blockchain-rises-open-source-reigns-trust-wanes.html)
+7.	[The New Chip From NVIDIA Is All Set To Become The Brain Of Robots](https://www.forbes.com/sites/janakirammsv/2018/12/18/the-new-chip-from-nvidia-is-all-set-to-become-the-brain-of-robots/#4cdf0c04efb8)
+8.	[The future of Kubernetes is Virtual Machines](http://tech.paulcz.net/blog/future-of-kubernetes-is-virtual-machines/)
+9.	[Now, Global Community Can Avail Blackstone Resources Battery Codes for Free](https://opensourceforu.com/2018/12/now-global-community-can-avail-blackstone-resources-battery-codes-for-free/)
+10.	 [Symantec Cyber Security Predictions 2019: AI, 5G, IoT, Supply Chain and Privacy to dominate](https://techobserver.in/2018/11/29/symantec-cyber-security-predictions-2019-ai-5g-iot-supply-chain-and-privacy-to-dominate/)
+
 ## 2018-12-21
 1.	[Facebook Open sourcing wav2letter++, the fastest state-of-the-art speech system, and flashlight, an ML library going native](https://code.fb.com/ai-research/wav2letter/)
 2.	[Open Source Next Stop for RISC-V](https://www.eetindia.co.in/news/article/18121904-open-source-next-stop-for-risc-v)
