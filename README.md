@@ -8,6 +8,18 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2019-01-04
+1.	[FBT - An internationalization framework for JavaScript from FaceBook Released](https://facebookincubator.github.io/fbt/)
+2.	[VirtualBox 6.0 exports VMs to the cloud—but only Oracle Cloud](https://www.infoworld.com/article/3329777/virtualization/virtualbox-60-exports-vms-to-the-cloudbut-only-oracle-cloud.html)
+3.	[The top 5 Linux and open-source stories of 2018](https://www.zdnet.com/article/the-top-5-linux-and-open-source-stories-of-2018/)
+4.	[The solid state of storage in 2018: Latencies, they are dwindling. On-premises, the kit is glistening](https://www.theregister.co.uk/2018/12/24/the_state_of_storage_in_2018/)
+5.	[Microsoft Research offers open-source code demonstrating state-of-the-art results for 3D human pose estimation using integral regression](https://github.com/JimmySuen/integral-human-pose)
+6.	[The New Cloudera at New Year](http://vision.cloudera.com/the-new-cloudera/)
+7.	 [EU Offers Bug Bounties For 14 Open Source Projects](https://threatpost.com/eu-offers-bug-bounties-for-14-open-source-projects/140473/)
+8.	[Open Source Services Market: Clear Understanding of the Competitive Landscape and Key Product Segments](http://www.sbwire.com/press-releases/open-source-services-market/release-1114071.htm)
+9.	[Startups are taking on Amazon's cloud with a controversial new plan, but experts warn it could undermine the foundations of open source](https://www.businessinsider.com/amazon-web-services-open-source-licensing-undermine-2018-12)
+10.	[McAfee: IoT malware increasing alongside 480 threats per minute](https://www.iottechnews.com/news/2018/dec/20/mcafee-new-iot-malware-variants-minute/)
+
 ## 2018-12-28
 1.	[5 Modern Infrastructure Trends To Watch Out for in 2019](https://www.forbes.com/sites/janakirammsv/2018/12/20/5-modern-infrastructure-trends-to-watch-out-for-in-2019/#74abe3b417db)
 2.	[Tech Mahindra GAiA: The First Enterprise Edition Open Source AI Platform](https://www.dqindia.com/tech-mahindra-gaia-first-enterprise-edition-open-source-ai-platform/)
