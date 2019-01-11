@@ -8,6 +8,18 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+##2019-01-11
+1.	[AWS vs. open source: DocumentDB is the latest battlefront](https://www.infoworld.com/article/3331903/database/aws-vs-open-source-documentdb-is-the-latest-battlefront.html)
+2.	[Baidu Cloud launches its open-source edge computing platform](https://techcrunch.com/2019/01/09/baidu-cloud-launches-its-open-source-edge-computing-platform/)
+3.	[Fire(cracker) sale at AWS: Up to 50% lopped off container compute engine Fargate](https://www.theregister.co.uk/2019/01/08/amazon_fargate_price_cut/)
+4.	[NSA to release a free reverse engineering tool](https://www.zdnet.com/article/nsa-to-release-a-free-reverse-engineering-tool/?mid=1)
+5.	[AT&T and Nokia Accelerate the Deployment of RAN Open Source](https://about.att.com/story/2019/open_source.html?a9b6742d=77be4361)
+6.	[Scientists fit bees with sensors to create ‘living IoT platform’](https://www.iottechnews.com/news/2018/dec/13/scientists-fit-bees-sensors-create-iot-platform/)
+7.	[Intel looks to CES for smart city data and AI partnerships](https://www.iottechnews.com/news/2019/jan/09/intel-looks-ces-smart-city-data-and-ai-partnerships/)
+8.	[IBM Tops 2018 Patent List as A.I. and Quantum Computing Gain Prominence](http://fortune.com/2019/01/07/ibm-tops-2018-patent-list-as-ai-and-quantum-computing-gain-prominence/)
+9.	[Alibaba invests in open source tech with data Artisans Acquisition](https://ibsintelligence.com/ibs-journal/ibs-news/alibaba-data-artisans/)
+10.	[AMAZON ACQUIRES ISRAELI START-UP CLOUDENDURE](https://www.jpost.com/Israel-News/Confirmed-Amazon-acquires-Israeli-start-up-CloudEndure-576955)
+
 ## 2019-01-04
 1.	[FBT - An internationalization framework for JavaScript from FaceBook Released](https://facebookincubator.github.io/fbt/)
 2.	[VirtualBox 6.0 exports VMs to the cloud—but only Oracle Cloud](https://www.infoworld.com/article/3329777/virtualization/virtualbox-60-exports-vms-to-the-cloudbut-only-oracle-cloud.html)
