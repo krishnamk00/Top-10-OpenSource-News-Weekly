@@ -8,7 +8,7 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
-##2019-01-11
+## 2019-01-11
 1.	[AWS vs. open source: DocumentDB is the latest battlefront](https://www.infoworld.com/article/3331903/database/aws-vs-open-source-documentdb-is-the-latest-battlefront.html)
 2.	[Baidu Cloud launches its open-source edge computing platform](https://techcrunch.com/2019/01/09/baidu-cloud-launches-its-open-source-edge-computing-platform/)
 3.	[Fire(cracker) sale at AWS: Up to 50% lopped off container compute engine Fargate](https://www.theregister.co.uk/2019/01/08/amazon_fargate_price_cut/)
