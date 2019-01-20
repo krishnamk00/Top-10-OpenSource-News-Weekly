@@ -9,6 +9,18 @@ This aggregation is for just information/education purpose only.
 ## News Links:
 
 ## 2019-01-11
+1.	[Introducing Feast: an open source feature store for machine learning](https://cloud.google.com/blog/products/ai-machine-learning/introducing-feast-an-open-source-feature-store-for-machine-learning)
+2.	[MongoDB "open-source" Server Side Public License rejected](https://www.zdnet.com/article/mongodb-open-source-server-side-public-license-rejected/)
+3.	[NVIDIA Opens Robotics Research Lab in Seattle](https://news.developer.nvidia.com/nvidia-opens-robotics-research-lab-in-seattle/)
+4.	[Attackers Leverage Open Source in New BYOB Attack](https://www.infosecurity-magazine.com/news/attackers-leverage-open-source-in/)
+5.	[Oracle launches Java Card 3.1 to boost security for IoT devices at the edge](https://www.iottechnews.com/news/2019/jan/18/oracle-launches-java-card-31-boost-security-iot-devices-edge/)
+6.	[Google remains the top open-source contributor to CNCF projects](https://techcrunch.com/2019/01/17/google-remains-the-top-open-source-contributor-to-cncf-projects/)
+7.	[Global Open Source Software market analysis to 2023 available in new report](https://www.whatech.com/market-research/it/551765-global-open-source-software-market-analysis-report-2018-by-size-share-growth-and-assessment-to-2023)
+8.	[Stanford Research Team Open-Sources Neural Network Verification Project](https://opensourceforu.com/2019/01/stanford-research-team-open-sources-neural-network-verification-project/)
+9.	[Ockam Releases Open Source Code of its IoT SDK](https://opensourceforu.com/2019/01/ockam-releases-open-source-code-of-its-iot-sdk/)
+10.	[Bitfury Enters Music Industry With Blockchain-Based Open Source Platform Launch](https://cointelegraph.com/news/bitfury-enters-music-industry-with-blockchain-based-open-source-platform-launch)
+
+## 2019-01-11
 1.	[AWS vs. open source: DocumentDB is the latest battlefront](https://www.infoworld.com/article/3331903/database/aws-vs-open-source-documentdb-is-the-latest-battlefront.html)
 2.	[Baidu Cloud launches its open-source edge computing platform](https://techcrunch.com/2019/01/09/baidu-cloud-launches-its-open-source-edge-computing-platform/)
 3.	[Fire(cracker) sale at AWS: Up to 50% lopped off container compute engine Fargate](https://www.theregister.co.uk/2019/01/08/amazon_fargate_price_cut/)
