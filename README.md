@@ -9,7 +9,7 @@ This aggregation is for just information/education purpose only.
 ## News Links:
 
 ## 2019-01-11
-1.	[Introducing Feast: an open source feature store for machine learning](https://cloud.google.com/blog/products/ai-machine-learning/introducing-feast-an-open-source-feature-store-for-machine-learning)
+1.	[Introducing Feast from Google: an open source feature store for machine learning](https://cloud.google.com/blog/products/ai-machine-learning/introducing-feast-an-open-source-feature-store-for-machine-learning)
 2.	[MongoDB "open-source" Server Side Public License rejected](https://www.zdnet.com/article/mongodb-open-source-server-side-public-license-rejected/)
 3.	[NVIDIA Opens Robotics Research Lab in Seattle](https://news.developer.nvidia.com/nvidia-opens-robotics-research-lab-in-seattle/)
 4.	[Attackers Leverage Open Source in New BYOB Attack](https://www.infosecurity-magazine.com/news/attackers-leverage-open-source-in/)
