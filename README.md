@@ -8,7 +8,20 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
-## 2019-01-11
+## 2019-01-25
+1.	[The Linux Foundation Launches New LF Edge to Establish a Unified Open Source Framework for the Edge](http://markets.financialcontent.com/stocks/news/read?GUID=37637007)
+2.	[AWS launches Neo-AI, an open-source tool for tuning ML models](https://techcrunch.com/2019/01/24/aws-launches-neo-ai-an-open-source-tool-for-tuning-ml-models/)
+3.	[Microsoft buys an open source database startup to give it an edge against Amazon Web Services](https://www.businessinsider.in/Microsoft-buys-an-open-source-database-startup-to-give-it-an-edge-against-Amazon-Web-Services/articleshow/67680618.cms)
+4.	[Google partners with Sony Pictures Imageworks to launch an open-source VFX render manager](https://techcrunch.com/2019/01/24/google-partners-with-sony-pictures-imageworks-to-launch-an-open-source-vfx-render-manager/)
+5.	[Open-source leader Confluent raises $125m on $2.5b valuation](https://techcrunch.com/2019/01/23/open-source-leader-confluent-raises-125m-on-2-5b-valuation/)
+6.	[Intel Introducing Nauta: A Distributed Deep Learning Platform for Kubernetes](https://www.intel.ai/introducing-nauta/#gs.mFh4zsng)
+7.	[Fossasia’s PSLab Puts an Open Source Electronics Lab in Your Pocket ](https://blog.hackster.io/fossasias-pslab-puts-an-open-source-electronics-lab-in-your-pocket-updated-d427c22bb552)
+8.	[CoreDNS - Kubernetes network toolkit graduates at last in CNCF](https://www.theregister.co.uk/2019/01/24/cloud_contender_coredns/)
+9.	[Attacks on open source distributed frameworks like Hadoop on the rise](https://www.theregister.co.uk/2019/01/24/hadoop_malware_attack/)
+10.	[The Linux Foundation Launches New LF Edge to Establish a Unified Open Source Framework for the Edge](https://techcrunch.com/2019/01/22/linux-foundation-launches-hyperledger-grid-to-provide-framework-for-supply-chain-projects/)
+
+
+## 2019-01-18
 1.	[Introducing Feast from Google: an open source feature store for machine learning](https://cloud.google.com/blog/products/ai-machine-learning/introducing-feast-an-open-source-feature-store-for-machine-learning)
 2.	[MongoDB "open-source" Server Side Public License rejected](https://www.zdnet.com/article/mongodb-open-source-server-side-public-license-rejected/)
 3.	[NVIDIA Opens Robotics Research Lab in Seattle](https://news.developer.nvidia.com/nvidia-opens-robotics-research-lab-in-seattle/)
