@@ -18,7 +18,7 @@ This aggregation is for just information/education purpose only.
 7.	[Fossasia’s PSLab Puts an Open Source Electronics Lab in Your Pocket ](https://blog.hackster.io/fossasias-pslab-puts-an-open-source-electronics-lab-in-your-pocket-updated-d427c22bb552)
 8.	[CoreDNS - Kubernetes network toolkit graduates at last in CNCF](https://www.theregister.co.uk/2019/01/24/cloud_contender_coredns/)
 9.	[Attacks on open source distributed frameworks like Hadoop on the rise](https://www.theregister.co.uk/2019/01/24/hadoop_malware_attack/)
-10.	[The Linux Foundation Launches New LF Edge to Establish a Unified Open Source Framework for the Edge](https://techcrunch.com/2019/01/22/linux-foundation-launches-hyperledger-grid-to-provide-framework-for-supply-chain-projects/)
+10.	[Linux Foundation launches Hyperledger Grid to provide framework for supply chain projects](https://techcrunch.com/2019/01/22/linux-foundation-launches-hyperledger-grid-to-provide-framework-for-supply-chain-projects/)
 
 
 ## 2019-01-18
