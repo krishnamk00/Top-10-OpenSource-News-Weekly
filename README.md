@@ -8,6 +8,18 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2019-02-01
+1.	[Presto Software Foundation Launches to Advance Presto Open Source Community](https://www.prweb.com/releases/presto_software_foundation_launches_to_advance_presto_open_source_community/prweb16070792.htm)
+2.	[Intel releases open-source denoiser Open Image Denoise](http://www.cgchannel.com/2019/01/intel-releases-open-source-denoiser-open-image-denoise/)
+3.	[Baidu is first Chinese member of US-led AI alliance](https://www.bgr.in/news/baidu-first-chinese-member-us-led-ai-alliance-partnership-on-ai-duer-os-terah-lyons/)
+4.	[Barclays Bank takes a crack at IBM's quantum computer](https://searchcio.techtarget.com/feature/Barclays-Bank-takes-a-crack-at-IBMs-quantum-computer?)
+5.	[OSI weighs in on open-source licensing conflict](https://sdtimes.com/os/osi-weighs-in-on-open-source-licensing-conflict/)
+6.	[Aztarna Released – the open-source scanning tool for vulnerable robots](https://securityaffairs.co/wordpress/80395/security/aztarna-scanning-vulnerable-robots.html)
+7.	[AWS continues open-source push with code behind SageMaker Neo](https://ctovision.com/amazon-web-services-continues-open-source-push-with-code-behind-sagemaker-neo/)
+8.	[Ubuntu Core OS for Internet of Things](https://www.zdnet.com/article/ubuntu-core-doubles-down-on-internet-of-things/)
+9.	[Semtech Announces Open-Source Software for LoRa-based Gateways](https://www.dataversity.net/semtech-announces-open-source-software-for-lora-based-gateways/)
+10.	[Casa Bitcoin Open Sources its Lightning Network Node Software](https://opensourceforu.com/2019/02/casa-open-sourcing-its-lightning-network-node-software/)
+
 ## 2019-01-25
 1.	[The Linux Foundation Launches New LF Edge to Establish a Unified Open Source Framework for the Edge](http://markets.financialcontent.com/stocks/news/read?GUID=37637007)
 2.	[AWS launches Neo-AI, an open-source tool for tuning ML models](https://techcrunch.com/2019/01/24/aws-launches-neo-ai-an-open-source-tool-for-tuning-ml-models/)
