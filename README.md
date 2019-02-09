@@ -13,7 +13,7 @@ This aggregation is for just information/education purpose only.
 2.	[5 Things Thomas Kurian Must Do To Transform Google Cloud Business](https://www.forbes.com/sites/janakirammsv/2019/02/03/5-things-thomas-kurian-must-do-to-transform-google-cloud-business/#ac4339215293)
 3.	[The Industrial Internet Consortium And OpenFog Consortium Unite](https://ngn.today/2019/02/the-industrial-internet-consortium-and-openfog-consortium-unite)
 4.	[How open source Mattermost is sneaking up on Slack's messaging empire](https://www.techrepublic.com/article/how-open-source-mattermost-is-sneaking-up-on-slacks-messaging-empire/)
-5.	[Nasdaq's head of tech highlights the two biggest reasons open source companies fail, and which ones might go public soon](https://www.businessinsider.in/Nasdaqs-head-of-tech-highlights-the-two-biggest-reasons-open-source-companies-fail-and-which-ones-might-go-public-soon/articleshow/67840978.cms)
+5.	[Nasdaq's head of tech highlights the two biggest reasons open source companies fail](https://www.businessinsider.in/Nasdaqs-head-of-tech-highlights-the-two-biggest-reasons-open-source-companies-fail-and-which-ones-might-go-public-soon/articleshow/67840978.cms)
 6.	[Google makes Chrome bug detection tool open-source](https://www.techradar.com/news/google-makes-chrome-bug-detection-tool-open-source)
 7.	[Uber Introduces Open Source, Real-Time Analytics Engine](https://www.rtinsights.com/uber-introduces-open-source-real-time-analytics-engine/)
 8.	[Open Source Services Market is Determined to Grow US$ 47 Billion by 2024](https://www.marketwatch.com/press-release/open-source-services-market-is-determined-to-grow-us-47-billion-by-2024-2019-02-07)
