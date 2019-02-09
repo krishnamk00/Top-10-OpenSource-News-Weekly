@@ -8,6 +8,18 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2019-02-08
+1.	[Microsoft joins the OpenChain community to help drive open source compliance](https://cloudblogs.microsoft.com/opensource/2019/02/06/microsoft-joins-openchain-community/)
+2.	[5 Things Thomas Kurian Must Do To Transform Google Cloud Business](https://www.forbes.com/sites/janakirammsv/2019/02/03/5-things-thomas-kurian-must-do-to-transform-google-cloud-business/#ac4339215293)
+3.	[The Industrial Internet Consortium And OpenFog Consortium Unite](https://ngn.today/2019/02/the-industrial-internet-consortium-and-openfog-consortium-unite)
+4.	[How open source Mattermost is sneaking up on Slack's messaging empire](https://www.techrepublic.com/article/how-open-source-mattermost-is-sneaking-up-on-slacks-messaging-empire/)
+5.	[Nasdaq's head of tech highlights the two biggest reasons open source companies fail, and which ones might go public soon](https://www.businessinsider.in/Nasdaqs-head-of-tech-highlights-the-two-biggest-reasons-open-source-companies-fail-and-which-ones-might-go-public-soon/articleshow/67840978.cms)
+6.	[Google makes Chrome bug detection tool open-source](https://www.techradar.com/news/google-makes-chrome-bug-detection-tool-open-source)
+7.	[Uber Introduces Open Source, Real-Time Analytics Engine](https://www.rtinsights.com/uber-introduces-open-source-real-time-analytics-engine/)
+8.	[Open Source Services Market is Determined to Grow US$ 47 Billion by 2024](https://www.marketwatch.com/press-release/open-source-services-market-is-determined-to-grow-us-47-billion-by-2024-2019-02-07)
+9.	[AT&T Looks to Mirantis to Drive 5G Services Using Kubernetes](https://containerjournal.com/2019/02/07/att-looks-to-mirantis-to-drive-5g-services-using-kubernetes/)
+10.	[Red Hat Launches CodeReady Workspaces Kubernetes IDE](https://www.eweek.com/development/red-hat-launches-codeready-workspaces-kubernetes-ide)
+
 ## 2019-02-01
 1.	[Presto Software Foundation Launches to Advance Presto Open Source Community](https://www.prweb.com/releases/presto_software_foundation_launches_to_advance_presto_open_source_community/prweb16070792.htm)
 2.	[Intel releases open-source denoiser Open Image Denoise](http://www.cgchannel.com/2019/01/intel-releases-open-source-denoiser-open-image-denoise/)
