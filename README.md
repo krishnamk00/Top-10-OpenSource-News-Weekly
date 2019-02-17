@@ -8,7 +8,7 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
-## 2019-02-16
+## 2019-02-15
 1.	[Uber AI - New open-source project Ludwig introduces code-free deep learning approach](https://sdtimes.com/ai/new-open-source-project-introduces-code-free-deep-learning-approach/)
 2.	[Rubrik Launches Open Source Community Called Build](https://www.sdxcentral.com/articles/news/rubrik-open-source-community-build/2019/02/)
 3.	[IBM says Watson AI services will now work on any cloud](https://www.reuters.com/article/us-ibm-tech-idUSKCN1Q1200)
