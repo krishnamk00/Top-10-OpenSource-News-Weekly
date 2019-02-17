@@ -8,6 +8,18 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2019-02-16
+1.	[Uber AI - New open-source project Ludwig introduces code-free deep learning approach](https://sdtimes.com/ai/new-open-source-project-introduces-code-free-deep-learning-approach/)
+2.	[Rubrik Launches Open Source Community Called Build](https://www.sdxcentral.com/articles/news/rubrik-open-source-community-build/2019/02/)
+3.	[IBM says Watson AI services will now work on any cloud](https://www.reuters.com/article/us-ibm-tech-idUSKCN1Q1200)
+4.	[Samsung SDS and IBM Collaborate to Strengthen Open Source Hyperledger Fabric and Blockchain Ecosystems](https://www.marketwatch.com/press-release/samsung-sds-and-ibm-collaborate-to-strengthen-open-source-hyperledger-fabric-and-blockchain-ecosystems-2019-02-14)
+5.	[Announcing IBM Cloud Data Shield Beta at Think 2019](https://www.ibm.com/blogs/bluemix/2019/02/announcing-ibm-cloud-data-shield-beta-at-think-2019/)
+6.	[Verizon adds Alibaba Cloud to its Secure Cloud Interconnect Ecosystem](https://globenewswire.com/news-release/2019/02/12/1720472/0/en/Verizon-adds-Alibaba-Cloud-to-its-Secure-Cloud-Interconnect-Ecosystem.html)
+7.	[Open source project aims to make Ubuntu usable on Arm-powered Windows laptops](https://www.techrepublic.com/article/open-source-project-aims-to-make-ubuntu-usable-on-arm-powered-windows-laptops/)
+8.	[Google open sources ClusterFuzz](https://techcrunch.com/2019/02/07/google-open-sources-clusterfuzz/)
+9.	[No, you can't take open-source code back](https://www.zdnet.com/article/no-you-cant-take-open-source-code-back/)
+10.	[CNCF Annual Report 2018](https://www.cncf.io/wp-content/uploads/2019/02/CNCF_Annual_Report_2018.pdf)
+
 ## 2019-02-08
 1.	[Microsoft joins the OpenChain community to help drive open source compliance](https://cloudblogs.microsoft.com/opensource/2019/02/06/microsoft-joins-openchain-community/)
 2.	[5 Things Thomas Kurian Must Do To Transform Google Cloud Business](https://www.forbes.com/sites/janakirammsv/2019/02/03/5-things-thomas-kurian-must-do-to-transform-google-cloud-business/#ac4339215293)
