@@ -8,6 +8,18 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2019-02-22
+1.	[Swim Open Sources Its Machine Learning Platform for Edge Computing](https://www.datacenterknowledge.com/open-source/swim-open-sources-its-machine-learning-platform-edge-computing)
+2.	[Google acquires a small cloud start-up as it looks to catch up to Amazon and Microsoft](https://www.cnbc.com/2019/02/19/google-plans-to-acquire-cloud-migration-company-alooma.html)
+3.	[Uber and GM Cruise are making their respective AV ‘visualization’ tools open source](https://www.theverge.com/2019/2/19/18229397/uber-gm-cruise-av-visualization-open-source)
+4.	[Redis Labs changes its open-source license — again](https://techcrunch.com/2019/02/21/redis-labs-changes-its-open-source-license-again/)
+5.	[Linux Foundation launches ELISA, an open source project for building safety-critical systems](https://venturebeat.com/2019/02/21/linux-foundation-elisa/)
+6.	[BMW Volleys Open-Source "RAMSES" Distributed 3D Rendering System](https://www.phoronix.com/scan.php?page=news_item&px=BMW-Open-Source-RAMSES)
+7.	[Facebook open sources SPARTA C++ lib to simplify abstract interpretation](https://hub.packtpub.com/facebook-open-sources-sparta-to-simplify-abstract-interpretation/)
+8.	[IBM Cloud Paks - Looks to Build App Ecosystem Around Container Platform](https://containerjournal.com/2019/02/22/ibm-looks-to-build-app-ecosystem-around-container-platform/)
+9.	[ActiveState Offers Free Methodology to Implement Open Source Language Automation](https://finance.yahoo.com/news/activestate-offers-free-methodology-implement-131700028.html)
+10.	[Microsoft is embracing 'Inner Source' for in-house development](https://www.theinquirer.net/inquirer/news/3071246/microsoft-is-going-inner-source-which-is-like-open-source-without-sharing)
+
 ## 2019-02-15
 1.	[Uber AI - New open-source project Ludwig introduces code-free deep learning approach](https://sdtimes.com/ai/new-open-source-project-introduces-code-free-deep-learning-approach/)
 2.	[Rubrik Launches Open Source Community Called Build](https://www.sdxcentral.com/articles/news/rubrik-open-source-community-build/2019/02/)
