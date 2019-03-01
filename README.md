@@ -8,6 +8,18 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2019-03-01
+1.	[VMware PKS adds Heptio IP, boosts container street cred](https://searchitoperations.techtarget.com/news/252458385/VMware-PKS-adds-Heptio-IP-boosts-container-street-cred?) 
+2.	[Microsoft rolls out AI-driven Azure Sentinel](https://www.theregister.co.uk/2019/02/28/microsoft_azure_sentinel_wheeled_out/)
+3.	[Rancher K3s shrinks Kubernetes for IoT devices](https://www.infoworld.com/article/3342125/rancher-k3s-brings-kubernetes-to-iot-devices.html)
+4.	[Cloud vendors are who’s powering open source now](https://www.infoworld.com/article/3343038/cloud-vendors-are-whos-powering-open-source-now.html)
+5.	[Facebook expands its internet infrastructure projects](https://techcrunch.com/2019/02/25/facebook-expands-its-internet-infrastructure-projects/)
+6.	[Ghidra, the reverse engineering tool that the NSA will open-source next week at the RSA 2019 security conference](https://www.nsa.gov/resources/everyone/ghidra/)
+7.	[CONTAINERD GRADUATES WITHIN THE CNCF](https://blog.docker.com/2019/02/containerd-graduates-within-the-cncf/)
+8.	[Open Source, Enterprise-Grade Blockchain Platform Insolar Launches Testnet](https://www.the-blockchain.com/2019/02/26/open-source-enterprise-grade-blockchain-platform-insolar-launches-testnet/)
+9.	[Red Hat Supports Rakuten Mobile Network's End-to-End Cloud-Native Mobile Network with Open Source Technologies](https://www.tmcnet.com/usubmit/2019/02/27/8908810.htm)
+10.	[MWC19 Evolves Beyond Mobile – Highlights!](https://www.mwcbarcelona.com/2019-highlights/)
+
 ## 2019-02-22
 1.	[Swim Open Sources Its Machine Learning Platform for Edge Computing](https://www.datacenterknowledge.com/open-source/swim-open-sources-its-machine-learning-platform-edge-computing)
 2.	[Google acquires a small cloud start-up as it looks to catch up to Amazon and Microsoft](https://www.cnbc.com/2019/02/19/google-plans-to-acquire-cloud-migration-company-alooma.html)
