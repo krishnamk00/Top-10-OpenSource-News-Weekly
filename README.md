@@ -8,6 +8,18 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2019-03-08
+1.	[Hammerspace Brings Global Data Management to Kubernetes](https://containerjournal.com/2019/03/07/hammerspace-brings-global-data-management-to-kubernetes/)
+2.	[Google open-sources GPipe, a library for efficiently training large deep neural networks](https://venturebeat.com/2019/03/04/google-open-sources-gpipe-a-library-for-efficiently-training-deep-neural-networks/amp/)
+3.	[Microsoft is open-sourcing Windows Calculator on GitHub](https://www.zdnet.com/article/microsoft-is-open-sourcing-windows-calculator-on-github/)
+4.	[Facebook Open-Sources Magma to Simplify Mobile Network Deployment](https://opensourceforu.com/2019/02/facebook-open-sources-magma-to-simplify-mobile-network-deployment/)
+5.	[Google open-sources Cloud IoT Device SDK, a collection of libraries for embedded microcontroller-class devices](https://venturebeat.com/2019/02/26/google-open-sources-cloud-iot-device-sdk-a-collection-of-libraries-for-embedded-microcontroller-class-devices/)
+6.	[MariaDB CEO accuses large cloud vendors of strip-mining open source](https://www.zdnet.com/article/mariadb-ceo-accuses-large-cloud-vendors-of-strip-mining-open-source/)
+7.	[Google sells 'predictable' storage costs: $120k for a year before you get a foot in the door, though](https://www.theregister.co.uk/2019/03/06/google_storage/)
+8.	[VMware offers pure open-source Kubernetes, no chaser](https://www.zdnet.com/article/vmware-offers-pure-open-source-kubernetes-no-chaser/)
+9.	[Uber Introduces Kraken, an Open Source Peer-to-Peer Docker Registry](https://opensourceforu.com/2019/03/uber-introduces-kraken-an-open-source-peer-to-peer-docker-registry/)
+10.	[Nvidia's got a cunning plan to keep powering the AI revolution](https://www.wired.co.uk/article/nvidia-artificial-intelligence-gpu?)
+
 ## 2019-03-01
 1.	[VMware PKS adds Heptio IP, boosts container street cred](https://searchitoperations.techtarget.com/news/252458385/VMware-PKS-adds-Heptio-IP-boosts-container-street-cred?) 
 2.	[Microsoft rolls out AI-driven Azure Sentinel](https://www.theregister.co.uk/2019/02/28/microsoft_azure_sentinel_wheeled_out/)
