@@ -8,6 +8,18 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2019-03-15
+1.	[Linux Foundation News： Created Continuous Delivery Foundation (CDF)，Created New Community Bridge Platform , GraphQL Foundation Collaboration with the Joint Development Foundation， Host CHIPS Alliance Project, Open source silicon group, Red team cyber Security Incubation – See all latest press release.](https://www.linuxfoundation.org/press-release/2019/03/the-linux-foundation-launches-new-communitybridge-platform-to-help-sustain-open-source-communities/)
+2.	[Microsoft open sources its data compression algorithm and hardware for the cloud](https://techcrunch.com/2019/03/14/zipline-microsoft-open-sources-its-data-compression-algorithm-and-hardware-for-the-cloud/)
+3.	[Nvidia acquires Mellanox against growing AI, data competition](https://searchdatacenter.techtarget.com/news/252459249/Nvidia-acquires-Mellanox-against-growing-AI-data-competition?)
+4.	[Open source licenses may not matter so much any more; AWS Launch new Open Elastic Search!](https://www.infoworld.com/article/3366297/open-source-licenses-may-not-matter-so-much-any-more.html)
+5.	[JS Foundation and Node.js Foundation join forces – OpenFS Foundation](https://www.zdnet.com/article/js-foundation-and-node-js-foundation-join-forces/)
+6.	[Red Hat Launches Quarkus Project to Advance Java on Kubernetes](https://containerjournal.com/2019/03/11/red-hat-launches-quarkus-project-to-advance-java-on-kubernetes/)
+7.	[Google AI: Harnessing Organizational Knowledge for Machine Learning](https://ai.googleblog.com/2019/03/harnessing-organizational-knowledge-for.html)
+8.	[Microsoft Ziplines Into Open Source Storage, Facebook Launches AI Hardware](https://www.sdxcentral.com/articles/news/microsoft-ziplines-into-open-source-storage-facebook-launches-ai-hardware/2019/03/)
+9.	[F5 To Acquire NGINX For Open-Source Application Delivery Tech](https://seekingalpha.com/article/4249198-f5-acquire-nginx-open-source-application-delivery-tech)
+10.	[The Cloud and Open Source Powder Keg](https://redmonk.com/sogrady/2019/03/15/cloud-open-source-powder-keg/)
+
 ## 2019-03-08
 1.	[Hammerspace Brings Global Data Management to Kubernetes](https://containerjournal.com/2019/03/07/hammerspace-brings-global-data-management-to-kubernetes/)
 2.	[Google open-sources GPipe, a library for efficiently training large deep neural networks](https://venturebeat.com/2019/03/04/google-open-sources-gpipe-a-library-for-efficiently-training-deep-neural-networks/amp/)
