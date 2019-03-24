@@ -8,6 +8,18 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2019-03-22
+1.	[Microsoft open sources Accessibility Insights](https://www.computerweekly.com/blog/Open-Source-Insider/Microsoft-open-sources-Accessibility-Insights)
+2.	[A Year of Kubernetes: What’s Beyond the Horizon?](https://containerjournal.com/2019/03/21/a-year-of-kubernetes-whats-beyond-the-horizon/)
+3.	[Cloudera after merger, announced a new data platform(CDP) for enterprise.](https://www.theregister.co.uk/2019/03/20/cloudera_data_platform_details/)
+4.	[Tekton - New Google project offers Kubernetes building blocks for CI/CD](https://www.infoworld.com/article/3373650/new-google-project-offers-kubernetes-building-blocks-for-cicd.html)
+5.	[Growth investor EQT acquires SUSE; creates the largest independent open source company](https://www.moneycontrol.com/news/technology/growth-investor-eqt-acquires-suse-creates-the-largest-independent-open-source-company-3660631.html)
+6.	[Pivotal to Bring Greenplum MPP Database to Kubernetes](https://containerjournal.com/2019/03/21/pivotal-to-bring-greenplum-mpp-database-to-kubernetes/)
+7.	[DevOps excellence award 2019](http://events.computing.co.uk/devopsexcellence/static/2019-shortlist)
+8.	[Get started with Tint2, an open source taskbar for Linux](https://opensource.com/article/19/1/productivity-tool-tint2?sc_cid=70160000001273HAAQ)
+9.	[FireEye open-sources SilkETW, a tool for collecting and searching Event Tracing for Windows (ETW) logs](https://www.fireeye.com/blog/threat-research/2019/03/silketw-because-free-telemetry-is-free.html)
+10.	[Open Source Software Helps Researchers Extract Key Insights From Huge Sensor Datasets](https://bioengineer.org/open-source-software-helps-researchers-extract-key-insights-from-huge-sensor-datasets/)
+
 ## 2019-03-15
 1.	[Linux Foundation News： Created Continuous Delivery Foundation (CDF)，Created New Community Bridge Platform , GraphQL Foundation Collaboration with the Joint Development Foundation， Host CHIPS Alliance Project, Open source silicon group, Red team cyber Security Incubation – See all latest press release.](https://www.linuxfoundation.org/press-release/2019/03/the-linux-foundation-launches-new-communitybridge-platform-to-help-sustain-open-source-communities/)
 2.	[Microsoft open sources its data compression algorithm and hardware for the cloud](https://techcrunch.com/2019/03/14/zipline-microsoft-open-sources-its-data-compression-algorithm-and-hardware-for-the-cloud/)
