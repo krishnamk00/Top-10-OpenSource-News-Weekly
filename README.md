@@ -12,7 +12,7 @@ This aggregation is for just information/education purpose only.
 1.	[Microsoft, Adobe and SAP prepare to expand their Open Data Initiative](https://techcrunch.com/2019/03/27/microsoft-adobe-and-sap-prepare-to-expand-their-open-data-initiative/)
 2.	[AWS has just rolled out cheaper instances, glacier-slow storage, and AI container tools](https://www.theregister.co.uk/2019/03/27/aws_summit_news/)
 3.	[Containers vs. Unikernels: An Apples-to-Oranges Comparison](https://containerjournal.com/2019/03/28/containers-vs-unikernels-an-apples-to-oranges-comparison/)
-4.	[Alibaba Buys Israeli AR Startup Amid China Investment Scrutiny](https://www.bloomberg.com/news/articles/2019-03-24/alibaba-buys-israeli-ar-startup-amid-china-investment-scrutiny)
+4.	[Alibaba Buys Israeli AR Startup Amid China Investment Scrutiny](https://www.bloomberg.com/news/articles/2019-03-24/alibaba-buys-israeli-ar-startup-amid-china-investment-scrutiny/)
 5.	[Uber Expands Advanced Visualization Ecosystem with Mapbox Integration](https://eng.uber.com/uber-visualization-mapbox/)
 6.	[Bill Gates: A.I. is like nuclear energy — ‘both promising and dangerous’](https://www.cnbc.com/2019/03/26/bill-gates-artificial-intelligence-both-promising-and-dangerous.html)
 7.	[Kubernetes: The End of the DIY Era?](https://containerjournal.com/2019/03/29/kubernetes-the-end-of-the-diy-era/)
