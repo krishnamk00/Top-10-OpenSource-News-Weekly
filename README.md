@@ -16,7 +16,7 @@ This aggregation is for just information/education purpose only.
 5.	[Uber Expands Advanced Visualization Ecosystem with Mapbox Integration](https://eng.uber.com/uber-visualization-mapbox/)
 6.	[Bill Gates: A.I. is like nuclear energy — ‘both promising and dangerous’](https://www.cnbc.com/2019/03/26/bill-gates-artificial-intelligence-both-promising-and-dangerous.html)
 7.	[Kubernetes: The End of the DIY Era?](https://containerjournal.com/2019/03/29/kubernetes-the-end-of-the-diy-era/)
-8.	[Alibaba offers its own Java distribution](https://www.infoworld.com/article/3385076/alibaba-offers-its-own-java-distribution.html\)
+8.	[Alibaba offers its own Java distribution](https://www.infoworld.com/article/3385076/alibaba-offers-its-own-java-distribution.html/)
 9.	[Killed by Google – A list of open source Tools](https://killedbygoogle.com/)
 10.	[Quantum Machine Learning: Future of AI](https://medium.com/sfu-big-data/quantum-machine-learning-future-of-ai-386fb77f59ca)
 
