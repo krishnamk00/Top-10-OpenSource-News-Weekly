@@ -8,6 +8,18 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2019-03-29
+1.	[Microsoft, Adobe and SAP prepare to expand their Open Data Initiative](https://techcrunch.com/2019/03/27/microsoft-adobe-and-sap-prepare-to-expand-their-open-data-initiative/)
+2.	[AWS has just rolled out cheaper instances, glacier-slow storage, and AI container tools](https://www.theregister.co.uk/2019/03/27/aws_summit_news/)
+3.	[Containers vs. Unikernels: An Apples-to-Oranges Comparison](https://containerjournal.com/2019/03/28/containers-vs-unikernels-an-apples-to-oranges-comparison/)
+4.	[Alibaba Buys Israeli AR Startup Amid China Investment Scrutiny](https://www.bloomberg.com/news/articles/2019-03-24/alibaba-buys-israeli-ar-startup-amid-china-investment-scrutiny)
+5.	[Uber Expands Advanced Visualization Ecosystem with Mapbox Integration](https://eng.uber.com/uber-visualization-mapbox/)
+6.	[Bill Gates: A.I. is like nuclear energy — ‘both promising and dangerous’](https://www.cnbc.com/2019/03/26/bill-gates-artificial-intelligence-both-promising-and-dangerous.html)
+7.	[Kubernetes: The End of the DIY Era?](https://containerjournal.com/2019/03/29/kubernetes-the-end-of-the-diy-era/)
+8.	[Alibaba offers its own Java distribution](https://www.infoworld.com/article/3385076/alibaba-offers-its-own-java-distribution.html\)
+9.	[Killed by Google – A list of open source Tools](https://killedbygoogle.com/)
+10.	[Quantum Machine Learning: Future of AI](https://medium.com/sfu-big-data/quantum-machine-learning-future-of-ai-386fb77f59ca)
+
 ## 2019-03-22
 1.	[Microsoft open sources Accessibility Insights](https://www.computerweekly.com/blog/Open-Source-Insider/Microsoft-open-sources-Accessibility-Insights)
 2.	[A Year of Kubernetes: What’s Beyond the Horizon?](https://containerjournal.com/2019/03/21/a-year-of-kubernetes-whats-beyond-the-horizon/)
