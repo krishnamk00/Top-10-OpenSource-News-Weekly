@@ -8,6 +8,18 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2019-04-05
+1.	[Pixeom raises $15M for its software-defined edge computing platform](https://techcrunch.com/2019/04/02/pixeom-raises-15m-for-its-software-defined-edge-computing-platform/)
+2.	[How Azure Data Box Helps Microsoft In Delivering The Promise Of Intelligent Edge](https://www.forbes.com/sites/janakirammsv/2019/04/01/how-azure-data-box-helps-microsoft-in-delivering-the-promise-of-intelligent-edge/#61da40257b6a)
+3.	[“Chef” DevOps leading program goes all-in on open source](https://www.theindianwire.com/software/chef-devops-leading-program-goes-open-source-116190/)
+4.	[Google Pixel 4 spotted in Android Open Source Project, suggests ongoing test](https://www.theindianwire.com/gadgets/google-pixel-4-spotted-android-open-source-project-suggests-ongoing-test-116004/)
+5.	[Microsoft, BMW unveil Open Manufacturing Platform](https://www.hindustantimes.com/tech/microsoft-bmw-unveil-open-manufacturing-platform/story-Ba1o9MniTxljncdTkQLrzO.html)
+6.	[Pure Storage swallows Swedish filer biz for its, er, purely file storage software](https://www.theregister.co.uk/2019/04/03/pure_storage_compuverde/)
+7.	[MapR Embraces Kubernetes for Big Data](https://containerjournal.com/2019/04/02/mapr-embraces-kubernetes-for-big-data/)
+8.	[Introducing Petastorm: Uber ATG’s Data Access Library for Deep Learning](https://eng.uber.com/petastorm/)
+9.	[First open source MIPS code is released](http://linuxgizmos.com/first-open-source-mips-code-is-released/)
+10.	[Is the Next Generation of Blockchain Technologies Already Upon Us?](https://hackernoon.com/is-the-next-generation-of-blockchain-technologies-already-upon-us-e129bd0e4383)
+
 ## 2019-03-29
 1.	[Microsoft, Adobe and SAP prepare to expand their Open Data Initiative](https://techcrunch.com/2019/03/27/microsoft-adobe-and-sap-prepare-to-expand-their-open-data-initiative/)
 2.	[AWS has just rolled out cheaper instances, glacier-slow storage, and AI container tools](https://www.theregister.co.uk/2019/03/27/aws_summit_news/)
