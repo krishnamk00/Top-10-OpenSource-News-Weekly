@@ -17,7 +17,7 @@ This aggregation is for just information/education purpose only.
 6.	[IoT World – Best IoT & Edge computing Platforms shortlisted - Cloudera, IBM, Dell, EdgeX, FogHorn, Itron, Lantronix, Relayr](https://tmt.knect365.com/iot-world/iot-world-awards)
 7.	[Cisco taps into AWS for data center, cloud applications](https://www.networkworld.com/article/3388679/cisco-taps-into-aws-for-data-center-cloud-applications.html?)
 8.	[E8 Storage adds file to flash with Open Source BeeGFS overlay for HPC](https://searchstorage.techtarget.com/news/252461529/E8-Storage-adds-file-to-flash-with-BeeGFS-overlay-for-HPC)
-9.	[Get started with gPodder, an open source podcast client[(https://opensource.com/article/19/1/productivity-tool-gpodder?sc_cid=70160000001273HAAQ)
+9.	[Get started with gPodder, an open source podcast client](https://opensource.com/article/19/1/productivity-tool-gpodder?sc_cid=70160000001273HAAQ)
 10.	[The creation of the algorithm that made the first black hole image possible was led by MIT grad student Katie Bouman](https://techcrunch.com/2019/04/10/the-creation-of-the-algorithm-that-made-the-first-black-hole-image-possible-was-led-by-mit-grad-student-katie-bouman/)
 
 ## 2019-04-05
