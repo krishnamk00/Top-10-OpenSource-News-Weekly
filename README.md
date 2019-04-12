@@ -8,6 +8,18 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2019-04-12
+1.	[Google CloudNEXT Highlights – Anthons, Cloud Run, Cloud Code IDE IntelliJ/VSCOde, Google AI, Android phone is a security key, Open Source Integrations with Several vendors like RedisLab, MongoDB, DataStax, etc.](https://techcrunch.com/2019/04/10/the-6-most-important-announcements-from-google-cloud-next-2019/)
+2.	[CNCF Adopts CRI-O Runtime & Graduated Fluentd](https://containerjournal.com/2019/04/08/cncf-formally-adopts-cri-o-runtime-for-kubernetes/)
+3.	[Google Cloud challenges AWS with new open-source integrations](https://techcrunch.com/2019/04/09/google-gives-aws-the-open-source-middle-finger/)
+4.	[IBM, Oracle JEDI bids weighed, measured and found wanting: Amazon, Microsoft last standing in Pentagon cloud race](https://www.theregister.co.uk/2019/04/11/pentagon_oracle_ibm_jedi_conflict/)
+5.	[Rasa raises $13M led by Accel for its developer-friendly open-source approach to chatbots](https://techcrunch.com/2019/04/11/rasa-raises-13m-led-by-accel-for-its-developer-friendly-open-source-approach-to-chatbots/)
+6.	[IoT World – Best IoT & Edge computing Platforms shortlisted - Cloudera, IBM, Dell, EdgeX, FogHorn, Itron, Lantronix, Relayr](https://tmt.knect365.com/iot-world/iot-world-awards)
+7.	[Cisco taps into AWS for data center, cloud applications](https://www.networkworld.com/article/3388679/cisco-taps-into-aws-for-data-center-cloud-applications.html?)
+8.	[E8 Storage adds file to flash with Open Source BeeGFS overlay for HPC](https://searchstorage.techtarget.com/news/252461529/E8-Storage-adds-file-to-flash-with-BeeGFS-overlay-for-HPC)
+9.	[Get started with gPodder, an open source podcast client[(https://opensource.com/article/19/1/productivity-tool-gpodder?sc_cid=70160000001273HAAQ)
+10.	[The creation of the algorithm that made the first black hole image possible was led by MIT grad student Katie Bouman](https://techcrunch.com/2019/04/10/the-creation-of-the-algorithm-that-made-the-first-black-hole-image-possible-was-led-by-mit-grad-student-katie-bouman/)
+
 ## 2019-04-05
 1.	[Pixeom raises $15M for its software-defined edge computing platform](https://techcrunch.com/2019/04/02/pixeom-raises-15m-for-its-software-defined-edge-computing-platform/)
 2.	[How Azure Data Box Helps Microsoft In Delivering The Promise Of Intelligent Edge](https://www.forbes.com/sites/janakirammsv/2019/04/01/how-azure-data-box-helps-microsoft-in-delivering-the-promise-of-intelligent-edge/#61da40257b6a)
