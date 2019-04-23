@@ -8,6 +8,18 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2019-04-19
+1.	[Microsoft debuts Bosque – a new programming language with no loops, inspired by TypeScript](https://www.theregister.co.uk/2019/04/18/microsoft_bosque_programming_language/)
+2.	[Red Hat survey finds we're living in an open-source world](https://www.zdnet.com/article/red-hat-survey-finds-were-living-in-an-open-source-world/)
+3.	[Google rolls out Android Easter Egg for Europe – a Microsoft antitrust-style browser, search engine choice box](https://www.theregister.co.uk/2019/04/18/google_android_browser_choice/)
+4.	[Researchers in Singapore demonstrate new quantum key distribution technique over Singtel's fibre network](https://www.zdnet.com/article/researchers-in-singapore-demonstrate-new-quantum-key-distribution-technique-over-singtels-fibre-network/)
+5.	[Microsoft buys real-time operating system vendor Express Logic](https://www.zdnet.com/article/microsoft-buys-real-time-operating-system-vendor-express-logic/)
+6.	[New open-source software predicts impacts of extreme events on grids](https://techxplore.com/news/2019-04-open-source-software-impacts-extreme-events.html)
+7.	[Alphabet’s Sidewalk Labs is developing visual cues to indicate when their tech is monitoring you](https://techcrunch.com/2019/04/19/alphabets-sidewalk-labs-is-developing-visual-cues-to-indicate-when-their-tech-is-monitoring-you/)
+8.	[BLOCKCHAIN CONSENSUS ENGINE MASS OFFICIALLY ANNOUNCED THAT IT HAS GONE OPEN SOURCE] (http://news.southdakotachronicle.com/story/157720/blockchain-consensus-engine-mass-officially-announced-that-it-has-gone-open-source-on-april-11th-2019.html)
+9.	[Intel To Work On AV1 Decoding Support, FFmpeg / GStreamer Plugins & then open source](https://phoronix.com/scan.php?page=news_item&px=Intel-TODO-AV1-Decode-FFmpeg)
+10.	[Everything You Want To Know About Anthos - Google's Hybrid And Multi-Cloud Platform](https://www.forbes.com/sites/janakirammsv/2019/04/14/everything-you-want-to-know-about-anthos-googles-hybrid-and-multi-cloud-platform/#7bb4c0c05b66)
+
 ## 2019-04-12
 1.	[Google CloudNEXT Highlights – Anthons, Cloud Run, Cloud Code IDE IntelliJ/VSCOde, Google AI, Android phone is a security key, Open Source Integrations with Several vendors like RedisLab, MongoDB, DataStax, etc.](https://techcrunch.com/2019/04/10/the-6-most-important-announcements-from-google-cloud-next-2019/)
 2.	[CNCF Adopts CRI-O Runtime & Graduated Fluentd](https://containerjournal.com/2019/04/08/cncf-formally-adopts-cri-o-runtime-for-kubernetes/)
