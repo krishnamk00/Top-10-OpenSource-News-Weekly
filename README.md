@@ -16,7 +16,7 @@ This aggregation is for just information/education purpose only.
 5.	[Microsoft buys real-time operating system vendor Express Logic](https://www.zdnet.com/article/microsoft-buys-real-time-operating-system-vendor-express-logic/)
 6.	[New open-source software predicts impacts of extreme events on grids](https://techxplore.com/news/2019-04-open-source-software-impacts-extreme-events.html)
 7.	[Alphabet’s Sidewalk Labs is developing visual cues to indicate when their tech is monitoring you](https://techcrunch.com/2019/04/19/alphabets-sidewalk-labs-is-developing-visual-cues-to-indicate-when-their-tech-is-monitoring-you/)
-8.	[BLOCKCHAIN CONSENSUS ENGINE MASS OFFICIALLY ANNOUNCED THAT IT HAS GONE OPEN SOURCE] (http://news.southdakotachronicle.com/story/157720/blockchain-consensus-engine-mass-officially-announced-that-it-has-gone-open-source-on-april-11th-2019.html)
+8.	[BLOCKCHAIN CONSENSUS ENGINE MASS OFFICIALLY ANNOUNCED THAT IT HAS GONE OPEN SOURCE](http://news.southdakotachronicle.com/story/157720/blockchain-consensus-engine-mass-officially-announced-that-it-has-gone-open-source-on-april-11th-2019.html)
 9.	[Intel To Work On AV1 Decoding Support, FFmpeg / GStreamer Plugins & then open source](https://phoronix.com/scan.php?page=news_item&px=Intel-TODO-AV1-Decode-FFmpeg)
 10.	[Everything You Want To Know About Anthos - Google's Hybrid And Multi-Cloud Platform](https://www.forbes.com/sites/janakirammsv/2019/04/14/everything-you-want-to-know-about-anthos-googles-hybrid-and-multi-cloud-platform/#7bb4c0c05b66)
 
