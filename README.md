@@ -14,7 +14,7 @@ This aggregation is for just information/education purpose only.
 3.	[Facebook Open Sources C++ F14 For Improving Hash Table Implementation](https://opensourceforu.com/2019/04/facebook-open-sources-c-f14-for-improving-hash-table-implementation/)
 4.	[ETSI and the Linux Foundation Sign Memorandum of Understanding Enabling Industry Standards and Open Source Collaboration](https://www.linuxfoundation.org/press-release/2019/04/etsi-and-the-linux-foundation-sign-memorandum-of-understanding-enabling-industry-standards-and-open-source-collaboration/)
 5.	[MongoDB to acquire open-source mobile database Realm for $39 million](https://techcrunch.com/2019/04/24/mongodb-to-acquire-open-source-mobile-database-realm-startup-that-raised-40m/)
-6.	[Docker raises Arm to make itself handier for IoT edge data pushing](https://www.theregister.co.uk/2019/04/24/docker_arm_collaberation/
+6.	[Docker raises Arm to make itself handier for IoT edge data pushing](https://www.theregister.co.uk/2019/04/24/docker_arm_collaberation/)
 7.	[Open Stack Market Huge Growth Opportunity by Trend 2019-2024](https://www.marketwatch.com/press-release/open-stack-market-huge-growth-opportunity-by-trend-2019-2024-2019-04-26)
 8.	[Microsoft to join MLflow project, add native support to Azure Machine Learning](https://www.zdnet.com/article/microsoft-to-join-mlflow-project-add-native-support-to-azure-machine-learning/)
 9.	[Google open-sources AI image segmentation models optimized for Cloud TPUs](https://venturebeat.com/2019/04/24/google-open-sources-ai-image-segmentation-models-optimized-for-cloud-tpus/?)
