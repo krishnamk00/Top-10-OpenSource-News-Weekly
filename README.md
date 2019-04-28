@@ -8,6 +8,18 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2019-04-26
+1.	[Databricks open-sources Delta Lake to make data lakes more reliable](https://techcrunch.com/2019/04/24/databricks-open-sources-delta-lake-to-make-data-lakes-more-reliable/)
+2.	[Sydney startup launches open source quantum error suppression library](https://www.computerworld.in/analysis/sydney-startup-launches-open-source-quantum-error-suppression-library)
+3.	[Facebook Open Sources C++ F14 For Improving Hash Table Implementation](https://opensourceforu.com/2019/04/facebook-open-sources-c-f14-for-improving-hash-table-implementation/)
+4.	[ETSI and the Linux Foundation Sign Memorandum of Understanding Enabling Industry Standards and Open Source Collaboration](https://www.linuxfoundation.org/press-release/2019/04/etsi-and-the-linux-foundation-sign-memorandum-of-understanding-enabling-industry-standards-and-open-source-collaboration/)
+5.	[MongoDB to acquire open-source mobile database Realm for $39 million](https://techcrunch.com/2019/04/24/mongodb-to-acquire-open-source-mobile-database-realm-startup-that-raised-40m/)
+6.	[Docker raises Arm to make itself handier for IoT edge data pushing](https://www.theregister.co.uk/2019/04/24/docker_arm_collaberation/
+7.	[Open Stack Market Huge Growth Opportunity by Trend 2019-2024](https://www.marketwatch.com/press-release/open-stack-market-huge-growth-opportunity-by-trend-2019-2024-2019-04-26)
+8.	[Microsoft to join MLflow project, add native support to Azure Machine Learning](https://www.zdnet.com/article/microsoft-to-join-mlflow-project-add-native-support-to-azure-machine-learning/)
+9.	[Google open-sources AI image segmentation models optimized for Cloud TPUs](https://venturebeat.com/2019/04/24/google-open-sources-ai-image-segmentation-models-optimized-for-cloud-tpus/?)
+10.	[Puppet CTO: an open source mindset is more than just a code dump](https://www.computerweekly.com/blog/Open-Source-Insider/Puppet-CTO-an-open-source-mindset-is-more-than-just-a-code-dump)
+
 ## 2019-04-19
 1.	[Microsoft debuts Bosque – a new programming language with no loops, inspired by TypeScript](https://www.theregister.co.uk/2019/04/18/microsoft_bosque_programming_language/)
 2.	[Red Hat survey finds we're living in an open-source world](https://www.zdnet.com/article/red-hat-survey-finds-were-living-in-an-open-source-world/)
