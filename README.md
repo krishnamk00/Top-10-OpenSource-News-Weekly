@@ -8,6 +8,18 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2019-05-03
+1.	[Dockercon 2019 highlights – Docker Foundation, Docker Kubernetes Service(DKS), Desktop Enterprise, etc.](https://blog.docker.com/2019/05/its-a-wrap-highlights-from-the-dockercon-2019-keynote-sessions/)
+2.	[Microsoft released a new Machine learning product and also Block chain service](https://techcrunch.com/2019/05/02/microsoft-makes-a-push-to-simplify-machine-learning/)
+3.	[With Kata Containers and Zuul, OpenStack graduates its first infrastructure projects](https://techcrunch.com/2019/04/29/with-kata-containers-and-zuul-openstack-graduates-its-first-projects/)
+4.	[Microsoft wins at buzzword bingo with AI, ML and Blockchain in cloudy Azure wrapping](https://www.theregister.co.uk/2019/05/02/microsoft_ml_ai_blockchain/)
+5.	[A big shift in cloud war between Amazon, Google, Microsoft is coming: P&G top tech exec](https://www.cnbc.com/2019/04/30/a-big-shift-in-cloud-war-between-amazon-google-microsoft-is-coming.html)
+6.	[VMware now officially supported on Azure](https://www.theregister.co.uk/2019/05/01/vmware_microsoft_azure/)
+7.	[5G depends on Kubernetes in the cloud](https://www.zdnet.com/article/5g-depends-on-kubernetes-in-the-cloud/)
+8.	[Apache hooks up with GitHub](https://www.zdnet.com/article/apache-hooks-up-with-github/)
+9.	[AI-Powered Malware, Smart Phishing and Open Source Attacks, Oh My! The New Wave of Hacking in 2019 and How to Prevent](https://www.cpomagazine.com/cyber-security/ai-powered-malware-smart-phishing-and-open-source-attacks-oh-my-the-new-wave-of-hacking-in-2019-and-how-to-prevent/)
+10.	[Yelp open-sources Bento Android framework for modular UI development](https://venturebeat.com/2019/05/02/yelp-open-sources-bento-android-framework-for-modular-ui-development/)
+
 ## 2019-04-26
 1.	[Databricks open-sources Delta Lake to make data lakes more reliable](https://techcrunch.com/2019/04/24/databricks-open-sources-delta-lake-to-make-data-lakes-more-reliable/)
 2.	[Sydney startup launches open source quantum error suppression library](https://www.computerworld.in/analysis/sydney-startup-launches-open-source-quantum-error-suppression-library)
