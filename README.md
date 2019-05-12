@@ -8,6 +8,18 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2019-05-10
+1.	[Urban computing Foundation – Google, Uber, IBM & FaceBook Joined](https://venturebeat.com/2019/05/07/uber-google-ibm-and-others-join-the-urban-computing-foundation-to-create-tools-for-cities-of-tomorrow/)
+2.	[Google IO 2019: recap and highlights – TinyML, Jetpack Compose, Kotlin UI, Android Auto, Flutter](https://www.techradar.com/news/google-io-2019-keynote)
+3.	[Microsoft Build 2019 Highlights: ElectionGaurd, Autonomous Robots, Edge, Cortana, Minecraft, Linux Kernel with Windows, Quantum Computing dev tool, React native](https://www.tomsguide.com/us/microsoft-build-2019-highlights,news-30009.html)
+4.	[Redhat Summit 2019 Highlights – OpenShift4 & RHEL8 for hybrid multi cloud, KEDA Event Driven Containers, RHEL Universal base image](https://techcrunch.com/2019/05/06/microsoft-partners-with-red-hat-to-launch-event-driven-kubernetes-autoscaling/)
+5.	[Dell EMC launches GPU-loaded machine learning server](https://www.networkworld.com/article/3393163/dell-emc-launches-gpu-loaded-machine-learning-server.html)
+6.	[Why startups should release their code as open source](https://opensource.com/article/19/5/startups-release-code?sc_cid=70160000001273HAAQ)
+7.	[Cisco open-sources MindMeld conversational AI platform](https://venturebeat.com/2019/05/09/cisco-open-sources-mindmeld-conversational-ai-platform/)
+8.	[GitHub launches Package Registry to easily generate packages from your code](https://www.zdnet.com/article/github-launches-package-registry-to-easily-generate-packages-from-your-code/)
+9.	[Facebook open-sources Ax and BoTorch to simplify AI model optimization](https://techcrunch.com/2019/05/01/facebook-open-sources-ax-and-botorch-to-simplify-ai-model-optimization/)
+10.	[AWS shucks: Nutanix dives into hybrid cloud, mines for secondary data gold](https://www.theregister.co.uk/2019/05/09/nutanix_aws_and_secondary_data/)
+
 ## 2019-05-03
 1.	[Dockercon 2019 highlights – Docker Foundation, Docker Kubernetes Service(DKS), Desktop Enterprise, etc.](https://blog.docker.com/2019/05/its-a-wrap-highlights-from-the-dockercon-2019-keynote-sessions/)
 2.	[Microsoft released a new Machine learning product and also Block chain service](https://techcrunch.com/2019/05/02/microsoft-makes-a-push-to-simplify-machine-learning/)
