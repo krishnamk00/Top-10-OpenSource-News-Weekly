@@ -8,6 +8,18 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2019-05-17
+1.	[Intel announces open-source contributions to AI and cloud development](https://www.neowin.net/news/intel-announces-open-source-contributions-to-ai-and-cloud-development)
+2.	[Microsoft open-sources key Bing Search search algorithm](https://venturebeat.com/2019/05/15/microsoft-open-sources-key-bing-search-search-algorithm/)
+3.	[Nutanix expands multi-cloud solution portfolio](https://www.crn.in/news/nutanix-expands-multi-cloud-solution-portfolio/)
+4.	[VMware acquires Bitnami to deliver packaged applications anywhere](https://techcrunch.com/2019/05/15/vmware-acquires-bitnami-to-deliver-packaged-applications-anywhere/)
+5.	[KubeOne: A New Lifecycle Management Tool for HA Kubernetes Clusters +OpenEBS in CNCF](https://www.loodse.com/blog/2019-05-13-kubeone/)
+6.	[Microsoft Launches Decentralized Identity Tool on Bitcoin Blockchain](https://www.coindesk.com/microsoft-launches-decentralized-identity-tool-on-bitcoin-blockchain)
+7.	[The Pentagon's Drones May Soon Run on Open Source Software](https://www.nextgov.com/emerging-tech/2019/05/pentagons-drones-may-soon-run-open-source-software/156684/)
+8.	[Introducing GopenPGP, an open source encryption library for native applications](https://protonmail.com/blog/openpgp-golang/)
+9.	[AT&T, Deutsche Telekom, Salesforce and China Telecom Join TM Forum’s Open APIs](https://www.thefastmode.com/technology-solutions/14742-at-t-deutsche-telekom-salesforce-and-china-telecom-join-tm-forum-s-open-apis)
+10.	[Latest Study explores the Open Source Software Market Witness Highest Growth in near future](https://themarketresearchnews.com/2019/05/16/latest-study-explores-the-open-source-software-market-witness-highest-growth-in-near-future/)
+
 ## 2019-05-10
 1.	[Urban computing Foundation – Google, Uber, IBM & FaceBook Joined](https://venturebeat.com/2019/05/07/uber-google-ibm-and-others-join-the-urban-computing-foundation-to-create-tools-for-cities-of-tomorrow/)
 2.	[Google IO 2019: recap and highlights – TinyML, Jetpack Compose, Kotlin UI, Android Auto, Flutter](https://www.techradar.com/news/google-io-2019-keynote)
