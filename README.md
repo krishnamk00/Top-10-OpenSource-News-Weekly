@@ -8,6 +8,18 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2019-05-24
+1.	[Takeaway Kubecon 2019 Barcelona: Highlights - - Microsoft’s Service Mesh Interface, Enhancements to GKE, Virtual Kubelet 1.0, Helm 3, Atlassian in Containers and more..](https://hub.packtpub.com/kubecon-cloudnativecon-eu-2019-highlights-microsofts-service-mesh-interface-enhancements-to-gke-virtual-kubelet-1-0-and-much-more/)
+2.	[GitHub, Microsoft's wildly popular developer service, launches a new service to help programmers get paid for their open source code](https://www.businessinsider.in/github-microsofts-wildly-popular-developer-service-launches-a-new-service-to-help-programmers-get-paid-for-their-open-source-code/articleshow/69461298.cms)
+3.	[Red Hat Completes Open Sourcing of 3scale Code, Invites Developers to Join its GitHub Community](https://opensourceforu.com/2019/05/red-hat-completes-open-sourcing-of-3scale-code-invites-developers-to-join-its-github-community/)
+4.	[Keysight, Nokia Aim to Accelerate Development of Automation Solutions With OpenTAP Project](https://opensourceforu.com/2019/05/keysight-nokia-aim-to-accelerate-development-of-automation-solutions-with-opentap-project/)
+5.	[Interstitial Lung Disease (ILD) Experts And Advocates Announce Formation Of Open Source Imaging Consortium (OSIC)](https://www.medindia.net/health-press-release/Interstitial-Lung-Disease-ILD-Experts-And-Advocates-Announce-Formation-Of-Open-Source-Imaging-Consortium-OSIC-418481-1.htm)
+6.	[GDPR Privacy Laws: Ramifications and Possible Interdictions for Open Source Security Vulnerabilities](http://www.cyberdefensemagazine.com/gdpr-privacy-laws-ramifications-and-possible-interdictions-for-open-source-security-vulnerabilities/)
+7.	[Solo.io wants to bring order to service meshes with centralized management hub](https://techcrunch.com/2019/05/15/solo-io-wants-to-bring-order-to-service-meshes-with-centralized-management-hub/)
+8.	[Arduino reveals more powerful, low-cost Nano boards for building homemade hardware and gadgets](https://www.techrepublic.com/article/arduino-reveals-new-powerful-low-cost-nano-boards-for-building-homemade-hardware-and-gadgets/\)
+9.	[Facebook’s Framework Pythia Goes Open Source](https://80.lv/articles/facebooks-framework-pythia-goes-open-source/)
+10.	[Few-Shot Adversarial Learning of Realistic Neural Talking Head Models](https://arxiv.org/abs/1905.08233)
+
 ## 2019-05-17
 1.	[Intel announces open-source contributions to AI and cloud development](https://www.neowin.net/news/intel-announces-open-source-contributions-to-ai-and-cloud-development)
 2.	[Microsoft open-sources key Bing Search search algorithm](https://venturebeat.com/2019/05/15/microsoft-open-sources-key-bing-search-search-algorithm/)
