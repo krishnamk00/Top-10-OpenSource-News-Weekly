@@ -16,7 +16,7 @@ This aggregation is for just information/education purpose only.
 5.	[Interstitial Lung Disease (ILD) Experts And Advocates Announce Formation Of Open Source Imaging Consortium (OSIC)](https://www.medindia.net/health-press-release/Interstitial-Lung-Disease-ILD-Experts-And-Advocates-Announce-Formation-Of-Open-Source-Imaging-Consortium-OSIC-418481-1.htm)
 6.	[GDPR Privacy Laws: Ramifications and Possible Interdictions for Open Source Security Vulnerabilities](http://www.cyberdefensemagazine.com/gdpr-privacy-laws-ramifications-and-possible-interdictions-for-open-source-security-vulnerabilities/)
 7.	[Solo.io wants to bring order to service meshes with centralized management hub](https://techcrunch.com/2019/05/15/solo-io-wants-to-bring-order-to-service-meshes-with-centralized-management-hub/)
-8.	[Arduino reveals more powerful, low-cost Nano boards for building homemade hardware and gadgets](https://www.techrepublic.com/article/arduino-reveals-new-powerful-low-cost-nano-boards-for-building-homemade-hardware-and-gadgets/\)
+8.	[Arduino reveals more powerful, low-cost Nano boards for building homemade hardware and gadgets](https://www.techrepublic.com/article/arduino-reveals-new-powerful-low-cost-nano-boards-for-building-homemade-hardware-and-gadgets/)
 9.	[Facebook’s Framework Pythia Goes Open Source](https://80.lv/articles/facebooks-framework-pythia-goes-open-source/)
 10.	[Few-Shot Adversarial Learning of Realistic Neural Talking Head Models](https://arxiv.org/abs/1905.08233)
 
