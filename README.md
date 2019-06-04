@@ -8,6 +8,18 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2019-05-31
+1.	[Google AI: EfficientNet: Improving Accuracy and Efficiency through AutoML and Model Scaling](https://ai.googleblog.com/2019/05/efficientnet-improving-accuracy-and.html)
+2.	[Open sourced` - Apollo Federation - A revolutionary architecture for building a distributed graph](https://blog.apollographql.com/apollo-federation-f260cf525d21?gi=5da80a90cbd2)
+3.	[Lack of leadership in open source results in source-available licenses](https://techcrunch.com/2019/05/30/lack-of-leadership-in-open-source-results-in-source-available-licenses/)
+4.	[Apple, Google, Microsoft, WhatsApp sign open letter condemning GCHQ proposal to listen in on encrypted chats](https://techcrunch.com/2019/05/30/apple-google-microsoft-whatsapp-sign-open-letter-condemning-gchq-proposal-to-listen-in-on-encrypted-chats/)
+5.	[Nvidia pulls sheets off EGX, an edgy machine learning platform based on Kubernetes](https://www.theregister.co.uk/2019/05/28/nvidia_egx_edge_ai/)
+6.	[Germany mulls giving end-to-end chat app encryption das boot: Law requiring decrypted plain-text is in the works](https://www.theregister.co.uk/2019/05/28/german_government_encryption/)
+7.	[VIPPOOL Releases Open Source Software to Develop Systems Using Blockchain](https://opensourceforu.com/2019/05/vippool-releases-open-source-software-to-develop-systems-using-blockchain/)
+8.	[Google’s Cloud outage is resolved, but it reveals the holes in cloud computing’s atmosphere](https://techcrunch.com/2019/06/02/googles-cloud-outage-is-resolved-but-it-reveals-the-holes-in-cloud-computings-atmosphere/)
+9.	[Intel unveils Project Athena: Chipzilla tells lappy makers how to build their own kit](https://www.theregister.co.uk/2019/05/29/project_athena_intel/)
+10.	[Reduxio Rises to Container Storage Challenge](https://containerjournal.com/2019/05/31/reduxio-rises-to-container-storage-challenge/)
+
 ## 2019-05-24
 1.	[Takeaway Kubecon 2019 Barcelona: Highlights - - Microsoft’s Service Mesh Interface, Enhancements to GKE, Virtual Kubelet 1.0, Helm 3, Atlassian in Containers and more..](https://hub.packtpub.com/kubecon-cloudnativecon-eu-2019-highlights-microsofts-service-mesh-interface-enhancements-to-gke-virtual-kubelet-1-0-and-much-more/)
 2.	[GitHub, Microsoft's wildly popular developer service, launches a new service to help programmers get paid for their open source code](https://www.businessinsider.in/github-microsofts-wildly-popular-developer-service-launches-a-new-service-to-help-programmers-get-paid-for-their-open-source-code/articleshow/69461298.cms)
