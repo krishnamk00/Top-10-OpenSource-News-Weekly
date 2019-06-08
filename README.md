@@ -8,6 +8,18 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2019-06-07
+1.	[Facebook plans June 18th cryptocurrency debut. Here’s what we know](https://techcrunch.com/2019/06/06/facebook-libra-launch/)
+2.	[Google to acquire analytics startup Looker for $2.6 billion](https://techcrunch.com/2019/06/06/google-to-acquire-analytics-startup-looker-for-2-6-billion/)
+3.	[AI gets rigorous: Databricks announces MLflow 1.0](https://www.zdnet.com/article/ai-development-gets-rigorous-databricks-announces-mlflow-1-0/)
+4.	[Salesforce open sources Lightning Web Components](https://www.zdnet.com/article/salesforce-open-sources-lightning-web-components/)
+5.	[IBM is giving away free DJI drones to coders](https://www.zdnet.com/article/ibm-is-giving-away-free-dji-drones-to-coders/)
+6.	[Introducing TensorNetwork, an Open Source Library for Efficient Tensor Calculations](https://ai.googleblog.com/2019/06/introducing-tensornetwork-open-source.html)
+7.	[Supporting the community with open source WF and WCF OSS projects](https://devblogs.microsoft.com/dotnet/supporting-the-community-with-wf-and-wcf-oss-projects/)
+8.	[Survey Finds Container Adoption More Pervasive](https://containerjournal.com/2019/06/06/survey-finds-container-adoption-more-pervasive/)
+9.	[Qualcomm backs open-source alternative to Arm, x86: Should Arm be worried?](https://www.androidauthority.com/qualcomm-risc-v-sifive-995736/)
+10.	[A Guide to Open Source Intelligence (OSINT)](https://www.cjr.org/tow_center_reports/guide-to-osint-and-hostile-communities.php)
+
 ## 2019-05-31
 1.	[Google AI: EfficientNet: Improving Accuracy and Efficiency through AutoML and Model Scaling](https://ai.googleblog.com/2019/05/efficientnet-improving-accuracy-and.html)
 2.	[Open sourced` - Apollo Federation - A revolutionary architecture for building a distributed graph](https://blog.apollographql.com/apollo-federation-f260cf525d21?gi=5da80a90cbd2)
