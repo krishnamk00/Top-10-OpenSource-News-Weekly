@@ -18,7 +18,7 @@ This aggregation is for just information/education purpose only.
 7.	[No Easy Way Forward For Commercial Open Source Software Vendors](https://www.forbes.com/sites/udinachmany/2019/06/11/what-future-for-independent-open-source-software-vendors/#418ff7c01d2d)
 8.	[AT&T, Nokia open up the radio’s edge to third party apps](https://www.fiercewireless.com/tech/at-t-nokia-open-up-radio-s-edge-to-third-party-apps)
 9.	[Get Started With the First-Silicon of Raven, An Open-Source RISC-V Microcontroller](https://opensourceforu.com/2019/06/x-fab-announces-successful-first-silicon-of-raven-an-open-source-risc-v-microcontroller)
-10.	[Open-sourcing AI Habitat, an advanced simulation platform for embodied AI research](https://ai.facebook.com/blog/open-sourcing-ai-habitat-an-simulation-platform-for-embodied-ai-research/
+10.	[Open-sourcing AI Habitat, an advanced simulation platform for embodied AI research](https://ai.facebook.com/blog/open-sourcing-ai-habitat-an-simulation-platform-for-embodied-ai-research)
 
 ## 2019-06-07
 1.	[Facebook plans June 18th cryptocurrency debut. Here’s what we know](https://techcrunch.com/2019/06/06/facebook-libra-launch/)
