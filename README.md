@@ -8,6 +8,18 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2019-06-14
+1.	[Cisco has announced plans to acquire an IIoT security firm](https://www.businessinsider.com/cisco-acquiring-sentryo-industrial-iot-2019-6?)
+2.	[How the Google Coral Edge Platform Brings the Power of AI to Devices]( https://thenewstack.io/how-the-google-coral-edge-platform-brings-the-power-of-ai-to-devices/)
+3.	[NVIDIA Launches EGX - An Edge Computing Platform With Multi-Cloud And AI Capabilities](https://www.forbes.com/sites/janakirammsv/2019/06/13/nvidia-launches-egx-an-edge-computing-platform-with-multi-cloud-and-ai-capabilities/#38df9c091412)
+4.	[Apple joins the open-source Cloud Native Computing Foundation](https://techcrunch.com/2019/06/11/apple-joins-the-open-source-cloud-native-computing-foundation/)
+5.	[Large Redmond Collider: CERN reveals plan to shift from Microsoft to open-source code after tenfold license fee hike](https://www.theregister.co.uk/2019/06/13/cern_microsoft/)
+6.	[Akamai Edge World - They might be public cloud giants, but we're, er, vids in](https://www.theregister.co.uk/2019/06/13/akamai_cloud_edge/)
+7.	[No Easy Way Forward For Commercial Open Source Software Vendors](https://www.forbes.com/sites/udinachmany/2019/06/11/what-future-for-independent-open-source-software-vendors/#418ff7c01d2d)
+8.	[AT&T, Nokia open up the radio’s edge to third party apps](https://www.fiercewireless.com/tech/at-t-nokia-open-up-radio-s-edge-to-third-party-apps)
+9.	[Get Started With the First-Silicon of Raven, An Open-Source RISC-V Microcontroller](https://opensourceforu.com/2019/06/x-fab-announces-successful-first-silicon-of-raven-an-open-source-risc-v-microcontroller)
+10.	[Open-sourcing AI Habitat, an advanced simulation platform for embodied AI research](https://ai.facebook.com/blog/open-sourcing-ai-habitat-an-simulation-platform-for-embodied-ai-research/
+
 ## 2019-06-07
 1.	[Facebook plans June 18th cryptocurrency debut. Here’s what we know](https://techcrunch.com/2019/06/06/facebook-libra-launch/)
 2.	[Google to acquire analytics startup Looker for $2.6 billion](https://techcrunch.com/2019/06/06/google-to-acquire-analytics-startup-looker-for-2-6-billion/)
