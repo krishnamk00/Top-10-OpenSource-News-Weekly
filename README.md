@@ -8,6 +8,18 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2019-06-21
+1.	[Google Open Sources Tool For Sharing Confidential Data Sets](https://opensourceforu.com/2019/06/google-open-sources-tool-for-sharing-confidential-data-sets/)
+2.	[NetApp wraps Elements HCI and Google Cloud Platform in Data Fabric](https://www.theregister.co.uk/2019/06/20/netapp_data_fabric/)
+3.	[Microsoft acquires Pull Panda for code-review collaboration](https://www.zdnet.com/article/microsoft-acquires-pull-panda-for-code-review-collaboration/)
+4.	[Applitools Makes Automated Visual Testing Solution Available For All Open Source Libraries](https://opensourceforu.com/2019/06/applitools-makes-automated-visual-testing-available-for-all-open-source-libraries/)
+5.	[Open source window terminal from Microsoft – preview release automatically updated](https://www.hanselman.com/blog/YouCanNowDownloadTheNewOpenSourceWindowsTerminal.aspx)
+6.	[Sorbet: Announcing open sourced a fast, powerful type checker for Ruby]( https://sorbet.org/blog/2019/06/20/open-sourcing-sorbet)
+7.	[The cost of an open source contribution]( https://rgommers.github.io/2019/06/the-cost-of-an-open-source-contribution/)
+8.	[NSA Starts Contributing Low-Level Code to UEFI BIOS Alternative – Coreboot project]( https://www.tomshardware.com/news/nsa-contributes-low-level-stm-coreboot,39704.html)
+9.	[Suspended on Indian government request, Open Source intelligence accounts are back on Twitter]( https://indianexpress.com/article/technology/tech-news-technology/twitter-suspends-open-source-intelligence-accounts-after-requests-from-indian-government-reports/)
+10.	[Microsoft bans Slack and discourages AWS and Google Docs use internally]( https://www.theverge.com/2019/6/22/18713270/microsoft-slack-ban-aws-google-docs-prohibited-list-details)
+
 ## 2019-06-14
 1.	[Cisco has announced plans to acquire an IIoT security firm](https://www.businessinsider.com/cisco-acquiring-sentryo-industrial-iot-2019-6?)
 2.	[How the Google Coral Edge Platform Brings the Power of AI to Devices]( https://thenewstack.io/how-the-google-coral-edge-platform-brings-the-power-of-ai-to-devices/)
