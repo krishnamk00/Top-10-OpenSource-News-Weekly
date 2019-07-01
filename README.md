@@ -8,6 +8,18 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2019-06-28
+1.	[KubeCon 2019 Shanghai Highlights – CNCF expands SIG, KEDA – Event driven  autoscaling k8s, Upbound extends k8s CP, Talos OS for k8s,  and more… ](https://containerjournal.com/2019/06/24/cncf-to-expand-scope-of-sigs)
+2.	[Instaclustr Releases Service Broker to Seamlessly Integrate Customers’ Kubernetes Applications within the Instaclustr Open-Source-as-a-Service Platform](https://www.globenewswire.com/news-release/2019/06/24/1873149/0/en/Instaclustr-Releases-Service-Broker-to-Seamlessly-Integrate-Customers-Kubernetes-Applications-within-the-Instaclustr-Open-Source-as-a-Service-Platform.html)
+3.	[SUSE Linux bridges the gap between the server and the cloud](https://www.zdnet.com/article/suse-linux-bridges-the-gap-between-the-server-and-the-cloud)
+4.	[The Uber Engineering Tech Stack: The Edge and Beyond](https://eng.uber.com/tech-stack-part-two)
+5.	[AT&T hopes quantum networking will amplify the power of quantum computing](https://www.cnet.com/news/att-hopes-quantum-networking-will-amplify-the-power-of-quantum-computing/?ftag=COS-05-10aaa0b&linkId=69624140)
+6.	[SoftBank plans drone-delivered IoT and internet by 2023](https://www.networkworld.com/article/3405170/softbank-plans-drone-delivered-iot-and-internet-by-2023.html?)
+7.	[Learning from the Surprising Success of Kubernetes](https://thenewstack.io/learning-from-the-success-of-kubernetes)
+8.	[Microsoft asks to join private Linux security developer list](https://www.zdnet.com/article/microsoft-asks-to-join-private-linux-security-developer-list)
+9.	[Could an AI android live forever? What, like your other IT devices?](https://www.theregister.co.uk/2019/06/28/could_an_ai_android_live_forever_what_like_your_other_it_devices)
+10.	[Eclipse ioFog - Real World Patterns for the Edge](https://www.eclipse.org/community/eclipse_newsletter/2019/january/edge.php)
+
 ## 2019-06-21
 1.	[Google Open Sources Tool For Sharing Confidential Data Sets](https://opensourceforu.com/2019/06/google-open-sources-tool-for-sharing-confidential-data-sets/)
 2.	[NetApp wraps Elements HCI and Google Cloud Platform in Data Fabric](https://www.theregister.co.uk/2019/06/20/netapp_data_fabric/)
