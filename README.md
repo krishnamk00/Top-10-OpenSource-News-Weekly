@@ -8,6 +8,18 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2019-07-05
+1.	[Facebook DLRM – open sourced deep learning recommendation model](https://ai.facebook.com/blog/dlrm-an-advanced-open-source-deep-learning-recommendation-model/)
+2.	[Distrelec Adds SparkFun Electronics’ Open Source Products to its Web Shop](https://opensourceforu.com/2019/07/distrelec-adds-sparkfun-electronics-open-source-products-to-its-web-shop/)
+3.	[Intellectual Property, Open Source and Intelligent Automobiles](https://www.bananaip.com/ip-news-center/intellectual-property-open-source-and-intelligent-automobiles/)
+4.	[Open Source Self-driving Startup Tier IV Raises Over $100 Mn Funding to Expand its Business](https://opensourceforu.com/2019/07/open-source-self-driving-startup-tier-iv-raises-over-100-mn-funding-to-expand-its-business/)
+5.	[World Bank Group encourages the use of open source ](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/inclusive-collaboration)
+6.	[Microsoft feature management open source now](https://github.com/microsoft/FeatureManagement-Dotnet)
+7.	[Timber Vector - It's a faster, better way to collect and ship your log and metric data.](https://github.com/timberio/vector)
+8.	[Google - A C++ library of 20 years worth of code from Google's robot.txt parser is now open sourced!](https://opensource.googleblog.com/2019/07/googles-robotstxt-parser-is-now-open.html)
+9.	[Amazon Corretto 11 to ARM64 - production-ready distribution of OpenJDK.](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html?)
+10.	[Should Google be a bit less like Google to succeed in cloud?](https://www.techrepublic.com/article/should-google-be-a-bit-less-like-google-to-succeed-in-cloud/)
+
 ## 2019-06-28
 1.	[KubeCon 2019 Shanghai Highlights – CNCF expands SIG, KEDA – Event driven  autoscaling k8s, Upbound extends k8s CP, Talos OS for k8s,  and more… ](https://containerjournal.com/2019/06/24/cncf-to-expand-scope-of-sigs)
 2.	[Instaclustr Releases Service Broker to Seamlessly Integrate Customers’ Kubernetes Applications within the Instaclustr Open-Source-as-a-Service Platform](https://www.globenewswire.com/news-release/2019/06/24/1873149/0/en/Instaclustr-Releases-Service-Broker-to-Seamlessly-Integrate-Customers-Kubernetes-Applications-within-the-Instaclustr-Open-Source-as-a-Service-Platform.html)
