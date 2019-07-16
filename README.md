@@ -8,6 +8,18 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2019-07-12
+1.	[FaceBook Hermes - open sourced JavaScript engine optimized for mobile](https://code.fb.com/android/hermes)
+2.  [Microsoft Open Sources its Quantum Development Kit](https://opensourceforu.com/2019/07/microsoft-open-sources-its-quantum-development-kit)
+3.	[Amazon brings serverless pie to Visual Studio Code party](https://www.theregister.co.uk/2019/07/12/aws_visual_studio_code/)
+4.	[Inspired by Red Hat’s Commercial Success, Cloudera Goes 100 Percent Open Source](https://opensourceforu.com/2019/07/inspired-by-red-hats-commercial-success-cloudera-goes-100-percent-open-source)
+5.	[Gartner forecasts big shift in spending away from devices and datacentres](https://www.computerweekly.com/news/252466479/Gartner-forecasts-big-shift-in-spending-away-from-devices-and-datacentres)
+6.	[Nvidia and friends: GPU giant's AI data centre network is going global](https://www.theregister.co.uk/2019/07/12/nvidia_data_centre_network/)
+7.	[WhiteSource, Codota Join Forces to Address Open Source Security Vulnerabilities](https://opensourceforu.com/2019/07/whitesource-codota-join-forces-to-address-open-source-security-vulnerabilities/)
+8.	[Cisco's acquisition of Acacia bolsters service provider offerings](https://searchnetworking.techtarget.com/news/252466542/Ciscos-acquisition-of-Acacia-bolsters-service-provider-offerings?)
+9.	[Juniper Networks Extends Juke Storage to Kubernetes](https://containerjournal.com/2019/07/15/juniper-networks-extends-juke-storage-to-kubernetes/)
+10.	[Open Source Sustainability model – what the data says](https://staltz.com/software-below-the-poverty-line.html)
+
 ## 2019-07-05
 1.	[Facebook DLRM – open sourced deep learning recommendation model](https://ai.facebook.com/blog/dlrm-an-advanced-open-source-deep-learning-recommendation-model/)
 2.	[Distrelec Adds SparkFun Electronics’ Open Source Products to its Web Shop](https://opensourceforu.com/2019/07/distrelec-adds-sparkfun-electronics-open-source-products-to-its-web-shop/)
