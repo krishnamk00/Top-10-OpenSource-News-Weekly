@@ -8,6 +8,18 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2019-07-19
+1.	[OSCON 2019 Highlights: IBM\AT&T strategic alliance and Kabanero + Appsody + Codewind; AWS rust-vmm + App Mesh; and more…]( https://www.oreilly.com/ideas/highlights-from-oscon-2019)
+2.	[Google Cloud gains in Gartner's 2019 cloud infrastructure Magic Quadrant](https://www.zdnet.com/article/google-cloud-gains-in-gartners-2019-cloud-infrastructure-magic-quadrant/)
+3.	[Weaveworks Releases Ignite, AWS Firecracker-Powered Software for Running Containers as VMs](https://www.infoq.com/news/2019/07/weaveworks-ignite-firecracker/)
+4.	[Year 2019 Mind: Next billion dollar startups](https://www.forbes.com/sites/amyfeldman/2019/07/16/next-billion-dollar-startups-2019/#792e2bc11d43)
+5.	(Yugabyte DB license 100% open source – Why the change?)(https://blog.yugabyte.com/why-we-changed-yugabyte-db-licensing-to-100-open-source/)
+6.	[Microsoft wins multibillion-dollar cloud deal from AT&T](https://www.cnbc.com/2019/07/16/microsoft-wins-multibillion-dollar-cloud-deal-from-att.html)
+7.	[How AI Accelerators Are Changing The Face Of Edge Computing](https://www.forbes.com/sites/janakirammsv/2019/07/15/how-ai-accelerators-are-changing-the-face-of-edge-computing/#7ff121d3674f ) 
+8.	[Facebook Open Source Management with Tom Occhino](https://softwareengineeringdaily.com/2019/07/18/facebook-open-source-management-with-tom-occhino/)
+9.	[Microsoft adds Internet Explorer mode to Chromium Edge, announces roadmap](https://www.theregister.co.uk/2019/07/17/microsoft_adds_internet_explorer_mode_to_chromium_edge_announces_roadmap/)
+10.	[Kubernetes updates: Carbon AIOps; 42Crunch brings API firewall; IBM Cabenaro; Camunda workflow engine; Pivotal with Alpha on K8s; Acqua security virtual patching; Tigera eBPF container networking; Google Deep learning containers](https://containerjournal.com/2019/07/18/carbon-relay-brings-aiops-to-kubernetes/)
+
 ## 2019-07-12
 1.	[FaceBook Hermes - open sourced JavaScript engine optimized for mobile](https://code.fb.com/android/hermes)
 2.  [Microsoft Open Sources its Quantum Development Kit](https://opensourceforu.com/2019/07/microsoft-open-sources-its-quantum-development-kit)
