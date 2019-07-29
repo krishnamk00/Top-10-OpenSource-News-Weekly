@@ -8,6 +8,18 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2019-07-26
+1.	[Microsoft looks to 'do for data sharing what open source did for code](https://www.zdnet.com/article/microsoft-looks-to-do-for-data-sharing-what-open-source-did-for-code/)
+2.	[IBM Releases Cancer-Killing Drug AI Projects to The Open Source Community](https://opensourceforu.com/2019/07/ibm-releases-cancer-killing-drug-ai-projects-to-the-open-source-community/)
+3.	[Microsoft beats Amazon and Google to open first cloud region in the Middle East](https://venturebeat.com/2019/06/18/microsoft-beats-amazon-and-google-to-opens-its-first-cloud-region-in-the-middle-east/)
+4.	[Fujitsu, GE Research Join LF Edge to Propel Open Source Innovation at the Edge](https://www.linuxfoundation.org/press-release/2019/07/fujitsu-and-ge-research-join-lf-edge-as-premier-members-to-propel-open-source-innovation-at-the-edge/)
+5.	[Instaclustr Ties Open Services Broker to Kubernetes](https://containerjournal.com/2019/06/24/instaclustr-ties-open-services-broker-to-kubernetes/)
+6.	[Apple nabs Intel's modem business in $1 billion bet on 5G](https://www.cnet.com/news/apple-nabs-intels-modem-business-in-1-billion-bet-on-5g/#ftag=COS-05-10aaa0j)
+7.	[Google revealed that its cloud business is on run rate of more than $8 billion, and it plans to triple the size of its salesforce](https://www.businessinsider.in/Google-revealed-that-its-cloud-business-is-on-run-rate-of-more-than-8-billion-and-it-plans-to-triple-the-size-of-its-salesforce/articleshow/70387581.cms)
+8.	[Alibaba crafts world's 'fastest' 'open-source' RISC-V processor yet: 16 cores, 64-bit, 2.5GHz, 12nm, out-of-order exec](https://www.theregister.co.uk/2019/07/27/alibaba_risc_v_chip/)
+9.	[What’s Next for Containers? A Few Predictions](https://containerjournal.com/2019/07/26/whats-next-for-containers-a-few-predictions/)
+10.	[Mozilla's Firefox Reality VR Browser Now Available on Oculus Quest, With Tracking Data Protection](https://www.infoq.com/news/2019/07/firefox-reality-oculus-quest/)
+
 ## 2019-07-19
 1.	[OSCON 2019 Highlights: IBM\AT&T strategic alliance and Kabanero + Appsody + Codewind; AWS rust-vmm + App Mesh; and more…]( https://www.oreilly.com/ideas/highlights-from-oscon-2019)
 2.	[Google Cloud gains in Gartner's 2019 cloud infrastructure Magic Quadrant](https://www.zdnet.com/article/google-cloud-gains-in-gartners-2019-cloud-infrastructure-magic-quadrant/)
