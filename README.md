@@ -8,6 +8,18 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2019-08-02
+1.	[Facebook to open source advanced photo and video-matching technology](https://news.sky.com/story/facebook-to-open-source-advanced-photo-and-video-matching-technology-11775734)
+2.	[Microsoft buys data-access control vendor BlueTalon](https://www.zdnet.com/article/microsoft-buys-data-access-control-vendor-bluetalon/)
+3.	[VMware to Acquire AI and ML Startup Uhana to Boost Telco Portfolio](https://www.thefastmode.com/solution-vendors-m-a/15212-vmware-to-acquire-ai-and-ml-startup-uhana-to-boost-telco-portfolio)
+4.	[QuantumBlack open sources its data analytics framework](https://www.computerworld.com/article/3428080/quantumblack-open-sources-its-data-analytics-framework.html)
+5.	[NPM: Free public JavaScript registry will continue](https://www.infoworld.com/article/3412143/npm-free-public-javascript-registry-will-continue.html)
+6.	[The VR Linux desktop is on its way](https://www.zdnet.com/article/the-vr-linux-desktop-is-on-its-way/)
+7.	[Google shores up G Suite against hapless users in the enterprise](https://www.theregister.co.uk/2019/08/01/google_rolls_out_advanced_protection_beta_for_g_suite/)
+8.	[Amazon acquires enterprise flash storage startup E8 Storage](https://www.geekwire.com/2019/amazon-acquires-enterprise-flash-storage-startup-e8-storage/)
+9.	[VMware’s Software Defined Data Center Comes To Google Cloud Platform](https://www.forbes.com/sites/janakirammsv/2019/07/31/vmwares-software-defined-data-center-comes-to-google-cloud-platform/#410ab2c62a50)
+10.	[Why Kubernetes will disappear](https://levelup.gitconnected.com/why-kubernetes-will-disappear-10ffcfb39f01)
+
 ## 2019-07-26
 1.	[Microsoft looks to 'do for data sharing what open source did for code](https://www.zdnet.com/article/microsoft-looks-to-do-for-data-sharing-what-open-source-did-for-code/)
 2.	[IBM Releases Cancer-Killing Drug AI Projects to The Open Source Community](https://opensourceforu.com/2019/07/ibm-releases-cancer-killing-drug-ai-projects-to-the-open-source-community/)
