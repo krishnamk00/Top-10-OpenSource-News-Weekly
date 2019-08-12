@@ -17,7 +17,7 @@ This aggregation is for just information/education purpose only.
 6.	[Microsoft Open Sources its AI Debugging and Visualization Tool ‘TensorWatch’](https://opensourceforu.com/2019/08/microsoft-open-sources-its-ai-debugging-and-visualization-tool-tensorwatch/)
 7.	[Salesforce teams up with Alibaba in foray into China & Buys ClickSoftware for $1.35B](https://www.computerweekly.com/news/252467323/Salesforce-teams-up-with-Alibaba-in-foray-into-China)
 8.	[ForgeRock Releases Open Source IoT Edge Controller Solution to Secure Device Identities](https://opensourceforu.com/2019/08/forgerock-releases-open-source-iot-edge-controller-solution-to-secure-device-identities/)
-9.	[IBM AI Explainability 360, a comprehensive open source toolkit of state-of-the-art algorithms] (https://www.ibm.com/blogs/research/2019/08/ai-explainability-360/)
+9.	[IBM AI Explainability 360, a comprehensive open source toolkit of state-of-the-art algorithms](https://www.ibm.com/blogs/research/2019/08/ai-explainability-360/)
 10.	[Huawei's Harmony OS Open source`d](https://www.forbes.com/sites/davidphelan/2019/08/10/move-over-android-huaweis-harmony-os-is-plan-b-but-could-be-implemented-in-days-if-needed/#788dc8241f57)
 
 ## 2019-08-02
