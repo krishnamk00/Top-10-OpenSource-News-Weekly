@@ -8,6 +8,18 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2019-08-09
+1.	[GitHub into DevOps – GitHub Actions](https://www.zdnet.com/article/github-actions-moves-github-into-devops/)
+2.	[Open Sourcing the Kubernetes Security Audit](https://www.cncf.io/blog/2019/08/06/open-sourcing-the-kubernetes-security-audit/)
+3.	[Mesosphere changes name to D2IQ, shifts focus to Kubernetes, cloud native](https://techcrunch.com/2019/08/05/mesosphere-changes-name-to-d2iq-shifts-focus-to-kubernetes-cloud-native/)
+4.	[HPE buys MapR, aims to extend portfolio for AI, machine learning, analytics](https://www.zdnet.com/article/hpe-buys-mapr-aims-to-extend-portfolio-for-ai-machine-learning-analytics/)
+5.	[CircleCI goes native on Microsoft's OS](https://www.theregister.co.uk/2019/08/07/circleci/)
+6.	[Microsoft Open Sources its AI Debugging and Visualization Tool ‘TensorWatch’](https://opensourceforu.com/2019/08/microsoft-open-sources-its-ai-debugging-and-visualization-tool-tensorwatch/)
+7.	[Salesforce teams up with Alibaba in foray into China & Buys ClickSoftware for $1.35B](https://www.computerweekly.com/news/252467323/Salesforce-teams-up-with-Alibaba-in-foray-into-China)
+8.	[ForgeRock Releases Open Source IoT Edge Controller Solution to Secure Device Identities](https://opensourceforu.com/2019/08/forgerock-releases-open-source-iot-edge-controller-solution-to-secure-device-identities/)
+9.	[IBM AI Explainability 360, a comprehensive open source toolkit of state-of-the-art algorithms] (https://www.ibm.com/blogs/research/2019/08/ai-explainability-360/)
+10.	[Huawei's Harmony OS Open source`d](https://www.forbes.com/sites/davidphelan/2019/08/10/move-over-android-huaweis-harmony-os-is-plan-b-but-could-be-implemented-in-days-if-needed/#788dc8241f57)
+
 ## 2019-08-02
 1.	[Facebook to open source advanced photo and video-matching technology](https://news.sky.com/story/facebook-to-open-source-advanced-photo-and-video-matching-technology-11775734)
 2.	[Microsoft buys data-access control vendor BlueTalon](https://www.zdnet.com/article/microsoft-buys-data-access-control-vendor-bluetalon/)
