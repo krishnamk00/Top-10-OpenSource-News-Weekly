@@ -8,6 +8,18 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2019-08-16
+1.	[China to launch its first open-source foundation](http://www.globaltimes.cn/content/1160954.shtml)
+2.	[CloudBees Extends Scope of Google Cloud Alliance](https://containerjournal.com/2019/08/14/cloudbees-extends-scope-of-google-cloud-alliance/)
+3.	[It's official – Google AI gives you cancer ...diagnosis in real time: Neural net can spot breast, prostate tumors](https://www.theregister.co.uk/2019/08/14/google_ai_microscope/)
+4.	[Dell Technologies and AT&T Collaborate on Open Source Edge Computing and 5G Software Infrastructure](https://finance.yahoo.com/news/dell-technologies-t-collaborate-open-120000490.html)
+5.	[Microsoft slathers Visual Studio 2019 with extra Docker love, triggers Hot Reload in Preview 2](https://www.theregister.co.uk/2019/08/14/visual_studio_2019_16_3_preview_2/)
+6.	[Rise of Open Service Brokers in the Cloud Services Ecosystem](https://containerjournal.com/2019/08/15/open-service-brokers-and-cloud-services-containerized-apps/)
+7.	[How open source can help banks combat fraud and money laundering](https://www.redhat.com/en/blog/how-open-source-can-help-banks-combat-fraud-and-money-laundering)
+8.	[Amdocs and Microsoft Augment Alliance to Spur Operator Growth and Open Source Cloud Adoption](https://futurumresearch.com/amdocs-and-microsoft-augment-alliance-to-spur-operator-growth-and-open-source-cloud-adoption/)
+9.	[Big Customers Pressure AWS to Step Up Open Source Support](https://www.theinformation.com/articles/big-customers-pressure-aws-to-step-up-open-source-support)
+10.	[MIT s a comprehensive report on open-source publishing software](https://www.miragenews.com/mit-s-a-comprehensive-report-on-open-source-publishing-software/)
+
 ## 2019-08-09
 1.	[GitHub into DevOps – GitHub Actions](https://www.zdnet.com/article/github-actions-moves-github-into-devops/)
 2.	[Open Sourcing the Kubernetes Security Audit](https://www.cncf.io/blog/2019/08/06/open-sourcing-the-kubernetes-security-audit/)
