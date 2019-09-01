@@ -17,8 +17,8 @@ This aggregation is for just information/education purpose only.
 6. [Microsoft readies exFAT patents for Linux and open source](https://www.zdnet.com/article/microsoft-readies-exfat-patents-for-linux-and-open-source/)
 7. [Tencent is releasing a voice-activated version of WeChat optimized for cars](https://www.businessinsider.in/Tencent-is-releasing-a-voice-activated-version-of-WeChat-optimized-for-cars/articleshow/70880492.cms)
 8. [The top companies providing & using banking-as-a-service technology](https://www.businessinsider.com/banking-as-a-service-platform-providers?r=US&IR=T)
-9. [Lighttbend Launches open source project CloudState for Knative / Kubernetes](https://www.lightbend.com/company/news/lightbend-launches-open-source-project-cloudstate-for-knative-kubernetes)
-10 [GDPR...rrrse! Mass-mail fail as German biz asks UK resellers for consent to use their dealer data](https://www.theregister.co.uk/2019/08/28/gdpr_email_fail/)
+9. [Lighttbend Launches open source project CloudState for Knative / Kubernetes](https://www.lightbend.com/company/news/lightbend-launches-open-source-project-cloudstate-for-knative-kubernetes
+10. [GDPR...rrrse! Mass-mail fail as German biz asks UK resellers for consent to use their dealer data](https://www.theregister.co.uk/2019/08/28/gdpr_email_fail/)
 
 ## 2019-08-23
 1. [Intel, IBM, Google, Microsoft & others join new security-focused industry group](https://www.zdnet.com/article/intel-ibm-google-microsoft-others-join-new-security-focused-industry-group/)
