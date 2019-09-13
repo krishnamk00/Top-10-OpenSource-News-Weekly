@@ -8,6 +8,18 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2019-09-13
+1. [Google launches an open-source version of its differential privacy library](https://techcrunch.com/2019/09/05/google-launches-an-open-source-version-of-its-differential-privacy-library/)
+2. [Google announces alpha of Cloud Dataproc for Kubernetes](https://www.zdnet.com/article/google-announces-alpha-of-cloud-dataproc-for-kubernetes/)
+3. [Kong open sources universal service mesh Kuma](https://sdtimes.com/micro/kong-open-sources-universal-service-mesh-kuma/)
+4. [MLIR: accelerating AI with open-source infrastructure](https://www.blog.google/technology/ai/mlir-accelerating-ai-open-source-infrastructure/)
+5. [Twitter now part of GraphQL](https://twitter.com/TwitterOSS/status/1171189548409163777)
+6. [HashiCorp announces fully managed service mesh on Azure](https://techcrunch.com/2019/09/10/hashicorp-announces-fully-managed-service-mesh-on-azure/)
+7. [Snyk grabs $70M more to detect security vulnerabilities in open-source code and container](https://techcrunch.com/2019/09/10/snyk-grabs-70m-more-to-detect-security-vulnerabilities-in-open-source-code-and-containers/)
+8. [ScyllaDB takes on Amazon with new DynamoDB migration tool](https://techcrunch.com/2019/09/11/scylladb-takes-on-amazon-with-new-dynamodb-migration-tool/)
+9. [China's cloud market jumps 58%: OK Alibaba, you've lost your Ma but you're still leading](https://www.theregister.co.uk/2019/09/12/china_cloud_growth/)
+10. [Accelerating the GitHub Sponsors beta with Stripe Connect](https://github.blog/2019-09-10-accelerating-the-github-sponsors-beta/)
+
 ## 2019-09-06
 1.	[Microsoft buys cloud-migration specialist Movere](https://www.zdnet.com/article/microsoft-buys-cloud-migration-specialist-movere/)
 2.	[Containous Unveils Maesh Service Mesh for Kubernetes](https://containerjournal.com/topics/container-management/containous-unveils-maesh-service-mesh-for-kubernetes/)
