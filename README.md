@@ -8,6 +8,18 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2019-09-06
+1.	[Microsoft buys cloud-migration specialist Movere](https://www.zdnet.com/article/microsoft-buys-cloud-migration-specialist-movere/)
+2.	[Containous Unveils Maesh Service Mesh for Kubernetes](https://containerjournal.com/topics/container-management/containous-unveils-maesh-service-mesh-for-kubernetes/)
+3.	[EU turns from American public clouds to Nextcloud private clouds](https://www.zdnet.com/article/eu-turns-from-american-public-clouds-to-nextcloud-private-clouds/)
+4.	[CNCF Highlights Kubernetes Progress 5 Years On](https://containerjournal.com/topics/container-ecosystems/cncf-highlights-kubernetes-progress-5-years-on/)
+5.	[Introducing Cyborg, an Open Source iOS Implementation of Android VectorDrawable](https://eng.uber.com/cyborg/)
+6.	[Google launches an open-source version of its differential privacy library](https://techcrunch.com/2019/09/05/google-launches-an-open-source-version-of-its-differential-privacy-library/)
+7.	[European Commission FOSSA - – Free and Open Source Software Auditing Started collecting Opinion]( https://ec.europa.eu/info/departments/informatics/eu-fossa-2_en)
+8.	[DeepMind’s Researchers Are Now Training Their AI By Using Soccer]( https://thenewstack.io/deepminds-researchers-are-now-training-their-ai-by-using-soccer/)
+9.	[Brave accuses Google of trampling Europe's GDPR with stealthy netizen-stalking adverts](https://www.theregister.co.uk/2019/09/04/google_gdpr_brave/)
+10.	[Google code review guidelines are now open source]( https://google.github.io/eng-practices/review/reviewer/)
+
 ## 2019-08-30
 1. [VMWare launched Kubernetes Academy](https://blogs.vmware.com/cloudnative/2019/08/27/introducing-kubernetes-academy-free-cloud-native-education-platform/)
 2. [Microsoft unveils cross-Azure IoT collaboration with IoT Messaging](https://www.neowin.net/news/microsoft-unveils-cross-azure-iot-collaboration-with-iot-messaging/)
