@@ -8,6 +8,18 @@ This aggregation is for just information/education purpose only.
 
 ## News Links:
 
+## 2019-09-20
+1. [What is Google up to with Anthos? More toys dropped for Kubernetes-style hybrid cloud](https://www.theregister.co.uk/2019/09/18/google_anthos_new_features_announced/)
+2. [Magma - Mirantis Aligns With Facebook to Advance CNFs](https://containerjournal.com/topics/container-networking/mirantis-aligns-with-facebook-to-advance-cnfs/)
+3. [FOSSA scores $8.5 million Series A to help enterprise manage open-source licenses](https://techcrunch.com/2019/09/16/fossa-scores-8-5-million-series-a-to-help-enterprise-manage-open-source-licenses/)
+ 4. [Red Hat Quay 3.1, a highly available Kubernetes container registry, arrives](https://www.zdnet.com/article/red-hat-quay-3-1-a-highly-available-kubernetes-container-registry-arrives/)
+ 5. [Rumors hint that Google has accomplished quantum supremacy](https://www.sciencenews.org/article/rumors-hint-that-google-has-accomplished-quantum-supremacy)
+6. [Open-source companies gather to gripe: Cloud giants sell our code as a service – and we get the square root of nothing](https://www.theregister.co.uk/2019/09/20/open_source_companies_cloud/)
+7. [Balancing Makers and Takers to scale and sustain Open Source](https://dri.es/balancing-makers-and-takers-to-scale-and-sustain-open-source)
+8. [No, Kubernetes is Not the New OpenStack, Says Canonical](https://containerjournal.com/topics/container-ecosystems/no-kubernetes-is-not-the-new-openstack-says-canonical/)
+9. [Introducing Feast: an open source feature store for machine learning](https://cloud.google.com/blog/products/ai-machine-learning/introducing-feast-an-open-source-feature-store-for-machine-learning)
+10. [Huawei to build a global open-source software ecosystem without US tech](https://www.straitstimes.com/business/huawei-to-build-a-global-open-source-source-ecosystem-without-us-tech)
+    
 ## 2019-09-13
 1. [Google launches an open-source version of its differential privacy library](https://techcrunch.com/2019/09/05/google-launches-an-open-source-version-of-its-differential-privacy-library/)
 2. [Google announces alpha of Cloud Dataproc for Kubernetes](https://www.zdnet.com/article/google-announces-alpha-of-cloud-dataproc-for-kubernetes/)
