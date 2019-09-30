@@ -3,6 +3,19 @@
 
 ## News Links:
 
+
+## 2019-09-27
+1. [Facebook Buys Neural Interface Start-up Developing Mind Control Tech](https://sputniknews.com/world/201909241076879069-facebook-buys-neural-interface-start-up-developing-mind-control-tech/)
+2. [Industry’s First Enterprise Data Cloud Launched by Cloudera](https://www.cloudera.com/about/news-and-blogs/press-releases/2019-09-24-industrys-first-enterprise-data-cloud-launched-by-cloudera.html)
+3. [Deloitte Launches New Public Data Visualization Tool Open Source Compass](https://www.analyticsindiamag.com/deloitte-launches-new-public-data-visualization-tool-open-source-compass/)
+4. [Google Replaces YARN with Kubernetes to Schedule Apache Spark](https://thenewstack.io/big-data-google-replaces-yarn-with-kubernetes-to-schedule-apache-spark/)
+5. [NCC Group releases Sniffle, the world’s first open source sniffer for Bluetooth 5](https://github.com/nccgroup/sniffle)
+6. [Azure DevOps Demo Generator is now open source](https://devblogs.microsoft.com/devops/azure-devops-demo-generator-is-now-open-source/)
+7. [New open-source microscope may help paralysis patients](https://www.theweek.in/news/health/2019/09/19/New-open-source-microscope-may-help-paralysis-patients.html)
+8. [Microsoft And Cisco Talos Spot Clever New Malware That Turns Computers Into Cybercrime Accomplices](https://www.forbes.com/sites/leemathews/2019/09/29/microsoft-and-cisco-talos-spot-clever-new-malware-that-turns-computers-into-cybercrime-accomplices/)
+9. [OpenSource Netdata, a monitoring startup  announces $17M Series A](https://techcrunch.com/2019/09/25/netdata-a-monitoring-startup-with-50-year-old-founder-announces-17m-series-a/)
+10. [Inspur and Baidu Jointly Launched World's First OAI Compliant Open AI Computing Solution](https://www.tmcnet.com/usubmit/2019/09/27/9025024.htm)
+    
 ## 2019-09-20
 1. [What is Google up to with Anthos? More toys dropped for Kubernetes-style hybrid cloud](https://www.theregister.co.uk/2019/09/18/google_anthos_new_features_announced/)
 2. [Magma - Mirantis Aligns With Facebook to Advance CNFs](https://containerjournal.com/topics/container-networking/mirantis-aligns-with-facebook-to-advance-cnfs/)
