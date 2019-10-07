@@ -3,6 +3,17 @@
 
 ## News Links:
 
+## 2019-10-04
+1. [The Linux Foundation and IOTA Foundation join forces through LF Edge](https://blog.iota.org/towards-open-collaboration-1926e94514b8)
+2. [Streamlit launches open-source machine learning application development framework](https://techcrunch.com/2019/10/01/streamlit-launches-open-source-machine-learning-application-development-framework/)
+3. [Container-native load balancing on GKE now generally available](https://cloudblog.withgoogle.com/products/containers-kubernetes/container-native-load-balancing-on-gke-now-generally-available/amp/)
+4. [Amazon launches AWS IQ, a service to connect customers with certified experts](https://www.zdnet.com/article/amazon-launches-aws-iq-a-service-to-connect-customers-with-certified-experts/)
+5. [Kafka Spawns Open-Source KarelDB](https://www.datanami.com/2019/09/30/kafka-spawns-open-source-kareldb/)
+6. [Kong acquires Opensource Insomnia, launches Kong Studio for API development](https://techcrunch.com/2019/10/02/kong-acquires-insomnia-launches-kong-studio-for-api-development/)
+7. [Render announces object storage service at TechCrunch Disrupt](https://techcrunch.com/2019/10/02/render-announces-object-storage-service-at-techcrunch-disrupt/)
+8. [WKSctl - A New OSS Kubernetes Manager using GitOps](https://www.weave.works/blog/wksctl-a-new-oss-kubernetes-manager-using-gitops)
+9. [Alteryx acquires machine learning startup Feature Labs from MI](https://techcrunch.com/2019/10/04/alteryx-acquires-machine-learning-startup-feature-labs/)
+10. [Docker is in deep trouble](https://www.zdnet.com/article/docker-is-in-deep-trouble/)
 
 ## 2019-09-27
 1. [Facebook Buys Neural Interface Start-up Developing Mind Control Tech](https://sputniknews.com/world/201909241076879069-facebook-buys-neural-interface-start-up-developing-mind-control-tech/)
