@@ -3,6 +3,18 @@
 
 ## News Links:
 
+## 2019-10-11
+1. [AWS Promotional Credits for Open Source Projects](https://aws.amazon.com/blogs/opensource/aws-promotional-credits-open-source-projects/)
+2. [Firekube - Fast and Secure Kubernetes Clusters Using Weave Ignite](https://www.weave.works/blog/firekube-fast-and-secure-kubernetes-clusters-using-weave-ignite)
+3. [Microsoft says it has come a long way since 'that' open source comment](https://www.zdnet.com/article/microsoft-says-it-has-come-a-long-way-since-that-open-source-comment/)
+4. [The OpenStack Train keeps chugging on](https://www.zdnet.com/article/the-openstack-train-keeps-chugging-on/)
+5. [Google unplugs AMP, hooks it into OpenJS Foundation after critics turn up the volume](https://www.theregister.co.uk/2019/10/14/googles_amp_openjs/)
+6. [AWS faces Elasticsearch lawsuit for trademark infringement](https://searchaws.techtarget.com/news/252471650/AWS-faces-Elasticsearch-lawsuit-for-trademark-infringement)
+7. [Former Google CEO Eric Schmidt believes biology is the next frontier in computing](https://www.cnbc.com/2019/10/02/eric-schmidt-says-hes-eyeing-biology-for-the-next-computing-frontier.html)
+8. [SAP to Make HANA Database Available on Kubernetes](https://containerjournal.com/topics/container-ecosystems/sap-to-make-hana-database-available-on-kubernetes/)
+9. [AWS’ Sponsorship of the Rust Project](https://aws.amazon.com/jp/blogs/opensource/aws-sponsorship-of-the-rust-project/)
+10. [UNICEF Launches Cryptocurrency Fund to Back Open Source Technology](https://www.coindesk.com/unicef-launches-cryptocurrency-fund-to-back-open-source-technology)
+       
 ## 2019-10-04
 1. [The Linux Foundation and IOTA Foundation join forces through LF Edge](https://blog.iota.org/towards-open-collaboration-1926e94514b8)
 2. [Streamlit launches open-source machine learning application development framework](https://techcrunch.com/2019/10/01/streamlit-launches-open-source-machine-learning-application-development-framework/)
