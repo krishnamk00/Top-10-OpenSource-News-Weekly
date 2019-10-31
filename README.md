@@ -3,6 +3,42 @@
 
 ## News Links:
 
+## 2019-11-01
+1. [McAfee and IBM Security to lead the Open Source Cybersecurity Alliance](https://opensource.com/article/19/10/news-october-13)
+2. [IDC: Top 10 worldwide IT predictions for 2020](https://www.techrepublic.com/article/idc-top-10-worldwide-it-predictions-for-2020/)
+3. [Grafana Open source data analytics stack funding received](https://techcrunch.com/2019/10/24/grafana-labs-nabs-24m-series-a-for-open-source-based-data-analytics-stack/)
+4. [Mirantis takes over the OpenStack administrator certification](https://www.zdnet.com/article/mirantis-takes-over-the-openstack-administrator-certification/)
+5. [Ubuntu 19.10: A look into Ubuntu's enterprise future](https://www.zdnet.com/article/ubuntu-19-10-a-look-into-ubuntus-enterprise-future/)
+6. [Top Linux developer on Intel chip security problems: 'They're not going away.'](https://www.zdnet.com/article/top-linux-developer-on-intel-chip-security-problems-theyre-not-going-away/)
+7. [GitHub: All open-source developers anywhere are welcome](https://www.zdnet.com/article/github-all-open-source-developers-anywhere-are-welcome/)
+8. [Collapse OS is an operating system for the post-apocalypse](https://opensource.com/article/19/10/news-october-13)
+9. [Google's Keeping Knative Development Under Its Thumb 'For the Foreseeable Future'](https://www.datacenterknowledge.com/google-alphabet/googles-keeping-knative-development-under-its-thumb-foreseeable-future)
+10. [KubeVirt in CNCF, SRE struggles and more in open source](https://opensource.com/article/19/10/kubernetes-sre-more-industry-trends?utm_campaign=intrel)
+
+## 2019-10-25
+1. [Automated testing comes to the Linux kernel: KernelCI](https://www.zdnet.com/article/automated-testing-comes-to-the-linux-kernel-kernelci/)
+2. [Ontotext's GraphDB Open-sources its Front-end and Engine Plugins to Empower Knowledge Graph Solutions](https://www.newkerala.com/news/read/235435/ontotexts-graphdb-90-open-sources-its-front-end-and-engine-plugins-to-empower-knowledge-graph-solutions.html)
+3. [The ProtonMail app on iOS is now fully open source](https://www.neowin.net/news/the-protonmail-app-on-ios-is-now-fully-open-source)
+4. [Has container hype jumped the shark? Developers are getting tired!!](https://www.zdnet.com/article/has-container-hype-jumped-the-shark/)
+5. [Google open source brand is more stronger than its peers](https://www.linkedin.com/posts/pavan-belagatti-growthmarketer_opensource-kubernetes-istio-activity-6593746552458661888-GFVz/)
+6. [OPEN-SOURCE ARM PUTS ROBOTICS WITHIN REACH](https://hackaday.com/2019/10/17/open-source-arm-puts-robotics-within-reach/)
+7. [GitLab pulls U-turn on plan to crank up usage telemetry after both staff and customers cry foul](https://www.theregister.co.uk/2019/10/30/gitlab_backtracks_on_plan_to_add_usage_telemetry_after_user_protests/)
+8. [China’s New Panopticoin – Commentary on China’s Cryptocurrency](https://www.the-blockchain.com/2019/10/31/george-mcdonaugh-chinas-new-panopticoin-commentary-on-chinas-cryptocurrency/)
+9. [Microsoft Quantum development Kit Open Source’d view](https://www.youtube.com/watch?v=lRv28mAjOjw&feature=youtu.be)
+10. [Open Source Program Management 2019 Survey Results](https://todogroup.org/blog/survey-2019/)
+
+## 2019-10-18
+1. [Open Sourcing Amundsen: A Data Discovery And Metadata Platform](https://eng.lyft.com/open-sourcing-amundsen-a-data-discovery-and-metadata-platform-2282bb436234)
+2. [Azure Container Registry Adds Teleportation](https://stevelasker.blog/2019/10/29/azure-container-registry-teleportation/)
+3. [Datameer announces $40M investment as it pivots away from Hadoop roots](https://techcrunch.com/2019/10/29/datameer-announces-40m-investment-as-it-pivots-away-from-hadoop-roots/)
+4. [Webiny announces $348K seed to build open-source serverless CMS](https://techcrunch.com/2019/10/29/webiny-announces-347k-seed-to-build-open-source-serverless-cms/)
+5. [Rubicon Project Acquires RTK.io, A Leader in Open Source Header Bidding Solutions](https://www.businesswireindia.com/rubicon-project-acquires-rtk-io-a-leader-in-open-source-header-bidding-solutions-65485.html)
+6. [Netflix release Polynote machine learning tool](https://opensource.com/article/19/10/news-october-26)
+7. [Google goes full Anti-Flash-ist, boots Adobe's insecure monstrosity out of web search index](https://www.theregister.co.uk/2019/10/29/google_to_stop_indexing_flash_files/)
+8. [Linux kernel is getting more reliable, says Linus Torvalds](https://www.theregister.co.uk/2019/10/30/linux_kernel_is_getting_more_reliable_says_linus_torvalds/)
+9. [Enterprise JavaBeans, infrastructure predictions, and more industry trends](https://opensource.com/article/19/10/enterprise-javabeans-and-more-industry-trends)
+10. [What Does the Open Application Model (OAM) and Rudr Mean for Kubernetes Developers?](https://thenewstack.io/what-does-the-open-application-model-oam-and-rudr-mean-for-kubernetes-developers/)
+
 ## 2019-10-11
 1. [AWS Promotional Credits for Open Source Projects](https://aws.amazon.com/blogs/opensource/aws-promotional-credits-open-source-projects/)
 2. [Firekube - Fast and Secure Kubernetes Clusters Using Weave Ignite](https://www.weave.works/blog/firekube-fast-and-secure-kubernetes-clusters-using-weave-ignite)
