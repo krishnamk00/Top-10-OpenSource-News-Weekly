@@ -3,6 +3,18 @@
 
 ## News Links:
 
+## 2019-11-08
+1. [Microsoft Ignite 2019: Arc, Synapse, Autonokous systems, developer tools, Chromium Edge](https://www.avepoint.com/blog/office-365/microsoft-ignite-2019-keynote/)
+2. [D2iQ Previews Significant Expansion of its Ksphere Portfolio of Advanced Kubernetes Offerings](https://www.prnewswire.com/news-releases/d2iq-previews-significant-expansion-of-its-ksphere-portfolio-of-advanced-kubernetes-offerings-for-smarter-day-2-operations-300947707.html?tc=eml_cleartime)
+3. [Apple just opensourced Servicetalk, a network framework on top of netty](https://github.com/apple/servicetalk/)
+4. [Gogole Opentian, the first opensource silicon Root of Trust (RoT) Project](https://security.googleblog.com/2019/11/opentitan-open-sourcing-transparent.html)
+5. [OpenStack to get standardisation boost in China](https://www.computerweekly.com/news/252473427/OpenStack-to-get-standardisation-boost-in-China)
+6. [Lyft Open Sourcing Amundsen: A Data Discovery And Metadata Platform](https://eng.lyft.com/open-sourcing-amundsen-a-data-discovery-and-metadata-platform-2282bb436234)
+7. [Why Azure Arc Is A Game Changer For Microsoft](https://www.forbes.com/sites/janakirammsv/2019/11/05/why-azure-arc-is-a-game-changer-for-microsoft/#7935ecff5430)
+8. [RISC OS: Open Source’d OS Specially Crafted for ARM Computers](https://itsfoss.com/risc-os-is-now-open-source/)
+9. [open source project ODPi Egeria - the world's first open source metadata and governance standard](https://developer.ibm.com/blogs/get-started-with-open-source-project-odpi-egeria/?)
+10. [Google Cardboard Now Open-Source](https://www.programmableweb.com/news/google-cardboard-now-open-source/brief/2019/11/07)
+
 ## 2019-11-01
 1. [McAfee and IBM Security to lead the Open Source Cybersecurity Alliance](https://opensource.com/article/19/10/news-october-13)
 2. [IDC: Top 10 worldwide IT predictions for 2020](https://www.techrepublic.com/article/idc-top-10-worldwide-it-predictions-for-2020/)
