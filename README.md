@@ -1,4 +1,4 @@
-## Place holder for WEEKLY top news from the open source world. 
+## WEEKLY top #10 from open source world. 
 
 
 ## News Links:
