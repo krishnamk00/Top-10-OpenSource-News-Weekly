@@ -3,6 +3,18 @@
 
 ## News Links:
 
+## 2019-11-15
+1. [Mirantis acquires Docker Enterprise](https://techcrunch.com/2019/11/13/mirantis-acquires-docker-enterprise/)
+2. [The ONNX format becomes the newest Linux Foundation project](https://techcrunch.com/2019/11/14/the-onnx-format-becomes-the-newest-linux-foundation-project/)
+3. [AWS, Salesforce join forces with Linux Foundation on Cloud Information Model](https://techcrunch.com/2019/11/13/aws-salesforce-join-forces-with-linux-foundation-on-cloud-information-model/)
+4. [Introducing Intuit Argo Flux – open source GitOps CD](https://www.intuit.com/blog/technology/introducing-argo-flux/?cid=soc_tw_click_us_tech-fy20_aw_blog-default_link_intuit-comms&sf112395802=1)
+5. [The future of Linux desktop application delivery is Flatpak and Snap](https://www.zdnet.com/article/the-future-of-linux-desktop-application-delivery-is-flatpak-and-snap/)
+6. [The Bangle.js, an Open Sourced JavaScript-Powered Smart Watch](https://www.hackster.io/news/the-bangle-js-an-open-sourced-javascript-powered-smart-watch-6359962646c2)
+7. [Red Hat Introduces open source Project Quay container registry](https://www.redhat.com/en/blog/red-hat-introduces-open-source-project-quay-container-registry)
+8. [NVIDIA Jetson Xavier NX Debuts As The Smallest Super Computer For AI At The Edge](https://www.forbes.com/sites/janakirammsv/2019/11/10/nvidia-jetson-xavier-nx-debuts-as-the-smallest-super-computer-for-ai-at-the-edge/#5c0acb7f10b4)
+9. [Google emits Network Intelligence Center to help untangle misconfigured cloud networks](https://www.theregister.co.uk/2019/11/14/google_network_intelligence_center_for_cloud_and_onpremises/)
+10. [Salesforce will adopt Microsoft’s cloud, as the companies cozy up again](https://www.cnbc.com/2019/11/14/salesforce-will-adopt-microsofts-cloud-as-companies-cozy-up-again.html?)
+
 ## 2019-11-08
 1. [Microsoft Ignite 2019: Arc, Synapse, Autonokous systems, developer tools, Chromium Edge](https://www.avepoint.com/blog/office-365/microsoft-ignite-2019-keynote/)
 2. [D2iQ Previews Significant Expansion of its Ksphere Portfolio of Advanced Kubernetes Offerings](https://www.prnewswire.com/news-releases/d2iq-previews-significant-expansion-of-its-ksphere-portfolio-of-advanced-kubernetes-offerings-for-smarter-day-2-operations-300947707.html?tc=eml_cleartime)
