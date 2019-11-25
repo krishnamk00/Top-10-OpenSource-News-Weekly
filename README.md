@@ -3,6 +3,18 @@
 
 ## News Links:
 
+## 2019-11-22
+1. [Google Is Helping Design an Open Source, Ultra-Secure Chip](https://www.wired.com/story/open-titan-open-source-secure-enclave/)
+2. [KubeCon top #10 Annouoncements: Helm3, AgroFlux, Confidential Computing, CodeRady, KaaS, PX-AutoPilot, etc.](https://www.forbes.com/sites/janakirammsv/2019/11/24/10-most-interesting-announcements-from-kubecon--cloudnativecon-2019/#7fd172a1583b)
+3. [Google beefs up punters' data encryption to fend off cyber-thieves](https://www.theregister.co.uk/2019/11/20/google_cloud_next/)
+4. [GitHub makes CodeQL free for research and open source](https://www.infoworld.com/article/3453742/github-makes-codeql-free-for-research-and-open-source.html)
+5. [The world's fastest supercomputers hit higher speeds than ever with Linux](https://www.zdnet.com/article/the-worlds-fastest-supercomputers-hit-higher-speeds-than-ever-with-linux/)
+6. [Microsoft guards Kubernetes' privates with TEEs](https://www.theregister.co.uk/2019/11/22/embrace_extend_and_enclave/)
+7. [Open Invention Network with IBM, Linux Foundation, and Microsoft to protect open-source software from patent trolls](https://zdnet.com/article/open-invention-network-teams-up-with-ibm-linux-foundation-and-microsoft-to-protect-open-source-software-from-patent-trolls/)
+8. [An Open Source License That Requires Users to Do No Harm](https://www.wired.com/story/open-source-license-requires-users-do-no-harm/)
+9. [Githubs new security Lab for Opensource](https://blogs.vmware.com/opensource/2019/11/21/github-new-security-lab/)
+10. [Google Acquires CloudSimple To Bring VMware Customers To Its Cloud](https://www.forbes.com/sites/justinwarren/2019/11/18/google-acquires-cloudsimple-to-bring-vmware-customers-to-its-cloud/#745226ba4bf8)
+
 ## 2019-11-15
 1. [Mirantis acquires Docker Enterprise](https://techcrunch.com/2019/11/13/mirantis-acquires-docker-enterprise/)
 2. [The ONNX format becomes the newest Linux Foundation project](https://techcrunch.com/2019/11/14/the-onnx-format-becomes-the-newest-linux-foundation-project/)
