@@ -1,7 +1,7 @@
 ## WEEKLY top #10 from open source world. 
 
 
-## News Links:
+### Thanks to all you great authors who add value every week to the community!!
 
 ## 2019-11-22
 1. [Google Is Helping Design an Open Source, Ultra-Secure Chip](https://www.wired.com/story/open-titan-open-source-secure-enclave/)
