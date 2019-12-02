@@ -3,6 +3,19 @@
 
 ### Thanks to all you great authors who add value every week to the community!!
 
+## 2019-11-29
+1. [Alink - Alibaba Cloud makes available its self-developed algorithm via open source on Github](https://yourstory.com/2019/11/alibaba-machine-learning-cloud-github-developers)
+2. [Google Envisions Switching to Mainline Linux Kernel for Android](https://opensourceforu.com/2019/11/google-envisions-switching-to-mainline-linux-kernel-for-android/)
+3. [Canonical Adds Support for Multiple MicroK8s for Edge Computing](https://containerjournal.com/topics/container-ecosystems/canonical-adds-support-for-multiple-microk8s/)
+4. [To Go Green, the Energy Industry Goes Open Source](https://www.wired.com/story/go-green-energy-industry-open-source/)
+5. [Open source transparency comes to root of trust hardware](https://www.infoworld.com/article/3454917/open-source-transparency-comes-to-root-of-trust-hardware.html)
+6. [Optane and vSAN: Is this the hyperconverged infrastructure future you're looking for?](https://www.theregister.co.uk/2019/11/27/optane_vsan_intel/)
+7. [How open source changed everything — again](https://www.infoworld.com/article/3481661/how-open-source-changed-everything-again.html)
+8. [Duke University Launches Open Source Learning Tool Kits](https://opensourceforu.com/2019/11/duke-university-launches-open-source-learning-tool-kits/)
+9. [Internet Society CEO: Most people don't care about the .org sell-off](https://www.theregister.co.uk/2019/11/29/isoc_ceo_dot_org_sale/)
+10. [Bezos wants to move industry into orbit: In space, no one can hear you* scream](https://www.theregister.co.uk/2019/11/26/amazon_crazy_week/)
+
+
 ## 2019-11-22
 1. [Google Is Helping Design an Open Source, Ultra-Secure Chip](https://www.wired.com/story/open-titan-open-source-secure-enclave/)
 2. [KubeCon top #10 Annouoncements: Helm3, AgroFlux, Confidential Computing, CodeRady, KaaS, PX-AutoPilot, etc.](https://www.forbes.com/sites/janakirammsv/2019/11/24/10-most-interesting-announcements-from-kubecon--cloudnativecon-2019/#7fd172a1583b)
