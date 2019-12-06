@@ -1,7 +1,20 @@
 ## WEEKLY top #10 from open source world. 
 
 
-### Thanks to all you great authors who add value every week to the community!!
+### Extracts from the open source latest news published.Thanks to all authors!!
+
+## 2019-12-06
+1. [AWS reinvent 2019: Braket, Deepcomposer, Gravitation, Wavelength, Kendra, CodeGuru, more...](https://www.cnbc.com/2019/12/03/amazon-reinvent-2019-aws-launches-chips-services.html)
+2. [Open Repos provides code metrics on open source projects](https://www.infoworld.com/article/3487826/open-repos-provides-code-metrics-on-open-source-projects.html)
+3. [Verizon and AWS team up to deliver First 5G edge cloud computing](https://www.verizon.com/about/news/aws-verizon-5g-edge-cloud-computing)
+4. [CloudBees Preps SaaS Instance of Jenkins X](https://containerjournal.com/topics/container-ecosystems/cloudbees-preps-saas-instance-of-jenkins-x/)
+5. [Canonical now offers AWS optimized Ubuntu Linux](https://www.zdnet.com/article/canonical-now-offers-aws-optimized-ubuntu-linux/)
+6. [Developers join call for GitHub to cancel its ICE contract](https://www.latimes.com/business/technology/story/2019-12-04/github-open-source-developers-ice-contract)
+7. [Kubernetes? 'I don't believe in one tool to rule the world,' says AWS's sassy Jassy](https://www.theregister.co.uk/2019/12/05/kubernetes_aws_ceo/)
+8. [Nvidia Is Preparing An Unexpected Surprise For Linux Users In 2020](https://www.forbes.com/sites/jasonevangelho/2019/12/06/nvidia-is-prepping-an-unexpected-surprise-for-linux-users-in-2020/)
+9. [The open source decade, fueled by cloud and GitHub](https://www.techrepublic.com/article/the-open-source-decade-fueled-by-cloud-and-github/?platform=hootsuite)
+10. [Open-source gaining momentum in the healthcare industry](https://health.economictimes.indiatimes.com/news/health-it/open-source-gaining-momentum-in-the-healthcare-industry/72386864)
+
 
 ## 2019-11-29
 1. [Alink - Alibaba Cloud makes available its self-developed algorithm via open source on Github](https://yourstory.com/2019/11/alibaba-machine-learning-cloud-github-developers)
