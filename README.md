@@ -3,6 +3,18 @@
 
 ### Extracts from the open source latest news published.Thanks to all authors!!
 
+## 2019-12-13
+1. [Twitter CEO hiring a team to develop open source standards for decentralized social networks](https://www.wired.com/story/jack-dorsey-help-you-create-own-twitter/?)
+2. [Microsoft announces public preview of Microsoft Teams for Linux](https://techcrunch.com/2019/12/10/microsoft-announces-public-preview-of-microsoft-teams-for-linux/)
+3. [Adobe XD to Google Flutter Plugin open sourced](https://theblog.adobe.com/xd-flutter-plugin-generate-dart-code-design-elements/?scid=39fb1a6c-c734-438c-b5b7-fb118addc487&mv=social&mv2=owned_social)
+4. [Cisco has launched a single chip architecture](https://www.theregister.co.uk/2019/12/11/cisco_silicon_architecture/)
+5. [Canonical makes Ubuntu for Windows SubSystem for Linux a priority](https://www.zdnet.com/article/canonical-makes-ubuntu-for-windows-subsystem-for-linux-a-priority/)
+6. [Xs:code launches subscription platform to monetize open-source projects](https://techcrunch.com/2019/12/10/xscode-launches-subscription-platform-to-monetize-open-source-projects/)
+7. [Netflix: Our Metaflow Python library for faster data science is now open source](https://www.zdnet.com/article/netflix-our-metaflow-python-library-for-faster-data-science-is-now-open-source/)
+8. [Ubuntu 20.04 LTS Survey Launched](https://www.omgubuntu.co.uk/2019/12/new-ubuntu-user-survey)
+9. [2019 Open Source Security and Risk Analysis (OSSRA) Report](https://www.synopsys.com/software-integrity/resources/analyst-reports/2019-open-source-security-risk-analysis.html?)
+10. [Docker CEO Foresees Developer Tool Advances in 2020 and Beyond](https://containerjournal.com/topics/container-ecosystems/docker-ceo-foresees-developer-tool-advances-in-2020-and-beyond/)
+
 ## 2019-12-06
 1. [AWS reinvent 2019: Braket, Deepcomposer, Gravitation, Wavelength, Kendra, CodeGuru, more...](https://www.cnbc.com/2019/12/03/amazon-reinvent-2019-aws-launches-chips-services.html)
 2. [Open Repos provides code metrics on open source projects](https://www.infoworld.com/article/3487826/open-repos-provides-code-metrics-on-open-source-projects.html)
