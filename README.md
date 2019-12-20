@@ -3,6 +3,18 @@
 
 ### Extracts from the open source latest news published.Thanks to all authors!!
 
+## 2019-12-20
+1. [Apple has released an open-source version of the HomeKit Accessory Development Kit](https://techcrunch.com/2019/12/19/anybody-can-now-make-homekit-accessories)
+2. [Amazon, Apple, and Google take a crack at a home Internet of Things networking standard](https://www.zdnet.com/article/amazon-apple-google-take-a-crack-at-a-home-internet-of-things-networking-standard/)
+3. [First civil partnership recorded on blockchain in Brazil](https://www.zdnet.com/article/first-same-sex-marriage-recorded-on-blockchain-in-brazil/)
+4. [Two of China's largest tech firms are uniting to create a new 'domestic OS'](https://www.zdnet.com/article/two-of-chinas-largest-tech-firms-are-uniting-to-create-a-new-domestic-os/)
+5. [Amazon slams media for not saying nice things about AWS, denies it strip-mines open-source code for huge profits](https://www.theregister.co.uk/2019/12/18/aws_blames_the_media/)
+6. [Atos acquires Google Cloud Premier Partner Maven Wave](https://atos.net/en/2019/press-release_2019_12_18/atos-acquires-google-cloud-premier-partner-maven-wave)
+7. [Google reportedly set a goal of being a top-two cloud player by 2023](https://www.cnbc.com/2019/12/17/google-reportedly-wants-to-be-top-two-player-in-cloud-by-2023.html)
+8. [Cisco acquires ultra-low latency networking specialist Exablaze](https://techcrunch.com/2019/12/16/cisco-acquires-ultra-low-latency-networking-specialist-exablaze/)
+9. [How Kubernetes Has Changed The Face Of Hybrid Cloud](https://www.forbes.com/sites/janakirammsv/2019/12/16/how-kubernetes-has-changed-the-face-of-hybrid-cloud/#1e40ca34228d)
+10. [Tencent Cloud and STMicroelectronics Announce Cooperation on China’s First LoRaWAN Open IoT Platform ](https://www.globenewswire.com/news-release/2019/12/20/1963249/0/en/Tencent-Cloud-and-STMicroelectronics-Announce-Cooperation-on-China-s-First-LoRaWAN-Open-IoT-Platform-at-Tencent-Cloud-IoT-Ecosystem-Summit-2019.html)
+
 ## 2019-12-13
 1. [Twitter CEO hiring a team to develop open source standards for decentralized social networks](https://www.wired.com/story/jack-dorsey-help-you-create-own-twitter/?)
 2. [Microsoft announces public preview of Microsoft Teams for Linux](https://techcrunch.com/2019/12/10/microsoft-announces-public-preview-of-microsoft-teams-for-linux/)
