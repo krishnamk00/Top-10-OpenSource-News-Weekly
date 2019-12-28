@@ -1,7 +1,16 @@
-## WEEKLY top #10 from open source world. 
+## WEEKLY top #10 from open source world. Thanks to all real authors!!
 
-
-### Extracts from the open source latest news published.Thanks to all authors!!
+## 2019-12-27
+1. [Pentagon wants open-source 5G plan in campaign against Huawei](https://www.ft.com/content/6863a21a-234a-11ea-92da-f0c92e957a96?list=intlhomepage)
+2. [Google seeks patent for ML model speed prediction to improve navigation services](https://www.financialexpress.com/industry/technology/google-seeks-patent-for-ml-model-speed-prediction-to-improve-navigation-services/1804080/)
+3. [Gartner’s top 10 infrastructure and operations trends for 2020](https://www.information-age.com/gartner-top-10-infrastructure-and-operations-trends-2020-123486509/)
+4. [Software predictions for 2020 from around the industry](https://sdtimes.com/softwaredev/software-predictions-for-2020-from-around-the-industry/)
+5. [IBM CTO Sees Smaller Container Platforms Ahead – Unkernels and more](https://containerjournal.com/topics/container-ecosystems/ibm-cto-sees-smaller-container-platforms-ahead/)
+6. [AWS, Microsoft, Google Selected for NOAA’s Cloud-Based Open Data Access Initiative](https://www.govconwire.com/2019/12/aws-microsoft-google-selected-for-noaas-cloud-based-open-data-access-initiative-dave-levy-quoted/)
+7. [Linux is now a viable OS for PC gamers](https://www.windowscentral.com/gaming-linux-has-come-long-way)
+8. [HPE goes on the warpath, attacks AWS over vendor lock-in](https://www.theregister.co.uk/2019/12/23/hpe_go_on_the_warpath_seeks_to_scalp_aws_over_vendor_lockin/)
+9. [Google ALBERT: A Lite BERT for Self-Supervised Learning of Language Representations](https://ai.googleblog.com/2019/12/albert-lite-bert-for-self-supervised.html)
+10. [LibreOffice open-source office software project prepares for 10th anniversary](https://www.theregister.co.uk/2019/12/24/libreoffice_64_nearly_done_as_project_prepares_for_10th_anniversary/)
 
 ## 2019-12-20
 1. [Apple has released an open-source version of the HomeKit Accessory Development Kit](https://techcrunch.com/2019/12/19/anybody-can-now-make-homekit-accessories)
