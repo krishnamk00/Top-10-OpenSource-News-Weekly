@@ -1,5 +1,17 @@
 ## WEEKLY top #10 from open source world. Thanks to all real authors!!
 
+## 2020-01-03
+1. [Linux and open-source rules: 2019's five biggest stories show why](https://www.zdnet.com/article/2019s-five-biggest-linux-and-open-source-stories/)
+2. [Customer-driven open source is the future of software](https://www.infoworld.com/article/3511583/customer-driven-open-source-is-the-future-of-software.html)
+3. [ChubaoFS: The Cloud Native Computing Foundation’s Speedy New Distributed File System](https://thenewstack.io/chubaofs-the-cloud-native-computing-foundations-speedy-new-distributed-file-system/)
+4. [Kubestone is a benchmarking can evaluate the performance of Kubernetes installations](https://kubestone.io/en/latest/?utm_sq=g93p8c2xwu)
+5. [Apple Open Sources ServiceTalk to the Java Community](https://www.infoq.com/news/2019/12/apple-opensources-servicetalk/?)
+6. [Google Open Sources MobileNetV3 with New Ideas to Improve Mobile Computer Vision Models](https://www.kdnuggets.com/2019/12/google-open-sources-mobilenetv3-improve-mobile-computer-vision-models.html)
+7. [Why Ubuntu is so popular with Developers](bit.ly/2Rpiuto)
+8. [Stack Overflow makes peace with ousted moderator](https://www.theregister.co.uk/2020/01/02/stack_overflow_settles/)
+9. [VMware Sets Kubernetes Strategy for 2020 – acquired Pivotal](https://containerjournal.com/topics/container-ecosystems/vmware-sets-kubernetes-strategy-for-2020/)
+10. [Amazon, Google, Microsoft: Who had the best year in cloud in 2019?](https://www.theregister.co.uk/2020/01/02/amazon_google_microsoft_who_had_the_best_year_in_cloud_in_2019/)
+
 ## 2019-12-27
 1. [Pentagon wants open-source 5G plan in campaign against Huawei](https://www.ft.com/content/6863a21a-234a-11ea-92da-f0c92e957a96?list=intlhomepage)
 2. [Google seeks patent for ML model speed prediction to improve navigation services](https://www.financialexpress.com/industry/technology/google-seeks-patent-for-ml-model-speed-prediction-to-improve-navigation-services/1804080/)
