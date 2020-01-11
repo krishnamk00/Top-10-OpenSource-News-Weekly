@@ -1,5 +1,17 @@
 ## WEEKLY top #10 from open source world. Thanks to all real authors!!
 
+## 2020-01-10
+1. [Huawei Makes The CentOS-Based Linux Distro “OpenEuler” Open-Source](https://www.techquila.co.in/huawei-centos-linux-distro-openeuler-open-source/)
+2. [Uber open-sources Manifold, a visual tool for debugging AI models](https://venturebeat.com/2020/01/07/uber-open-sources-manifold-a-visual-tool-for-debugging-ai-models/)
+3. [Microsoft Azure has an edge over Amazon Web Services at big companies, Goldman Sachs survey says](https://www.cnbc.com/2020/01/07/microsoft-azure-cloud-winner-at-big-companies-goldman-sachs.html)
+4. [Intelligent Anomaly Detection of Heterogeneous Storage through SODA Telemetry](https://medium.com/@skdsanil/intelligent-anomaly-detection-of-heterogeneous-storage-through-soda-telemetry-4bc5b52949e)
+5. [Facebook is reportedly planning to launch TikTok competitor in India by May](https://thenextweb.com/facebook/2020/01/10/facebook-is-reportedly-planning-to-launch-tiktok-competitor-in-india-by-may/?)
+6. [GitLab Open Sources Monitoring and Observability Tools](https://opensourceforu.com/2020/01/gitlab-open-sources-monitoring-and-observability-tools/)
+7. [Open Connectivity Foundation reveals first open IoT standard devices](https://www.zdnet.com/article/ces-2020-open-connectivity-foundation-reveals-first-open-iot-standard-devices/)
+8. [EY Open Sources ZKP Blockchain Technology](https://opensourceforu.com/2019/12/ey-open-sources-zkp-blockchain-technology/)
+9. [Archive storage comes to Google Cloud](https://www.theregister.co.uk/2020/01/09/archive_storage_comes_to_google_cloud_how_does_it_compare_to_aws_and_azure/)
+10. [Google and IBM square off in Schrodinger’s catfight over quantum supremacy](https://www.theregister.co.uk/2020/01/09/google_and_ibm_square_off_in_schrodingers_catfight/)
+    
 ## 2020-01-03
 1. [Linux and open-source rules: 2019's five biggest stories show why](https://www.zdnet.com/article/2019s-five-biggest-linux-and-open-source-stories/)
 2. [Customer-driven open source is the future of software](https://www.infoworld.com/article/3511583/customer-driven-open-source-is-the-future-of-software.html)
