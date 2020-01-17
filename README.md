@@ -1,5 +1,17 @@
 ## WEEKLY top #10 from open source world. Thanks to all real authors!!
 
+## 2020-01-17
+1. [Apple buys an A.I. start-up that came from Microsoft co-founder Paul Allen’s research lab](https://www.cnbc.com/2020/01/15/apple-acquires-xnor-ai-startup-that-spun-out-of-allen-institute.html)
+2. [Google acquires AppSheet to help businesses create and extend applications—without coding](https://cloud.google.com/blog/topics/inside-google-cloud/helping-businesses-create-and-extend-applications-without-coding)
+3. [Kadena fulfills hybrid blockchain vision with launch of public chain](https://techcrunch.com/2020/01/15/kadena-fulfills-vision-of-hybrid-blockchain-with-launch-of-public-chain/)
+4. [Equinix to buy bare metal cloud provider Packet](https://www.zdnet.com/article/equinix-to-buy-bare-metal-cloud-provider-packet/)
+5. [Securing Kubernetes: Bug bounty program announced](https://www.zdnet.com/article/securing-kubernetes-bug-bounty-program-announced/)
+6. [Google Cloud launches new solutions for retailers](https://techcrunch.com/2020/01/13/google-cloud-launches-new-solutions-for-retailers/)
+7. [Microsoft Blazor's gone mobile – ios and android apps in sharp.](https://www.theregister.co.uk/2020/01/15/microsoft_blazor_goes_mobile_develop_mobile_apps_with_c_web_technology/)
+8. [Amazon Web Services Launches Open-Source Library AutoGluon](https://venturebeat.com/2020/01/09/amazons-autogluon-produces-ai-models-with-as-little-as-three-lines-of-code/)
+9. [Why Facebook New low latency speech recognition framework can be a game changer](https://analyticsindiamag.com/why-facebooks-new-low-latency-speech-recognition-framework-can-be-a-game-changer/)
+10. [IBM, Microsoft support for Google against Oracle in Supremes' Java API copyright case](https://www.theregister.co.uk/2020/01/15/google_oracle_api/)
+    
 ## 2020-01-10
 1. [Huawei Makes The CentOS-Based Linux Distro “OpenEuler” Open-Source](https://www.techquila.co.in/huawei-centos-linux-distro-openeuler-open-source/)
 2. [Uber open-sources Manifold, a visual tool for debugging AI models](https://venturebeat.com/2020/01/07/uber-open-sources-manifold-a-visual-tool-for-debugging-ai-models/)
