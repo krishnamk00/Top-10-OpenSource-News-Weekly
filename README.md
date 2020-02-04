@@ -1,5 +1,30 @@
 ## WEEKLY top #10 from open source world. Thanks to all real authors!!
 
+## 2020-01-31
+1. [Introducing Swift Crypto an open source project](https://swift.org/blog/crypto/)
+2. [Everything's coming up Kubernetes: Google Cloud adds support for Windows Server Containers](https://www.theregister.co.uk/2020/02/03/google_cloud_adds_windows_containers_to_kubernetes_engine/)
+3. [UBank releases open source accessibility kit on Github](https://www.zdnet.com/article/ubank-releases-open-source-accessibility-kit-on-github/)
+4. [HPE acquires cloud native security startup Scytale](https://techcrunch.com/2020/02/03/hpe-acquires-cloud-native-security-startup-scytale/)
+5. [Cortex Labs helps data scientists deploy machine learning models in the cloud](https://techcrunch.com/2020/01/23/cortex-labs-helps-data-scientists-deploy-machine-learning-models-in-the-cloud/)
+6. [Intel kills off much-delayed Nervana AI training chip, pushes on with Habana](https://www.theregister.co.uk/2020/01/31/intel_kills_spring_crest/)
+7. [Octarine releases open-source security scanning tools for Kubernetes](https://techcrunch.com/2020/01/22/octarine-releases-open-source-security-scanning-tool-for-kubernetes/)
+8. [Vapor IO And Cloudflare Partner To Bring Serverless Computing To The Edge](https://www.forbes.com/sites/janakirammsv/2020/01/24/vapor-io-and-cloudflare-partner-to-bring-serverless-computing-to-the-edge/#3600a0994e0b)
+9. [OpenSK: a fully open-source security key implementation](https://security.googleblog.com/2020/01/say-hello-to-opensk-fully-open-source.html)
+10. [CoTK: An Open-Source Toolkit for Fast Development and Fair Evaluation of Text Generation](https://arxiv.org/abs/2002.00583)
+
+## 2020-01-24
+1. [Kadena fulfills hybrid blockchain vision with launch of public chain](https://techcrunch.com/2020/01/15/kadena-fulfills-vision-of-hybrid-blockchain-with-launch-of-public-chain/)
+2. [Google GA Config connector - Unify Kubernetes and GCP resources](https://cloud.google.com/blog/products/containers-kubernetes/config-connector-bridges-kubernetes-gcp-resources?linkId=81421751)
+3. [Discovering millions of datasets on the web - Google datasets](https://blog.google/products/search/discovering-millions-datasets-web/)
+4. [Cloud native in NFVI: why it’s smart business for 5G growth](https://www.ericsson.com/en/blog/2020/2/nfv-boost-vendor-and-operator-co-creation)
+5. [Gab Chat is an open-source, end-to-end encrypted Discord alternative for growing censorship-proof communities](https://reclaimthenet.org/gab-chat/amp/?__twitter_impression=true)
+6. [Microsoft Open Sources Jericho to Train Reinforcement Learning Using Linguistic Games](https://towardsdatascience.com/microsoft-open-sources-jericho-to-train-reinforcement-learning-using-linguistic-games-66db65b1e1bd)
+7. [OPEN-SOURCING POLYGAMES, A NEW FRAMEWORK FOR TRAINING AI BOTS THROUGH SELF-PLAY](https://liwaiwai.com/2020/01/30/open-sourcing-polygames-a-new-framework-for-training-ai-bots-through-self-play/)
+8. [France joins the Open Government Partnership](https://opensource.com/life/14/4/weekly-wrap-apr-25)
+9. [ProtonVPN adopts GPLv3](https://opensource.com/article/20/2/news-february-1)
+10. [Hexnode is expanding its Unified Endpoint Management portfolio with workplace IoT](https://techcrunch.com/sponsor/hexnode/hexnode-is-expanding-its-unified-endpoint-management-portfolio-with-workplace-iot/)
+
+
 ## 2020-01-17
 1. [Apple buys an A.I. start-up that came from Microsoft co-founder Paul Allen’s research lab](https://www.cnbc.com/2020/01/15/apple-acquires-xnor-ai-startup-that-spun-out-of-allen-institute.html)
 2. [Google acquires AppSheet to help businesses create and extend applications—without coding](https://cloud.google.com/blog/topics/inside-google-cloud/helping-businesses-create-and-extend-applications-without-coding)
