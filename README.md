@@ -1,5 +1,17 @@
 ## WEEKLY top #10 from open source world. Thanks to all real authors!!
 
+## 2020-02-07
+1. [Where top VCs are investing in open source and dev tools](https://techcrunch.com/2020/02/05/where-top-vcs-are-investing-in-open-source-and-dev-tools-part-1-of-2/)
+2. [Open source takes on managing and securing the electrical grid](https://www.zdnet.com/article/open-source-takes-on-managing-and-securing-the-electrical-grid/)
+3. [The Y2038 problem in the Linux kernel?](https://www.theregister.co.uk/2020/01/30/linux_5_6_2038/)
+4. [Cisco Unveils Kubernetes Platform](https://containerjournal.com/topics/container-ecosystems/cisco-unveils-kubernetes-platform/)
+5. [Cloud Vulnerabikity and Cybersecurity advice from NSA](https://media.defense.gov/2020/Jan/22/2002237484/-1/-1/0/CSI-MITIGATING-CLOUD-VULNERABILITIES_20200121.PDF)
+6. [Arm's new AI processor with Cortex-M CPUs for a boost to IoT workloads](https://www.theregister.co.uk/2020/02/10/arm_cortex_m_ai_accelerator/)
+7. [THE KILLER APPS FOR FPGAS COULD BE SMARTNICS AND STORAGE](https://www.nextplatform.com/2020/02/05/the-killer-apps-for-fpgas-could-be-smartnics-and-storage/)
+8. [Major Japanese hardware vendor joins Open Invention Network](https://www.zdnet.com/article/major-japanese-hardware-vendor-joins-open-invention-network/)
+9. [IBM Cloud CTO Sees Cloud-Native Rising](https://containerjournal.com/topics/container-ecosystems/ibm-cloud-cto-sees-cloud-native-rising/)
+10. [Switzerland plans to anchor public services’ contribution to open source in law](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/free-share)
+
 ## 2020-01-31
 1. [Introducing Swift Crypto an open source project](https://swift.org/blog/crypto/)
 2. [Everything's coming up Kubernetes: Google Cloud adds support for Windows Server Containers](https://www.theregister.co.uk/2020/02/03/google_cloud_adds_windows_containers_to_kubernetes_engine/)
