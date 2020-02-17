@@ -1,5 +1,17 @@
 ## WEEKLY top #10 from open source world. Thanks to all real authors!!
 
+## 2020-02-14
+1. [Tozny introduces encrypted identity tool as part of security service platform](https://techcrunch.com/2020/02/13/tozny-introduces-encrypted-identity-tool-as-part-of-security-service-platform/)
+2. [Google with Hedera Hashgraph to support the next generation of distributed ledger technology](https://cloud.google.com/blog/products/gcp/working-with-hedera-hashgraph-to-support-the-next-generation-of-distributed-ledger-technology)
+3. [Tangle EE project joins Eclipse Foundation to bring distributed ledger apps to enterprise](https://techcrunch.com/2020/02/11/tangle-ee-project-joins-eclipse-foundation-to-bring-distributed-ledger-apps-to-enterprise/)
+4. [Making open source JavaScript pay](https://www.infoworld.com/article/3512964/making-open-source-javascript-pay.html)
+5. [Google burns down more than 500 private-data-stealing, ad-defrauding Chrome extensions installed by 1.7m netizens](https://www.theregister.co.uk/2020/02/14/500_chrome_extensions_removed/)
+6. [Google completes Looker acquisition](https://cloud.google.com/blog/topics/inside-google-cloud/google-completes-looker-acquisition)
+7. [GitHub Sponsors and Open Collective team up for sustainability!](https://blog.opencollective.com/double-the-love/)
+8. [IBM Brings Red Hat Container Platform to Mainframes](https://containerjournal.com/topics/container-networking/ibm-brings-red-hat-container-platform-to-mainframes/)
+9. [Google lays out HarbourBridge to tempt PostgreSQL users onto Cloud Spanner](https://devclass.com/2020/02/13/google-lays-out-harbourbridge-to-tempt-postgresql-users-onto-cloud-spanner/)
+10. [Kubernetes administration policy made easy with brewOPA](https://www.zdnet.com/article/kubernetes-administration-policy-made-easy-with-brewopa/)
+
 ## 2020-02-07
 1. [Where top VCs are investing in open source and dev tools](https://techcrunch.com/2020/02/05/where-top-vcs-are-investing-in-open-source-and-dev-tools-part-1-of-2/)
 2. [Open source takes on managing and securing the electrical grid](https://www.zdnet.com/article/open-source-takes-on-managing-and-securing-the-electrical-grid/)
