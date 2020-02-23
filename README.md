@@ -1,6 +1,6 @@
 ## WEEKLY top #10 from open source world. Thanks to all real authors!!
 
-## 2020-02-14
+## 2020-02-21
 1. [Open sourcing DataHub: LinkedIn’s metadata search and discovery platform](https://engineering.linkedin.com/blog/2020/open-sourcing-datahub--linkedins-metadata-search-and-discovery-p)
 2. [Google Cloud, on a buying spree, acquires IT company Cornerstone Technology](https://www.cnbc.com/amp/2020/02/19/google-cloud-acquires-mainframe-company-cornerstone-technology.html)
 3. [Container Security Concerns Impacting Deployments](https://containerjournal.com/topics/container-security/container-security-concerns-impacting-deployments/)
