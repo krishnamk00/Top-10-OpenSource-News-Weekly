@@ -1,6 +1,18 @@
 ## WEEKLY top #10 from open source world. Thanks to all real authors!!
 
 ## 2020-02-14
+1. [Open sourcing DataHub: LinkedIn’s metadata search and discovery platform](https://engineering.linkedin.com/blog/2020/open-sourcing-datahub--linkedins-metadata-search-and-discovery-p)
+2. [Google Cloud, on a buying spree, acquires IT company Cornerstone Technology](https://www.cnbc.com/amp/2020/02/19/google-cloud-acquires-mainframe-company-cornerstone-technology.html)
+3. [Container Security Concerns Impacting Deployments](https://containerjournal.com/topics/container-security/container-security-concerns-impacting-deployments/)
+4. [The Linux Foundation identifies most important open-source software components and their problems](https://www.zdnet.com/article/the-linux-foundation-identifies-the-most-important-open-source-software-components-and-their-problems/)
+5. [New company BluBracket takes on software supply chain code security](https://www.zdnet.com/article/new-company-blubracket-takes-on-software-supply-chain-code-security/)
+6. [Microsoft’s Scalar speeds up Git](https://www.infoworld.com/article/3528008/microsofts-scalar-speeds-up-git.html_)
+7. [Apple drops a bomb on long-life HTTPS certificates: Safari to snub new security certs valid for more than 13 months](https://www.theregister.co.uk/2020/02/20/apple_shorter_cert_lifetime/)
+8. [Google Cloud embraces GitOps with new Application Manager for Kubernetes](https://www.theregister.co.uk/2020/02/20/google_cloud_embraces_gitops_with_new_application_manager_for_kubernetes/)
+9. [Google Cloud launches Dialogflow Mega Agent with 20,000 intents](https://venturebeat.com/2020/02/19/google-cloud-launches-dialogflow-mega-agent-with-20000-intents/)
+10. [IBM Bringing AI to the Command Line](https://www.ibm.com/blogs/research/2020/02/bringing-ai-to-the-command-line/)
+
+## 2020-02-14
 1. [Tozny introduces encrypted identity tool as part of security service platform](https://techcrunch.com/2020/02/13/tozny-introduces-encrypted-identity-tool-as-part-of-security-service-platform/)
 2. [Google with Hedera Hashgraph to support the next generation of distributed ledger technology](https://cloud.google.com/blog/products/gcp/working-with-hedera-hashgraph-to-support-the-next-generation-of-distributed-ledger-technology)
 3. [Tangle EE project joins Eclipse Foundation to bring distributed ledger apps to enterprise](https://techcrunch.com/2020/02/11/tangle-ee-project-joins-eclipse-foundation-to-bring-distributed-ledger-apps-to-enterprise/)
