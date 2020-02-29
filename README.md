@@ -1,5 +1,17 @@
 ## WEEKLY top #10 from open source world. Thanks to all real authors!!
 
+## 2020-02-28
+1. [Cybersecurity alliance launches first open source messaging framework for security tools](https://www.zdnet.com/article/cybersecurity-alliance-launches-first-open-source-messaging-framework-for-security-tools/)
+2. [Deviceplane wants to bring over-the-air updates to Linux edge devices](https://techcrunch.com/2020/02/24/deviceplane-wants-to-bring-over-the-air-updates-to-linux-edge-devices/)
+3. [AI comes to the Edge with SolidRun and Gyrfalcon's AI inference server](https://www.zdnet.com/article/ai-comes-to-the-edge-with-solidrun-and-gyrfalcons-ai-inference-server/)
+4. [Red Hat OpenStack lives(RHOP16) on in a new release](https://www.zdnet.com/article/red-hat-openstack-lives-on-in-a-new-release/)
+5. [Linux Foundation and Harvard team up to analyze the vulnerability of open source software](https://www.linuxfoundation.org/press-release/2020/02/the-linux-foundation-and-harvards-lab-for-innovation-science-release-census-for-open-source-software-security/)
+6. [Open source should learn from Linux, not MySQL](https://www.infoworld.com/article/3528355/open-source-should-learn-from-linux-not-mysql.html)
+7. [Microsoft’s Scalar speeds up Git](https://www.infoworld.com/article/3528008/microsofts-scalar-speeds-up-git.html)
+8. [The great big open-source census: Most-used libraries revealed](https://www.theregister.co.uk/2020/02/20/linux_foundation_report/)
+9. [DLT Framework to Spur Government DevOps Adoption](https://containerjournal.com/topics/container-ecosystems/dlt-framework-to-spur-government-devops-adoption/)
+10. [Google Cloud beefs up Chronicle, reCaptcha Enterprise and Web Risk API hit general availability](https://venturebeat.com/2020/02/24/google-cloud-beefs-up-chronicle-recaptcha-enterprise-and-web-risk-api-hit-general-availability/)
+
 ## 2020-02-21
 1. [Open sourcing DataHub: LinkedIn’s metadata search and discovery platform](https://engineering.linkedin.com/blog/2020/open-sourcing-datahub--linkedins-metadata-search-and-discovery-p)
 2. [Google Cloud, on a buying spree, acquires IT company Cornerstone Technology](https://www.cnbc.com/amp/2020/02/19/google-cloud-acquires-mainframe-company-cornerstone-technology.html)
