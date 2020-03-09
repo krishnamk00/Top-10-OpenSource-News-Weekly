@@ -1,5 +1,18 @@
 ## WEEKLY top #10 from open source world. Thanks to all real authors!!
 
+
+## 2020-03-06
+1. [Microsoft announced the Baseline Protocol, an open source initiative that combines advances in cryptography](https://www.forbes.com/sites/biserdimitrov/2020/03/04/microsoft-ey-and-consensys-to-make-the-public-ethereum-blockchain-safe-for-enterprises/#5c32c56d15c9)
+2. [Kubernetes jumps in popularity](https://www.zdnet.com/article/kubernetes-jumps-in-popularity/)
+3. [Digging into the boom in permissive open source licensing](https://www.techrepublic.com/article/digging-into-the-boom-in-permissive-open-source-licensing/)
+4. [Google slaps management charge on GKE clusters – customers have their 5 x two cents…](https://devclass.com/2020/03/05/google-slaps-management-charge-on-gke-clusters/)
+5. [Microsoft's Cosmos DB is getting a freebie tier](https://www.theregister.co.uk/2020/03/05/cosmos_db_free_tier/)
+6. [Google Cloud goes after the telco business with Anthos for Telecom and its Global Mobile Edge Cloud](https://techcrunch.com/2020/03/05/google-cloud-goes-after-the-telco-business-with-anthos-for-telecom-and-its-global-mobile-edge-cloud/)
+7. [Nvidia secures SwiftStack technology -by buying the company](https://blocksandfiles.com/2020/03/05/nvidia-acquires-swiftstack/)
+8. [HPE Delivers Container Platform Promise](https://containerjournal.com/topics/container-ecosystems/hpe-delivers-container-platform-promise/)
+9. [Microsoft storing world’s open source GitHub code in Norwegian archive vault for the next millennium](https://www.news.com.au/technology/science/archaeology/microsoft-storing-worlds-open-source-github-code-in-norwegian-archive-vault-for-the-next-millennium/news-story/14eaaf98ac382ca491468e715327c1c3)
+10. [Honeywell says it built the world's most powerful quantum computer](https://www.engadget.com/2020/03/03/honeywell-quantum-computer/)
+
 ## 2020-02-28
 1. [Cybersecurity alliance launches first open source messaging framework for security tools](https://www.zdnet.com/article/cybersecurity-alliance-launches-first-open-source-messaging-framework-for-security-tools/)
 2. [Deviceplane wants to bring over-the-air updates to Linux edge devices](https://techcrunch.com/2020/02/24/deviceplane-wants-to-bring-over-the-air-updates-to-linux-edge-devices/)
