@@ -1,5 +1,16 @@
 ## WEEKLY top #10 from open source world. Thanks to all real authors!!
 
+## 2020-03-13
+1. [Google launches Cloud AI Platform Pipelines in beta to simplify machine learning development](https://venturebeat.com/2020/03/11/google-launches-cloud-ai-platform-pipelines-in-beta-to-simplify-machine-learning-development/)
+2. [Docker regroups as cloud-native developer tool company](https://techcrunch.com/2020/03/10/docker-regroups-as-cloud-native-developer-tool-company/)
+3. [List Linux and open-source conferences going virtiual now](https://www.zdnet.com/article/linux-and-open-source-conferences-list-of-whats-canceled-or-going-virtual/)
+4. [GitLab to finally pull free CI/CD for GitHub repos service](https://devclass.com/2020/03/13/github-finally-pulls-free-ci-cd-for-github-repos/)
+5. [Linux Foundation hosting the open source IoT device firmware for Project OWL](https://www.techrepublic.com/article/ibm-code-challenge-winner-uses-open-source-and-iot-for-disaster-relief/)
+6. [VMWARE REJUVENATES ONCE AGAIN WITH KUBERNETES INJECTION](https://www.nextplatform.com/2020/03/10/vmware-rejuvenates-once-again-with-kubernetes-injection/)
+7. [Google Announce TensorFlow Quantum: An Open Source Library for Quantum Machine Learning](https://ai.googleblog.com/2020/03/announcing-tensorflow-quantum-open.html)
+8. [AWS Adds Lightweight Linux Instance to Container Services](https://containerjournal.com/topics/container-ecosystems/aws-adds-lightweight-linux-instance-to-container-services/)
+9. [Atlassian rolls out Code Barrel tech to all its Jira friends](https://devclass.com/2020/03/12/atlassian-rolls-out-automation-to-all-its-jira-friends/)
+10. [Zettaset Partners With Mirantis to Encrypt Container Data](https://containerjournal.com/topics/container-security/zettaset-partners-with-mirantis-to-encrypt-container-data/)
 
 ## 2020-03-06
 1. [Microsoft announced the Baseline Protocol, an open source initiative that combines advances in cryptography](https://www.forbes.com/sites/biserdimitrov/2020/03/04/microsoft-ey-and-consensys-to-make-the-public-ethereum-blockchain-safe-for-enterprises/#5c32c56d15c9)
