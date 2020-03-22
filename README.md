@@ -1,5 +1,17 @@
 ## WEEKLY top #10 from open source world. Thanks to all real authors!!
 
+## 2020-03-20
+1. [COVID19 Crisis: How open-source software is tackling COVID-19 coronavirus](https://www.zdnet.com/article/how-open-source-software-is-tackling-covid-19-coronavirus/)
+2. [Istio 1.5! WebAssembly, Istiod - simplified deployments](https://istio.io/news/releases/1.5.x/announcing-1.5/)
+3. [Amazon is looking to bring Target and Walmart into an open source technology group](https://www.businessinsider.com/amazon-recruiting-target-walmart-to-open-source-tech-group-2020-3?)
+4. [GitHub nabs JavaScript packaging vendor npm](https://techcrunch.com/2020/03/16/github-nabs-javascript-packaging-vendor-npm/)
+5. [With KubeCF, Cloud Foundry comes to Kubernetes](https://www.zdnet.com/article/with-kubecf-cloud-foundry-comes-to-kubernetes/)
+6. [Run:AI Leverages Kubernetes to Virtualize GPUs](https://containerjournal.com/topics/container-networking/runai-leverages-kubernetes-to-virtualize-gpus/)
+7. [Dell publishes data centre cleaning guidance, suggests hiring pros to disinfect enterprise kit](https://www.theregister.co.uk/2020/03/20/dell_data_centre_disinfection_guidance/)
+8. [Spectro Cloud Unveils Hybrid Cloud Platform Based on Kubernetes](https://containerjournal.com/topics/container-ecosystems/spectro-cloud-unveils-hybrid-cloud-platform-based-on-kubernetes/)
+9. [NetApp cans Kubernetes and Cloud Volumes services on HCI](https://blocksandfiles.com/2020/03/20/netapp-nks-and-cloud-volumes-on-hci/)
+10. [COVID19 Crisis: Open-source project spins up 3D-printed ventilator validation prototype in just one week](https://techcrunch.com/2020/03/19/open-source-project-spins-up-3d-printed-ventilator-validation-prototype-in-just-one-week/)
+
 ## 2020-03-13
 1. [Google launches Cloud AI Platform Pipelines in beta to simplify machine learning development](https://venturebeat.com/2020/03/11/google-launches-cloud-ai-platform-pipelines-in-beta-to-simplify-machine-learning-development/)
 2. [Docker regroups as cloud-native developer tool company](https://techcrunch.com/2020/03/10/docker-regroups-as-cloud-native-developer-tool-company/)
