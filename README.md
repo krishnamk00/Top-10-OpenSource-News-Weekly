@@ -1,5 +1,17 @@
 ## WEEKLY top #10 from open source world. Thanks to all real authors!!
 
+## 2020-03-27
+1. [Microsoft brings K8s Security Center out of preview, replaces CoreOS Container Linux with Flatcar](https://www.theregister.co.uk/2020/03/24/microsoft_brings_k8s_security_center/)
+2. [Google launches Kubernetes-built ‘Game Servers’ beta for high-scalability cloud gaming backend](https://siliconangle.com/2020/03/23/google-launches-kubernetes-built-game-servers-beta-high-scalability-cloud-gaming-backend/)
+3. [gitlab secure by default, make HashiCorp Vault as the secrets management that is enabled by default.](https://about.gitlab.com/releases/2020/03/22/gitlab-12-9-released/)
+4. [How NVIDIA Is Using Its GPU Technolgy To Fight Against COVID-19 Virus](https://www.forbes.com/sites/janakirammsv/2020/03/22/how-nvidia-is-using-its-gpu-technolgy-to-fight-against-covid-19-virus/#1665410d4bc0)
+5. [SUSE offers free enterprise Linux support to medical devices manufacturers](https://www.zdnet.com/article/suse-offers-free-enterprise-linux-support-to-medical-devices-manufacturers/)
+6. [Zeek and Jitsi: 2 open source projects we need now](https://www.infoworld.com/article/3533999/zeek-and-jitsi-2-open-source-projects-we-need-now.html)
+7. [Kubernetes 1.18: Buffing up the leading container orchestrator](https://www.zdnet.com/article/kubernetes-1-18-buffing-up-the-leading-container-orchestrator/)
+8. [Microsoft buys Affirmed Networks to provide cloudy services for 5G network operators](https://www.theregister.co.uk/2020/03/27/microsoft_acquires_affirmed_networks/)
+9. [Survey Sees Kubernetes Enterprise Adoption Gains](https://containerjournal.com/topics/container-ecosystems/survey-sees-kubernetes-enterprise-adoption-gains/)
+10. [Amid a critical shortage, pandemic ventilator inventor makes his design open source](https://www.cbc.ca/news/canada/london/pandemic-ventilator-design-covid19-1.5511412?cmp=rss)
+
 ## 2020-03-20
 1. [COVID19 Crisis: How open-source software is tackling COVID-19 coronavirus](https://www.zdnet.com/article/how-open-source-software-is-tackling-covid-19-coronavirus/)
 2. [Istio 1.5! WebAssembly, Istiod - simplified deployments](https://istio.io/news/releases/1.5.x/announcing-1.5/)
