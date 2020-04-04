@@ -1,5 +1,17 @@
 ## WEEKLY top #10 from open source world. Thanks to all real authors!!
 
+## 2020-04-03
+1. [Google changes course, proposes proprietary in-app purchase API as web standard](https://www.theregister.co.uk/2020/04/02/google_web_store_proprietary/)
+2. [Microsoft introduce Coyote, an open-source .NET framework and intelligent testing tool](https://www.microsoft.com/en-us/research/blog/coyote-making-it-easier-for-developers-to-build-reliable-asynchronous-software/?OCID=msr_blog_coyote_tw)
+3. [Rancher Fleet Management for Kubernetes is Here](https://rancher.com/blog/2020/fleet-management-kubernetes/)
+4. [Huawei joins major US-based open-source patent protection consortium OIN](https://www.zdnet.com/article/huawei-joins-major-us-based-open-source-patent-protection-consortium-oin/)
+5. [DataStax launches Kubernetes operator for open source Cassandra database](https://techcrunch.com/2020/03/31/datastax-launches-kubernetes-operator-for-open-source-cassandra-database/)
+6. [Debian Linux readies an anti-coronavirus hack-a-thon](https://www.zdnet.com/article/debian-linux-readies-an-anti-coronavirus-hack-a-thon/)
+7. [Microsoft Unveils A Comprehensive Edge Computing Strategy With Azure Edge Zones](https://www.forbes.com/sites/janakirammsv/2020/04/03/microsoft-unveils-a-comprehensive-edge-computing-strategy-with-azure-edge-zones/#2978f95c234b)
+8. [Next frontier in Microsoft, Google, Amazon cloud battle is over a world without code](https://www.cnbc.com/2020/04/01/new-microsoft-google-amazon-cloud-battle-over-world-without-code.html)
+9. [Uber Open Sources Piranha Stale Code Remover](https://www.i-programmer.info/news/90-tools/13572-uber-open-sources-piranha-stale-code-remover.html)
+10. [Google releasing an open-source benchmark for evaluation of 3D image reconstruction methods](https://ai.googleblog.com/2020/04/announcing-2020-image-matching.html)
+
 ## 2020-03-27
 1. [Microsoft brings K8s Security Center out of preview, replaces CoreOS Container Linux with Flatcar](https://www.theregister.co.uk/2020/03/24/microsoft_brings_k8s_security_center/)
 2. [Google launches Kubernetes-built ‘Game Servers’ beta for high-scalability cloud gaming backend](https://siliconangle.com/2020/03/23/google-launches-kubernetes-built-game-servers-beta-high-scalability-cloud-gaming-backend/)
