@@ -1,4 +1,16 @@
-## WEEKLY top #10 from open source world. Thanks to all real authors!!
+## WEEKLY top #10 news from open source world!
+
+## 2020-04-10
+1. [Solo.io Open Sources Service Mesh Hub](https://containerjournal.com/topics/container-networking/solo-io-open-sources-service-mesh-hub/)
+2. [Open-source AI tool aims to help identify coronavirus infections](https://www.zdnet.com/article/open-source-ai-tool-aims-to-help-identify-coronavirus-infections/)
+3. [AWS revamps Fargate serverless containers without Docker](https://www.theregister.co.uk/2020/04/09/aws_revamps_fargate_serverless_containers/)
+4. [Linux Foundation backs security-oriented seL4 microkernel operating system](https://www.zdnet.com/article/linux-foundation-backs-security-oriented-sel4-microkernel-operating-system/)
+5. [Mapzen open-source mapping project revived under the Urban Computing Foundation](https://www.zdnet.com/article/mapzen-open-source-mapping-project-revived-under-the-urban-computing-foundation/)
+6. [Chip Childers moved to take over Director Cloud Foundry Foundation](https://www.zdnet.com/article/cloud-foundry-sees-top-leadership-change/)
+7. [IBM, Open Mainframe Project launch initiative to help train COBOL coders](https://www.zdnet.com/article/ibm-open-mainframe-project-launch-initiative-to-help-train-cobol-coders/)
+8. [Astrophysicists looking for dark matter invent dirt-cheap open-source ventilator to combat COVID-19](https://www.zdnet.com/article/astrophysicists-looking-for-dark-matter-invent-dirt-cheap-open-source-ventilator-to-combat-covid-19/)
+9. [Google Cloud Set To Announce GA Of Anthos On AWS](https://www.crn.com/news/cloud/google-cloud-set-to-announce-ga-of-anthos-on-aws)
+10. [TOC Welcomes Argo into the CNCF Incubator](https://www.cncf.io/blog/2020/04/07/toc-welcomes-argo-into-the-cncf-incubator/)
 
 ## 2020-04-03
 1. [Google changes course, proposes proprietary in-app purchase API as web standard](https://www.theregister.co.uk/2020/04/02/google_web_store_proprietary/)
@@ -1438,5 +1450,8 @@
 
 ##
 Welcome to the New Year 2018! Hope to see lots of actions in Open Source World......
+
+# Thanks to the original authors for each and every article mentioned above. 
+# This information is used for educational purpose only.
 
 #__END
