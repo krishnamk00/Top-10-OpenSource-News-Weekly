@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world!
 
+## 2020-04-17
+1. [Cloud Foundry Certifies Kubernetes as Diego Alternative](https://containerjournal.com/topics/container-ecosystems/cff-certifies-kubernetes-as-diego-alternative/)
+2. [Verizon introduces open-source, big data coronavirus search engine](https://www.zdnet.com/article/verizon-introduces-open-source-big-data-coronavirus-search-engine/)
+3. [GitHub is now free for all teams](https://techcrunch.com/2020/04/14/github-is-now-free-for-all-teams/)
+4. [First release after transforming to SODA Foundation - a open data framework - "SODA Elba Release"](https://github.com/sodafoundation/releases/releases/tag/v0.20.0)
+5. [IBM and Google join the Rolls-Royce programme data science alliance](https://www.theregister.co.uk/2020/04/17/rolls_royce_data_science_alliance_coronavirus/)
+6. [Cloudflare goes retro with COBOL delivery service](theregister.co.uk/2020/04/16/cloudflare_cobol/)
+7. [Google AI advance - An optimistic perspective on offline reinforcement learning](https://devclass.com/2020/04/17/whats-the-point-google-ai-advances-git-security-updates-and-api-gateway-gloo/)
+8. [Facebook + Intel Get Open-Source FSP Booting On Xeon Scalable](https://www.linux.com/audience/developers/facebook-intel-get-open-source-fsp-booting-on-xeon-scalable/)
+9. [Opsani Provides Free Service to Rein in Kubernetes Costs in the Cloud](https://containerjournal.com/features/opsani-provides-free-service-to-rein-in-kubernetes-costs-in-the-cloud/)
+10. [Using Open Source to Build a Better 5G Data Platform](https://www.linux.com/audience/enterprise/using-open-source-to-build-a-better-5g-data-platform/)
+
 ## 2020-04-10
 1. [Solo.io Open Sources Service Mesh Hub](https://containerjournal.com/topics/container-networking/solo-io-open-sources-service-mesh-hub/)
 2. [Open-source AI tool aims to help identify coronavirus infections](https://www.zdnet.com/article/open-source-ai-tool-aims-to-help-identify-coronavirus-infections/)
