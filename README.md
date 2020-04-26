@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world!
 
+## 2020-04-24
+1. [LF AI's new Incubation Project donated by Dreamworks - ForestFlow: cloud-native machine learning model](https://lfai.foundation/blog/2020/04/23/forestflow-joins-lf-ai-as-new-incubation-project/)
+2. [Astra - NetApp to make stateful applications easier to do in Kubernetes](https://www.zdnet.com/article/netapp-to-make-stateful-applications-easier-to-do-in-kubernetes/)
+3. [Software AG Layers webMethods App Mesh Over Service Meshes](https://containerjournal.com/topics/container-ecosystems/software-ag-layers-app-mesh-over-service-meshes/)
+4. [AWS announces new single-purpose on-prem hardware and tie-in storage tier](https://www.theregister.co.uk/2020/04/21/aws_elemental_link/)
+5. [Facebook-Jio Deal a Win-Win for Both](https://www.news18.com/news/business/facebook-jio-deal-live-updates-reliance-ril-share-price-mark-zuckerberg-mukesh-ambani-whatsapp-jio-mart-2587359.html)
+6. [Library of Congress Launches Open-Source Hip-Hop Sampling Tool](https://consequenceofsound.net/2020/04/ibrary-of-congress-open-source-hip-hop-dj-citizen/)
+7. [Kafka company Confluent lands another big round with $250M Series E on $4.5B valuation](https://techcrunch.com/2020/04/21/confluent-lands-another-big-round-with-250m-series-e-on-4-2b-valuation/)
+8. [Ubuntu 20.04 arrives with Linux 5.4 kernel and WireGuard VPN](https://www.zdnet.com/article/ubuntu-20-04-arrives-with-linux-5-4-kernel-and-wireguard-vpn/)
+9. [Google productises its own not-a-VPN secure remote access tool](https://www.theregister.co.uk/2020/04/21/google_productises_its_own_not_vpn_beyondcorp/)
+10. [Facebook, AWS team up to produce open-source PyTorch AI libraries](https://www.theregister.co.uk/2020/04/26/ai_roundup_240420/)
+
 ## 2020-04-17
 1. [Cloud Foundry Certifies Kubernetes as Diego Alternative](https://containerjournal.com/topics/container-ecosystems/cff-certifies-kubernetes-as-diego-alternative/)
 2. [Verizon introduces open-source, big data coronavirus search engine](https://www.zdnet.com/article/verizon-introduces-open-source-big-data-coronavirus-search-engine/)
