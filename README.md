@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world!
 
+## 2020-05-01
+1. [IBM announces Elyra AI Toolkit, a set of AI-centric extensions to Jupyter Notebooks](https://developer.ibm.com/blogs/open-source-elyra-ai-toolkit-simplifies-data-model-development)
+2. [Celebrating Helm's CNCF Graduation](https://helm.sh/blog/celebrating-helms-cncf-graduation/)
+3. [Micron speeds up SSDs with open-source database storage engine](https://www.zdnet.com/article/micron-speeds-up-ssds-with-open-source-database-storage-engine/)
+4. [Red Hat takes on the hybrid cloud with its latest OpenShift Kubernetes distro](https://www.zdnet.com/article/red-hat-takes-on-the-hybrid-cloud-with-its-latest-openshift-kubernetes-distro/)
+5. [Dell to unleash hybrid server/storage boxen that can run virtual machines](https://www.theregister.co.uk/2020/05/01/dell_storage_refresh/)
+6. [10 Key Takeaways From RightScale 2020 State Of The Cloud Report](https://twitter.com/janakiramm/status/1256589248158810116)
+7. [Producing Open Source Software - How to Run a Successful Free Software Project](https://www.dbooks.org/producing-open-source-software-0596007590/)
+8. [Kaloom Allies with Red Hat to Create Virtual Networks on the Edge](https://containerjournal.com/topics/container-networking/kaloom-allies-with-red-hat-to-create-virtual-networks-on-the-edge/)_
+9. [Google open-sources faster, more efficient TensorFlow runtime](https://venturebeat.com/2020/04/29/google-open-sources-faster-more-efficient-tensorflow-runtime/)
+10. [Open Source Tern Locks Dockerfile to Container Image](https://containerjournal.com/topics/container-security/open-source-tern-locks-dockerfile-to-container-image/)
+
 ## 2020-04-24
 1. [LF AI's new Incubation Project donated by Dreamworks - ForestFlow: cloud-native machine learning model](https://lfai.foundation/blog/2020/04/23/forestflow-joins-lf-ai-as-new-incubation-project/)
 2. [Astra - NetApp to make stateful applications easier to do in Kubernetes](https://www.zdnet.com/article/netapp-to-make-stateful-applications-easier-to-do-in-kubernetes/)
