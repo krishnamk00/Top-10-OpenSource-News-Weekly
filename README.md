@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world!
 
+## 2020-05-08
+1. [The best way to protect the US electrical grid is with open source](https://www.zdnet.com/article/the-best-way-to-protect-the-us-electrical-grid-is-with-open-source/)
+2. [github blasts code scanning tool to all open source projects](https://www.theregister.co.uk/2020/05/06/github_releases_codescanning_tool/)
+3. [Splunk Become Available on Google Cloud](https://www.thestreet.com/investing/splunk-to-become-available-on-google-cloud)
+4. [Confluent introduces scale on demand for Apache Kafka cloud customers](https://techcrunch.com/2020/05/06/confluent-introduces-scale-on-demand-for-apache-kafka-cloud-customers/)
+5. [Microsoft has slipped out licensing details for SQL Server running in containers](https://www.theregister.co.uk/2020/05/08/sql_server_container_licensing/)
+6. [AWS unveils open source model server for pytorch](https://www.newsbreak.com/news/0OrTsMTv/aws-unveils-open-source-model-server-for-pytorch)
+7. [MongoDB and Rockset link arms to figure out SQL-to-NoSQL application integration](https://www.theregister.co.uk/2020/05/07/mongodb_rockset_collab/)
+8. [Google Tekton is a powerful and flexible open-source framework for creating CI/CD systems](https://opensource.googleblog.com/2020/05/the-tekton-pipelines-beta-release.html)
+9. [VMware Releases State of Kubernetes 2020 Report](https://containerjournal.com/topics/container-ecosystems/vmware-releases-state-of-kubernetes-2020-report/)
+10. [The most important part of an open source project](https://www.infoworld.com/article/3541751/the-most-important-part-of-an-open-source-project.html)
+
 ## 2020-05-01
 1. [IBM announces Elyra AI Toolkit, a set of AI-centric extensions to Jupyter Notebooks](https://developer.ibm.com/blogs/open-source-elyra-ai-toolkit-simplifies-data-model-development)
 2. [Celebrating Helm's CNCF Graduation](https://helm.sh/blog/celebrating-helms-cncf-graduation/)
