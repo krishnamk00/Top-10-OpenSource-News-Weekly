@@ -1,4 +1,16 @@
-## WEEKLY top #10 news from open source world!
+## WEEKLY top #10 news from open source world! Mainly Cloud related news...
+
+## 2020-05-15
+1. [OpenStack keeps stacking along: OpenStack Ussuri cloud arrives](https://www.zdnet.com/article/openstack-keeps-stacking-along-openstack-ussuri-cloud-arrives/)
+2. [Uber open-sources automated design framework for experiments](https://venturebeat.com/2020/05/12/uber-open-sources-automated-design-framework-for-experiments/)
+3. [AWS open sources cloud development kit to make Kubernetes easier to use](https://siliconangle.com/2020/05/13/aws-open-sources-cdk8s-make-kubernetes-easier-use/)
+4. [VMware Announces Intent to Acquire Octarine, a security firm](https://www.carbonblack.com/2020/05/13/vmware-carbon-black-intrinsic-security/)
+5. [Microsoft admits it was 'on the wrong side of history' with regard to open source](https://www.theregister.co.uk/2020/05/15/microsoft_brad_smith_open_source/)
+6. [Introducing Heapothesys, an open source Java GC latency benchmark with predictable allocation rates](https://aws.amazon.com/blogs/opensource/introducing-heapothesys-an-open-source-java-gc-latency-benchmark-with-predictable-allocation-rates/)
+7. [Venafi acquires Jetstack, the startup behind the cert-manager Kubernetes certificate controller](https://techcrunch.com/2020/05/14/venafi-acquires-jetstack-the-startup-behind-the-cert-manager-kubernetes-certificate-controller/)
+8. [Container image registry Harbor ships in 2.0, gets OCI compliant](https://devclass.com/2020/05/14/harbor-2-container-image-registry/)
+9. [Out-of-date, insecure open-source software is everywhere - Synopsys Research found](https://www.zdnet.com/article/out-of-date-insecure-open-source-software-is-everywhere/)
+10. [Apple Acquires Startup NextVR that Broadcasts VR Content](https://www.bloomberg.com/news/articles/2020-05-14/apple-acquires-startup-nextvr-to-gain-virtual-reality-content)
 
 ## 2020-05-08
 1. [The best way to protect the US electrical grid is with open source](https://www.zdnet.com/article/the-best-way-to-protect-the-us-electrical-grid-is-with-open-source/)
