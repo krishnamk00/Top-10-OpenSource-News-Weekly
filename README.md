@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+# 2020-05-22
+1. [AWS’ cdk8s, a Dev-Friendly Alternative to YAML for Managing Kubernetes Clusters](https://thenewstack.io/aws-cdk8s-a-dev-friendly-alternative-to-yaml-for-managing-kubernetes-clusters/)
+2. [GitLab's take on the current state of DevOps](https://www.zdnet.com/article/gitlabs-take-on-the-current-state-of-devops/)
+3. [Open-Sourcing BiT: Exploring Large-Scale Pre-training for Computer Vision](https://ai.googleblog.com/2020/05/open-sourcing-bit-exploring-large-scale.html)
+4. [Mozilla goes full incubator with ‘Fix The Internet’ startup lab and early-stage investments](https://techcrunch.com/2020/05/14/mozilla-goes-full-incubator-with-fix-the-internet-startup-lab-and-early-stage-investments/)
+5. [GNOME gets big open-source patent win](https://www.zdnet.com/article/gnome-gets-big-open-source-patent-win/)
+6. [Scaleway Launches Kubernetes Kapsule](https://www.infoq.com/news/2020/05/scaleway-kubernetes-kapsule/)
+7. [Microsoft acquires Metaswitch in telecom push](https://www.cnbc.com/2020/05/14/microsoft-acquires-metaswitch-in-telecom-push.html)
+8. [Microsoft claims it has spun up a top-five AI supercomputer for its pals at OpenAI – but won't reveal the full specs](https://www.theregister.co.uk/2020/05/20/microsoft_openai_supercomputer/)
+9. [GOOGLE AND DELL PAVE THE WAY FOR FILE DATA IN THE CLOUD](https://www.nextplatform.com/2020/05/21/google-and-dell-pave-the-way-for-file-data-in-the-cloud/)
+10. [Microsoft open sources GW-BASIC interpreter](https://mspoweruser.com/microsoft-open-sources-gw-basic/)
+
 ## 2020-05-15
 1. [OpenStack keeps stacking along: OpenStack Ussuri cloud arrives](https://www.zdnet.com/article/openstack-keeps-stacking-along-openstack-ussuri-cloud-arrives/)
 2. [Uber open-sources automated design framework for experiments](https://venturebeat.com/2020/05/12/uber-open-sources-automated-design-framework-for-experiments/)
