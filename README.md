@@ -1,6 +1,6 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
-# 2020-05-22
+## 2020-05-22
 1. [AWS’ cdk8s, a Dev-Friendly Alternative to YAML for Managing Kubernetes Clusters](https://thenewstack.io/aws-cdk8s-a-dev-friendly-alternative-to-yaml-for-managing-kubernetes-clusters/)
 2. [GitLab's take on the current state of DevOps](https://www.zdnet.com/article/gitlabs-take-on-the-current-state-of-devops/)
 3. [Open-Sourcing BiT: Exploring Large-Scale Pre-training for Computer Vision](https://ai.googleblog.com/2020/05/open-sourcing-bit-exploring-large-scale.html)
