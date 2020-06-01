@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+## 2020-05-29
+1. [Linux Lite 5.0 Officially Released, It’s Based on Ubuntu 20.04 LTS](https://9to5linux.com/linux-lite-5-0-officially-released-its-based-on-ubuntu-20-04-lts)
+2. [Red Hat: Holding Its Own and Fueling Open Source Innovation](https://www.linux.com/topic/linux/red-hat-holding-its-own-and-fueling-open-source-innovation/)
+3. [Joomla open source team discloses data breach](https://www.zdnet.com/article/joomla-team-discloses-data-breach/)
+4. [Expanding our work with the open source security community](https://security.googleblog.com/2020/05/expanding-our-work-with-open-source.html)
+5. [Add Crossplane as CNCF Sandbox project](https://github.com/cncf/toc/pull/454)
+6. [LinkedIn Open Sources a Small Component to Simplify the TensorFlow-Spark Interoperability](https://sciencecareer.data.blog/2020/05/25/linkedin-open-sources-a-small-component-to-simplify-the-tensorflow-spark-interoperability/)
+7. [First new Docker release under Mirantis appears](https://www.zdnet.com/article/first-new-docker-release-under-mirantis-appears/)
+8. [Chan Zuckerberg Initiative drops $3.8M on 23 biomedical open-source projects](https://techcrunch.com/2020/05/27/chan-zuckerberg-initiative-drops-3-8m-on-23-biomedical-open-source-projects/)
+9. [Baidu open-sources its Paddle Quantum machine learning toolkit on GitHub](https://siliconangle.com/2020/05/28/baidu-open-sources-quantum-machine-learning-toolkit-github/)
+10. [Technical discussions are hard; a few tips in open source world!](http://gael-varoquaux.info/programming/technical-discussions-are-hard-a-few-tips.html)
+
 ## 2020-05-22
 1. [AWS’ cdk8s, a Dev-Friendly Alternative to YAML for Managing Kubernetes Clusters](https://thenewstack.io/aws-cdk8s-a-dev-friendly-alternative-to-yaml-for-managing-kubernetes-clusters/)
 2. [GitLab's take on the current state of DevOps](https://www.zdnet.com/article/gitlabs-take-on-the-current-state-of-devops/)
