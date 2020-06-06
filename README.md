@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+## 2020-06-05
+1. [Microsoft to open source Fluid Framework; previews end-user experience](https://www.zdnet.com/article/microsoft-to-open-source-fluid-framework-previews-end-user-experience/)
+2. [Linus Torvalds rejects 'beyond stupid' AWS-made Linux patch for Intel CPU Snoop attack](https://www.zdnet.com/article/linus-torvalds-rejects-stupid-aws-made-linux-patch-for-intel-cpu-snoop-attack/)
+3. [The Linux Foundation introduces Cloud Engineer Bootcamp for cloud job seekers](https://www.zdnet.com/article/the-linux-foundation-introduces-cloud-engineer-bootcamp-for-cloud-job-seekers/)
+4. [LFN Adds Container Networking PaaS for 5G Efforts](https://containerjournal.com/topics/container-ecosystems/lnf-adds-container-networking-paas-for-5g-efforts/)
+5. [NetApp to Acquire Israeli Company Spot.io for $450 Million](https://www.calcalistech.com/ctech/articles/0,7340,L-3830090,00.html)
+6. [It could be 'five to ten years' before the world finally drags itself away from IPv4](https://www.theregister.com/2020/06/05/ipv4_v_ipv6/)
+7. [Introducing Kuma, the Service Mesh From Kong](https://containerjournal.com/topics/container-networking/introducing-kuma-the-service-mesh-from-kong/)
+8. [The New Rules for Playing in Microsoft's Open Source Sandbox](http://www.aaronstannard.com/new-rules-dotnet-oss/)
+9. [BluBracket: Getting a Grip on Open Source Code](https://thenewstack.io/blubracket-getting-a-grip-on-open-source-code/)
+10. [CNCF Gets a New Boss](https://containerjournal.com/features/cncf-gets-a-new-boss/)
+
 ## 2020-05-29
 1. [Linux Lite 5.0 Officially Released, It’s Based on Ubuntu 20.04 LTS](https://9to5linux.com/linux-lite-5-0-officially-released-its-based-on-ubuntu-20-04-lts)
 2. [Red Hat: Holding Its Own and Fueling Open Source Innovation](https://www.linux.com/topic/linux/red-hat-holding-its-own-and-fueling-open-source-innovation/)
