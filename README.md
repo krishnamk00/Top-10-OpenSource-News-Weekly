@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+## 2020-06-12
+1. [Google Open-Sources Computer Vision Model Big Transfer](https://www.infoq.com/news/2020/06/google-big-transfer/)
+2. [LF_Edge just launched its Youtube channel!](https://www.youtube.com/channel/UCY7H1oSt8gvXNdXH9wrNq5Q)
+3. [ZFS co-creator boots 'slave' out of OpenZFS codebase, says 'casual use' of term is 'unnecessary reference to a painful experience'](https://www.theregister.com/2020/06/12/openzfs_terminology_change/)
+4. [AWS flexes more cloudy Arm CPUs – and suggests they'll outpace competition over time](https://www.theregister.com/2020/06/12/aws_adds_more_graviton_instances/)
+5. [After IBM axed its face-recog tech, the rest of the dominoes fell like a house of cards: Amazon and now Microsoft. Checkmate](https://www.theregister.com/2020/06/12/microsoft_facial_recognition/)
+6. [Meet LBRY, A Blockchain-based Decentralized Alternative to YouTub](https://itsfoss.com/lbry/)
+7. [Red Hat Adds Java Runtime for Kubernetes to Subscription](https://containerjournal.com/topics/container-ecosystems/red-hat-adds-java-runtime-for-kubernetes-to-subscription/)
+8. [Cornell University’s ConvoKit: an open-source toolkit to aid the analysis of conversations](https://convokit.cornell.edu/)
+9. [Government of India makes COVID19 tracker open source; launches bug bounty programme](https://economictimes.indiatimes.com/tech/software/government-makes-aarogya-setu-open-source-launches-bun-bounty-programme/articleshow/76011332.cms)
+10. [Cloudera’s Data Management Platform Comes to OpenShift](https://containerjournal.com/topics/container-management/clouderas-data-management-platform-comes-to-openshift/)
+
 ## 2020-06-05
 1. [Microsoft to open source Fluid Framework; previews end-user experience](https://www.zdnet.com/article/microsoft-to-open-source-fluid-framework-previews-end-user-experience/)
 2. [Linus Torvalds rejects 'beyond stupid' AWS-made Linux patch for Intel CPU Snoop attack](https://www.zdnet.com/article/linus-torvalds-rejects-stupid-aws-made-linux-patch-for-intel-cpu-snoop-attack/)
