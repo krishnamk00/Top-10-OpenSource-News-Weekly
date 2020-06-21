@@ -1,6 +1,18 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
 ## 2020-06-12
+1. [Google Tsunami Opensource'd: An extensible network scanning engine for detecting high severity vulnerabilities with high confidence](https://github.com/google/tsunami-security-scanner)
+2. [OPEN SOURCE AFRO HAIR LIBRARY - curated 3D model database of Black hairstyles and textures](https://prettydarke.cool/portfolio/open-source-afro-hair-library/)
+3. [Microsoft's GitHub: Now open-source developers get 'one linter to rule them all'](https://www.zdnet.com/article/microsofts-github-now-open-source-developers-get-one-linter-to-rule-them-all/)
+4. [Linux Foundation and Harvard announce Linux and open-source contributor security survey](https://www.zdnet.com/article/linux-foundation-and-harvard-announce-linux-and-open-source-contributor-security-survey/)
+5. [OSF Preps Kata Containers Support for StarlingX Edge Computing Platform](https://containerjournal.com/topics/container-ecosystems/osf-preps-kata-containers-support-for-starlingx-edge-computing-platform/)
+6. [Loodse becomes Kubermatic and open-sources Kubernetes automation platform](https://techcrunch.com/2020/06/17/loodse-becomes-kubermatic-and-open-sources-kubernetes-automation-platform/)
+7. [Komprise adds another brick to hybrid cloud data management wall](https://blocksandfiles.com/2020/06/19/komprise-cdga-cloud-analytics/)
+8. [MayaData Unveils Kubera to Manage Data on Kubernetes Clusters](https://containerjournal.com/topics/container-management/mayadata-unveils-kubera-to-manage-data-on-kubernetes-clusters/)
+9. ['Boringly reliable': Red Hat architect thinks Kubernetes is 'mostly done' – but there are still plenty of bugs](https://www.theregister.com/2020/06/17/kubernetes_clayton_coleman_interview/)
+10. [Expose - fully open-source, tunneling service - written in pure PHP](https://github.com/beyondcode/expose)
+
+## 2020-06-12
 1. [Google Open-Sources Computer Vision Model Big Transfer](https://www.infoq.com/news/2020/06/google-big-transfer/)
 2. [LF_Edge just launched its Youtube channel!](https://www.youtube.com/channel/UCY7H1oSt8gvXNdXH9wrNq5Q)
 3. [ZFS co-creator boots 'slave' out of OpenZFS codebase, says 'casual use' of term is 'unnecessary reference to a painful experience'](https://www.theregister.com/2020/06/12/openzfs_terminology_change/)
