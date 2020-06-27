@@ -1,6 +1,18 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
-## 2020-06-12
+## 2020-06-26
+1. [Databricks Donates MLflow Project To Linux Foundation](https://www.forbes.com/sites/janakirammsv/2020/06/25/databricks-donates-mlflow-project-to-linux-foundation/#6c2297b081eb)
+2. [Puppet introduces beta of cloud-native, event-driven DevOps program: Relay](https://www.zdnet.com/article/puppet-introduces-beta-of-cloud-native-event-driven-devops-program-relay/)
+3. [Salesforce plans to write Slack integration out of the equation by rolling its own messaging and collaboration app](https://www.theregister.com/2020/06/25/salesforce_anywhere_collaboration/)
+4. [HashiCorp to offer managed versions of its developer tools starting with Consul](https://techcrunch.com/2020/06/22/hashicorp-to-offer-managed-versions-of-its-developer-tools-starting-with-consul/)
+5. [GitHub's new repository homepage design: Give us back the old version, say developers](https://www.zdnet.com/article/githubs-new-repository-homepage-design-give-us-back-the-old-version-say-developers/)
+6. [ARM and Linux take the supercomputer TOP500 crown](https://www.zdnet.com/article/arm-and-linux-take-supercomputer-top500-crown/)
+7. [Databricks acquires Redash, a visualizations service for data scientists](https://techcrunch.com/2020/06/24/databricks-acquires-redash-a-visualizations-service-for-data-scientists/)
+8. [OpenJDK lands on Windows 10 for Arm: Not 100% there yet but enough to start tinkering](https://www.theregister.com/2020/06/25/openjdk_windows_10_arm/)
+9. [AWS launches Amazon Honeycode, a no-code mobile and web app builder](https://techcrunch.com/2020/06/24/aws-launches-amazon-honeycode-a-no-code-mobile-and-web-app-builder/)
+10. [CREATING A CUSTOM ASIC WITH THE FIRST OPEN SOURCE PDK](https://hackaday.com/2020/06/25/creating-a-custom-asic-with-the-first-open-source-pdk/)
+
+## 2020-06-19
 1. [Google Tsunami Opensource'd: An extensible network scanning engine for detecting high severity vulnerabilities with high confidence](https://github.com/google/tsunami-security-scanner)
 2. [OPEN SOURCE AFRO HAIR LIBRARY - curated 3D model database of Black hairstyles and textures](https://prettydarke.cool/portfolio/open-source-afro-hair-library/)
 3. [Microsoft's GitHub: Now open-source developers get 'one linter to rule them all'](https://www.zdnet.com/article/microsofts-github-now-open-source-developers-get-one-linter-to-rule-them-all/)
