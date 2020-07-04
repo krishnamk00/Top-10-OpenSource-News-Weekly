@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+## 2020-07-03
+1. [BIG BLUE OPEN SOURCES THE CORE INSIDE BLUEGENE/Q SUPERCOMPUTERS](https://www.nextplatform.com/2020/06/30/big-blue-open-sources-the-core-inside-bluegene-q-supercomputers/)
+2. [JFrog Makes Free Repository Available for Helm Charts kubrnetes](https://containerjournal.com/topics/container-ecosystems/jfrog-makes-free-repository-available-for-helm-charts/)
+3. [If you wanna make your own open-source chip, just Google it. Literally. Web giant says it'll fab them for free](https://www.theregister.com/2020/07/03/open_chip_hardware/)
+4. [Baidu joins Open Invention Network Linux patent protection group](https://www.zdnet.com/article/baidu-joins-open-invention-network-linux-patent-protection-group/)
+5. [Amazon’s AWS establishes new aerospace cloud unit as Jeff Bezos increases bets on outer space](https://www.cnbc.com/2020/06/30/amazons-aws-establishes-aerospace-and-satellite-solutions-space-unit.html)
+6. [SODA Foundation Gains New Investments, Expands Charter to Address Increasing Need for Data Autonomy](https://www.linuxfoundation.org/press-release/2020/06/soda-foundation-gains-new-investments-expands-charter-to-address-increasing-need-for-data-autonomy/)
+7. [Databricks Donates MLflow Project To Linux Foundation](https://www.forbes.com/sites/janakirammsv/2020/06/25/databricks-donates-mlflow-project-to-linux-foundation/#6984f02981eb)
+8. [QuestDB nabs $2.3M seed to build open source time series database](https://techcrunch.com/2020/07/02/questdb-nabs-2-3m-seed-to-build-open-source-time-series-database/)
+9. [Linus Torvalds on the future of Linux kernel developers and development](https://www.zdnet.com/article/linus-torvalds-looks-at-the-future-of-linux-kernel-developers-and-development/)
+10. [Open source holds the key to autonomous vehicles](https://ubuntu.com/blog/open-source-economics-hold-the-key-to-autonomous-vehicles)
+
 ## 2020-06-26
 1. [Databricks Donates MLflow Project To Linux Foundation](https://www.forbes.com/sites/janakirammsv/2020/06/25/databricks-donates-mlflow-project-to-linux-foundation/#6c2297b081eb)
 2. [Puppet introduces beta of cloud-native, event-driven DevOps program: Relay](https://www.zdnet.com/article/puppet-introduces-beta-of-cloud-native-event-driven-devops-program-relay/)
