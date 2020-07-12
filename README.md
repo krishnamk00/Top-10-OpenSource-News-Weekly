@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+## 2020-07-10
+1. [Google open sources trademarks with the Open Usage Commons](https://www.zdnet.com/article/google-open-sources-trademarks-with-the-open-usage-commons/)
+2. [CNCF relaxes Sandbox process, welcomes new Incubating project](https://devclass.com/2020/07/09/cncf-simplifies-sandbox-process/)
+3. [Docker partners with AWS to smooth container deployments](https://www.zdnet.com/article/docker-partners-with-aws-to-smooth-container-deployments/)
+4. [CNCF Embraces Operator Framework to Manage Kubernetes Environments](https://containerjournal.com/topics/container-management/cncf-embraces-operator-framework-to-manage-kubernetes-environments/)
+5. [Microsoft unveils Pylance, its new Python extension for Visual Studio Code](https://www.infoworld.com/article/3564816/microsoft-unveils-pylance-its-new-python-extension-for-visual-studio-code.html)
+6. [SUSE to acquire Rancher Labs](https://www.zdnet.com/article/suse-to-acquire-rancher-labs/)
+7. [What’s the point: GitLab, Contour, porting .NET apps, HAProxy, and CLion](https://devclass.com/2020/07/08/whats-the-point-080720/)
+8. [Profisee Brings MDM to Containers Running on Azure](https://containerjournal.com/topics/container-ecosystems/profisee-brings-mdm-to-containers-running-on-azure/)
+9. [OpenMMLab now includes 14 codebases, covering 100+ algorithms](https://open-mmlab.github.io/)
+10. [Mozilla's growing open source voice library](https://opensource.com/article/20/7/news-july-7)
+
 ## 2020-07-03
 1. [BIG BLUE OPEN SOURCES THE CORE INSIDE BLUEGENE/Q SUPERCOMPUTERS](https://www.nextplatform.com/2020/06/30/big-blue-open-sources-the-core-inside-bluegene-q-supercomputers/)
 2. [JFrog Makes Free Repository Available for Helm Charts kubrnetes](https://containerjournal.com/topics/container-ecosystems/jfrog-makes-free-repository-available-for-helm-charts/)
