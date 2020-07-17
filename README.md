@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+## 2020-07-17
+1. [Google's Confidential VMs may change the public cloud market](https://www.zdnet.com/google-amp/article/googles-confidential-vms-may-change-the-public-cloud-market)
+2. [OpenStack, the open-source cloud at 10](https://www.zdnet.com/article/openstack-the-open-source-cloud-at-10/)
+3. [Google & Ubuntu Team Up to Bring Flutter Apps to Linux](https://www.omgubuntu.co.uk/2020/07/flutter-sdk-linux-desktop)
+4. [GitLab Offers CI/CD Platform as Hardened Container Image](https://containerjournal.com/topics/container-ecosystems/gitlab-offers-ci-cd-platform-as-hardened-container-image/)
+5. [Puppet announces $40 million debt round from BlackRock](https://techcrunch.com/2020/07/16/puppet-announces-40-million-debt-round-from-blackrock/)
+6. [Privacy Shield binned after EU court rules transatlantic data protection arrangements 'inadequate'](https://www.theregister.com/2020/07/16/privacy_shield_struck_down/)
+7. [Google dominance in W3C standards – who writes the rules and for whom?](https://www.theregister.com/2020/07/17/aggrieved_ad_tech_types_decry/)
+8. [Certified Kubernetes Security Specialist (CKS) Coming in November](https://www.cncf.io/blog/2020/07/15/certified-kubernetes-security-specialist-cks-coming-in-november/)
+9. [Linux Foundation - A Beginner's Guide to Open Source Software Development (LFD102)](https://training.linuxfoundation.org/resources/free-courses/beginner-guide-to-oss-development)
+10. [GitHub Archive Program: the journey of the world’s open source code to the Arctic](https://github.blog/2020-07-16-github-archive-program-the-journey-of-the-worlds-open-source-code-to-the-arctic)
+
 ## 2020-07-10
 1. [Google open sources trademarks with the Open Usage Commons](https://www.zdnet.com/article/google-open-sources-trademarks-with-the-open-usage-commons/)
 2. [CNCF relaxes Sandbox process, welcomes new Incubating project](https://devclass.com/2020/07/09/cncf-simplifies-sandbox-process/)
