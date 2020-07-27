@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+## 2020-07-24
+1. [The Linux Foundation launches new COVID-19 open source initiative](https://www.lfph.io/)
+2. [Google Proposes Changes to Istio Steering Committee](https://containerjournal.com/topics/container-networking/google-proposes-changes-to-istio-steering-committee/)
+3. [Why everyone is talking about the A.I. text generator released by an Elon Musk-backed lab](https://www.cnbc.com/2020/07/23/openai-gpt3-explainer.html?__source=sharebar|twitter&par=sharebar)
+4. [SpaceX: We've launched 32,000 Linux computers into space for Starlink internet](https://www.zdnet.com/article/spacex-weve-launched-32000-linux-computers-into-space-for-starlink-internet/)
+5. [Why BigQuery Omni Is A Big Deal For Google Cloud Customers And Partners](https://www.forbes.com/sites/janakirammsv/2020/07/19/why-bigquery-omni-is-a-big-deal-for-google-cloud-customers-and-partners/#716040ae1843)
+6. [True openess of the open source project](https://www.linuxfoundation.org/wp-content/uploads/2019/07/lf_determiningopenness_ebook_071519.pdf) 
+7. [Xen upgrade brings open-source hypervisor to Azure, future AMD EPYCs, rPi 4, and even Nvidia AI development kit](https://www.theregister.com/2020/07/24/xen_4_14/)
+8. [Google forced to defend new trademark foundation as Knative community takes umbrage at 'neutrality' claims](https://www.theregister.com/2020/07/23/google_open_usage_commons/)
+9. [HPE opens 5G kit-testing lab where vendors can play with the toys, see what works best](https://www.theregister.com/2020/07/23/hpe_5g_lab/)
+10. [Will DevOps Survive the Kubernetes Onslaught?](https://containerjournal.com/topics/container-ecosystems/will-devops-survive-the-kubernetes-onslaught/)
+
 ## 2020-07-17
 1. [Google's Confidential VMs may change the public cloud market](https://www.zdnet.com/google-amp/article/googles-confidential-vms-may-change-the-public-cloud-market)
 2. [OpenStack, the open-source cloud at 10](https://www.zdnet.com/article/openstack-the-open-source-cloud-at-10/)
