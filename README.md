@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+## 2020-07-31
+1. [Amazon gets green-light to blow $10bn on 3,000+ internet satellites](https://www.theregister.com/2020/08/01/amazon_to_fly_578_satellites/)
+2. [Forrester Highlights Rising Container Security Issues](https://containerjournal.com/topics/container-security/forrester-highlights-rising-container-security-issues/)
+3. [The Azure Cloud Shell image is now open sourced!](https://t.co/5R0T0fNLg2?amp=1)
+4. [New Kubernetes Ebook! Learn the Latest In Kubernetes Deployments and Trends](https://bit.ly/2D8af2G)
+5. [Red Hat Enterprise Linux runs into Boothole patch trouble](https://www.zdnet.com/article/red-hat-enterprise-linux-runs-into-boothole-patch-trouble/)
+6. [Microsoft finally spills the beans on everything you need to know about its low-code platform, Dataflex for Teams](https://www.theregister.com/2020/07/30/microsoft_dataflex_details/)
+7. [UX Layers for Kubernetes: The Next Cloud-Native Abstraction?](https://containerjournal.com/topics/container-management/ux-layers-for-kubernetes-the-next-cloud-native-abstraction/)
+8. [Introducing IOTA Stronghold - multipurpose libraries for securely managingn keys](https://blog.iota.org/iota-stronghold-6ce55d311d7c)
+9. [Announcing the New AWS Community Builders Program!](https://aws.amazon.com/blogs/aws/announcing-the-new-aws-community-builders-program/)
+10. [Discover your GitLab return on investment with the Forrester Total Economic Impact™ Study and Estimator](https://about.gitlab.com/blog/2020/07/29/forrester-tei/?utm_source=thenewstack&utm_medium=twitter&utm_campaign=platform)
+
 ## 2020-07-24
 1. [The Linux Foundation launches new COVID-19 open source initiative](https://www.lfph.io/)
 2. [Google Proposes Changes to Istio Steering Committee](https://containerjournal.com/topics/container-networking/google-proposes-changes-to-istio-steering-committee/)
