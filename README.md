@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+## 2020-08-07
+1. [Azure Arc Is Developing into a Full Hybrid Infrastructure System](https://thenewstack.io/azure-arc-is-developing-into-a-full-hybrid-infrastructure-system/)
+2. [Microsoft introduces Open Service Mesh for Kubernetes, plans quick donation to CNCF](https://www.theregister.com/2020/08/05/microsoft_open_service_mesh/)
+3. [Kubermatic launches open-source service hub to enable complex service management](https://techcrunch.com/2020/08/05/kubermatic-launches-open-source-service-hub-to-enable-complex-service-management/)
+4. [Harness snagging open-source CI company Drone.io](https://techcrunch.com/2020/08/05/harness-makes-first-acquisition-snagging-open-source-ci-company-drone-io/)
+5. [Uniting for better open-source security: The Open Source Security Foundation](https://www.zdnet.com/article/uniting-for-better-open-source-security-the-open-source-security-foundation/)
+6. ['Accidentally' left Google Home devices recording your every word](https://www.theregister.com/2020/08/08/ai_in_brief/)
+7. [Hacked - to go open source – 10bn credentials](https://www.theregister.com/2020/08/07/hibp_open_source/)
+8. [Intel NDA blueprints – 20GB of source code, schematics, specs, docs – spill onto web from partners-only vault](https://www.theregister.com/2020/08/06/intel_nda_source_code_leak/)
+9. [CSI GitHub: That big outage last month? It's always DNS. Or it was Kubernetes.](https://www.theregister.com/2020/08/06/july_github_outage_postmortem/)
+10. [Palo Alto Networks Discloses Kata Container Flaws](https://containerjournal.com/topics/container-security/palo-alto-networks-discloses-kata-container-flaws/)
+
 ## 2020-07-31
 1. [Amazon gets green-light to blow $10bn on 3,000+ internet satellites](https://www.theregister.com/2020/08/01/amazon_to_fly_578_satellites/)
 2. [Forrester Highlights Rising Container Security Issues](https://containerjournal.com/topics/container-security/forrester-highlights-rising-container-security-issues/)
