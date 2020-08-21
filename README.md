@@ -1,5 +1,29 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+## 2020-08-22
+1.	[China is building a GitHub alternative called Gitee](https://techcrunch.com/2020/08/21/china-is-building-its-github-alternative-gitee/)
+2.	[FinOps Foundation Quickly Gains Industry-Wide Support to Advance Cloud Financial Management and Education](https://www.linuxfoundation.org/press-release/2020/08/finops-foundation-quickly-gains-industry-wide-support-to-advance-cloud-financial-management-and-education/)
+3.	[CNCF Welcomes Cortex as an Incubating Project](https://www.cncf.io/blog/2020/08/20/toc-welcomes-cortex-as-an-incubating-project/)
+4.	[AWS just added direct support for the GitOps model for the broad range of AWS services](https://aws.amazon.com/about-aws/whats-new/2020/08/announcing-the-aws-controllers-for-kubernetes-preview/)
+5.	[Carvel, formerly k14s, aims to simplify application deployment atop Kubernetes](https://carvel.dev/blog)
+6.	[AWS Snowcone is the rugged, ultra-portable edge computing & data transfer device](https://blog.aboutamazon.com/innovation/introducing-aws-snowcone-a-small-ultra-portable-edge-computing-and-data-transfer-device/?sc_channel=sm&sc_campaign=Storage&sc_publisher=TWITTER&sc_country=Global&sc_geo=GLOBAL&sc_outcome=adoption&trk=n/a_TWITTER&sc_category=AWS+Snowcone&linkId=97732956)
+7.	[Rust programming language to continue under fresh org](https://devclass.com/2020/08/19/rust-to-get-own-foundation/)
+8.	[VMware gives its desktop hypervisors the power to spawn local K8s clusters](https://www.theregister.com/2020/08/21/vmware_updates_fusion_and_workstation/)
+9.	[Elastic slings workplace search into free tier, trials query language, flexible ingestion](https://devclass.com/2020/08/20/elastic-7_9-kibana-architecture/)
+10.	[CyberArk Discloses Potential Security Flaw in Kubernetes Agent Software](https://containerjournal.com/topics/container-security/cyberark-discloses-potential-security-flaw-in-kubernetes-agent-software/)
+
+## 2020-08-15
+1.	[Facebook deepens its work through its community and Platinum membership](https://www.linuxfoundation.org/blog/2020/08/facebooks-long-history-of-open-source-investments-deepens-with-platinum-level-linux-foundation-membership/)
+2.	[Mirantis has acquired Lens, the world’s most popular k8s IDE, to simplify app development](https://www.mirantis.com/company/press-center/mirantis-acquires-lens-kubernetes-ide/)
+3.	[Google Builds AI to Help Ships and Whales Coexist](https://graphics.wsj.com/glider/google-builds-ai-to-help-ships-and-whales-coexist-f4b74f53-bba5-442f-90a4-e42dfb13dad2?mod=e2twd)
+4.	[NeuVector Melds Container Compliance, Security](https://containerjournal.com/topics/container-security/neuvector-melds-container-compliance-security/)
+5.	[The AWS Serverless Application Model CLI is now generally available](https://aws.amazon.com/blogs/compute/the-aws-serverless-application-model-cli-is-now-generally-available/?sc_channel=sm&sc_campaign=Serverless&sc_publisher=TWITTER&sc_country=Global&sc_geo=GLOBAL&sc_outcome=awareness&trkCampaign=Serverless&trk=Serverless_TWITTER&sc_content=Blog_Post&sc_category=AWS+Lambda&linkId=96492833)
+6.	[Stacklet launches cloud governance platform](https://techcrunch.com/2020/08/12/stacklet-launches-cloud-governance-platform-with-4-4m-seed-investment/)
+7.	[MLOps in a Kubernetes Environment](https://containerjournal.com/topics/container-ecosystems/efficient-mlops-in-a-kubernetes-environment/)
+8.	[TensorFlow Lite pulls throttle, adds speed as it puts OpenCL in the sidecar](https://devclass.com/2020/08/19/tensorflow-lite-opencl/)
+9.	[Standardizing on Kubernetes, and more industry trends](https://opensource.com/article/20/8/standardizing-kube-and-more-industry-trends)
+10.	[China unveils AI open-source platform 'Dubhe'](https://news.cgtn.com/news/2020-08-03/China-unveils-AI-open-source-platform-Dubhe--SE3UpfEX5e/index.html)
+
 ## 2020-08-07
 1. [Azure Arc Is Developing into a Full Hybrid Infrastructure System](https://thenewstack.io/azure-arc-is-developing-into-a-full-hybrid-infrastructure-system/)
 2. [Microsoft introduces Open Service Mesh for Kubernetes, plans quick donation to CNCF](https://www.theregister.com/2020/08/05/microsoft_open_service_mesh/)
