@@ -1,6 +1,18 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
-## 2020-08-22
+## 2020-08-28
+1. [Commit 1 million: The history of the Linux kernel in its 29 years](https://www.zdnet.com/article/commit-1-million-the-history-of-the-linux-kernel/)
+2. [Why Is The Open Source Community Excited About K3s Project Joining CNCF?](https://www.forbes.com/sites/janakirammsv/2020/08/28/why-is-the-open-source-community-excited-about-k3s-project-joining-cncf)
+3. [Anthos rising—now easier to use, for more workloads](https://cloud.google.com/blog/topics/google-cloud-next/latest-anthos-release-adds-hybrid-ai-and-other-features)
+4. [MIT CSAIL grad launches machine learning platform - ModelDB - with $10M Series A](https://techcrunch.com/2020/08/25/mit-csail-grad-launches-machine-learning-platform-with-10m-series-a/)
+5. [Cisco Expands Kubernetes Networking Ambitions - Cloud-Native SD-WAN (CN-WAN) project](https://containerjournal.com/topics/container-networking/cisco-expands-kubernetes-networking-ambitions/)
+6. [Zuck says Facebook made an 'operational mistake' in not taking down US militia page mid-protest](https://www.theregister.com/2020/08/29/zuckerberg_operational_mistake/)
+7. [The community hat rules the company hat in open source](https://www.infoworld.com/article/3569373/the-community-hat-rules-the-company-hat-in-open-source.html)
+8. [Open Source Intelligence (OSINT) Market Projected to Gain A Revolutionary Growth During 2020-2027](https://scientect.com/uncategorized/999681/open-source-intelligence-osint-market-projected-to-gain-a-revolutionary-growth-during-2020-2027-biggest-opportunity-of-2020/)
+9. [Addressing bias in large-scale AI applications: The LinkedIn Fairness Toolkit](https://engineering.linkedin.com/blog/2020/lift-addressing-bias-in-large-scale-ai-applications) 
+10. [5 Interesting Announcements From KubeCon+CloudNativeCon Europe 2020](https://www.forbes.com/sites/janakirammsv/2020/08/23/5-interesting-announcements-from-kubeconcloudnativecon-europe-2020)
+
+## 2020-08-21
 1.	[China is building a GitHub alternative called Gitee](https://techcrunch.com/2020/08/21/china-is-building-its-github-alternative-gitee/)
 2.	[FinOps Foundation Quickly Gains Industry-Wide Support to Advance Cloud Financial Management and Education](https://www.linuxfoundation.org/press-release/2020/08/finops-foundation-quickly-gains-industry-wide-support-to-advance-cloud-financial-management-and-education/)
 3.	[CNCF Welcomes Cortex as an Incubating Project](https://www.cncf.io/blog/2020/08/20/toc-welcomes-cortex-as-an-incubating-project/)
