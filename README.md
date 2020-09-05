@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+## 2020-09-04
+1. [Open our own Container Registry, muses GitHub as it gives orgs a hand at resource-sharing](https://devclass.com/2020/09/02/github-container-registry/)
+2. [AWS introduces Bottlerocket: A Rust language-oriented Linux for containers](https://www.zdnet.com/article/aws-introduces-bottlerocket-a-rust-language-oriented-linux-for-containers/)
+3. [Fairwinds Adds Open Source Interface for Kubernetes Backup and Recovery](https://containerjournal.com/topics/container-management/fairwinds-adds-open-source-interface-for-kubernetes-backup-and-recovery/)
+4. [Nextcloud incorporates Kaspersky antivirus security](https://www.zdnet.com/article/nextcloud-incorporates-kaspersky-antivirus-security/)
+5. [Laying the foundation for Rust's future](https://blog.rust-lang.org/2020/08/18/laying-the-foundation-for-rusts-future.html)
+6. [ABI Research Predicts 2.5 Billion TinyML Devices Within a Decade, Points to Open Source as a Driver](hackster.io/news/abi-research-predicts-2-5-billion-tinyml-devices-within-a-decade-points-to-open-source-as-a-driver-ef4977b3f25b)
+7. [How to judge open-source projects](https://www.zdnet.com/article/how-to-judge-open-source-projects/)
+8. [Amazon Announces the Preview of AWS Controllers for Kubernetes (ACK)](https://www.infoq.com/news/2020/09/aws-controllers-k8s-preview/)
+9. [Microsoft, and Virtzilla pitches Tanzu to the Spring crowd](https://www.theregister.com/2020/09/03/vmwares_pat_gelsinger_being_on/)
+10. [Like Uber, but for satellite launches: European Space Agency’s ride-sharing rocket slings 53 birds with one bang](https://www.theregister.com/2020/09/04/like_uber_but_for_satellite/)
+
 ## 2020-08-28
 1. [Commit 1 million: The history of the Linux kernel in its 29 years](https://www.zdnet.com/article/commit-1-million-the-history-of-the-linux-kernel/)
 2. [Why Is The Open Source Community Excited About K3s Project Joining CNCF?](https://www.forbes.com/sites/janakirammsv/2020/08/28/why-is-the-open-source-community-excited-about-k3s-project-joining-cncf)
