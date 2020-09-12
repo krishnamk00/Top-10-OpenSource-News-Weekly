@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+## 2020-09-11
+1. [Linux is still the standard](https://www.infoworld.com/article/3573924/linux-is-still-the-standard.html)
+2. [Microsoft Sets Kubernetes Strategy for the Enterprise](https://containerjournal.com/topics/container-management/microsoft-sets-kubernetes-strategy-for-the-enterprise/)
+3. [Red Hat and IBM announce a hybrid-cloud software marketplace](https://www.zdnet.com/article/red-hat-and-ibm-announce-a-hybrid-cloud-software-marketplace/)
+4. [Gitpod Goes Open Source With Its IDE Platform; Launches Self-Hosted Cloud Package](https://aithority.com/it-and-devops/gitpod-goes-open-source-with-its-ide-platform-launches-self-hosted-cloud-package/)
+5. [Nutanix Unfurls PaaS Based on Kubernetes](https://containerjournal.com/topics/container-security/nutanix-unfurls-paas-based-on-kubernetes/)
+6. [Intel Engineers develop an open-source, smartphone-powered robot](https://www.inceptivemind.com/openbot-open-source-low-cost-smartphone-powered-robot/15023/)
+7. [The next-gen AI battles will hinge upon net infrastructure, not killer robots](https://www.theregister.com/2020/09/10/us_dod_ai/)
+8. [In China, GitHub Is a Free Speech Zone for Covid Information](https://www.wired.com/story/china-github-free-speech-covid-information/)
+9. [TODO Group: Why Open Source matters to your enterprise](https://www.linuxfoundation.org/blog/2020/09/why-open-source-matters-to-your-enterprise/)
+10. [SFD is a worldwide celebration of Free and Open Source Software (FOSS)](https://twitter.com/CP_Union/status/1304011739764121601/photo/1)
+
 ## 2020-09-04
 1. [Open our own Container Registry, muses GitHub as it gives orgs a hand at resource-sharing](https://devclass.com/2020/09/02/github-container-registry/)
 2. [AWS introduces Bottlerocket: A Rust language-oriented Linux for containers](https://www.zdnet.com/article/aws-introduces-bottlerocket-a-rust-language-oriented-linux-for-containers/)
