@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+## 2020-09-18
+1. [Microsoft announces new Project OneFuzz framework, an open source developer tool to find and fix bugs at scale](https://www.microsoft.com/security/blog/2020/09/15/microsoft-onefuzz-framework-open-source-developer-tool-fix-bugs/)
+2. [TOC Approves KubeEdge as Incubating Project](https://www.cncf.io/blog/2020/09/16/toc-approves-kubeedge-as-incubating-project/)
+3. [Pure Storage Buys Portworx to Advance Stateful Kubernetes Apps](https://containerjournal.com/topics/container-management/pure-storage-buys-portworx-to-advance-stateful-kubernetes-apps/)
+4. [Grafana Labs Offers On-Premises Edition of Prometheus](https://containerjournal.com/topics/container-management/grafana-labs-offers-on-premises-edition-of-prometheus/)
+5. [The Audacious Larry Ellison Flips Oracle Cloud Strategy Upside-Down](https://cloudwars.co/oracle/the-audacious-larry-ellison-flips-oracle-cloud-strategy-upside-down/)
+6. [Accenture Cloud First Launches with $3 Billion Investment to Accelerate Clients’ Move to Cloud and Digital Transformation](https://newsroom.accenture.com/news/accenture-cloud-first-launches-with-3-billion-investment-to-accelerate-clients-move-to-cloud-and-digital-transformation.htm)
+7. [VMware Expands Tanzu Kubernetes Universe](https://containerjournal.com/topics/container-management/vmware-expands-tanzu-kubernetes-universe/)
+8. [Linux Foundation launches new entry-level IT certification](https://www.zdnet.com/article/linux-foundation-launches-new-entry-level-it-certification/)
+9. [consolidate databases for the storage benefits?](https://www.theregister.com/2020/09/18/storage_consolidation_debate_results/)
+10. [Stanford Reserach: An Open-Source Challenger to Popular Virtual Assistants](https://hai.stanford.edu/blog/open-source-challenger-popular-virtual-assistants)
+
 ## 2020-09-11
 1. [Linux is still the standard](https://www.infoworld.com/article/3573924/linux-is-still-the-standard.html)
 2. [Microsoft Sets Kubernetes Strategy for the Enterprise](https://containerjournal.com/topics/container-management/microsoft-sets-kubernetes-strategy-for-the-enterprise/)
