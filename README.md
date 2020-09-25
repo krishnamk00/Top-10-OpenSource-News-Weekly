@@ -1,6 +1,18 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
 ## 2020-09-18
+1. [Introducing - TensorFlow Recommenders](https://blog.tensorflow.org/2020/09/introducing-tensorflow-recommenders.html?linkId=100309856)
+2. [Meet the ‘DPU’ – accelerated network cards designed to go where CPUs and GPUs can’t be bothered](https://www.theregister.com/2020/09/25/smartnic_dpu/)
+3. [Not Particularly Mortifying: IEEE eggheads probe npm registry, say JavaScript libs not as insecure as feared](https://www.theregister.com/2020/09/25/npm_security_risks/)
+4. [Five years after creating Traefik application proxy, open-source project hits 2B downloads](https://techcrunch.com/2020/09/23/five-years-after-creating-traefik-application-proxy-open-source-project-hits-2b-downloads/)
+5. [2nd Watch Adds Hybrid Anthos Practice to IT Services Portfolio](https://containerjournal.com/topics/container-management/2nd-watch-adds-hybrid-anthos-practice-to-it-services-portfolio/)
+6. [How open-source software transformed the business world](https://www.zdnet.com/article/how-open-source-software-transformed-the-business-world/)
+7. [jdk/jdk repository transition to Git, GitHub](https://mail.openjdk.java.net/pipermail/jdk-dev/2020-September/004694.html)
+8. [VMware drops hints that ESXi on Arm is about to become a proper product](https://www.theregister.com/2020/09/24/vmworld_preview_esxi_on_arm/)
+9. [Microsoft to Bring AKS Service to HCI Platforms](https://containerjournal.com/topics/container-management/microsoft-to-bring-aks-service-to-hci-platforms/)
+10. [airbyte - Announcing open-source data integration platform](https://airbyte.io/)
+
+## 2020-09-18
 1. [Microsoft announces new Project OneFuzz framework, an open source developer tool to find and fix bugs at scale](https://www.microsoft.com/security/blog/2020/09/15/microsoft-onefuzz-framework-open-source-developer-tool-fix-bugs/)
 2. [TOC Approves KubeEdge as Incubating Project](https://www.cncf.io/blog/2020/09/16/toc-approves-kubeedge-as-incubating-project/)
 3. [Pure Storage Buys Portworx to Advance Stateful Kubernetes Apps](https://containerjournal.com/topics/container-management/pure-storage-buys-portworx-to-advance-stateful-kubernetes-apps/)
