@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+## 2020-10-09
+1. [Supreme Court takes on Google vs. Oracle: The biggest software development case ever](https://www.zdnet.com/article/supreme-court-takes-on-google-vs-oracle-the-biggest-software-development-case-ever/)
+2. [K8s on a plane! US Air Force slaps Googly container tech on yet another war machine to 'run advanced ML algorithms'](https://www.theregister.com/2020/10/08/usaf_u2_spyplane_kubernetes_britten_norman/)
+3. [IBM will spin off Managed Infrastructure Services unit as a new public company](https://newsroom.ibm.com/Accelerating-our-future-and-growth-strategy)
+4. [GitHub Docs are now open source](https://github.blog/changelog/2020-10-07-github-docs-are-now-open-source/)
+5. [Nextcloud 20: One private cloud to rule them all](https://www.zdnet.com/article/nextcloud-20-one-private-cloud-to-rule-them-all/)
+6. [Optimizing the Relationship Between Apache Ignite and Kubernetes](https://containerjournal.com/topics/container-ecosystems/optimizing-the-relationship-between-apache-ignite-and-kubernetes/)
+7. [The year of postgreSQL is every year](https://www.infoworld.com/article/3583633/the-year-of-postgresql-is-every-year.html)
+8. [Introducing GTN, an open source framework for automatic differentiation](https://ai.facebook.com/blog/a-new-open-source-framework-for-automatic-differentiation-with-graphs)
+9. [CNCF Graduates Rook](https://blog.rook.io/cncf-graduates-rook-22ea3fbd2e6f)
+10. [The best open source software of 2020](https://www.infoworld.com/article/3575858/the-best-open-source-software-of-2020.html?)
+
 ## 2020-10-02
 1. [Introducing Open Suurce IOTA Access](https://blog.iota.org/introducing-iota-access-686a2f017ff)
 2. [GitHub launches new code scanning capability](https://github.blog/2020-09-30-code-scanning-is-now-available/)
