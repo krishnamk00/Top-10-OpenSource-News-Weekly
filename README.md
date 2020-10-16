@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+## 2020-10-16
+1. [Announcing HashiCorp Boundary, a new open source project to securely access dynamic hosts and services](https://www.hashicorp.com/blog/hashicorp-boundary)
+2. [Canonical introduces high-availability Micro-Kubernetes](https://www.zdnet.com/article/canonical-introduces-high-availability-micro-kubernetes/)
+3. [Canonical introduces high-availability Micro-Kubernetes](https://www.zdnet.com/article/canonical-introduces-high-availability-micro-kubernetes/)
+4. [Helm Hub Moving To Artifact Hub](https://helm.sh/blog/helm-hub-moving-to-artifact-hub/)
+5. [TriggerMesh Allies With Rancher Labs to Simplify AWS Integration](https://containerjournal.com/topics/container-management/triggermesh-allies-with-rancher-labs-to-simplify-aws-integration/)
+6. [Announcing Google Cloud supports buildpacks](https://cloud.google.com/blog/products/containers-kubernetes/google-cloud-now-supports-buildpacks?)
+7. [Open Invention Network open-source, non-aggression patents now covers Android and exFAT](https://www.zdnet.com/article/open-invention-network-open-source-non-aggression-patents-now-covers-android-and-exfat/)
+8. [Armory nabs $40M Series C as commercial biz on top of open-source Spinnaker project takes off](https://techcrunch.com/2020/10/13/armory-scores-a-40m-series-c-to-continue-commercializing-open-source-spinnaker-project/?)
+9. [Has Apple abandoned CUPS, the Linux's world's widely used open-source printing system?](https://www.theregister.com/2020/10/15/apple_cups_develoment/)
+10. [OpenStack's 10th birthday is next week, but you get the present of a new release today!](https://www.theregister.com/2020/10/16/openstack_victoria/)
+
 ## 2020-10-09
 1. [Supreme Court takes on Google vs. Oracle: The biggest software development case ever](https://www.zdnet.com/article/supreme-court-takes-on-google-vs-oracle-the-biggest-software-development-case-ever/)
 2. [K8s on a plane! US Air Force slaps Googly container tech on yet another war machine to 'run advanced ML algorithms'](https://www.theregister.com/2020/10/08/usaf_u2_spyplane_kubernetes_britten_norman/)
