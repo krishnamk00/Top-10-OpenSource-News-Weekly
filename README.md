@@ -1,5 +1,31 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+## 2020-10-30
+
+1. [Arduino joins the Open Source Security Foundation](https://blog.arduino.cc/2020/10/30/arduino-joins-the-open-source-security-foundation/)
+2. [Netflix’s Polynote is a New Open Source Framework to Build Better Data Science Notebooks](https://towardsdatascience.com/getting-started-with-polynote-netflixs-data-science-notebooks-47fa01eae156)
+3. [Carbon Relay Extends AIOps Platform to Kubernetes HPA](https://containerjournal.com/topics/container-management/carbon-relay-extends-aiops-platform-to-kubernetes-hpa/)
+4. [If the ad industry is serious about transparency, let’s open-source our SDKs](https://techcrunch.com/2020/10/12/if-the-ad-industry-is-serious-about-transparency-lets-open-source-our-sdks/)
+5. [Open sourced Bastions are a cluster of machines used as the unique entry point by operational teams to securely connect](https://github.com/ovh/the-bastion)
+6. [StackRox Tool Prevents Kubernetes Misconfigurations](https://containerjournal.com/topics/container-management/stackrox-tool-prevents-kubernetes-misconfigurations/)
+7. [A cloud server with no network, no persistent storage, and no user access – AWS Nitro Hypervisor](https://www.theregister.com/2020/10/29/aws_enclaves/)
+8. [X.Org is now pretty much an ex-org: Maintainer declares the open-source windowing system largely abandoned](https://www.theregister.com/2020/10/30/x_server_lead_maintainer_declares/)
+9. [Cloud revenue equation: One AWS equals Azure + Google + Alibaba](https://www.theregister.com/2020/10/30/canalys_worldwide_cloud_market_q3_2020/)
+10. [Just cough into your phone, please... MIT lab thinks it can diagnose COVID-19 from the way you expectorate](https://www.theregister.com/2020/10/31/ai_covid_cough/)
+
+## 2020-10-23
+
+1. [The OpenStack Foundation becomes the Open Infrastructure Foundation](https://techcrunch.com/2020/10/19/the-openstack-foundation-becomes-the-open-infrastructure-foundation/)
+2. [Announcing Akri, an open source project for building a connected edge with Kubernetes](https://cloudblogs.microsoft.com/opensource/2020/10/20/announcing-akri-open-source-project-building-connected-edge-kubernetes/)
+3. [PPL Bench: Creating a standard for benchmarking probabilistic programming languages](https://ai.facebook.com/blog/ppl-bench-creating-a-standard-for-benchmarking-probabilistic-programming-languages/)
+4. [Google Cloud launches Lending DocAI, its first dedicated mortgage industry tool](https://techcrunch.com/2020/10/19/google-cloud-launches-lending-docai-its-first-dedicated-mortgage-industry-tool/)
+5. [Announcing HashiCorp Waypoint - workflow to build, deploy, and release applications](https://www.hashicorp.com/blog/announcing-waypoint)
+6. [OPEN SOURCE AS A MODEL FOR THE NEW NORMAL](https://www.theverge.com/ad/21520136/open-source-community-is-building-better-businesses)
+7. [An open source, easy-to-use and high-scale distributed tracing backend from Grafana](https://github.com/grafana/tempo)
+8. [How Microsoft went from "Linux is a cancer." to "Microsoft Loves Linux."](https://www.idginsiderpro.com/article/3584911/how-microsoft-went-from-linux-is-a-cancer-to-microsoft-loves-linux.html)
+9. [Kubernetes Could Be The One To Make the Internet of Things (IoT) Reach Its Potential](https://www.cncf.io/blog/2020/09/25/kubernetes-could-be-the-one-to-make-the-internet-of-things-iot-reach-its-potential/)
+10. [The mainframe—Linux alliance turns 20 this month and is proving to be more vital than ever,](https://www.networkworld.com/article/3576290/still-not-dead-the-mainframe-hangs-on-sustained-by-linux-and-hybrid-cloud.html#tk.rss_cloudcomputing)
+
 ## 2020-10-16
 1. [Announcing HashiCorp Boundary, a new open source project to securely access dynamic hosts and services](https://www.hashicorp.com/blog/hashicorp-boundary)
 2. [Canonical introduces high-availability Micro-Kubernetes](https://www.zdnet.com/article/canonical-introduces-high-availability-micro-kubernetes/)
