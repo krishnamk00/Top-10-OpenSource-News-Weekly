@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+## 2020-11-06
+1. [AWS preps its own library of public Docker container images](https://www.zdnet.com/article/aws-preps-its-own-library-of-public-docker-container-images/)
+2. [IBM Advances DevSecOps in Cloud Service Based on Kubernetes](https://containerjournal.com/topics/container-security/ibm-advances-devsecops-in-cloud-service-based-on-kubernetes/)
+3. [New AI & Data Foundation Combines Industry’s Fastest-Growing Open Source Developments](https://www.linuxfoundation.org/press-release/2020/10/new-ai-data-foundation-combines-industrys-fastest-growing-open-source-developments-in-artificial-intelligence-and-open-data/)
+4. [Microsoft pledges to give Teams users multi-account sign-in then reels it back to one work and one personal](https://www.theregister.com/2020/11/05/teams_multiaccount/)
+5. [Qualys Secures Containers Using Lightweight Agent](https://containerjournal.com/topics/container-security/qualys-secures-containers-using-lightweight-agent/)
+6. [Dell enables Linux hardware privacy controls](https://www.zdnet.com/article/dell-enables-linux-hardware-privacy-controls/)
+7. [GitHub's new security scanner definitely works, says Jenkins: It found 7 flaws in our plugins](https://www.theregister.com/2020/11/05/githubs_security_scanner_works/)
+8. [Are you sure you want to open source that project?](https://www.infoworld.com/article/3586728/are-you-sure-you-want-to-open-source-that-project.html)
+9. [Google open-sources MT5, a multilingual model trained on over 101 languages](https://venturebeat.com/2020/10/26/google-open-sources-mt5-a-multilingual-model-trained-on-over-101-languages/)
+10. [Let's Encrypt warns about a third of Android devices will from next year stumble over sites that use its certs](https://www.theregister.com/2020/11/06/android_encryption_certs/)
+
 ## 2020-10-30
 
 1. [Arduino joins the Open Source Security Foundation](https://blog.arduino.cc/2020/10/30/arduino-joins-the-open-source-security-foundation/)
@@ -914,4 +926,5 @@
 6.	[GDPR Privacy Laws: Ramifications and Possible Interdictions for Open Source Security Vulnerabilities](http://www.cyberdefensemagazine.com/gdpr-privacy-laws-ramifications-and-possible-interdictions-for-open-source-security-vulnerabilities/)
 7.	[Solo.io wants to bring order to service meshes with centralized management hub](https://techcrunch.com/2019/05/15/solo-io-wants-to-bring-order-to-service-meshes-with-centralized-management-hub/)
 8.	[Arduino reveals more powerful, low-cost Nano boards for building homemade hardware and gadgets](https://www.techrepublic.com/article/arduino-reveals-new-powerful-low-cost-nano-boards-for-building-homemade-hardware-and-gadgets/)
-9.	[Facebook’s Framework Pythia Goes Open Source](https://80.lv/articles/facebooks-framework-pythia-goes-
+9.	[Facebook’s Framework Pythia Goes Open Source](https://80.lv/articles/facebooks-framework-pythia-goes-)
+10. 
