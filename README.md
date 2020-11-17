@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+## 2020-11-13
+1. [Announcing k0s, the Smallest, Simplest Kubernetes Distribution](https://medium.com/@adamparco/announcing-k0s-the-smallest-simplest-kubernetes-distribution-3626c86575d5)
+2. [OSGi Alliance to Transition to Eclipse Foundation](https://www.infoq.com/news/2020/11/OSGi-EclipseFdn-Transition/)
+3. [IBM open-sources Kubeflow Pipelines on Tekton for portable machine learning models](https://siliconangle.com/2020/11/16/ibm-open-sources-kubeflow-pipelines-tekton-portable-machine-learning-models/)
+4. .[Canonical brings Juju charms to Kubernetes Operators](https://www.zdnet.com/article/canonical-brings-juju-charms-to-kubernetes-operators/)
+5. [Guido van Rossum, the Python language's founder, joins Microsoft](https://www.zdnet.com/article/guido-van-rossum-the-python-languages-founder-joins-microsoft/)
+6. [KDE maintainers speak on why it is worth looking beyond GNOME](https://www.theregister.com/2020/11/16/kde_maintainers_speak_on_why/)
+7. [AWS open source news and updates supporting contributors](https://dev.to/aws/aws-open-source-news-and-updates-no-44-3j09)
+8. [Solo.io Adds Support for Istio to Rebranded Gloo Portfolio](https://containerjournal.com/topics/container-networking/solo-io-adds-support-for-istio-to-rebranded-gloo-portfolio/)
+9. [Ansible’s evolving DevOps use spotlighted at AnsibleFest 2020](https://siliconangle.com/2020/10/12/watch-live-ansibles-evolving-devops-use-spotlighted-ansiblefest-2020-ansiblefest/)
+10. [Why Open Governance Is Important for Open Source](https://blogs.vmware.com/opensource/2020/10/13/why-open-governance-is-important-for-open-source/)
+
 ## 2020-11-06
 1. [AWS preps its own library of public Docker container images](https://www.zdnet.com/article/aws-preps-its-own-library-of-public-docker-container-images/)
 2. [IBM Advances DevSecOps in Cloud Service Based on Kubernetes](https://containerjournal.com/topics/container-security/ibm-advances-devsecops-in-cloud-service-based-on-kubernetes/)
