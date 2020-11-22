@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+## 2020-11-20
+1. [CNCF announced CKS certification for k8s Security](https://www.cncf.io/announcements/2020/11/17/kubernetes-security-specialist-certification-now-available/)
+2. [GitHub expands open source archive program into three key libraries](https://www.infoworld.com/article/3596887/github-expands-open-source-archive-program-into-three-key-libraries.html)
+3. [Dell joins the 'fast object storage revolution'](https://www.theregister.com/2020/11/20/dell_ecs_exf900_all_flash_object_storage/)
+4. [AWS includes open-source Suricata for stateful inspection with Network Firewall service](https://www.theregister.com/2020/11/19/aws_adopts_open_source_suricata/)
+5. [Why open source needs more cloud](https://www.infoworld.com/article/3587789/why-open-source-needs-more-cloud.html)
+6. [Zilliz raises $43 million as investors rush to China’s open-source software](https://techcrunch.com/2020/11/16/zilliz-43-million-series-b/)
+7. [Red Hat tunes up RHEL and OpenShift for life on computing's edge](https://www.zdnet.com/article/red-hat-tunes-up-rhel-and-openshift-for-life-on-computings-edge/)
+8. [Google Is Testing End-to-End Encryption in Android Messages](https://www.wired.com/story/google-is-testing-end-to-end-encryption-in-android-messages/)
+9. [The new M1 Macs make cutting-edge, machine-learning workstations](https://www.zdnet.com/article/the-new-m1-macs-make-cutting-edge-machine-learning-workstations/)
+10. [CNCF Survey Finds Increased Dependency on Containers, Kubernetes](https://containerjournal.com/topics/container-ecosystems/cncf-survey-finds-increased-dependency-on-containers-kubernetes/)
+
 ## 2020-11-13
 1. [Announcing k0s, the Smallest, Simplest Kubernetes Distribution](https://medium.com/@adamparco/announcing-k0s-the-smallest-simplest-kubernetes-distribution-3626c86575d5)
 2. [OSGi Alliance to Transition to Eclipse Foundation](https://www.infoq.com/news/2020/11/OSGi-EclipseFdn-Transition/)
