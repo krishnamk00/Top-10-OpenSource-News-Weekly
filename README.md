@@ -1,5 +1,18 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+## 2020-11-27
+
+1. [Canonical Allies With Docker Inc. on Secure Containers](https://containerjournal.com/topics/container-security/canonical-allies-with-docker-inc-on-secure-containers/)
+2. [Grouparoo to build open source customer data integration framework](https://techcrunch.com/2020/11/18/grouparoo-snares-3m-seed-to-build-open-source-customer-data-integration-framework/)
+3. [Gretel to make it easier to anonymize data](https://techcrunch.com/2020/11/16/gretel-announces-12m-series-a-to-make-it-easier-to-anonymize-data/)
+4. [Analyst Report: Kubernetes K8s Data Protection](https://containerjournal.com/podcast/analyst-report-kubernetes-k8s-data-protection/)
+5. [AWS hires Rust compiler team co-lead Felix Klock](https://www.theregister.com/2020/11/27/aws_hires_rust_compiler_team/)
+6. [Linus Torvalds would like to use an M1 Mac for Linux, but…](https://www.zdnet.com/article/linus-torvalds-would-like-to-use-an-m1-mac-for-linux-but/)
+7. [AWS reveals it broke itself by exceeding OS thread limits, sysadmins weren’t familiar with some workarounds](https://www.theregister.com/2020/11/30/aws_outage_explanation/)
+8. [HashiCorp Extends Consul Service Mesh Capabilities](https://containerjournal.com/topics/container-management/hashicorp-extends-consul-service-mesh-capabilities/)
+9. [China's clouds boom but they're collectively earning less than Azure alone](https://www.theregister.com/2020/11/27/china_cloud_market_canalys/)
+10. [Build community-driven software projects on GitHub](https://docs.microsoft.com/en-us/learn/paths/build-community-driven-projects-github/?_lrsc=e9e104c4-001d-438a-8b52-420f6a507cdf)
+
 ## 2020-11-20
 1. [CNCF announced CKS certification for k8s Security](https://www.cncf.io/announcements/2020/11/17/kubernetes-security-specialist-certification-now-available/)
 2. [GitHub expands open source archive program into three key libraries](https://www.infoworld.com/article/3596887/github-expands-open-source-archive-program-into-three-key-libraries.html)
