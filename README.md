@@ -1,5 +1,31 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+## 2020-12-11
+
+1. [AWS re:invent 2020 Top announcements including EKS & ECS Open source’d](https://aws.amazon.com/blogs/aws/aws-reinvent-announcements-2020/)
+2. [Mirantis will support deprecated Kubernetes(1.20+) dockershim](https://www.zdnet.com/article/mirantis-will-support-depreciated-kubernetes-dockershim/)
+3. [GitHub expects 100 million software developers by 2025](https://www.infoworld.com/article/3599874/github-expects-100-million-software-developers-by-2025.html)
+4. [Rocky Linux is go: CentOS founder's new project aims to be 100% compatible with Red Hat Enterprise Linux](https://www.theregister.com/2020/12/10/rocky_linux/)
+5. [Back to the Fuchsia, part IV: Google's in-development OS now open to community contributions](https://www.theregister.com/2020/12/10/googles_fucshia_operating_system/)
+6. [Wikifactory has raised $4.5M for its ‘GitHub for hardware’ to make almost anything remotely](https://techcrunch.com/2020/12/09/wikifactory-has-raised-4-5m-for-its-github-for-hardware-to-make-almost-anything-remotely/)
+7. [Oracle’s ERP and cloud surged in Q2. Hardware grew super-fast](https://www.theregister.com/2020/12/11/oracle_q2_2021/)
+8. [Google Cloud (over)Run: How a free trial experiment ended with a $72,000 bill overnight](https://www.theregister.com/2020/12/10/google_cloud_over_run/)
+9. [AWS is fed up with tech that wasn’t built for clouds because it has a big 'blast radius' when things go awry](https://www.theregister.com/2020/12/11/aws_infrastructure/)
+10. [Mirantis Melds Kubernetes With OpenStack](https://containerjournal.com/topics/container-management/mirantis-melds-kubernetes-with-openstack/)
+
+## 2020-12-04
+
+1. [The Open Source Security Foundation was a long time coming](https://www.infoworld.com/article/3598388/the-open-source-security-foundation-was-a-long-time-coming.html)
+2. [Cloud Native Computing Foundation Announces etcd Graduation](https://www.cncf.io/announcements/2020/11/24/cloud-native-computing-foundation-announces-etcd-graduation/)
+3. [Report: Docker Hub Container Vulnerabilities High](https://containerjournal.com/topics/container-security/report-docker-hub-container-vulnerabilities-high/)
+4. [Jitsu nabs $2M seed to build open-source data integration platform](https://techcrunch.com/2020/12/02/jitsu-nabs-2m-seed-to-build-open-source-data-integration-platform/)
+5. [Materialize scores $40 million investment for SQL streaming database](https://techcrunch.com/2020/11/30/materialize-scores-40-million-investment-for-sql-streaming-database/)
+6. [Kubernetes data protector Trilio raises $15m in dash for growth](https://blocksandfiles.com/2020/12/10/trilio-funding/)
+7. [Wants to Bring Linux Home Directories into the 21st Century](https://thenewstack.io/systemds-lennart-poettering-wants-to-bring-linux-home-directories-into-the-21st-century/)
+8. [CircleCI Extends Support for Kubernetes to Drive Hybrid DevOps Processes](https://containerjournal.com/topics/container-management/circleci-extends-support-for-kubernetes-to-drive-hybrid-devops-processes/)
+9. [New Nutanix CEO and Azure HCI debut reboot the hyperconverged infrastructure market](https://www.theregister.com/2020/12/11/new_nutanix_ceo_new_azure_hci/)
+10. [Quarkus optimizes Java for serverless, containerized cloud environments](https://siliconangle.com/2020/11/20/quarkus-optimizes-java-for-serverless-containerized-cloud-environments-kubecon/)
+
 ## 2020-11-27
 
 1. [Canonical Allies With Docker Inc. on Secure Containers](https://containerjournal.com/topics/container-security/canonical-allies-with-docker-inc-on-secure-containers/)
