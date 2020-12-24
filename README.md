@@ -1,5 +1,30 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+## 2020-12-25	
+1. [Kubernetes predictions for 2021](https://enterprisersproject.com/article/2020/12/5-kubernetes-trends-2021?)
+2. [Google says it’s the cleanest cloud, also reveals deal with Saudi Arabia’s state-owned oil company for new cloud region](https://www.theregister.com/2020/12/22/google_new_clouds_saudi_arabia_chile_germany/)
+3. [Red Hat 2021 Predictions: Looking ahead - container, micro-services and serverless perspectives](https://vmblog.com/archive/2020/11/26/red-hat-2021-predictions-looking-ahead-container-microservices-and-serverless-perspectives.aspx#.X-T5--lKhTY)	
+4. [Where Fedora fits in the new Red Hat/CentOS Stream Linux world](https://www.zdnet.com/article/where-fedora-fits-in-the-new-red-hat-centos-stream-linux-world/)
+5. [Red Hat and GitHub Team Up To Expand The Developer Experience On Red Hat OpenShift With GitHub Actions](https://www.opensourceforu.com/2020/12/red-hat-and-github-team-up-to-expand-the-developer-experience-on-red-hat-openshift-with-github-actions/)
+6. [Well, on the bright side, the SolarWinds Sunburst attack will spur the cybersecurity field to evolve all over again](https://www.theregister.com/2020/12/21/solarwinds_sunburst_evolve/)
+7. [Red Hat defends its CentOS decision, claims Stream version can cover '95% of current user workloads’](https://www.theregister.com/2020/12/22/red_hat_defends_its_centos/)
+8. [Best of 2020: When To Use – and Not To Use – Microservices](https://containerjournal.com/topics/container-ecosystems/when-to-use-and-not-to-use-microservices/)
+9. [IBM Throws Weight Behind Crossplane Project](https://containerjournal.com/topics/container-management/ibm-throws-weight-behind-crossplane-project/)
+10. [Google grants $3 million to the CNCF to help it run the Kubernetes infrastructure](https://techcrunch.com/2020/12/17/google-grants-3-million-to-the-cncf-to-help-it-run-the-kubernetes-infrastructure/)
+
+## 2020-12-18	
+	
+1. [Microsoft is designing its own Arm-based data-center server, PC chips – report](https://www.theregister.com/2020/12/18/microsoft_arm_chips/)
+2. [CloudLinux to invest more than a million dollars a year into CentOS clone](https://www.zdnet.com/article/cloudlinux-to-invest-more-than-a-million-dollar-a-year-into-centos-clone/)
+3. [Containerized OpenStack Clouds? Sure says Mirantis](https://www.zdnet.com/article/containerized-openstack-clouds-sure-says-mirantis/)
+4. [Oracle Announces Availability Of Integrated Analytics Engine For MySQL Database Service](https://www.opensourceforu.com/2020/12/oracle-announces-availability-of-integrated-analytics-engine-for-mysql-database-service/)
+5. [Open source your way to an MBA](https://www.infoworld.com/article/3600448/open-source-your-way-to-an-mba.html)
+6. [Accenture And CereProc Introduce And Open Source Non-Binary Voice Solution “Sam”](https://www.opensourceforu.com/2020/12/accenture-and-cereproc-introduce-and-open-source-non-binary-voice-solution-sam/)
+7. [Postman and AsyncAPI join hands For Next Generation of APIs](https://www.opensourceforu.com/2020/12/postman-and-asyncapi-join-hands-for-next-generation-of-apis/)
+8. [What’s new in Kubernetes 1.20](https://www.infoworld.com/article/3229359/whats-new-in-kubernetes.html)
+9. [US Department of Homeland Security warns American business not to use Chinese tech or let data behind the Great Firewall](https://www.theregister.com/2020/12/23/dhs_warns_us_businesses_dont_use_china_tech/)
+10. [Twitter Selects AWS and Graviton Arm Instances to Serve Timelines](https://www.hpcwire.com/off-the-wire/twitter-selects-aws-and-graviton-arm-instances-to-serve-timelines/)
+
 ## 2020-12-11
 
 1. [AWS re:invent 2020 Top announcements including EKS & ECS Open source’d](https://aws.amazon.com/blogs/aws/aws-reinvent-announcements-2020/)
@@ -990,4 +1015,4 @@
 7.	[Solo.io wants to bring order to service meshes with centralized management hub](https://techcrunch.com/2019/05/15/solo-io-wants-to-bring-order-to-service-meshes-with-centralized-management-hub/)
 8.	[Arduino reveals more powerful, low-cost Nano boards for building homemade hardware and gadgets](https://www.techrepublic.com/article/arduino-reveals-new-powerful-low-cost-nano-boards-for-building-homemade-hardware-and-gadgets/)
 9.	[Facebook’s Framework Pythia Goes Open Source](https://80.lv/articles/facebooks-framework-pythia-goes-)
-10. 
+10. [open source heading towards]()
