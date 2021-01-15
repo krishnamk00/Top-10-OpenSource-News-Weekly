@@ -1,5 +1,29 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+## 2021-01-15	
+1. [Elastic search and Kibana license terms changing](https://www.reddit.com/r/linux/comments/kxa4ri/elasticsearch_and_kibana_changing_license_from/)
+2. [Eclipse Foundation AISBL, now a European based org](https://eclipse-foundation.blog/2021/01/14/welcome-to-the-eclipse-foundation-aisbl/)
+3. [Dell CTO shares his hottest trends for 2021: Four interesting technologies](https://www.theregister.com/2021/01/15/dell_roese/)
+4. [CloudLinux readies CentOS Linux replacement: AlmaLinux](https://www.zdnet.com/article/cloudlinux-readies-centos-linux-replacement-almalinux/)
+5. [Amazon’s newest product lets companies build their own Alexa assistant for cars, apps and video games](https://techcrunch.com/2021/01/15/amazons-newest-product-lets-companies-build-their-own-alexa-assistant/)
+6. [Uber planning to spin out Postmates’ delivery robot arm](https://techcrunch.com/2021/01/15/uber-planning-to-spin-out-postmates-delivery-robot-arm/)
+7. [Rapid growth in 2020 reveals OKR software market’s untapped potential](https://techcrunch.com/2021/01/15/rapid-growth-in-2020-reveals-okr-software-markets-untapped-potential/)
+8. [Microsoft Defender for Linux now has endpoint detection and response security](https://www.zdnet.com/article/microsoft-defender-for-linux-now-has-endpoint-detection-and-response-security/)
+9. [Powering open source healthcare research on Google Cloud](https://cloud.google.com/blog/topics/healthcare-life-sciences/powering-open-source-healthcare-research-on-google-cloud)
+10. [What must be done to bring Linux to the Apple M1 chip](https://www.zdnet.com/article/what-must-be-done-to-bring-linux-to-the-apple-m1-chip/)
+
+## 2021-01-08	
+1. [2020 CNCF Annual Report](https://www.cncf.io/blog/2020/12/29/2020-cncf-annual-report/)
+2. [Prolific open source developer David Recordon named new White House Director of Technology](https://www.techradar.com/news/prolific-open-source-developer-named-white-house-director-of-technology)
+3. [Mozilla VPN is (Finally) Available on Mac & Linux](https://www.omgubuntu.co.uk/2021/01/mozilla-vpn-is-finally-available-on-mac-linux)
+4. [Red Hat’s crime against CentOS](https://www.infoworld.com/article/3601202/red-hats-crime-against-centos.html)
+5. [OpenStack in telco world](https://ubuntu.com/blog/openstack-for-telcos-by-canonical)
+6. [Open source has already won over developers. What’s next?](https://techcrunch.com/sponsor/acquia/open-source-has-already-won-over-developers-whats-next/)
+7. [The Linux Foundation offers a suite of open-source management classes](https://www.zdnet.com/article/the-linux-foundation-offers-a-suite-of-open-source-management-classes/)
+8. [Vue Storefront raises $1.5M to turn the fastest growing open source eCommerce project into a business](https://www.vuestorefront.io/blog/vue-storefront-raises-1-5m-to-turn-the-fastest-growing-open-source-ecommerce-project-into-a-business)
+9. [Microsoft open source is now the accepted model for cross company collaboration](https://venturebeat.com/2021/01/14/microsoft-open-source-is-now-the-accepted-model-for-cross-company-collaboration/)
+10. [CES 2021: These microLED smart glasses might be the coolest we’ve seen](https://www.techradar.com/news/ces-2021-these-microled-smart-glasses-might-be-the-coolest-weve-seen)
+
 ## 2020-12-25	
 1. [Kubernetes predictions for 2021](https://enterprisersproject.com/article/2020/12/5-kubernetes-trends-2021?)
 2. [Google says it’s the cleanest cloud, also reveals deal with Saudi Arabia’s state-owned oil company for new cloud region](https://www.theregister.com/2020/12/22/google_new_clouds_saudi_arabia_chile_germany/)
