@@ -1,5 +1,29 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+## 2021-01-29	
+1. [A dedicated licence for open-source hardware: CERN OHL approved by OSI](https://www.theregister.com/2021/01/29/cern_ohl_approved/)
+2. [The Open Infrastructure Foundation announces its first board](https://www.zdnet.com/article/the-open-infrastructure-foundation-announces-its-first-board/)
+3. [Microsoft to pull the plug on Azure Service Fabric Mesh](https://www.theregister.com/2021/01/29/another_fine_mesh/)
+4. [JFrog, Docker Partner to Streamline Software Supply Chains](https://containerjournal.com/features/jfrog-docker-partner-to-streamline-software-supply-chains/)
+5. [AWS, as predicted, is forking Elasticsearch](https://www.zdnet.com/article/aws-as-predicted-is-forking-elasticsearch/)
+6. [Veritas Leverages Kubernetes to Scale Data Protection](https://containerjournal.com/features/veritas-leverages-kubernetes-to-scale-data-protection/)
+7. [Nvidia accused of cheating in big-data performance test by benchmark's umpires: Workloads 'tweaked' to beat rivals in TPCx-BB](https://www.theregister.com/2021/01/28/nvidia_tpc_benchmark/)
+8. [Google open sources Tilt Brush VR software as it shuts down internal development](https://techcrunch.com/2021/01/26/google-open-sources-tilt-brush-vr-software-as-it-shuts-down-the-tools-internal-development/?tpcc=ECTW2020)
+9. [We need a new way to think about open source](https://www.infoworld.com/article/3604511/we-need-a-new-way-to-think-about-open-source.html)
+10. [MapLibre launches as open source Mapbox GL JS successor](https://opensource.com/article/21/1/open-source-news)
+
+## 2021-01-22	
+1. [Red Hat introduces free RHEL for small production workloads and development teams]()https://www.zdnet.com/article/red-hat-introduces-free-rhel-for-small-production-workloads-development-teams/)
+2. [Ethical-source movement opens new open-source organization](https://www.zdnet.com/article/ethical-source-movement-opens-new-open-source-organization/)
+3. [Edge computing adoption to increase through 2026; organizations cautious about adding 5G to the mix](https://www.techrepublic.com/resource-library/downloads/edge-computing-adoption-to-increase-through-2026-organizations-cautious-about-adding-5g-to-the-mix/)
+4. [Drupal’s journey from dorm-room project to billion-dollar exit](https://techcrunch.com/tag/open-source/)
+5. [Openbase scores $3.6M seed to help developers find open-source components](https://techcrunch.com/2021/01/13/openbase-scores-3-6m-seed-to-help-developers-find-right-open-source-component/)
+6. [Red Hat Adds Data Protection to Container Storage Platform](https://containerjournal.com/features/red-hat-data-protection-tools-container-storage-platform/)
+7. [Open Source Security Foundation (OpenSSF): Reflection and Future](https://www.linuxfoundation.org/en/blog/openssf-reflection-and-future/)
+8. [SAP's lift-and-shift-to-the-cloud plan will need more than CGI to convince users it has a clear vision for ERP](https://www.theregister.com/2021/01/29/rise_with_sap_presentation/)
+9. [How the pandemic is accelerating enterprise open source adoption](https://venturebeat.com/2021/01/26/how-the-pandemic-is-accelerating-enterprise-open-source-adoption/)
+10. [open source news headlines of 2020](https://opensource.com/article/20/12/open-source-news)
+
 ## 2021-01-15	
 1. [Elastic search and Kibana license terms changing](https://www.reddit.com/r/linux/comments/kxa4ri/elasticsearch_and_kibana_changing_license_from/)
 2. [Eclipse Foundation AISBL, now a European based org](https://eclipse-foundation.blog/2021/01/14/welcome-to-the-eclipse-foundation-aisbl/)
