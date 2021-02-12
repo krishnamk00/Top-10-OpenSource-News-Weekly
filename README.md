@@ -1,5 +1,29 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+## 2021-02-12
+1. [Linux Foundation Herald, a VMware-originated project, as the fourth LFPH-hosted project.](https://www.lfph.io/2021/02/05/herald/)
+2. [Istio 1.9 opens up to external authorisers, VM support goes to beta](https://devclass.com/2021/02/11/istio-1_9-service-mesh/)
+3. [MayaData launching ChaosNative for LitmusChaos and more](https://blog.mayadata.io/mayadata-launching-chaosnative-for-litmuschaos-and-more)
+4. [SAP snap up no-code app development firm AppGyver](https://www.theregister.com/2021/02/12/sap_appgyver_acquisition/)
+5. [Open source: Google wants new rules for developers working on 'critical' projects](https://www.zdnet.com/article/open-source-google-wants-new-rules-for-developers-working-on-critical-projects/?)
+6. [Edge is getting crowded: Kubermatic Kubernetes Platform 2.16 adds ARM, OPA, ML support](https://devclass.com/2021/02/11/kkp-2_16-kubermatic/)
+7. [Trend Micro Details Attack Against Containers](https://containerjournal.com/features/trend-micro-details-attack-against-containers/)
+8. [AlmaLinux, the CentOS Linux replacement, beta is out](https://www.zdnet.com/article/almalinux-the-centos-linux-replacement-beta-is-out/)
+9. [Pre-alpha FreeBSD project chases simplicity and elegance by taking cues from macOS](https://www.theregister.com/2021/02/12/freebsd_that_looks_like_macos/)
+10. [Lesser-Known Benefits of Hybrid Cloud and Kubernetes](https://containerjournal.com/topics/container-ecosystems/lesser-known-benefits-of-hybrid-cloud-and-kubernetes/)
+
+## 2021-02-05
+1. [CNCF announces Open Policy Agent Graduation](https://www.cncf.io/announcements/2021/02/04/cloud-native-computing-foundation-announces-open-policy-agent-graduation/?)
+2. [VMware Makes Persistent Data Available Via Kubernetes API](https://containerjournal.com/features/vmware-makes-persistent-data-available-via-kubernetes-api/)
+3. [Grafana introduces content policy support](https://devclass.com/2021/02/09/grafana-7_4-monitoring/)
+4. [Rocket.Chat raises $19M for its open-source approach to integrated enterprise messaging](https://techcrunch.com/2021/02/03/rocket-chat-raises-19m-for-its-open-source-approach-to-integrated-enterprise-messaging/)
+5. [THE BILLION DOLLAR AI PROBLEM THAT JUST KEEPS SCALING](https://www.nextplatform.com/2021/02/11/the-billion-dollar-ai-problem-that-just-keeps-scaling/)
+6. [Databricks raises $1B at $28B](https://techcrunch.com/2021/02/01/databricks-raises-1b-at-28b-valuation-as-it-reaches-425m-arr/)
+7. [Securing your open-source software supply chain with Tidelift catalogs](https://www.zdnet.com/article/securing-your-open-source-software-supply-chain-with-tidelift-catalogs/)
+8. [The shifting market for PostgreSQL](https://www.infoworld.com/article/3605138/the-shifting-market-for-postgresql.html)
+9. [Can Open Source Hardware Emulate Linux?](https://www.eetimes.com/can-open-source-hardware-emulate-linux)
+10. [Learn how to share and promote your work as an engineer](https://www.openfaas.com/blog/promote-and-share/)
+
 ## 2021-01-29	
 1. [A dedicated licence for open-source hardware: CERN OHL approved by OSI](https://www.theregister.com/2021/01/29/cern_ohl_approved/)
 2. [The Open Infrastructure Foundation announces its first board](https://www.zdnet.com/article/the-open-infrastructure-foundation-announces-its-first-board/)
