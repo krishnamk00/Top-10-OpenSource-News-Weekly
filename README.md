@@ -1,5 +1,29 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+## 2021-02-26
+1. [Google admits Kubernetes container tech is so complex, it's had to roll out an Autopilot feature to do it all for you](https://www.theregister.com/2021/02/25/google_kubernetes_autopilot/)
+2. [Vault for secret keeping? CNCF End User Technology Radar spots surprising interest](https://devclass.com/2021/02/24/cncf-tech-radar-secret-management/)
+3. [EDB tries to crowbar graph, JSON, and time-series data models into PostgreSQL](https://www.theregister.com/2021/02/26/edb_postgresql_14/)
+4. [Lightbend Akka Platform now on Amazon EKS](https://containerjournal.com/features/lightbend-akka-platform-now-on-amazon-eks/)
+5. [GLAXOSMITHKLINE MARKS QUANTUM PROGRESS WITH D-WAVE](https://www.nextplatform.com/2021/02/24/glaxosmithkline-marks-quantum-progress-with-d-wave/)
+6. [Google funds Linux kernel developers to work exclusively on security](https://www.zdnet.com/article/google-funds-linux-kernel-developers-to-work-exclusively-on-security/)
+7. [Red Hat closes StackRox Kubernetes security acquisition](https://www.zdnet.com/article/red-hat-closes-stackrox-kubernetes-security-acquisition/)
+8. [The Linux Foundation adds 7 projects to combat racial injustice](https://www.infoworld.com/article/3608411/the-linux-foundation-adds-7-projects-to-combat-racial-injustice.html)
+9. [Google looks at bypass in Chromium's ASLR security defense, throws hands up, won't patch garbage issue](https://www.theregister.com/2021/02/26/chrome_aslr_bypass/)
+10. [We need a 20MW 20,000-GPU-strong machine-learning supercompubuild EU's planned digital twin of Earth](https://www.theregister.com/2021/02/26/eu_climate_supercomputer/)
+
+## 2021-02-19
+1. [Grafana Labs launches observability stack for enterprise customers](https://techcrunch.com/2021/02/17/grafana-labs-launches-observability-stack-aimed-at-enterprise-users/)
+2. [Shared source won’t fix the AWS problem](https://www.infoworld.com/article/3608411/the-linux-foundation-adds-7-projects-to-combat-racial-injustice.html)
+3. [Kubermatic Kubernetes Platform Supports OPA Integration](https://containerjournal.com/features/how-kubermatic-kubernetes-platform-supports-opa-integration/)
+4. [Red Hat Updates VM Migration Features on OpenShift](https://containerjournal.com/features/red-hat-previews-waves-of-openshift-advances/)
+5. [GitLab’s latest and greatest buffs up pipelines, ropes in GPUs for ML workloads](https://devclass.com/2021/02/24/gitlab-13_9/)_
+6. [Survey Shows Microservices Prefer Key-Value, NoSQL Databases](https://containerjournal.com/topics/survey-shows-microservices-prefer-key-value-nosql-databases/)
+7. [India dangles billion-dollar incentive scheme for server, PC makers willing to open up shop on the sub-continent](https://www.theregister.com/2021/02/25/india_homemade_incentives/)
+8. [Red Hat returns with another peace offering in the wake of the CentOS Stream affair: More free stuff](https://www.theregister.com/2021/02/26/rhel_open_source/)
+9. [K8s and Cloud Security Compliance Just Aint Enough](https://containerjournal.com/features/k8s-and-cloud-security-compliance-just-aint-enough/)
+10. [Red Hat introduces free RHEL for open-source, non-profit organizations](https://www.zdnet.com/article/free-red-hat-enterprise-linux-for-open-source-non-profit-organizations/)
+
 ## 2021-02-12
 1. [Linux Foundation Herald, a VMware-originated project, as the fourth LFPH-hosted project.](https://www.lfph.io/2021/02/05/herald/)
 2. [Istio 1.9 opens up to external authorisers, VM support goes to beta](https://devclass.com/2021/02/11/istio-1_9-service-mesh/)
