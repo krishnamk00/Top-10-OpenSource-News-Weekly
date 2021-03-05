@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+## 2021-03-05
+1. [Open source drone makes it to Mars](https://opensource.com/article/21/2/open-source-news)
+2. [Microsoft’s Azure Arc Now Includes Machine Learning Services](https://containerjournal.com/features/microsofts-azure-arc-now-includes-machine-learning-services/)
+3. [Red Hat's survey results on the state of enterprise open-source software](https://www.zdnet.com/article/red-hats-survey-results-on-the-state-of-enterprise-open-source-software/)
+4. [Yugabyte announces $48M investment as cloud-native database makes enterprise push](https://techcrunch.com/2021/03/03/yugabyte-announces-48m-series-c-as-cloud-native-database-makes-enterprise-push/)
+5. [Making the web’s open-source infrastructure more equitable](https://techcrunch.com/2021/03/03/1-3m-in-grants-go-towards-making-the-webs-open-source-infrastructure-more-equitable/)
+6. [Insecure Defaults Remain a Threat for Kubernetes](https://containerjournal.com/features/insecure-defaults-remain-a-threat-for-kubernetes/)
+7. [Linux Foundation and RISC-V International launch free RISC-V training classes](https://www.zdnet.com/article/linux-foundation-risc-v-international-launch-free-risc-v-training-classes/)
+8. [Red Hat Partners With Mavenir on CNF Development](https://containerjournal.com/features/red-hat-partners-with-mavenir-on-cnf-development/)
+9. [Microsoft launches Power Fx, a new open source low-code language](https://techcrunch.com/2021/03/02/microsoft-launches-power-fx-a-new-open-source-low-code-language-for-its-power-platform/?tpcc=ECTW2020)
+10. [Ripple Pilots a Private Ledger for Central Banks Launching CBDCs](https://ripple.com/insights/ripple-pilots-a-private-ledger-for-central-banks-launching-cbdcs/)
+
 ## 2021-02-26
 1. [Google admits Kubernetes container tech is so complex, it's had to roll out an Autopilot feature to do it all for you](https://www.theregister.com/2021/02/25/google_kubernetes_autopilot/)
 2. [Vault for secret keeping? CNCF End User Technology Radar spots surprising interest](https://devclass.com/2021/02/24/cncf-tech-radar-secret-management/)
