@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+## 2021-03-12
+1. [Linux Foundation announces new open-source software signing service](https://www.zdnet.com/article/linux-foundation-announces-new-open-source-software-signing-service/)
+2. [CNCF Advances Flux CD Platform for Kubernetes Environments](https://containerjournal.com/features/cncf-advances-flux-cd-platform-for-kubernetes-environments/)
+3. [SUSE prepares for multi-billion Euro IPO](https://www.zdnet.com/article/suse-prepares-for-multi-billion-euro-ipo/)
+4. [Google emits data-leaking proof-of-concept Spectre exploit for Intel CPUs to really get everyone's attention](https://www.theregister.com/2021/03/12/google_spectre_code/)
+5. [Has the cloud been good for open source?](https://www.infoworld.com/article/3610720/has-the-cloud-been-good-for-open-source.html)
+6. [OpenStreetMap just turned 100 million](https://www.infoworld.com/article/3609894/openstreetmap-just-turned-100-million.html)
+7. [Alibaba Cloud quietly tests desktops-as-a-service](https://www.theregister.com/2021/03/11/alibaba_elastic_desktop_service_daas/)
+8. [Hugging Face triples investment in open source machine learning models](https://venturebeat.com/2021/03/11/hugging-face-triples-investment-in-open-source-machine-learning-models/)
+9. [GitLab latest to ditch 'master' as default initial branch name: It's now simply called 'main’](https://www.theregister.com/2021/03/11/gitlab_main/)
+10. [How Not To Use Kubernetes: 5 Failure Stories](https://containerjournal.com/features/how-not-to-use-kubernetes-5-failure-stories/)
+
 ## 2021-03-05
 1. [Open source drone makes it to Mars](https://opensource.com/article/21/2/open-source-news)
 2. [Microsoft’s Azure Arc Now Includes Machine Learning Services](https://containerjournal.com/features/microsofts-azure-arc-now-includes-machine-learning-services/)
