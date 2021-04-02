@@ -1,5 +1,42 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2021-04-02
+1. [Red Hat Bets on Kogito for BPM on Kubernetes](https://containerjournal.com/features/red-hat-bets-on-kogito-for-bpm-on-kubernetes/)
+2. [Microsoft welcomes 'raddest' and most 'feature-dense' Kubernetes release to AKS, shows 1.17 the door](https://www.theregister.com/2021/04/01/aks_kubernetes_1_20/)
+3. [Linux Foundation and OpenTreatments Foundation team up to fight rare genetic diseases](https://www.zdnet.com/article/linux-foundation-and-opentreatments-foundation-team-up-to-fight-rare-genetic-diseases/)
+4. [CloudLinux Launches AlmaLinux, CentOS Linux clone](https://www.zdnet.com/article/cloudlinux-launches-almalinux-centos-linux-clone/)
+5. [Microsoft pulls the plug on Cortana's Android, iOS apps](https://www.theregister.com/2021/04/01/microsofts_cortana_smartphone/)
+6. [Biden's $2tn infrastructure plan includes massive broadband rollout, equates internet access with water and power](https://www.theregister.com/2021/03/31/president_biden_broadband_chips_infrastructure/)
+7. [The Free Software Foundation's leadership crisis worsens](https://www.zdnet.com/article/the-free-software-foundations-leadership-crisis-worsens/)
+8. [Tesla Helped Find & Fix a Bug in the Open-Source Bitcoin Payment Processor & Wallet BTCPay Server](https://www.tesmanian.com/blogs/tesmanian-blog/tesla-helped-find-and-fix-the-bug-in-the-open-source-bitcoin-payment-processor-and-wallet-btcpay-server)
+9. [DIA and Dafi Protocol are partnering to integrate trusted oracles into Dafi’s synthetics protocol](https://medium.com/dia-insights/partnership-with-dafi-e0813e951758)
+10. [Top 100 most popular and fast-growing open-source projects on GitHub!](https://twosigmaventures.com/open-source-index/)
+
+##  2021-03-26
+1. [Canonical releases Ubuntu on Windows Preview with early builds, new tools for the brave](https://www.theregister.com/2021/04/01/canonical_ubuntu_on_windows_preview/)
+2. [Open Source Initiative election hacked](https://www.zdnet.com/article/open-source-initiative-election-hacked/)
+3. [Oracle dangles new cloud lift-and-shift service in the wake of SAP RISE](https://www.theregister.com/2021/03/31/oracle_offers_new_cloud_liftandshift/)
+4. [Docker nabs $23M Series B as new developer focus takes shape](https://techcrunch.com/2021/03/16/docker-nabs-23m-series-b-as-as-new-developer-focus-takes-shape/)
+5. [Microsoft updates Visual Studio Code to run on Raspberry Pi OS](https://www.theregister.com/2021/04/01/vs_code_pi_official/)
+6. [K8s project Argo Workflows pushes out v3.0 with fresh UI and controller tweaks](https://devclass.com/2021/03/31/argo-workflows-v3-0-arrives-with-new-ui-and-controller-high-availability/)
+7. [Kubernetes Supports Nine Pillars of SRE](https://containerjournal.com/topics/container-ecosystems/kubernetes-supports-nine-pillars-of-sre/)
+8. [Stanford Scientists Post Entire mRNA Sequence for Moderna Vaccine on Github](https://gizmodo.com/stanford-scientists-post-entire-mrna-sequence-for-moder-1846576268/amp)
+9. [An open source neurostimulator for students, researchers, and hobbyists interested in neuroscience
+](https://www.crowdsupply.com/neuralaxy/neurostimduino)
+10. [The mysterious user editing a global open-source map in China’s favor](https://restofworld.org/2021/the-mysterious-user-editing-a-global-open-source-map-in-chinas-favor/)
+
+##  2021-03-19
+1. [Red Hat, AWS Extend OpenShift Alliance](https://containerjournal.com/features/red-hat-aws-extend-openshift-alliance/)
+2. [VMware builds narrow one-way road to move its crown jewels towards cloudy subscriptions](https://www.theregister.com/2021/03/31/vmware_cloud_universal/)
+3. [A Framework for Open Source Evaluation](https://monetize.substack.com/p/a-framework-for-open-source-evaluation)
+4. [Red Hat Bets on Kogito for BPM on Kubernetes](https://containerjournal.com/features/red-hat-bets-on-kogito-for-bpm-on-kubernetes/)
+5. [How to Be a Good Open Source Project Owner – The Ultimate Guide](https://www.freecodecamp.org/news/ultimate-owners-guide-to-open-source/)
+6. [RareCamp - Linux Foundation's open source software will be used to develop gene therapies for rare genetic diseases](https://www.techrepublic.com/article/a-new-collaboration-demonstrates-how-tech-can-help-understand-rare-diseases/)
+7. [Peritus AI Assistant Highlights Chronic Cloud-Native Skills Shortage](https://containerjournal.com/features/peritus-ai-assistant-highlights-chronic-cloud-native-skills-shortage/)
+8. [H3: Open Source Geospatial Indexing System](https://www.gislounge.com/h3-open-source-geospatial-indexing-system/)
+9. [Open source team details complexities in bringing Linux to Apple's M1 Macs](https://asahilinux.org/2021/03/progress-report-january-february-2021/)
+10. [Open Source Is Everywhere](https://blog.x.studio/post/open-source-is-everywhere)
+
 ## 2021-03-12
 1. [Linux Foundation announces new open-source software signing service](https://www.zdnet.com/article/linux-foundation-announces-new-open-source-software-signing-service/)
 2. [CNCF Advances Flux CD Platform for Kubernetes Environments](https://containerjournal.com/features/cncf-advances-flux-cd-platform-for-kubernetes-environments/)
