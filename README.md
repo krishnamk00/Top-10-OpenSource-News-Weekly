@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2021-04-09
+1. [AWS's Shane Miller to head the newly created Rust Foundation](https://www.zdnet.com/article/awss-shane-miller-to-head-the-newly-created-rust-foundation/)
+2. [Kubernetes 1.21 Addresses Raft of Enterprise Issues](https://containerjournal.com/editorial-calendar/kubernetes-in-the-enterprise/kubernetes-1-21-addresses-raft-of-enterprise-issues/)
+3. [GitHub Sponsors now supports one-time payments – go invest in the open source economy today](https://github.com/sponsors/community)
+4. [INTEL’S HABANA MAKES FIRST SUPERCOMPUTING APPEARANCE](https://www.nextplatform.com/2021/04/08/intels-habana-makes-first-supercomputing-appearance/)
+5. [Streamlit nabs $35M Series B to expand machine learning platform](https://techcrunch.com/2021/04/07/streamlit-nabs-35m-series-b-to-continue-building-machine-learning-platform/)
+6. [What Google's API copyright win over Oracle means](https://www.zdnet.com/article/what-googles-api-copyright-win-over-oracle-means/)
+7. [New cluster extensions for Azure Monitor Container Insights and Azure Defender for Kubernetes](https://techcommunity.microsoft.com/t5/azure-arc/updates-to-azure-arc-enabled-kubernetes/ba-p/2257140)
+8. [Google's open-source speech codec works on even low-quality networks](https://www.zdnet.com/article/bad-broadband-no-problem-googles-open-source-speech-codec-works-on-even-low-quality-networks/)
+9. [CyberArk Unveils Open Source Pen Testing Tool for Kubernetes](https://containerjournal.com/features/cyberark-unveils-open-source-pen-testing-tool-for-kubernetes/)
+10. [Microsoft rolls out its OpenJDK preview release](https://www.zdnet.com/article/microsoft-rolls-out-its-openjdk-preview-release/)
+
 ##  2021-04-02
 1. [Red Hat Bets on Kogito for BPM on Kubernetes](https://containerjournal.com/features/red-hat-bets-on-kogito-for-bpm-on-kubernetes/)
 2. [Microsoft welcomes 'raddest' and most 'feature-dense' Kubernetes release to AKS, shows 1.17 the door](https://www.theregister.com/2021/04/01/aks_kubernetes_1_20/)
