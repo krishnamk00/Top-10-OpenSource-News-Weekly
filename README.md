@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2021-04-16
+1. [Apache Software Foundation retires slew of Hadoop-related projects](https://www.zdnet.com/article/apache-software-foundation-retires-slew-of-hadoop-related-projects/)
+2. [CNCF Launches emissary-ingress Integrated API Gateway and Ingress Controller Project from Ambassador ](https://containerjournal.com/features/cncf-launches-integrated-api-gateway-and-ingress-controller-project/)
+3. [How we dodged risks and raised millions for our open-source machine learning startup](https://techcrunch.com/2021/04/09/how-we-dodged-risks-and-raised-millions-for-our-open-source-machine-language-startup/)
+4. [Canonical's mini-Kubernetes, MicroK8s, has been optimized for Raspberry Pi](https://www.zdnet.com/article/canonicals-mini-kubernetes-microk8s-has-been-optimized-for-raspberry-pi/)
+5. [Inspur, China's largest cloud hardware vendor, joins open-source patent protection consortium](https://www.zdnet.com/article/inspur-chinas-largest-cloud-hardware-vendor-joins-open-source-patent-protection-consortium/)
+6. [Docker Inc. Brings Desktop Dev Tools to M1-Based Macs](https://containerjournal.com/features/docker-inc-brings-desktop-dev-tools-to-m1-based-macs/)
+7. [Google backs effort to bring Rust to the Linux kernel](https://www.zdnet.com/article/google-backs-effort-to-bring-rust-to-the-linux-kernel/)
+8. [Weaviate is an open-source search engine powered by ML, vectors, graphs, and GraphQL](https://www.zdnet.com/article/weaviate-an-open-source-search-engine-powered-by-machine-learning-vectors-graphs-and-graphql/)
+9. [Spinnaker deployment experience of AWS Lambda functions](https://aws.amazon.com/blogs/opensource/enhancing-spinnaker-deployment-experience-of-aws-lambda-functions-with-the-lambda-plugin/)
+10. [First Online Slavery Database Gets a $1.4M Injection From Mellon Foundation](https://hyperallergic.com/637056/first-online-slavery-database-mellon-foundation-grant/)
+
 ##  2021-04-09
 1. [AWS's Shane Miller to head the newly created Rust Foundation](https://www.zdnet.com/article/awss-shane-miller-to-head-the-newly-created-rust-foundation/)
 2. [Kubernetes 1.21 Addresses Raft of Enterprise Issues](https://containerjournal.com/editorial-calendar/kubernetes-in-the-enterprise/kubernetes-1-21-addresses-raft-of-enterprise-issues/)
