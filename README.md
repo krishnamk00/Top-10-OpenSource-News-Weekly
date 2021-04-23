@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2021-04-23
+1. [DigiCert Uses Containers to Extend Certificate Management Reach](https://containerjournal.com/features/digicert-uses-containers-to-extend-certificate-management-reach/)
+2. [Tecton teams with founder of Feast open source machine learning feature store](https://techcrunch.com/2021/04/15/tecton-teams-with-founder-of-feast-open-source-machine-learning-feature-store/)
+3. [Canonical's mini-Kubernetes, MicroK8s, has been optimized for Raspberry Pi](https://www.zdnet.com/article/canonicals-mini-kubernetes-microk8s-has-been-optimized-for-raspberry-pi/)
+4. [Linux Foundation Bans University After It Intentionally Submitted Buggy Patches](https://www.tomshardware.com/news/linux-fellow-bans-university-contributing-kernel)
+5. [China’s highest-ranked university creates school dedicated to integrated circuits](https://www.theregister.com/2021/04/23/tsinghua_university_new_integrated_circuits_school/)
+6. [Mirantis Commits to Providing Ongoing Support for Dockershim](https://containerjournal.com/features/mirantis-commits-to-providing-ongoing-support-for-dockershim/)
+7. [Nhost is an open source Firebase rival backed by GitHub’s founders](https://venturebeat.com/2021/04/22/nhost-is-an-open-source-firebase-rival-backed-by-githubs-founders/)
+8. [Amazon, Elastic and the Fight for Open Source Freedom in the Enterprise](https://thenewstack.io/amazon-elastic-and-the-fight-for-open-source-freedom-in-the-enterprise/)
+9. [Ubuntu 21.04 makes a play for the enterprise desktop](https://www.zdnet.com/article/ubuntu-21-04-make-a-play-for-the-enterprise-desktop/)
+10. [India seeks locally developed open source CRM and ERP for government users](https://www.theregister.com/2021/04/23/india_foss4gov_innovation_challenge/)
+
 ##  2021-04-16
 1. [Apache Software Foundation retires slew of Hadoop-related projects](https://www.zdnet.com/article/apache-software-foundation-retires-slew-of-hadoop-related-projects/)
 2. [CNCF Launches emissary-ingress Integrated API Gateway and Ingress Controller Project from Ambassador ](https://containerjournal.com/features/cncf-launches-integrated-api-gateway-and-ingress-controller-project/)
