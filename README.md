@@ -1,6 +1,18 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
 ##  2021-04-23
+1. [ Amazon announces it’s open sourcing DeepRacer device software](https://techcrunch.com/2021/04/27/amazon-announces-its-open-sourcing-deep-racer-device-software/)
+2. [Adobe releases open source ‘one-stop shop’ for security threat, data anomaly detection](https://www.zdnet.com/article/adobe-releases-open-source-one-stop-shop-for-security-threat-data-anomaly-detection/?ftag=COS-05-10aaa0g&taid=60896de7e902b60001cf621c&utm_campaign=trueAnthem%3A+Trending+Content&utm_medium=trueAnthem&utm_source=twitter)
+3. [Microsoft acquires Kinvolk - flatcar container creator](https://kinvolk.io/blog/2021/04/microsoft-acquires-kinvolk/)
+4. [Botpress nabs $15M Series A to help developers build conversational apps](https://techcrunch.com/2021/04/28/botpress-nabs-15m-series-a-to-help-developers-build-conversational-apps/)
+5. [IBM Promises Software-Defined Storage for Containers](https://containerjournal.com/features/ibm-promises-software-defined-storage-for-containers/)
+6. [Break point: Kasten ransomware protection, IBM storage, Bytecode Alliance, GPUs in GKE, Facebook joins Rust Foundation](https://devclass.com/2021/04/30/break-point-kasten-ransomware-protection-ibm-storage-bytecode-alliance-gpus-in-gke-facebook-joins-rust-foundation/)
+7. [Red Hat Enterprise Linux 8.4 arrives and take Linux to computing's edge](https://www.zdnet.com/article/red-hat-enterprise-linux-8-4-arrives-and-take-linux-to-computings-edge/)
+8. [Armory Employs K3s to Simplify Spinnaker CD Installs](https://containerjournal.com/editorial-calendar/kubernetes-in-the-enterprise/armory-employs-k3s-to-simplify-spinnaker-cd-installs/)
+9. [Introducing Open Saves: Open-source cloud-native storage for games](https://cloud.google.com/blog/products/media-entertainment/introducing-open-saves)
+10. [Known software issue grounds Ingenuity Mars copter as it attempted fourth flight](https://www.theregister.com/2021/04/30/ingenuity_fourth_flight_flops/)
+
+##  2021-04-23
 1. [DigiCert Uses Containers to Extend Certificate Management Reach](https://containerjournal.com/features/digicert-uses-containers-to-extend-certificate-management-reach/)
 2. [Tecton teams with founder of Feast open source machine learning feature store](https://techcrunch.com/2021/04/15/tecton-teams-with-founder-of-feast-open-source-machine-learning-feature-store/)
 3. [Canonical's mini-Kubernetes, MicroK8s, has been optimized for Raspberry Pi](https://www.zdnet.com/article/canonicals-mini-kubernetes-microk8s-has-been-optimized-for-raspberry-pi/)
