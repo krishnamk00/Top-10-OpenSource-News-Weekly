@@ -1,6 +1,18 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
-##  2021-04-23
+##  2021-05-07
+1. [Loft Labs Launches Open Source K8s Compliance Project](https://containerjournal.com/features/loft-labs-launches-open-source-k8s-compliance-project/ )
+2. [Emerging open cloud security framework has backing of Microsoft, Google and IBM](https://techcrunch.com/2021/05/05/emerging-open-cloud-security-framework-has-backing-of-microsoft-google-and-ibm/)
+3. [New Relic open sources Pixie, its Kubernetes-native in-cluster observability platform](https://www.zdnet.com/article/new-relic-open-sources-pixie-its-kubernetes-native-in-cluster-observability-platform/)
+4. [Linux's Technical Advisory Board reports on the UMN 'Hypocrite Commits' patches](https://www.zdnet.com/article/linuxs-technical-advisory-board-reports-on-the-umn-hypocrite-commits-patches/)
+5. [Instagram open sources high-performance Python fork](https://www.infoworld.com/article/3617913/instagram-open-sources-high-performance-python-fork.html)
+6. [Red Hat Woos Developers with Free OpenShift Instances](https://containerjournal.com/features/red-hat-woos-developers-with-free-openshift-instances/)
+7. [Perl changes dev's permaban for 'unacceptable' behaviour to a year-long lockout after community response](https://www.theregister.com/2021/05/07/perl_permaban/)
+8. [Timescale grabs $40M Series B as it goes all in on cloud version of time series database](https://techcrunch.com/2021/05/05/timescale-grabs-40m-series-b-as-it-goes-all-in-on-cloud-version-of-time-series-database/)
+9. [Apple accused of breaking EU law after Spotify App Store complaint](https://www.techregister.co.uk/apple-accused-of-breaking-eu-law-after-spotify-app-store-complaint/)
+10. [Inspired by nature: the thrilling new science that could transform medicine](https://www.techregister.co.uk/inspired-by-nature-the-thrilling-new-science-that-could-transform-medicine-podcast-news/)
+
+##  2021-04-30
 1. [ Amazon announces it’s open sourcing DeepRacer device software](https://techcrunch.com/2021/04/27/amazon-announces-its-open-sourcing-deep-racer-device-software/)
 2. [Adobe releases open source ‘one-stop shop’ for security threat, data anomaly detection](https://www.zdnet.com/article/adobe-releases-open-source-one-stop-shop-for-security-threat-data-anomaly-detection/?ftag=COS-05-10aaa0g&taid=60896de7e902b60001cf621c&utm_campaign=trueAnthem%3A+Trending+Content&utm_medium=trueAnthem&utm_source=twitter)
 3. [Microsoft acquires Kinvolk - flatcar container creator](https://kinvolk.io/blog/2021/04/microsoft-acquires-kinvolk/)
