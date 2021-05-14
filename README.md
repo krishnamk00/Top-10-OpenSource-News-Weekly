@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2021-05-014
+1. [Open source API gateway KrakenD lands at the Linux Foundation](https://venturebeat.com/2021/05/11/open-source-api-gateway-krakend-lands-at-the-linux-foundation/)
+2. [Open-source developers under corporate pressure to adopt less-permissive licenses, Percona CEO says](https://www.theregister.com/2021/05/13/open_source_proprietary/)
+3. [AWS releases tool to open source that turns on-prem software into SaaS](https://techcrunch.com/2021/05/12/aws-releases-tool-to-open-source-that-turns-on-prem-software-into-saas/)
+4. [Alibaba Cloud growth slows after mystery international customer quits over ‘non-product related’ factors](https://www.theregister.com/2021/05/14/alibaba_fy_2021/)
+5. [VMware Launches App Connectivity Platform Based on Istio](https://containerjournal.com/features/vmware-launches-app-connectivity-platform-based-on-istio/)
+6. [Google Cloud and SpaceX buddy up to fling edgy data and cloud services via Starlink](https://www.theregister.com/2021/05/13/google_starlink/)
+7. [Modernizing Oracle operations with Kubernetes and El Carro](https://opensource.googleblog.com/2021/05/modernizing-oracle-operations-with-kubernetes-el-carro.html)
+8. [A diverse and open-source library with 900+ icons](https://www.producthunt.com/posts/iconoir-3)
+9. [Microsoft bins Azure Blockchain without explanation, gives users four months to move](https://www.theregister.com/2021/05/13/azure_blockchain_eol/)
+10. [IBM's Project CodeNet, a dataset aimed at advancing AI's understanding of code](https://research.ibm.com/blog/codenet-ai-for-code)
+
 ##  2021-05-07
 1. [Loft Labs Launches Open Source K8s Compliance Project](https://containerjournal.com/features/loft-labs-launches-open-source-k8s-compliance-project/ )
 2. [Emerging open cloud security framework has backing of Microsoft, Google and IBM](https://techcrunch.com/2021/05/05/emerging-open-cloud-security-framework-has-backing-of-microsoft-google-and-ibm/)
