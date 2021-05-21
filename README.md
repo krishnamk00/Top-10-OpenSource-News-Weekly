@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2021-05-21
+1. [Google Pay introduces a Flutter plugin for payments](https://developers.googleblog.com/2021/05/google-pay-introduces-flutter-plugin-for-payments.html)
+2. [Styra, the startup behind Open Policy Agent, nabs $40M to expand its cloud-native authorization tools](https://techcrunch.com/2021/05/18/styra-the-startup-behind-open-policy-agent-nabs-40m-to-expand-its-cloud-native-authorization-tools/)
+3. [Why I made my open source React component private by default: an Open Source story](https://dev.to/ibrahimcesar/why-i-made-my-open-source-react-component-private-by-default-an-open-source-story-1jja)
+4. [AWS Delivers Managed DevOps Environment for Container Apps](https://containerjournal.com/features/aws-delivers-managed-devops-environment-for-container-apps/)
+5. [Babel project is running out of money](https://www.infoworld.com/article/3618021/babel-project-is-running-out-of-money.html)
+6. [SUSE bridges the gap between openSUSE Leap and SUSE Linux Enterprise](https://www.zdnet.com/article/suse-bridges-the-gap-between-opensuse-leap-and-suse-linux-enterprise/)
+7. [NetApp stacks DataStax onto its Astra Kubernetes storage](https://blocksandfiles.com/2021/05/20/netapp-stacks-datastax-onto-its-astra-kubernetes-storage/)
+8. [Google to revive RSS support in Chrome for Android](https://www.theregister.com/2021/05/20/google_rss_chrome_android/)
+9. [IaaS is a lousy business, says Chinese web giant Tencent: PaaS and SaaS is how we’ll make money in the cloud](https://www.theregister.com/2021/05/21/tencent_q1_2021/)
+10. [U.S. Army to Build Software Factory Atop VMware Tanzu](https://containerjournal.com/features/u-s-army-to-build-software-factory-atop-vmware-tanzu/)
+
 ##  2021-05-014
 1. [Open source API gateway KrakenD lands at the Linux Foundation](https://venturebeat.com/2021/05/11/open-source-api-gateway-krakend-lands-at-the-linux-foundation/)
 2. [Open-source developers under corporate pressure to adopt less-permissive licenses, Percona CEO says](https://www.theregister.com/2021/05/13/open_source_proprietary/)
