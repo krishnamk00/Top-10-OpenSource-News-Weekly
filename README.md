@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2021-05-28
+1. [Google Fuchsia OS finally rolls out](https://www.zdnet.com/article/google-fuchsia-os-finally-rolls-out/)
+2. [Python’s creators unveil speedup plans for Python](https://www.infoworld.com/article/3618691/pythons-creators-unveil-speedup-plans-for-python.html)
+3. [Databricks introduces Delta Sharing, an open-source tool for sharing data](https://techcrunch.com/2021/05/26/databricks-introduces-delta-sharing-an-open-source-tool-for-sharing-data/)
+4. [Airbyte announces $26M Series A for open-source data connector platform](https://techcrunch.com/2021/05/25/airbyte-announces-26m-series-a-for-open-source-data-connector-platform/)
+5. [k08 ready for production](https://www.tfir.io/super-lightweight-kubernetes-distribution-k0s-is-now-production-ready/)
+6. [Open source effort seeks to build tech diversity into code](https://searchitoperations.techtarget.com/feature/Open-source-effort-seeks-to-build-tech-diversity-into-code)
+7. [Microsoft Build 2021- Azure anywhere: Arc adds App Service, Function apps, Event Grid and more to on-premises k8s](https://www.theregister.com/2021/05/25/azure_arc_app/)
+8. [From the 2021 Google I/O Conference](https://www.cmswire.com/digital-marketing/6-takeaways-for-marketers-from-the-2021-google-io-conference/)
+9. [AWS Delivers on Amazon ECS Everywhere Promise](https://containerjournal.com/topics/container-management/aws-delivers-on-amazon-ecs-everywhere-promise/)
+10. [Have I been Pwned goes open source](https://www.zdnet.com/article/have-i-been-pwned-goes-open-source/)
+
 ##  2021-05-21
 1. [Google Pay introduces a Flutter plugin for payments](https://developers.googleblog.com/2021/05/google-pay-introduces-flutter-plugin-for-payments.html)
 2. [Styra, the startup behind Open Policy Agent, nabs $40M to expand its cloud-native authorization tools](https://techcrunch.com/2021/05/18/styra-the-startup-behind-open-policy-agent-nabs-40m-to-expand-its-cloud-native-authorization-tools/)
