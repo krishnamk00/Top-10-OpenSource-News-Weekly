@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2021-06-04
+1. [How to use Google's new dependency mapping tool to find security flaws buried in your projects](https://www.theregister.com/2021/06/04/google_open_source_insights/)
+2. [Could Nomad Reignite Orchestrator Wars?](https://containerjournal.com/editorial-calendar/could-nomad-reignite-orchestrator-wars/)
+3. [TikTok's rival Kuaishou joins Open Invention Network](https://www.zdnet.com/article/tiktoks-rival-kuaishou-joins-open-invention-network/)
+4. [Cloudera hunts for relevance in the market](https://techcrunch.com/2021/06/02/with-buyout-cloudera-hunts-for-relevance-in-a-changing-market/)
+5. [The GCC Steering Committee takes a step away from the Free Software Foundation](https://www.zdnet.com/article/the-gcc-steering-committee-takes-a-step-away-from-the-free-software-foundation/)
+6. [Microsoft’s Java build turns GA](https://www.infoworld.com/article/3620390/microsofts-java-build-turns-ga.html)
+7. [Hard work and poor pay stresses out open-source maintainers](https://www.zdnet.com/article/hard-work-and-poor-pay-stresses-out-open-source-maintainers/)
+8. [Striking a balance with ‘open’ at Snowflake](https://www.infoworld.com/article/3617938/striking-a-balance-with-open-at-snowflake.html)
+9. [LG opens open-source licence compliance tool source](https://www.theregister.com/2021/06/04/lg_open_sources_fosslight/)
+10. [Researchers open-source benchmarks measuring quality of AI-generated code](https://containerjournal.com/editorial-calendar/could-nomad-reignite-orchestrator-wars/)
+
 ##  2021-05-28
 1. [Google Fuchsia OS finally rolls out](https://www.zdnet.com/article/google-fuchsia-os-finally-rolls-out/)
 2. [Python’s creators unveil speedup plans for Python](https://www.infoworld.com/article/3618691/pythons-creators-unveil-speedup-plans-for-python.html)
