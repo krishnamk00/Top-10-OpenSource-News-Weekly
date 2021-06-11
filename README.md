@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2021-06-11
+1. [Linux Foundation readies Global COVID Certificate Network]( https://www.zdnet.com/article/linux-foundation-readies-global-covid-certificate-network/)
+2. [A revival at the intersection of open source and open standards](https://techcrunch.com/2021/06/09/a-revival-at-the-intersection-of-open-source-and-open-standards/)
+3. [Google says its artificial intelligence is faster and better than humans at laying out chips for artificial intelligence](https://www.theregister.com/2021/06/09/google_ai_chip_floorplans/)
+4. [Motoko, a Programming Language Designed for the Internet Computer, Is Now Open Source](https://medium.com/dfinity/motoko-a-programming-language-designed-for-the-internet-computer-is-now-open-source-8d85da4db735)
+5. [THE OPEN GROUP ZERO TRUST INITIATIVE](https://blog.opengroup.org/2021/06/11/the-open-group-zero-trust-initiative-and-the-presidents-executive-order-on-improving-the-nations-cybersecurity/)
+6. [Huge open-source library of over 600 free-to-use icons for healthcare projects.](https://healthicons.org/)
+7. [Vagrant VMware plugin is now free and open source.](https://github.com/hashicorp/vagrant-vmware-desktop)
+8. [Privacy solution Aztec is going open source!](https://medium.com/aztec-protocol/aztec-is-going-open-source-71570db473e6)
+9. [Palo Alto Networks Finds First Windows Container Malware](https://containerjournal.com/features/palo-alto-networks-finds-first-windows-container-malware/)
+10. [Choosing a Well-Architected CI/CD approach: Open-source software and AWS Services](https://aws.amazon.com/blogs/devops/choosing-well-architected-ci-cd-open-source-software-aws-services/)
+
 ##  2021-06-04
 1. [How to use Google's new dependency mapping tool to find security flaws buried in your projects](https://www.theregister.com/2021/06/04/google_open_source_insights/)
 2. [Could Nomad Reignite Orchestrator Wars?](https://containerjournal.com/editorial-calendar/could-nomad-reignite-orchestrator-wars/)
