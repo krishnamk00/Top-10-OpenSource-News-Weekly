@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2021-06-18
+1. [Linux Foundation launches open source agriculture infrastructure project](https://agstack.org/)
+2. [Introducing SLSA, an End-to-End Framework for Supply Chain Integrity](https://security.googleblog.com/2021/06/introducing-slsa-end-to-end-framework.html)
+3. [Contributing to Open Source Best Practices from the Major League Hacking Fellows](https://developers.facebook.com/blog/post/2021/06/14/contributing-to-open-source-best-practices-from-mlh/)
+4. [Eclipse launches group to shepherd popular Java IDE](https://www.infoworld.com/article/3622412/eclipse-launches-group-to-shepherd-popular-java-ide.html)
+5. [Why 5G Needs Kubernetes](https://containerjournal.com/topics/why-5g-needs-kubernetes/)
+6. [Nasty Linux systemd root level security bug revealed and patched](https://www.zdnet.com/article/nasty-linux-systemd-root-level-security-bug-revealed-and-patched/)
+7. [Open standard but not open access: Schematron author complains about ISO paywall](https://www.theregister.com/2021/06/18/schematron_standard_paywall/)
+8. [VMware’s just given its best allies the tool to spread its Tanzu container creed](https://www.theregister.com/2021/06/18/tanzu_basic_for_service_providers/)
+9. [Ex-Brave staffer launches GDPR sueball in Germany over tech giants' real-time bidding for ad inventory](https://www.theregister.com/2021/06/17/johnny_ryan_lawsuit_adtech/)
+10. [How Linux Has Impacted Your Lives – Celebrating 30 Years of Open Source](https://www.linux.com/news/how-linux-has-impacted-your-lives-celebrating-30-years-of-open-source/)
+
 ##  2021-06-11
 1. [Linux Foundation readies Global COVID Certificate Network]( https://www.zdnet.com/article/linux-foundation-readies-global-covid-certificate-network/)
 2. [A revival at the intersection of open source and open standards](https://techcrunch.com/2021/06/09/a-revival-at-the-intersection-of-open-source-and-open-standards/)
