@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2021-06-25
+1. [Announcing a unified vulnerability schema for open source](https://security.googleblog.com/2021/06/announcing-unified-vulnerability-schema.html)
+2. [The Linux Foundation launches Open Voice Network to build industrywide digital assistant standards](https://www.techrepublic.com/article/the-linux-foundation-launches-open-voice-network-to-build-industrywide-digital-assistant-standards/)
+3. [CloudLinux releases UChecker security tool for Linux servers](https://www.zdnet.com/article/cloudlinux-releases-uchecker-security-tool-for-linux-servers/)
+4. [A New Tool Wants to Save Open Source From Supply Chain Attacks](https://www.wired.com/story/sigstore-open-source-supply-chain-code-signing/)
+5. [Ambassador Labs Gives Devs More Kubernetes Control](https://containerjournal.com/features/ambassador-labs-gives-devs-more-kubernetes-control/)
+6. [Snowflake pushes on open source](https://www.infoworld.com/article/3620929/snowflake-pushes-back-at-whom.html)
+7. [AWS offers you the opportunity to pay cloud bills before they’ve been issued](https://www.theregister.com/2021/06/25/aws_advanced_pay_wtf/)
+8. [OCI Announces Distribution Specification v1.0](https://containerjournal.com/features/oci-announces-distribution-specification-v1-0/)
+9. [Will containers kill VMs? There are no winners in this debate](https://www.theregister.com/2021/06/25/containers_vs_vms_debate_result/)
+10. [What you need to know about Microsoft Windows 11: It will run Android apps](https://www.theregister.com/2021/06/24/microsoft_windows_11/)
+
 ##  2021-06-18
 1. [Linux Foundation launches open source agriculture infrastructure project](https://agstack.org/)
 2. [Introducing SLSA, an End-to-End Framework for Supply Chain Integrity](https://security.googleblog.com/2021/06/introducing-slsa-end-to-end-framework.html)
