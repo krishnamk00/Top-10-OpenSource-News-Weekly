@@ -1,5 +1,29 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2021-07-09
+1. [The Linux Foundation to Form New Open 3D Foundation](https://linuxfoundation.org/press-release/linux-foundation-to-form-new-open-3d-foundation/)
+2. [Amazon's Lumberyard game engine is now open source](https://gamasutra.com/view/news/384705/Amazons_Lumberyard_game_engine_is_now_open_source.php)
+3. [Container Security Threats Added to MITRE Attack Framework](https://containerjournal.com/features/container-security-threats-added-to-mitre-attack-framework/)
+4. [Red Hat leader Jim Whitehurst steps down as IBM President](https://www.zdnet.com/article/red-hat-leader-jim-whitehurst-steps-down-as-ibm-president/)
+5. [OpenSource - Bottlerocket & Amazon ECS](https://aws.amazon.com/blogs/containers/getting-started-with-bottlerocket-and-amazon-ecs/)
+6. [Meet the Open-Source Software Powering NASA’s Ingenuity Mars Helicopter](https://www.jpl.nasa.gov/news/meet-the-open-source-software-powering-nasas-ingenuity-mars-helicopter)
+7. [Google’s Model Search is a New OpenSource Framework to Build #NeuralNetworks](https://t.co/RrimEftakB?amp=1)
+8. [CoWIN To Be Open Source, Will Be Available To All Countries](https://www.ndtv.com/india-news/cowin-to-be-open-source-will-be-available-to-all-countries-pm-modi-2480103)
+9. [Tencent to put AI to work exploring space – not ways to extend its monopolies](https://www.theregister.com/2021/07/09/tencent_space_research/)
+10. [Google herds FLoC back to the lab for undisclosed post-third-party-cookie ad tech modifications](https://www.theregister.com/2021/07/08/google_floc_changes/)
+
+##  2021-07-02
+1. [QCT Allies with Robin.io to Run Kubernetes at the Edge](https://containerjournal.com/features/qct-allies-with-robin-io-to-run-kubernetes-at-the-edge/)
+2. [IBM still spending its way to cloud relevance with BoxBoat buy](https://www.theregister.com/2021/07/09/ibm_boxboat_acquisition/)
+3. [Introducing SLSA, an End-to-End Framework for Supply Chain Integrity](https://security.googleblog.com/2021/06/introducing-slsa-end-to-end-framework.html)
+4. [Ubuntu 21.10 Release Date & Planned Features](https://www.omgubuntu.co.uk/2021/07/ubuntu-21-10-release-features)
+5. [Airbyte’s AWS S3 connector brings open source data integration to data lakes](https://venturebeat.com/2021/07/08/airbytes-aws-s3-connector-brings-open-source-data-integration-to-data-lakes/)
+6. [Open source tools and tips for improving your Linux PC's performance](https://opensource.com/article/21/7/improve-linux-pc-performance?sc_cid=7016000000127ECAAY)
+7. [Can open source help Indian non-profits scale more efficiently?](https://www.omidyarnetwork.in/blog/can-open-source-help-indian-non-profits-scale-more-efficiently-glific)
+8. [Open@RIT: The Birth of an Academic OSPO](https://www.linux.com/featured/openrit-the-birth-of-an-academic-ospo/)
+9. [Effective Strategies for Open Source Supply Chain Management](https://thenewstack.io/effective-strategies-for-open-source-supply-chain-management/)
+10. [Linux Foundation celebrates 30 years of Torvalds' kernel with a dry T-shirt contest](https://www.theregister.com/2021/07/08/linux_foundation_t_shirt/)
+
 ##  2021-06-25
 1. [Announcing a unified vulnerability schema for open source](https://security.googleblog.com/2021/06/announcing-unified-vulnerability-schema.html)
 2. [The Linux Foundation launches Open Voice Network to build industrywide digital assistant standards](https://www.techrepublic.com/article/the-linux-foundation-launches-open-voice-network-to-build-industrywide-digital-assistant-standards/)
