@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2021-07-16
+1. [Say hi to Microsoft's own Linux: CBL-Mariner](https://www.zdnet.com/article/say-hi-to-microsofts-own-linux-cbl-mariner/)
+2. [Google AlphaFold breakthrough published today along with the open-source code.](https://www.nature.com/articles/s41586-021-03819-2)
+3. [Square is building a new open-source platform for bitcoin, and it's calling it 'TBD’](https://www.zdnet.com/article/square-is-building-a-new-open-source-platform-for-bitcoin-and-its-calling-it-tbd/)
+4. [Stanford unveils open source sustainable cities software](https://naturalcapitalproject.stanford.edu/software/urban-invest)
+5. [GitLab spins out open source data integration platform Meltano](https://venturebeat.com/2021/06/30/gitlab-spins-out-open-source-data-integration-platform-meltano/)
+6. [Red Hat Marries Cluster Management Tool to GitOps](https://containerjournal.com/features/red-hat-marries-cluster-management-tool-to-gitops/)
+7. [Artificial intelligence comes to Arduino](https://www.ims.fraunhofer.de/en/Business-Unit/Industry/Industrial-AI/Artificial-Intelligence-for-Embedded-Systems-AIfES.html)
+8. [Microsoft, Google, Citizen Lab blow lid off zero-day bug-exploiting spyware sold to governments](https://www.theregister.com/2021/07/16/microsoft_candiru_malware/)
+9. [Microsoft to acquire RiskIQ to strengthen cybersecurity](microsoft.com/security/blog/2021/07/12/microsoft-to-acquire-riskiq-to-strengthen-cybersecurity-of-digital-transformation-and-hybrid-work/)
+10. [Survey Suggests Devs not Completely Sold on Kubernetes](https://containerjournal.com/features/survey-suggests-devs-not-completely-sold-on-kubernetes/)
+
 ##  2021-07-09
 1. [The Linux Foundation to Form New Open 3D Foundation](https://linuxfoundation.org/press-release/linux-foundation-to-form-new-open-3d-foundation/)
 2. [Amazon's Lumberyard game engine is now open source](https://gamasutra.com/view/news/384705/Amazons_Lumberyard_game_engine_is_now_open_source.php)
