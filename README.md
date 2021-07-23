@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2021-07-23
+1. [Red Hat expands Linux offerings for research and academic organizations](https://www.zdnet.com/article/red-hat-expands-linux-offerings-for-research-and-academic-organization/)
+2. [Linux Foundation starts open-source diversity, equity, and inclusion survey](https://www.zdnet.com/article/linux-foundation-starts-open-source-diversity-equity-and-inclusion-survey/)
+3. [Confluence - another multi-billion IPO for open source](https://www.infoworld.com/article/3622960/another-day-another-multi-billion-ipo-for-open-source.html)
+4. [Using Containers to Enable AI at the Edge](https://containerjournal.com/features/using-containers-to-enable-ai-at-the-edge/)
+5. [Sysdig Acquires Apolicy to Automate Container Security](https://containerjournal.com/features/sysdig-acquires-apolicy-to-automate-container-security/)
+6. [Microsoft acquires security start-up CloudKnox](https://www.cnbc.com/2021/07/21/microsoft-acquires-security-start-up-cloudknox.html)
+7. [Everyone cites that 'bugs are 100x more expensive to fix in production' research, but the study might not even exist](https://www.theregister.com/2021/07/22/bugs_expense_bs/)
+8. [Serverless Stack raises $1M for open-source application framework](https://techcrunch.com/2021/07/23/serverless-stack-raises-1m-for-open-source-application-framework/?tpcc=ECTW2020)
+9. [Slack: $27bn+ later, collab tool officially belongs to Salesforce](https://www.theregister.com/2021/07/22/salesforce_slack_acquisition_closes/)
+10. [What does Github Copilot Mean for Open Source?](https://opensource.org/copilotimpact)
+
 ##  2021-07-16
 1. [Say hi to Microsoft's own Linux: CBL-Mariner](https://www.zdnet.com/article/say-hi-to-microsofts-own-linux-cbl-mariner/)
 2. [Google AlphaFold breakthrough published today along with the open-source code.](https://www.nature.com/articles/s41586-021-03819-2)
