@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2021-07-30
+1. [The State of Cloud-Native Security](https://containerjournal.com/editorial-calendar/cloud-native-security/are-we-there-yet-the-state-of-cloud-native-security/)
+2. [Open Source Ecosystem Gains New Support for Securing the World’s Most Critical and Pervasive Software](https://openssf.org/press-release/2021/07/28/open-source-ecosystem-gains-new-support-for-securing-the-worlds-most-critical-and-pervasive-software/)
+3. [Summit invests $215M into Odoo, an open-source business management software developer, at a $2.3B+ valuation](https://techcrunch.com/2021/07/29/summit-invests-215m-into-odoo-an-open-source-business-management-software-developer-at-a-2-3b-valuation/)
+4. [Announcing Linkerd's CNCF Graduation](https://linkerd.io/2021/07/28/announcing-cncf-graduation/)
+5. ‘[$6 in every $10' spent on cloud infrastructure is with AWS, Microsoft, or Google](https://www.theregister.com/2021/07/30/q2_cloud_infrastructure_services_canalys/)
+6. [Red Hat, Nutanix Ally to Spur OpenShift Adoption](https://containerjournal.com/features/red-hat-nutanix-ally-to-spur-openshift-adoption/)
+7. [Google releasing Open Buildings Dataset, a new open-source dataset containing the locations Africa](http://ai.googleblog.com/2021/07/mapping-africas-buildings-with.html)
+8. [Releasing Triton 1.0, an open-source Python-like programming language for writing efficient GPU code](https://www.openai.com/blog/triton/)
+9. [KubeEdge@MEC: Combining the Kubernetes ecosystem with 5G](https://www.cncf.io/blog/2021/07/20/kubeedgemec-combining-the-kubernetes-ecosystem-with-5g/)
+10. [The end of open source?](https://techcrunch.com/2021/07/18/the-end-of-open-source/)
+
 ##  2021-07-23
 1. [Red Hat expands Linux offerings for research and academic organizations](https://www.zdnet.com/article/red-hat-expands-linux-offerings-for-research-and-academic-organization/)
 2. [Linux Foundation starts open-source diversity, equity, and inclusion survey](https://www.zdnet.com/article/linux-foundation-starts-open-source-diversity-equity-and-inclusion-survey/)
