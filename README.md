@@ -1,5 +1,18 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+
+##  2021-08-06
+1. [Kubernetes 1.22 Arrives to Giveth and Taketh Away](https://containerjournal.com/features/kubernetes-1-22-arrives-to-giveth-and-taketh-away/)
+2. [Introducing Oracle Verrazzano Enterprise Container Platform](https://blogs.oracle.com/cloud-infrastructure/post/introducing-oracle-verrazzano-enterprise-container-platform)
+3. [Tech leaders can be the secret weapon for supercharging ESG goals](https://techcrunch.com/2021/08/02/tech-leaders-can-be-the-secret-weapon-for-supercharging-esg-goals/)
+4. [Qualys partners with Red Hat to improve Linux and Kubernetes security](https://www.zdnet.com/article/qualys-partners-with-red-hat-to-improve-linux-and-kubernetes-security/)
+5. [Finite State lands $30M Series B to help uncover security flaws in device firmware](https://techcrunch.com/2021/08/02/finite-state-lands-30m-series-b-to-help-uncover-security-flaws-in-device-firmware/)
+6. [Google Tensor chip: Everything we know so far](https://www.zdnet.com/article/google-tensor-chip-for-pixel-6-everything-we-know-so-far/)
+7. [Checkmarx acquires open-source supply chain security startup Dustico](https://siliconangle.com/2021/08/05/checkmarx-acquires-open-source-supply-chain-security-startup-dustico/)
+8. [TrapX Security Brings Deception Platform to Container Environments](https://containerjournal.com/features/trapx-security-brings-deception-platform-to-container-environments/)
+9. [US 'dropped the ball' on security by going it alone claims Huawei US CSO](https://www.theregister.com/2021/08/06/cso_huawei_us/)
+10. [Thinking about your open-source legacy](https://blog.tomkerkhove.be/2021/08/06/thinking-about-your-open-source-legacy/)
+
 ##  2021-07-30
 1. [The State of Cloud-Native Security](https://containerjournal.com/editorial-calendar/cloud-native-security/are-we-there-yet-the-state-of-cloud-native-security/)
 2. [Open Source Ecosystem Gains New Support for Securing the World’s Most Critical and Pervasive Software](https://openssf.org/press-release/2021/07/28/open-source-ecosystem-gains-new-support-for-securing-the-worlds-most-critical-and-pervasive-software/)
