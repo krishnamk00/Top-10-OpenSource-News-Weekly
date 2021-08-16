@@ -1,6 +1,18 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
 
+##  2021-08-13
+1. [The Time for Unikernels is Now](https://containerjournal.com/features/the-time-for-unikernels-is-now/)
+2. [Facebook, Google, Isovalent, Microsoft and Netflix Launch eBPF Foundation as Part of the Linux Foundation](https://www.linuxfoundation.org/press-release/facebook-google-isovalent-microsoft-and-netflix-launch-ebpf-foundation-as-part-of-the-linux-foundation/)
+3. [OpenSSF - Introducing the Allstar GitHub App](https://openssf.org/blog/2021/08/11/introducing-the-allstar-github-app/?)
+4. [Facebook engineers develop new open source time keeping appliance](https://techcrunch.com/2021/08/11/facebook-engineers-develop-new-open-source-time-keeping-appliance/)
+5. [Anchore Delivers Container Security Integration for GitLab](https://containerjournal.com/features/anchore-delivers-container-security-integration-for-gitlab/)
+6. [The multifaceted eBPF Linux program gets its own foundation](https://www.zdnet.com/article/the-multifaceted-ebpf-linux-program-gets-its-own-foundation/)
+7. [Microsoft .NET adoption gets boost from open source](https://www.infoworld.com/article/3627311/microsoft-net-adoption-gets-boost-from-open-source.html)
+8. [Broadcom, Cisco and Facebook Bring Software Group Together Under TIP to Expand on 6 GHz Wi-Fi](https://www.contentify.needs-wants.com/click.html?x=a62e&lc=8hH&mc=1&s=gugP&u=D&z=uC1qAV&)
+9. [Introducing the AppSource Controller for ArgoCD](https://blog.argoproj.io/introducing-the-appsource-controller-for-argocd-52f21d28d643)
+10. [Debian 11 formally debuts and hits the Bullseye](https://www.theregister.com/2021/08/16/debian_11_bullseye_released/)
+
 ##  2021-08-06
 1. [Kubernetes 1.22 Arrives to Giveth and Taketh Away](https://containerjournal.com/features/kubernetes-1-22-arrives-to-giveth-and-taketh-away/)
 2. [Introducing Oracle Verrazzano Enterprise Container Platform](https://blogs.oracle.com/cloud-infrastructure/post/introducing-oracle-verrazzano-enterprise-container-platform)
