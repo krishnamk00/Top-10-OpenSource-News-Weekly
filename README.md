@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2021-08-20
+1. [ByteDance, TikTok's parent company, joins the Open Invention Network](https://www.zdnet.com/article/bytedance-tiktoks-parent-company-joins-the-open-invention-network/)
+2. [Cloudera Taps Kubernetes to Automate Cloud Data Flows](https://containerjournal.com/features/cloudera-taps-kubernetes-to-automate-cloud-data-flows/)
+3. [AlmaLinux arrives on Azure cloud](https://www.zdnet.com/article/almalinux-arrives-on-azure-cloud/)
+4. [Tesla unveils chip to train A.I. models inside its data centers](https://www.cnbc.com/2021/08/19/tesla-unveils-dojo-d1-chip-at-ai-day.html)
+5. [Announcing OpenMetadata](https://blog.open-metadata.org/announcing-openmetadata-20399b816e60)
+6. [Assessing the True Cost of Kubernetes](https://containerjournal.com/features/assessing-the-true-cost-of-kubernetes/)
+7. [modAL: A modular active learning framework for Python3
+](https://modal-python.readthedocs.io/en/latest/)
+8. [How cloud services get built today using open source](https://www.infoworld.com/article/3629455/how-cloud-services-get-built-today.html)
+9. [GitHub’s Commercial AI Tool Was Built From Open Source Code](https://www.wired.com/story/github-commercial-ai-tool-built-open-source-code/)
+10. [Stackoverflow survey 2021](https://insights.stackoverflow.com/survey/2021#overview)
 
 ##  2021-08-13
 1. [The Time for Unikernels is Now](https://containerjournal.com/features/the-time-for-unikernels-is-now/)
