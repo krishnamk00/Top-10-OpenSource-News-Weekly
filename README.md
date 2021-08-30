@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2021-08-27
+1. [Linux turns 30: The biggest events in its history so far](https://www.zdnet.com/pictures/linux-turns-30-the-biggest-events-in-its-history-so-far/)
+2. [Equinix, IBM Ally to Push Red Hat OpenShift to the Edge](https://containerjournal.com/topics/container-networking/equinix-ibm-ally-to-push-red-hat-openshift-to-the-edge/)
+3. [Microsoft reminds Azure App Service users that community support for Java shift to 8 or beyond](https://www.theregister.com/2021/08/26/microsoft_java_7_eol/)
+4. [Get paid to improve Linux and open-source security](https://www.zdnet.com/article/get-paid-to-improve-linux-and-open-source-security/)
+5. [How open source software shapes AI policy](https://opensource.com/article/21/8/open-source-news)
+6. [Why Open-Source Tech Holds the Key to Modernization](https://www.nextgov.com/ideas/2021/08/why-open-source-tech-holds-key-modernization/184802/)
+7. [Microsoft warns of widespread open redirection phishing attack – which Defender can block, coincidentally](https://www.theregister.com/2021/08/27/microsoft_phishing_defender/)
+8. [Kubernetes Users See Serverless Future](https://containerjournal.com/features/kubernetes-users-see-serverless-future/)
+9. [Kube-fledged – a container image caching tool](https://github.com/senthilrch/kube-fledged)
+10. [Who owns open source projects? People or companies?](https://venturebeat.com/2021/08/27/who-owns-open-source-projects-people-or-companies/)
+
 ##  2021-08-20
 1. [ByteDance, TikTok's parent company, joins the Open Invention Network](https://www.zdnet.com/article/bytedance-tiktoks-parent-company-joins-the-open-invention-network/)
 2. [Cloudera Taps Kubernetes to Automate Cloud Data Flows](https://containerjournal.com/features/cloudera-taps-kubernetes-to-automate-cloud-data-flows/)
