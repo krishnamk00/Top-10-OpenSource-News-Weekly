@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2021-09-03
+1. [Docker changes its subscription plans, usage rules, and product line](https://www.zdnet.com/article/docker-changes-its-subscription-plans-usage-rules-and-product-line/)
+2. [Explosion, a company that has an open source machine learning library announced a $6 million funding](https://techcrunch.com/2021/09/02/explosion-snags-6m-on-120m-valuation-to-expand-machine-learning-platform/)
+3. [CloudLinux offers CentOS 8 users a support lifeline](https://www.zdnet.com/article/cloudlinux-offers-centos-8-users-a-support-lifeline/)
+4. [Microsoft previews free Visual Studio Code for the Web](https://www.theregister.com/2021/09/01/microsoft_previews_free_visual_studio/)
+5. [Google is designing its own Arm-based processors for 2023 Chromebooks – report](https://www.theregister.com/2021/09/02/google_chromebook_chips/)
+6. [Platform9 Joins Intel’s Open Retail Initiative To Drive Digital Transformation](https://www.opensourceforu.com/2021/09/platform9-joins-intels-open-retail-initiative-to-drive-digital-transformation)
+7. [Apache Software Foundation updates Drill for broader SQL queries](https://venturebeat.com/2021/09/01/apache-software-foundation-updates-drill-for-broader-sql-queries/)
+8. [OpenPoerFoundation with Libre-SOC is the first ASIC of its kind]( https://openpowerfoundation.org/libre-soc-180nm-power-isa-asic-submitted-to-imec-for-fabrication/)
+9. [Spectro Cloud Makes Bare Metal Kubernetes Contribution to CNCF](https://containerjournal.com/features/spectro-cloud-makes-bare-metal-kubernetes-contribution-to-cncf/)
+10. [What you don’t know about working with AWS Opensource](https://www.infoworld.com/article/3631376/what-you-dont-know-about-working-with-aws.html)
+
 ##  2021-08-27
 1. [Linux turns 30: The biggest events in its history so far](https://www.zdnet.com/pictures/linux-turns-30-the-biggest-events-in-its-history-so-far/)
 2. [Equinix, IBM Ally to Push Red Hat OpenShift to the Edge](https://containerjournal.com/topics/container-networking/equinix-ibm-ally-to-push-red-hat-openshift-to-the-edge/)
