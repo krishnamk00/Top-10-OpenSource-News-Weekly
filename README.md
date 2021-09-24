@@ -1,5 +1,41 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2021-09-24
+1. [Linux Foundation survey shows companies desperate to hire open-source talent](https://www.zdnet.com/article/linux-foundation-survey-shows-companies-desperate-to-hire-open-source-talent/)
+2. [IT Talent Shortage Hobbles Emerging Tech Adoption: Gartner](https://www.informationweek.com/team-building-and-staffing/it-talent-shortage-hobbles-emerging-tech-adoption)
+3. [Apache Kafka 3.0 prepares project for big clean-up and Raft metadata mode](https://devclass.com/2021/09/22/apache-kafka-3/)
+4. [Luos is building an API to help embedded engineers connect easily to any hardware component](https://techcrunch.com/2021/09/21/luos-is-building-an-api-to-help-embedded-engineers-connect-easily-to-any-hardware-component/)
+5. [China says all cryptocurrency-related transactions are illegal and must be banned](https://techcrunch.com/2021/09/24/china-says-all-cryptocurrency-related-transactions-are-illegal/)
+6. [HackerOne expands Internet Bug Bounty project to tackle open source bugs](https://www.zdnet.com/article/hackerone-expands-internet-bug-bounty-project-to-tackle-open-source-bugs/)
+7. [Why is Standardizing on Container Best Practices so Hard?](https://containerjournal.com/features/why-is-standardizing-on-container-best-practices-so-hard/)
+8. [Google emits Chrome 94 with 'Idle Detection' API to detect user inactivity amid opposition](https://www.theregister.com/2021/09/22/google_emits_chrome_94_with/)
+9. [An open-source Apple M1 chip is possible – not that Apple would ever allow it](https://www.techradar.com/news/an-open-source-apple-m1-chip-is-possible-not-that-apple-would-ever-allow-it)
+10. [Here's a fix for open source supply chain attacks](https://www.techrepublic.com/article/heres-a-fix-for-open-source-supply-chain-attacks)
+
+##  2021-09-17
+1. [Square joins the Open Invention Network](https://www.zdnet.com/article/square-joins-the-open-invention-network/)
+2. [Mirantis launches cloud-native data center-as-a-service software](https://techcrunch.com/2021/09/16/mirantis-launches-cloud-native-data-center-as-a-service-software/)
+3. [VNC Donates Helm Charts for ownCloud File Sharing on Kubernetes](https://containerjournal.com/features/vnc-donates-helm-charts-for-owncloud-file-sharing-on-kubernetes/)
+4. [CNCF Promotes Crossplane to Advance Hybrid Cloud Computing](https://containerjournal.com/features/cncf-promotes-crossplane-to-advance-hybrid-cloud-computing/)
+5. [HPE campaigns against 'cloud first' push in UK public sector](https://www.theregister.com/2021/09/24/hpe_uk_public_sector_campaign/)
+6. [Salesforce should rename its Dreamforce conference to Feverdreamforce because this is getting ridiculous](https://www.theregister.com/2021/09/22/salesforce_dreamforce/)
+7. [Terraform Plan Interactive Configuration and State Visualization with Rover](https://www.hashicorp.com/resources/terraform-plan-interactive-configuration-and-state-visualization-with-rover)
+8. [An Open source alternative to GitHubs Autopilot](https://venturebeat.com/2021/09/24/ai-weekly-researchers-attempt-an-open-source-alternative-to-githubs-copilot/)
+9. [Google commits to solving security problems in open-source projects like Git and Laravel](https://www.neowin.net/news/google-commits-to-solving-security-problems-in-open-source-projects-like-git-and-laravel/)
+10. [Space: The Next Tech Industry Frontier?](https://www.informationweek.com/executive-insights-and-innovation/space-the-next-tech-industry-frontier-)
+
+##  2021-09-10
+1. [The Open Source Initiative names Stefano Maffulli as its first Executive Director](https://www.zdnet.com/article/the-open-source-initiative-names-stefano-maffulli-its-first-executive-director/)
+2. [Microsoft joins Open Infrastructure Foundation](https://www.zdnet.com/article/microsoft-joins-open-infrastructure-foundation/)
+3. [DigitalOcean enhances serverless capabilities with Nimbella acquisition](https://techcrunch.com/2021/09/07/digitalocean-enhances-serverless-capabilities-with-nimbella-acquisition/)
+4. [CloudLinux offers CentOS 8 users a support lifeline](https://www.zdnet.com/article/cloudlinux-offers-centos-8-users-a-support-lifeline/)
+5. [SUSE releases its first version of Rancher](https://www.zdnet.com/article/suse-releases-its-first-version-of-rancher-rancher-2-6/)
+6. [Pros & Cons of Open Source in Business](https://www.investintech.com/resources/blog/archives/7975-pros-cons-open-source-business.html)
+7. [Oracle v. Google: What the verdict means for open source](https://www.infoworld.com/article/3633668/oracle-v-google-what-the-verdict-means-for-open-source.html)
+8. [Nvidia CUDA Software Gets Ported to Open-Source RISC-V GPGPU Project](https://www.tomshardware.com/uk/news/risc-v-runs-cuda)
+9. [Who Maintains Kubernetes When the World Moves On?](https://containerjournal.com/features/who-maintains-kubernetes-when-the-world-moves-on/)
+10. [Why we abandoned open source: LiveCode CEO on retreat despite successful kickstarter](https://www.theregister.com/2021/09/06/livecode_interview/)
+
 ##  2021-09-03
 1. [Docker changes its subscription plans, usage rules, and product line](https://www.zdnet.com/article/docker-changes-its-subscription-plans-usage-rules-and-product-line/)
 2. [Explosion, a company that has an open source machine learning library announced a $6 million funding](https://techcrunch.com/2021/09/02/explosion-snags-6m-on-120m-valuation-to-expand-machine-learning-platform/)
