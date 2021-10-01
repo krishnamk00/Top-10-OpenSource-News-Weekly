@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2021-10-01
+1. [Google sponsors pilot program to improve open source security](https://betanews.com/2021/10/01/google-sponsors-improve-open-source-security/)
+2. [Cambridge Quantum's TKET quantum software developer kit fully open source](https://www.zdnet.com/article/cambridge-quantums-tket-quantum-software-developer-kit-fully-open-source/)
+3. [RunX announces $4.1M seed to simplify cloud infrastructure deployment for developers](https://techcrunch.com/2021/09/28/runx-announces-4-1m-seed-to-simplify-cloud-infrastructure-deployment-for-developers/)
+4. [Microsoft grants Azure credits to open source projects for a year](https://www.zdnet.com/article/microsoft-grants-azure-credits-to-open-source-projects-for-a-year/)
+5. [Software security groups increased use of open source tech by 61% over 2 years](https://venturebeat.com/2021/09/29/software-security-groups-increased-open-source-tech-by-61-over-2-years/)
+6. ['Quantum computer algorithms are linear algebra, probabilities. Education overhaul needed”](https://www.theregister.com/2021/10/01/quantum_computing_future/)
+7. [96% of third-party container applications deployed in cloud infrastructure contain known vulnerabilities: Unit 42](https://www.zdnet.com/article/96-of-third-party-container-applications-deployed-in-cloud-infrastructure-contain-known-vulnerabilities-unit-42/)
+8. [Announcing the Beta Release of Consul Service Mesh for Amazon ECS](https://www.hashicorp.com/blog/announcing-the-beta-release-of-consul-service-mesh-for-amazon-ecs)
+9. [Android, Java bug bunting tool Mariana Trench goes open source](https://www.zdnet.com/article/android-java-bug-bunting-tool-mariana-trench-becomes-open-source/)
+10. [The Future of Observability](https://containerjournal.com/features/the-future-of-observability-2/)
+
 ##  2021-09-24
 1. [Linux Foundation survey shows companies desperate to hire open-source talent](https://www.zdnet.com/article/linux-foundation-survey-shows-companies-desperate-to-hire-open-source-talent/)
 2. [IT Talent Shortage Hobbles Emerging Tech Adoption: Gartner](https://www.informationweek.com/team-building-and-staffing/it-talent-shortage-hobbles-emerging-tech-adoption)
