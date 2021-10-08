@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2021-10-08
+1. [Samsung unveils open source software for CXL Memory platform](https://www.itpro.co.uk/hardware/361153/samsung-unveils-open-source-software-for-cxl-memory-platform)
+2. [VMWorld2021: Expands k8s on Tanzu; stack on ARM architecture](https://containerjournal.com/news/vmware-expands-kubernetes-portfolio-based-on-tanzu/)
+3. [Android 12 makes its way to the Android Open Source Project](https://www.zdnet.com/article/android-12-makes-its-way-to-the-android-open-source-project/)
+4. [Samsung unveils open source software for CXL Memory platform](https://www.itpro.co.uk/hardware/361153/samsung-unveils-open-source-software-for-cxl-memory-platform)
+5. [CodeSee launches codebase onboarding portal for open source developers](https://www.infoworld.com/article/3635371/codesee-launches-codebase-onboarding-portal-for-open-source-developers.html)
+6. [Streamlit reaches 1.0 milestone for open source data app building tool](https://techcrunch.com/2021/10/05/streamlit-reaches-1-0-milestone-for-open-source-data-app-building-tool/)
+7. [EVOLVE21 - Rocket Software brings open source to the mainframe for 'modernization in place'](https://diginomica.com/evolve21-rocket-software-open-source-mainframe-modernization-in-place)
+8. [.NET Foundation boss apologizes for pull request that sparked community row](https://www.theregister.com/2021/10/07/net_foundation_boss_apologises_for/)
+9. [What happened for Facebook Massive Outage?](https://www.theverge.com/2021/10/5/22710963/facebook-dns-bgp-outage-backbone-maintenance)
+11. [The Worldwide Open Source Services Industry is Expected to Reach $50 Billion by 2026](https://www.businesswire.com/news/home/20211008005142/en/The-Worldwide-Open-Source-Services-Industry-is-Expected-to-Reach-50-Billion-by-2026---ResearchAndMarkets.com)
+
 ##  2021-10-01
 1. [Google sponsors pilot program to improve open source security](https://betanews.com/2021/10/01/google-sponsors-improve-open-source-security/)
 2. [Cambridge Quantum's TKET quantum software developer kit fully open source](https://www.zdnet.com/article/cambridge-quantums-tket-quantum-software-developer-kit-fully-open-source/)
@@ -7,7 +19,7 @@
 4. [Microsoft grants Azure credits to open source projects for a year](https://www.zdnet.com/article/microsoft-grants-azure-credits-to-open-source-projects-for-a-year/)
 5. [Software security groups increased use of open source tech by 61% over 2 years](https://venturebeat.com/2021/09/29/software-security-groups-increased-open-source-tech-by-61-over-2-years/)
 6. ['Quantum computer algorithms are linear algebra, probabilities. Education overhaul needed”](https://www.theregister.com/2021/10/01/quantum_computing_future/)
-7. [96% of third-party container applications deployed in cloud infrastructure contain known vulnerabilities: Unit 42](https://www.zdnet.com/article/96-of-third-party-container-applications-deployed-in-cloud-infrastructure-contain-known-vulnerabilities-unit-42/)
+7. [96% of third-party container applications deployed in cloud infrastructure contain known vulnerabilities](https://www.zdnet.com/article/96-of-third-party-container-applications-deployed-in-cloud-infrastructure-contain-known-vulnerabilities-unit-42/)
 8. [Announcing the Beta Release of Consul Service Mesh for Amazon ECS](https://www.hashicorp.com/blog/announcing-the-beta-release-of-consul-service-mesh-for-amazon-ecs)
 9. [Android, Java bug bunting tool Mariana Trench goes open source](https://www.zdnet.com/article/android-java-bug-bunting-tool-mariana-trench-becomes-open-source/)
 10. [The Future of Observability](https://containerjournal.com/features/the-future-of-observability-2/)
