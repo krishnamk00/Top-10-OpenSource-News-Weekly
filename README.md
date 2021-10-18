@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2021-10-15
+1. [Square plans to build an open-source bitcoin mining system](https://nairametrics.com/2021/10/17/square-plans-to-build-an-open-source-bitcoin-mining-system/)
+2. [KubeCon + CloudNativeCon Highlights Security for Open Source](https://www.informationweek.com/cloud/kubecon-cloudnativecon-highlights-security-for-open-source)
+3. [Google Cloud Next 2021 Highlights](https://cloud.google.com/blog/topics/google-cloud-next/whats-new-at-next)
+4. [The newest Ubuntu Linux, Impish Indri, arrives](https://www.zdnet.com/article/the-newest-ubuntu-linux-impish-indri-arrives/)
+5. [IBM commits high-scale inference platform ModelMesh to open source](https://thenextweb.com/news/ibm-commits-modelmesh-open-source)
+6. [Appsmith raises $8M to take on the internal corporate app market with open source code](https://techcrunch.com/2021/10/05/appsmith-raises-8m-to-take-on-the-internal-corporate-app-market-with-open-source-code/)
+7. [TriggerMesh cloud-native automation goes open source](https://www.zdnet.com/article/triggermesh-cloud-native-automation-goes-open-source/)
+8. [WhatsApp's got your back(ups) with encryption for stored messages](https://www.theregister.com/2021/10/14/whatsapps_backups_encryption/)
+9. [Deepfence Announces Open Source Availability of ThreatMapper](https://www.darkreading.com/application-security/deepfence-announces-open-source-availability-of-threatmapper)
+10. [Google's VirusTotal reports that 95% of ransomware spotted targets Windows](https://www.theregister.com/2021/10/14/googles_virustotal_malware/)
+
 ##  2021-10-08
 1. [Samsung unveils open source software for CXL Memory platform](https://www.itpro.co.uk/hardware/361153/samsung-unveils-open-source-software-for-cxl-memory-platform)
 2. [VMWorld2021: Expands k8s on Tanzu; stack on ARM architecture](https://containerjournal.com/news/vmware-expands-kubernetes-portfolio-based-on-tanzu/)
