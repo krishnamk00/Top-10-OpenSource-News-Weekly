@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2021-10-22
+1. [The best open source software of 2021](https://www.infoworld.com/article/3637038/the-best-open-source-software-of-2021.html)
+2. [Alibaba Announces Open Source RISC-V-Based Xuantie Series Processors](https://pandaily.com/alibaba-announces-open-source-risc-v-based-xuantie-series-processors/)
+3. [Intel open-sources AI-powered tool to spot bugs in code](https://venturebeat.com/2021/10/20/intel-open-sources-ai-powered-tool-to-spots-bugs-in-code)
+4. [Software Freedom Conservancy sues Vizio for GPL violations](https://www.zdnet.com/article/software-freedom-conservancy-sues-vizio-for-gpl-violations/)
+5. [We're closing the gap with Arm and x86, claims SiFive: New RISC-V CPU core for PCs, servers, mobile incoming](https://www.theregister.com/2021/10/21/sifive_riscv_cpu/)
+6. [Alibaba Unveils One of China’s Most Advanced Chips](https://www.bloomberg.com/news/articles/2021-10-19/alibaba-unveils-one-of-china-s-most-advanced-chips)
+7. [Cloud-Native: The Engine Driving a Trillion-Dollar Economy](https://containerjournal.com/features/cloud-native-the-engine-driving-a-trillion-dollar-economy/)
+8. [Inside Microsoft’s open source program office](https://venturebeat.com/2021/10/22/inside-microsofts-open-source-program-office/)
+9. [Deepmind: MuJoCo physics simulator designed for robotics research]( https://deepmind.com/blog/announcements/mujoco)
+10. [Open source reliance is creating a bunch of security issues](https://www.techradar.com/news/open-source-software-could-be-exploited-to-launch-another-solarwinds-style-attack)
+
 ##  2021-10-15
 1. [Square plans to build an open-source bitcoin mining system](https://nairametrics.com/2021/10/17/square-plans-to-build-an-open-source-bitcoin-mining-system/)
 2. [KubeCon + CloudNativeCon Highlights Security for Open Source](https://www.informationweek.com/cloud/kubecon-cloudnativecon-highlights-security-for-open-source)
