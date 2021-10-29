@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2021-10-29
+1. [Microsoft repents of its open-source .NET blunder](https://www.zdnet.com/article/microsoft-repents-of-its-open-source-net-blunder/)
+2. [OpenID-based security features added to GitHub Actions as usage doubles](https://www.theregister.com/2021/10/28/github_actions_universe/)
+3. [Elastic’s Shay Banon: Why we went beyond our search roots—and stood up to ‘bully’ AWS](https://www.infoworld.com/article/3637121/elastics-shay-banon-why-we-went-beyond-our-search-rootsand-stood-up-to-bully-aws.html)
+4. [Aqua Security Report Reveals Container Attack Blast Radius](https://containerjournal.com/features/aqua-security-report-reveals-container-attack-blast-radius/)
+5. [There’s nothing Automattic about balancing commercial growth with an open source developer community](https://techcrunch.com/2021/10/19/automattic-tc1-developers/)
+6. [Behold, Eclipse's open-source software defined vehicle project](https://www.theregister.com/2021/10/28/behold_eclipses_opensource_softwaredefinedvehicle_project/)
+7. [Product release cycles are killing the environment, techies tell British Computer Society](https://www.theregister.com/2021/10/27/product_release_cycles/)
+8. [Open source recognized as a key economic pillar in EU study](https://opensource.com/article/21/10/open-source-eu-economy)
+9. [Explore the Future of Software and Cybersecurity at the Second Annual Open Source Security Summit](https://www.businesswire.com/news/home/20211027005258/en/Explore-the-Future-of-Software-and-Cybersecurity-at-the-Second-Annual-Open-Source-Security-Summit)
+10. [Zuckerberg wants to create a make-believe world in which you can hide from all the damage Facebook has done](https://www.theregister.com/2021/10/29/zuckerberg_meta_facebook/)
+
 ##  2021-10-22
 1. [The best open source software of 2021](https://www.infoworld.com/article/3637038/the-best-open-source-software-of-2021.html)
 2. [Alibaba Announces Open Source RISC-V-Based Xuantie Series Processors](https://pandaily.com/alibaba-announces-open-source-risc-v-based-xuantie-series-processors/)
