@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2021-11-05
+1. [Linux Foundation Announces NextArch Foundation to Build Next-Generation Architecture](https://www.prnewswire.com/news-releases/linux-foundation-announces-nextarch-foundation-to-build-next-generation-architecture-that-supports-diverse-computing-environments-301414368.html)
+2. [Microsoft Extends Cloud-Native Portfolio](https://containerjournal.com/features/microsoft-extends-cloud-native-portfolio/)
+3. [Global Tech Policy Cybersecurity Briefing for October 2021](https://www.informationweek.com/security-and-risk-strategy/global-tech-policy-briefing-for-october-2021)=
+4. [Microsoft launches Loop, an open source, real-time collaboration tool](https://siliconangle.com/2021/11/03/open-source-browser-fingerprinting-startup-fingerprintjs-raises-32m/)
+5. [Open-source browser fingerprinting startup FingerprintJS raises $32M](https://siliconangle.com/2021/11/03/open-source-browser-fingerprinting-startup-fingerprintjs-raises-32m/)
+6. [SUSE Makes NeuVector Container Security Platform Open Source](https://containerjournal.com/features/suse-makes-neuvector-container-security-platform-open-source/)
+7. [Open sources Fides for developers to build privacy tools directly into their codebases](https://techcrunch.com/2021/11/03/ethyca-fides-privacy-codebase/)
+8. [Intel’s Open-Source Driver Team Confirms ARC DG2 Variant With 448 EUs Exists](https://wccftech.com/intels-open-source-driver-team-confirms-arc-dg2-variant-with-448-eus-exists/)
+9. [Embrace open-source sensors for local climate studies](https://www.nature.com/articles/d41586-021-02981-x)
+10. [LF Security Enhancements to its LFX Community Platform to Protect Software Supply Chain](https://linuxfoundation.org/press-release/linux-foundation-announces-security-enhancements-to-its-lfx-community-platform-to-protect-software-supply-chain-2/)
+
 ##  2021-10-29
 1. [Microsoft repents of its open-source .NET blunder](https://www.zdnet.com/article/microsoft-repents-of-its-open-source-net-blunder/)
 2. [OpenID-based security features added to GitHub Actions as usage doubles](https://www.theregister.com/2021/10/28/github_actions_universe/)
