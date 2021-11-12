@@ -1,6 +1,18 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
 ##  2021-11-05
+1. [Google open-sources ClusterFuzzLite to secure the software supply chain](https://venturebeat.com/2021/11/11/google-open-sources-clusterfuzzlite-to-secure-the-software-supply-chain/)
+2. [Millions of Routers, IoT Devices at Risk from New Open-Source Malware]( https://www.oodaloop.com/briefs/2021/11/12/millions-of-routers-iot-devices-at-risk-from-new-open-source-malware/)
+3. [CloudQuery gets $3.5M seed to build open source cloud infrastructure visibility tool](https://techcrunch.com/2021/11/11/cloudquery-gets-3-5m-seed-to-build-open-source-cloud-infrastructure-visibility-tool/)
+4. [Dependency Combobulator: Open source toolkit to combat dependency confusion attacks](https://www.helpnetsecurity.com/2021/11/10/dependency-combobulator-open-source-toolkit/)
+5. [HashiCorp’s IPO filing reveals a growing business, but at a slower pace](https://techcrunch.com/2021/11/05/hashicorps-ipo-filing-reveals-a-growing-business-but-at-a-slower-pace/)
+6. [Microsoft is bringing a managed Grafana service to Azure](https://venturebeat.com/2021/11/10/microsoft-is-bringing-a-managed-grafana-service-to-azure)
+7. [Apps made with Google's Flutter may fritter away CPU cycles]( https://www.theregister.com/2021/11/12/googles_flutter_cpu_performance/)
+8. [Open source pressure group shares "Patchwork Kilt" Edge data center blueprint](https://www.datacenterdynamics.com/en/news/cop26-open-source-pressure-group-shares-patchwork-kilt-edge-data-center-blueprint/)
+9. [SCO v IBM Linux lawsuit settled](https://www.zdnet.com/article/last-of-original-sco-v-ibm-linux-lawsuit-settled/)
+10. [DevSecOps Essentials for Containers](https://containerjournal.com/features/devsecops-essentials-for-containers/)
+
+##  2021-11-05
 1. [Linux Foundation Announces NextArch Foundation to Build Next-Generation Architecture](https://www.prnewswire.com/news-releases/linux-foundation-announces-nextarch-foundation-to-build-next-generation-architecture-that-supports-diverse-computing-environments-301414368.html)
 2. [Microsoft Extends Cloud-Native Portfolio](https://containerjournal.com/features/microsoft-extends-cloud-native-portfolio/)
 3. [Global Tech Policy Cybersecurity Briefing for October 2021](https://www.informationweek.com/security-and-risk-strategy/global-tech-policy-briefing-for-october-2021)=
