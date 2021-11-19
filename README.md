@@ -1,6 +1,18 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
-##  2021-11-05
+##  2021-11-19
+1. [Meta updates Facebook's data center switches, moves to SAI open source API](https://www.datacenterdynamics.com/en/news/ocp-meta-updates-facebooks-data-center-switches-moves-to-sai-open-source-api/)
+2. [Rust Foundation appoints Rebecca Rumbul as executive director](https://www.zdnet.com/article/rust-foundation-appoints-rebecca-rumbul-as-executive-director/)
+3. [IBM Makes Container Registry Available for the Mainframe](https://containerjournal.com/features/ibm-makes-container-registry-available-for-the-mainframe/)
+4. [Streamlabs changes its name after backlash from Twitch stars and open source software maker](https://techcrunch.com/2021/11/17/streamlabs-obs-name-controversy-pokimane/)
+5. [Open source Botenago malware could potentially affect millions of routers and IoT devices](https://www.notebookcheck.net/Open-source-Botenago-malware-could-potentially-affect-millions-of-routers-and-IoT-devices.579008.0.html)
+6. [Grounding For Open Source Foundations: An Interview with Martin Michlmayr](https://www.lpi.org/blog/2021/11/11/grounding-open-source-foundations-interview-martin-michlmayr)
+7. [DataCore Acquires MayaData to Expand Storage Portfolio](https://containerjournal.com/features/datacore-acquires-mayadata-to-expand-storage-portfolio/)
+8. [8 Tips for Creating a Cybersecurity Culture](https://www.informationweek.com/it-life/8-tips-for-creating-a-cybersecurity-culture)
+9. [Cloud-Native Automation with Keptn](https://containerjournal.com/features/cloud-native-automation-with-keptn/)
+10. [GPU makers increasingly disengage from crypto miners](https://www.theregister.com/2021/11/19/gpu_makers_not_keen_on_crypto/)
+
+##  2021-11-12
 1. [Google open-sources ClusterFuzzLite to secure the software supply chain](https://venturebeat.com/2021/11/11/google-open-sources-clusterfuzzlite-to-secure-the-software-supply-chain/)
 2. [Millions of Routers, IoT Devices at Risk from New Open-Source Malware]( https://www.oodaloop.com/briefs/2021/11/12/millions-of-routers-iot-devices-at-risk-from-new-open-source-malware/)
 3. [CloudQuery gets $3.5M seed to build open source cloud infrastructure visibility tool](https://techcrunch.com/2021/11/11/cloudquery-gets-3-5m-seed-to-build-open-source-cloud-infrastructure-visibility-tool/)
