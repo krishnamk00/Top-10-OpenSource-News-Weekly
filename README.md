@@ -1,5 +1,18 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2021-12-03
+1. [AWS launches Karpenter, an open source autoscaler for Kubernetes clusters](https://techcrunch.com/2021/11/30/aws-launches-karpenter-an-open-source-autoscaler-for-kubernetes-clusters/)
+2. [HashiCorp’s IPO will place it among the most richly valued open source tech companies](https://techcrunch.com/2021/11/30/hashicorps-ipo-will-place-it-among-the-most-richly-valued-open-source-tech-companies/)
+3. [Docker, Inc. Official Images Available on AWS Container Registry](https://containerjournal.com/features/docker-inc-official-images-available-on-aws-container-registry/)
+4. [China set to embrace open source in new software push](https://www.techradar.com/news/china-set-to-embrace-open-source-in-new-software-push)
+5. [Upbound nabs $60M to grow its open source Crossplane multi-cloud management project](https://techcrunch.com/2021/11/29/upbound-grabs-60m-series-b-to-grow-open-source-crossplane-cloud-management-project/)
+6. [Open Source IPO Boom: What GitLab And Confluent Show Us About The Future Of Software](https://www.forbes.com/sites/glennsolomon/2021/11/16/open-source-ipo-boom-what-gitlab-and-confluent-show-us-about-the-future-of-software/?sh=596dcd82130f)
+7. [Bit bags $25M to bring microservices to frontend development](https://venturebeat.com/2021/11/16/bit-bags-36m-to-bring-microservices-to-frontend-development/)
+8. [Open-source Vizio lawsuit takes an ugly turn](https://www.zdnet.com/article/open-source-vizio-lawsuit-takes-an-ugly-turn/)
+9. [ByteDance launches a public cloud that offers TTaaS (TikTok as a service)](https://www.theregister.com/2021/12/03/bytedance_volcano_engine_public_cloud/)
+10. [Twitter’s new CEO announces major reorganization of the social networking company](https://www.washingtonpost.com/technology/2021/12/03/twitter-agrawal-restructuring/)
+11. [+ Thanks Giving Week Fun!!!](https://yourfavouritesitehereforchill)
+
 ##  2021-11-19
 1. [Meta updates Facebook's data center switches, moves to SAI open source API](https://www.datacenterdynamics.com/en/news/ocp-meta-updates-facebooks-data-center-switches-moves-to-sai-open-source-api/)
 2. [Rust Foundation appoints Rebecca Rumbul as executive director](https://www.zdnet.com/article/rust-foundation-appoints-rebecca-rumbul-as-executive-director/)
