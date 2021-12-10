@@ -7,7 +7,7 @@
 4. [Red Hat Previews Data Science Service on OpenShift](https://containerjournal.com/features/red-hat-previews-data-science-service-on-openshift/)
 5. [Ratify container supply chain in Kubernetes](https://cloudblogs.microsoft.com/opensource/2021/12/09/ratify-container-supply-chain-in-kubernetes/)
 6. [Chainguard lands $5M to help companies secure their software supply chains](https://techcrunch.com/2021/12/08/chainguard-seed-software-supply-chain-security/)
-7. [Apple redesigns its open source developer pages](https://www.applemust.com/apple-redesigns-its-open-source-developer-pages/)
+7. [Apple redesigns its open source developer pages...](https://www.applemust.com/apple-redesigns-its-open-source-developer-pages/)
 8. [CentOS Linux 8 is about to die. What do you do next?](https://www.zdnet.com/article/centos-linux-8-is-about-to-die-what-do-you-do-next/)
 9. [Nvidia open to third parties making custom silicon tuned for CUDA applications](https://www.theregister.com/2021/11/10/nvidia_cuda_silicon/)
 10. [Global race to patch critical computer bug in open source software used by Apache servers](https://www.marketwatch.com/story/global-race-to-patch-critical-computer-bug-in-open-source-software-used-by-apache-servers-01639166970)
