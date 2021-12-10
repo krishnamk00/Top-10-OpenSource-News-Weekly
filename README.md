@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2021-12-10
+1. [Kubernetes v1.23 Is Here. Are You Ready?](https://containerjournal.com/features/kubernetes-v1-23-is-here-are-you-ready/)
+2. [Rust takes a major step forward as Linux's second official language](https://www.zdnet.com/article/rust-takes-a-major-step-forward-as-linuxs-second-official-language/)
+3. [EMEA State of Software Security: The Costly Risks of Open Source Code](https://www.govinfosecurity.com/webinars/fireside-chat-emea-state-software-security-costly-risks-open-source-w-3622)
+4. [Red Hat Previews Data Science Service on OpenShift](https://containerjournal.com/features/red-hat-previews-data-science-service-on-openshift/)
+5. [Ratify container supply chain in Kubernetes](https://cloudblogs.microsoft.com/opensource/2021/12/09/ratify-container-supply-chain-in-kubernetes/)
+6. [Chainguard lands $5M to help companies secure their software supply chains](https://techcrunch.com/2021/12/08/chainguard-seed-software-supply-chain-security/)
+7. [Apple redesigns its open source developer pages](https://www.applemust.com/apple-redesigns-its-open-source-developer-pages/)
+8. [CentOS Linux 8 is about to die. What do you do next?](https://www.zdnet.com/article/centos-linux-8-is-about-to-die-what-do-you-do-next/)
+9. [Nvidia open to third parties making custom silicon tuned for CUDA applications](https://www.theregister.com/2021/11/10/nvidia_cuda_silicon/)
+10. [Global race to patch critical computer bug in open source software used by Apache servers](https://www.marketwatch.com/story/global-race-to-patch-critical-computer-bug-in-open-source-software-used-by-apache-servers-01639166970)
+
 ##  2021-12-03
 1. [AWS launches Karpenter, an open source autoscaler for Kubernetes clusters](https://techcrunch.com/2021/11/30/aws-launches-karpenter-an-open-source-autoscaler-for-kubernetes-clusters/)
 2. [HashiCorp’s IPO will place it among the most richly valued open source tech companies](https://techcrunch.com/2021/11/30/hashicorps-ipo-will-place-it-among-the-most-richly-valued-open-source-tech-companies/)
