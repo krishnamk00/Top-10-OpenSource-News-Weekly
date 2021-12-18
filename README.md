@@ -1,6 +1,6 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
-##  2021-12-10
+##  2021-12-17
 1. [Global race to patch critical computer bug in open source software used by Apache servers](https://www.marketwatch.com/story/global-race-to-patch-critical-computer-bug-in-open-source-software-used-by-apache-servers-01639166970)
 2. [Containers in the Cloud Next on Cybercriminals’ Radar](https://containerjournal.com/features/containers-in-the-cloud-next-on-cybercriminals-radar/)
 3. [What should HashiCorp do now?](https://www.infoworld.com/article/3644473/what-should-hashicorp-do-now.html)
