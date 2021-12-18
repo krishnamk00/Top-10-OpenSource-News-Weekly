@@ -1,6 +1,18 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
 ##  2021-12-10
+1. [Global race to patch critical computer bug in open source software used by Apache servers](https://www.marketwatch.com/story/global-race-to-patch-critical-computer-bug-in-open-source-software-used-by-apache-servers-01639166970)
+2. [Containers in the Cloud Next on Cybercriminals’ Radar](https://containerjournal.com/features/containers-in-the-cloud-next-on-cybercriminals-radar/)
+3. [What should HashiCorp do now?](https://www.infoworld.com/article/3644473/what-should-hashicorp-do-now.html)
+4. [Cockroach Labs keeps rolling with $278M Series F on $5B valuation](https://techcrunch.com/2021/12/16/cockroach-rolls-on-with-278m-series-f-on-5b-valuation/)
+5. [OctoML announces the latest release of its platform, exemplifies growth in MLOps](https://www.zdnet.com/article/octoml-announces-the-latest-release-of-its-platform-exemplifies-growth-in-mlops/)
+6. [OpenELB K8s Load Balancer Plugin Becomes CNCF Sandbox Project](https://containerjournal.com/features/openelb-k8s-load-balancer-plugin-becomes-cncf-sandbox-project/)
+7. [LOKI: An open-source enterprise cloud to call your own](https://www.zdnet.com/article/an-open-source-enterprise-cloud-to-call-your-own-loki/)
+8. [IBM Makes Container Registry Available for the Mainframe](https://containerjournal.com/features/ibm-makes-container-registry-available-for-the-mainframe/)
+9. [Stop saying open source nonsense]( https://www.infoworld.com/article/3641218/stop-saying-open-source-nonsense.html)
+10. [Global Open Source Services Market 2021 to 2027](https://www.businesswire.com/news/home/20211206005688/en/Global-Open-Source-Services-Market-2021-to-2027---by-Type-Industry-Vertical-and-Region---ResearchAndMarkets.com)
+
+##  2021-12-10
 1. [Kubernetes v1.23 Is Here. Are You Ready?](https://containerjournal.com/features/kubernetes-v1-23-is-here-are-you-ready/)
 2. [Rust takes a major step forward as Linux's second official language](https://www.zdnet.com/article/rust-takes-a-major-step-forward-as-linuxs-second-official-language/)
 3. [EMEA State of Software Security: The Costly Risks of Open Source Code](https://www.govinfosecurity.com/webinars/fireside-chat-emea-state-software-security-costly-risks-open-source-w-3622)
@@ -52,7 +64,7 @@
 ##  2021-11-05
 1. [Linux Foundation Announces NextArch Foundation to Build Next-Generation Architecture](https://www.prnewswire.com/news-releases/linux-foundation-announces-nextarch-foundation-to-build-next-generation-architecture-that-supports-diverse-computing-environments-301414368.html)
 2. [Microsoft Extends Cloud-Native Portfolio](https://containerjournal.com/features/microsoft-extends-cloud-native-portfolio/)
-3. [Global Tech Policy Cybersecurity Briefing for October 2021](https://www.informationweek.com/security-and-risk-strategy/global-tech-policy-briefing-for-october-2021)=
+3. [Global Tech Policy Cybersecurity Briefing for October 2021](https://www.informationweek.com/security-and-risk-strategy/global-tech-policy-briefing-for-october-2021)
 4. [Microsoft launches Loop, an open source, real-time collaboration tool](https://siliconangle.com/2021/11/03/open-source-browser-fingerprinting-startup-fingerprintjs-raises-32m/)
 5. [Open-source browser fingerprinting startup FingerprintJS raises $32M](https://siliconangle.com/2021/11/03/open-source-browser-fingerprinting-startup-fingerprintjs-raises-32m/)
 6. [SUSE Makes NeuVector Container Security Platform Open Source](https://containerjournal.com/features/suse-makes-neuvector-container-security-platform-open-source/)
