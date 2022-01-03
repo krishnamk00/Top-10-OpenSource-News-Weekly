@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2021-12-31
+1. [What’s next for Cloud Foundry](https://techcrunch.com/2021/12/27/whats-next-for-cloud-foundry/)
+2. [In 2022, security will be priority number one for Linux and open-source developers](https://www.zdnet.com/article/in-2022-security-will-be-linux-and-open-source-developers-job-number-one/)
+3. [GNU to establish media support fund](https://www.libyaobserver.ly/news/gnu-establish-media-support-fund)
+4. [Tencent initiates OpenCloudOS](https://pandaily.com/chinese-companies-including-tencent-initiate-open-source-operating-system-community-opencloudos/)
+5. [CNCF Annual Report 2021](https://www.cncf.io/cncf-annual-report-2021/)
+6. [Belgian defence ministry admits attackers accessed its computer network by exploiting Log4j vulnerability](https://www.theregister.com/2021/12/21/belgium_defence_ministry_log4j_exploited/)
+7. [TikTok tops Google to win Cloudflare’s 2021 traffic ratings](https://www.theregister.com/2021/12/21/tiktok_tops_google_to_win/)
+8. [Best of 2021 – What Kubernetes’ Docker Deprecation Means for You](https://containerjournal.com/editorial-calendar/best-of-2021/what-kubernetes-docker-depreciation-means-for-you/)
+9. [Bad things come in threes: Apache reveals another Log4J bug](https://www.theregister.com/2021/12/19/log4j_new_flaw_cve_2021_45105/)
+10. [Ubuntu vs. Arch Linux: Which Linux Distro Should You Choose?](https://www.makeuseof.com/ubuntu-vs-arch-linux-comparison/)
+
 ##  2021-12-17
 1. [Global race to patch critical computer bug in open source software used by Apache servers](https://www.marketwatch.com/story/global-race-to-patch-critical-computer-bug-in-open-source-software-used-by-apache-servers-01639166970)
 2. [Containers in the Cloud Next on Cybercriminals’ Radar](https://containerjournal.com/features/containers-in-the-cloud-next-on-cybercriminals-radar/)
