@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2022-01-06
+1. [Open Source 2022: The Year of Awareness](https://sdtimes.com/os/open-source-2022-the-year-of-awareness/)
+2. [Lesson from Log4j: Open-source software improvements need help from feds](https://www.politico.com/news/2022/01/06/open-source-software-help-526676)
+3. [White House invites tech firms to discuss open-source software security in January](https://siliconangle.com/2021/12/24/white-house-invites-tech-firms-discuss-open-source-software-security/)
+4. [Microsoft gifts OpenStreetMap $10,000 in latest FOSS Fund award](https://www.onmsft.com/news/microsoft-gifts-openstreetmap-10000-in-latest-foss-fund-award)
+5. [Solo.io BumbleBee Expands Access to eBPF Technologies](https://containerjournal.com/features/solo-io-bumblebee-expands-access-to-ebpf-technologies/)
+6. [Cleaning up the Linux kernel's 'Dependency Hell': This developer is proposing 2,200 commit changes](https://www.zdnet.com/article/cleaning-up-the-linux-kernels-dependency-hell-this-developer-is-proposing-2200-commit-changes/)
+7. [VMware Bets on PaaS to Change K8s Game in 2022](https://containerjournal.com/features/vmware-bets-on-paas-to-change-k8s-game-in-2022/)
+8. [NVIDIA RESEARCH PLOTS A COURSE TO MULTIPLE MULTICHIP GPU ENGINES](https://www.nextplatform.com/2022/01/06/nvidia-research-plots-a-course-to-multiple-multichip-gpu-engines/)
+9. [Let the Oracle Database Operator for Kubernetes Do the Job](https://pasimoes.dev/p/oracle-db-k8s-oper-intro/)
+10. [Celebrating our 2021 Open Source Contributions](https://blog.trailofbits.com/2021/12/31/celebrating-our-2021-open-source-contributions/)
+
 ##  2021-12-31
 1. [What’s next for Cloud Foundry](https://techcrunch.com/2021/12/27/whats-next-for-cloud-foundry/)
 2. [In 2022, security will be priority number one for Linux and open-source developers](https://www.zdnet.com/article/in-2022-security-will-be-linux-and-open-source-developers-job-number-one/)
