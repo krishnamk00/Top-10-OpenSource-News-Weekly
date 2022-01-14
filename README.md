@@ -1,6 +1,18 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
-##  2022-01-06
+##  2022-01-14
+1. [White House reminds tech giants open source is a national security issue](https://www.bleepingcomputer.com/news/security/white-house-reminds-tech-giants-open-source-is-a-national-security-issue/)
+2. [Block announces plans to build an open-source bitcoin mining system](https://siliconangle.com/2022/01/14/block-announces-open-source-bitcoin-mining-system/)
+3. [Tencent’s Animation Tool PAG Now Open Source, Used Widely in WeChat](https://pandaily.com/tencents-animation-tool-pag-now-open-source-used-widely-in-wechat/)
+4. [Instaclustr focuses on pure open source to offer open-core alternative](https://siliconangle.com/2022/01/11/instaclustr-focuses-pure-open-source-offer-open-core-alternative-awsshowcases2e1/)
+5. [11 open source ideas for being more eco-friendly in 2022](https://opensource.com/article/22/1/open-source-eco-friendly)
+6. [Creator of Wireshark Joins Sysdig to Extend the Open Source Project for Cloud Security](https://www.businesswire.com/news/home/20220113005266/en/%E2%80%8B%E2%80%8BCreator-of-Wireshark-Joins-Sysdig-to-Extend-the-Open-Source-Project-for-Cloud-Security)
+7. [TikTok's latest video tool is violating open-source license: Report](https://www.business-standard.com/article/technology/tiktok-s-latest-video-tool-is-violating-open-source-license-report-121122200269_1.html)
+8. [SUSE Announces Harvester HCI Platform Based on Kubernetes](https://containerjournal.com/features/suse-announces-harvester-hci-platform-based-on-kubernetes/)
+9. [Making Open Source software safer and more secure](https://blog.google/technology/safety-security/making-open-source-software-safer-and-more-secure/)
+10. [Ever wanted to be an open source contributor? Join the CNCF Cloud Native Glossary — no coding required! ]( https://www.cncf.io/blog/2022/01/11/join-the-cncf-cloud-native-glossary/)
+
+##  2022-01-07
 1. [Open Source 2022: The Year of Awareness](https://sdtimes.com/os/open-source-2022-the-year-of-awareness/)
 2. [Lesson from Log4j: Open-source software improvements need help from feds](https://www.politico.com/news/2022/01/06/open-source-software-help-526676)
 3. [White House invites tech firms to discuss open-source software security in January](https://siliconangle.com/2021/12/24/white-house-invites-tech-firms-discuss-open-source-software-security/)
