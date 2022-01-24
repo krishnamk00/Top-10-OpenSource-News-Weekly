@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2022-01-21
+1. [Nvidia pushes crowd-pleasing container support into AI Enterprise suite](https://www.theregister.com/2022/01/21/nvidia_ai_enterprise/)
+2. [Harness releases open version of continuous delivery product with access to source code](https://techcrunch.com/2022/01/19/harness-releases-open-version-of-continuous-delivery-product-with-access-to-source-code/)
+3. [Dell Extends Kubernetes Reach of APEX Managed Services](https://containerjournal.com/features/dell-extends-kubernetes-reach-of-apex-managed-services/)
+4. [Open Source NeuVector Container Security Platform Now Available](https://containerjournal.com/features/open-source-neuvector-container-security-platform-now-available/)
+5. [Official Kubernetes Documentary is out.](https://www.youtube.com/watch?v=BE77h7dmoQU)
+6. [OrientDB: A Flexible and Scalable Multi-Model NoSQL DBMS](https://www.opensourceforu.com/2022/01/orientdb-a-flexible-and-scalable-multi-model-nosql-dbms)
+7. [Integrate security into CI/CD with the Trivy scanner](https://www.infoworld.com/article/3642288/integrate-security-into-cicd-with-the-trivy-scanner.html)
+8. [Progress Announces New Components to Improve Developer Productivity](https://www.opensourceforu.com/2022/01/progress-announces-new-components-to-improve-developer-productivity)
+9. ['Now' would be the right time to patch Ubuntu container hosts and ditch 21.04 thanks to heap buffer overflow bug](https://www.theregister.com/2022/01/20/ubuntu_2104_eol/)
+10. [European Commission launches new open source software bug bounty program](https://portswigger.net/daily-swig/european-commission-launches-new-open-source-software-bug-bounty-program)
+
 ##  2022-01-14
 1. [White House reminds tech giants open source is a national security issue](https://www.bleepingcomputer.com/news/security/white-house-reminds-tech-giants-open-source-is-a-national-security-issue/)
 2. [Block announces plans to build an open-source bitcoin mining system](https://siliconangle.com/2022/01/14/block-announces-open-source-bitcoin-mining-system/)
