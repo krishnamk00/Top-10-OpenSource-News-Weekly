@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2022-01-28
+1. [Linux Foundation launches Open Source Software Development, Linux, and Git certification](https://www.zdnet.com/article/linux-foundation-launches-open-source-software-development-linux-git-certification/)
+2. [Google and GitHub Announce OpenSSF Scorecards v4 with New GitHub Actions Workflow](https://www.infoq.com/news/2022/01/openssf-scorecards-v4/)
+3. [Major Linux PolicyKit security vulnerability uncovered: Pwnkit](https://www.zdnet.com/article/major-linux-policykit-security-vulnerability-uncovered-pwnkit/)
+4. [ActiveState Trusted Artifacts Secures the Open Source Supply Chain](https://itsecuritywire.com/news/activestate-trusted-artifacts-secures-the-open-source-supply-chain/)
+5. [Litigation vs Google May Cause Ripples in Data Collection](https://www.informationweek.com/big-data/litigation-vs-google-may-cause-ripples-in-data-collection)
+6. [Loft Labs Adds K0s Support to Virtual Kubernetes Clusters](https://containerjournal.com/features/loft-labs-adds-k0s-support-to-virtual-kubernetes-clusters/)
+7. [Open Invention Network expands Linux patent protection](https://www.zdnet.com/article/open-invention-network-expands-linux-patent-protection/#ftag=RSSbaffb68)
+8. [Indian government floats idea of home-grown challenger for Android and iOS](https://www.theregister.com/2022/01/27/india_ponders_indigenous_mobile_os/)
+9. [Internet Society condemns UK's Online Safety Bill for demonising encryption using 'think of the children' tactic]( https://www.theregister.com/2022/01/28/internet_society_calls_out_uk_encryption_war/)
+10. [Worldwide Open-source Intelligence Industry to 2028](https://www.businesswire.com/news/home/20220126005532/en/Worldwide-Open-source-Intelligence-Industry-to-2028---Integration-of-Artificial-Intelligence-with-Open-Source-Intelligence-Presents-Opportunities---ResearchAndMarkets.com)
+
 ##  2022-01-21
 1. [Nvidia pushes crowd-pleasing container support into AI Enterprise suite](https://www.theregister.com/2022/01/21/nvidia_ai_enterprise/)
 2. [Harness releases open version of continuous delivery product with access to source code](https://techcrunch.com/2022/01/19/harness-releases-open-version-of-continuous-delivery-product-with-access-to-source-code/)
