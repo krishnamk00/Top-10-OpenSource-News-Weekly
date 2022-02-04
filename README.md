@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2022-02-04
+1. [OpenSSF Announces The Alpha-Omega Project to Improve Software Supply Chain Security for 10,000 OSS Projects](https://openssf.org/press-release/2022/02/01/openssf-announces-the-alpha-omega-project-to-improve-software-supply-chain-security-for-10000-oss-projects/)
+2. [The state of software bill of materials: SBOM growth could bolster software supply chains](https://venturebeat.com/2022/02/02/the-state-of-software-bill-of-materials-sbom-growth-could-bolster-software-supply-chains/)
+3. [Google's DeepMind says its AI coding bot is 'competitive' with humans](https://www.theregister.com/2022/02/03/alphacode_automated_coding/)
+4. [Open-source Kubernetes tool Argo CD has a high-severity path traversal flaw: Patch now](https://www.theregister.com/2022/02/04/argo_cd_0day_kubernetes/)
+5. [Privacy Shield: EU citizens might get right to challenge US access to their data](https://www.theregister.com/2022/02/03/privacy_shield_progress/)
+6. [GitHub introduces sponsor-only repositories](https://techcrunch.com/2022/02/02/github-introduces-sponsor-only-repositories/)
+7. [Amazon stretches working life of its servers an extra year, for AWS and its own ops](https://www.theregister.com/2022/02/04/amazon_q4_2021/)
+8. [Open Source Apache CloudStack Extends Reach of India’s Government Services](https://www.itprotoday.com/iaas-and-paas/open-source-apache-cloudstack-extends-reach-india-s-government-services)
+9. [Top 50 authors: Opensource.com Community Awards 2021](https://opensource.com/article/21/1/community-awards-2021)
+10. [Buoyant Survey Surfaces Service Mesh Shifts](https://containerjournal.com/features/buoyant-survey-surfaces-service-mesh-shifts/)
+
 ##  2022-01-28
 1. [Linux Foundation launches Open Source Software Development, Linux, and Git certification](https://www.zdnet.com/article/linux-foundation-launches-open-source-software-development-linux-git-certification/)
 2. [Google and GitHub Announce OpenSSF Scorecards v4 with New GitHub Actions Workflow](https://www.infoq.com/news/2022/01/openssf-scorecards-v4/)
