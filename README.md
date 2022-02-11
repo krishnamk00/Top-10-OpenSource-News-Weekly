@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2022-02-11
+1. [Docker makes comeback with over $50M in ARR two years into restructuring](https://techcrunch.com/2022/02/01/docker-makes-comeback-reaching-over-50m-in-arr/)
+2. [Log4j hearing: 'Open source is not the problem'](https://www.networkworld.com/article/3649003/log4j-hearing-open-source-is-not-the-problem.html#tk.rss_security)
+3. [Crossing the Chasm to an Open Source Hedera Mainnet](https://www.hbarfoundation.org/blog-post/hedera-bridging-the-chasm-with-open-sourcing)
+4. [Intel invests in open-source RISC-V processors, creates billion-dollar fund](https://www.zdnet.com/article/intel-invests-in-open-source-risc-v-processors-with-a-billion-dollars-in-new-chip-foundries/)
+5. [Salesforce latest megacorp to jump on non-fungible tokens bandwagon](https://www.theregister.com/2022/02/10/salesforce_nfts/)
+6. [Catalogic Software Secures Data Protection for Kubernetes](https://containerjournal.com/features/catalogic-software-secures-data-protection-for-kubernetes/)
+7. [Intel’s Open-Source Linux Driver now offers Vulkan “ANV” ray-tracing support](https://wccftech.com/intels-open-source-linux-driver-now-offers-vulkan-anv-ray-tracing-support/)
+8. [Backbone of innovation: Open source writes the script for enterprise growth and supercloud](https://siliconangle.com/2022/02/04/backbone-of-innovation-open-source-writes-the-script-for-enterprise-growth-and-supercloud-awsshowcases2e1/)
+9. [Opposite of SnowFlake: Analytics without the datawarehouse](https://www.nextplatform.com/2022/02/09/the-opposite-of-snowflake-analytics-without-the-data-warehouse/)
+10. [Google Summer of Code 2022 is open for mentor organization applications!](https://opensource.googleblog.com/2022/02/Google%20Summer%20of%20Code%202022%20is%20open%20for%20mentor%20organization%20applications.html)
+
 ##  2022-02-04
 1. [OpenSSF Announces The Alpha-Omega Project to Improve Software Supply Chain Security for 10,000 OSS Projects](https://openssf.org/press-release/2022/02/01/openssf-announces-the-alpha-omega-project-to-improve-software-supply-chain-security-for-10000-oss-projects/)
 2. [The state of software bill of materials: SBOM growth could bolster software supply chains](https://venturebeat.com/2022/02/02/the-state-of-software-bill-of-materials-sbom-growth-could-bolster-software-supply-chains/)
