@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2022-02-18
+1. [Open source is more important than ever, say developers. Here's what's driving adoption](https://www.zdnet.com/article/open-source-is-more-important-than-ever-say-developers-heres-why)
+2. [AWS Introduces a New Open-Source Solution: AWS Virtual Waiting Room](https://www.infoq.com/news/2022/02/aws-virtual-waiting-room/)
+3. [Critical Vulnerability Strikes Magento Open Source and Adobe Commerce](https://www.searchenginejournal.com/magento-adobe-commerce-vulnerability/438034/)
+4. [Cloudera Data Platform Uses Containers for Private Cloud](https://containerjournal.com/features/cloudera-data-platform-uses-containers-for-private-cloud/)
+5. [Open-source patient model tops industry standard](https://www.eurekalert.org/news-releases/943857)
+6. [Voltron Data grabs $110M to build startup based on Apache Arrow project]( https://techcrunch.com/2022/02/17/voltron-data-grabs-110m-to-build-startup-based-on-apache-arrow-project/)
+7. [Linux developers patch security holes faster than anyone else, says Google Project Zero]( https://www.zdnet.com/article/google-project-zero-finds-linux-developers-patch-security-holes-faster-than-anyone-else/)
+8. [Report: 64% of companies were impacted by supply chain attacks mostly due to increased OSS reliance](https://sdtimes.com/security/report-64-of-companies-were-impacted-by-supply-chain-attacks-mostly-due-to-increased-oss-reliance/)
+9. [A Better Kubernetes Experience for Developers is Key in 2022]( https://containerjournal.com/features/a-better-kubernetes-experience-for-developers-is-key-in-2022/)
+10. [JPMorgan Chase readies for post-quantum security world](https://www.theregister.com/2022/02/17/jpmorgan_postquantum/)
+
 ##  2022-02-11
 1. [Docker makes comeback with over $50M in ARR two years into restructuring](https://techcrunch.com/2022/02/01/docker-makes-comeback-reaching-over-50m-in-arr/)
 2. [Log4j hearing: 'Open source is not the problem'](https://www.networkworld.com/article/3649003/log4j-hearing-open-source-is-not-the-problem.html#tk.rss_security)
