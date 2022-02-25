@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2022-02-25
+1. [Why open source is essential in a cloud era](https://www.infoworld.com/article/3650473/why-open-source-is-essential-in-a-cloud-era.html)
+2. [Linus Torvalds prepares to move the Linux kernel to modern C](https://www.zdnet.com/article/linus-torvalds-prepares-to-move-the-linux-kernel-to-modern-c/)
+3. [GitHub puts prebuilt Codespaces into public beta](https://www.theregister.com/2022/02/25/github_codespaces_beta/)
+4. [With mission to modernize data streaming, Redpanda snares $50M Series B](https://techcrunch.com/2022/02/23/with-mission-to-modernize-data-streaming-redpanda-snares-50m-series-b/)
+5. [Microsoft adds GCP to Defender for Cloud](https://www.theregister.com/2022/02/23/microsoft_defender_cloud_gcp/)
+6. [Survey Surfaces Cloud-Native Stress Points]( https://containerjournal.com/features/survey-surfaces-cloud-native-stress-points/)
+7. [Nasuni Announces Record Revenue and Unveils New Open Source Tools for Customer-Driven Innovation]( https://www.prnewswire.com/news-releases/nasuni-announces-record-revenue-and-unveils-new-open-source-tools-for-customer-driven-innovation-301488119.html)
+8. [Intel targets edgy 5G and AI with new chips, software](https://www.theregister.com/2022/02/25/intel_xeon_d_openvino/)
+9. [Kyndryl completes hyperscaler trifecta with AWS partnership](https://www.theregister.com/2022/02/24/kyndryl_aws/)
+10. [Meta says it's building world's largest AI supercomputer out of Nvidia, AMD chips](https://www.theregister.com/2022/01/25/meta_supercomputer_metaverse/)
+
 ##  2022-02-18
 1. [Open source is more important than ever, say developers. Here's what's driving adoption](https://www.zdnet.com/article/open-source-is-more-important-than-ever-say-developers-heres-why)
 2. [AWS Introduces a New Open-Source Solution: AWS Virtual Waiting Room](https://www.infoq.com/news/2022/02/aws-virtual-waiting-room/)
