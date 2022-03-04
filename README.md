@@ -1,6 +1,18 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
 ##  2022-02-25
+1. [Open source security fears are fading away](https://www.zdnet.com/article/is-open-source-as-proprietary-software-these-tech-chiefs-think-it-is/#ftag=RSSbaffb68)
+2. [SenseTime unveils open source computer vision platform](https://www.biometricupdate.com/202203/sensetime-unveils-open-source-computer-vision-platform)
+3. [Oracle creates new form of free Solaris](https://www.theregister.com/2022/03/04/solaris_common_build_environments_free/)
+4. [4 basic elements required for running production OSS smoothly](https://techcrunch.com/2022/03/03/4-basic-elements-required-for-running-production-oss-smoothly/)
+5. [Advancing IoT Open Standards, EMQ Becomes OASIS Open's Newest Foundational Sponsor](https://www.asiaone.com/business/advancing-iot-open-standards-emq-becomes-oasis-opens-newest-foundational-sponsor)
+6. [Researchers from JFrog’s Security Research team discovered five vulnerabilities in the PJSIP open-source](https://securityaffairs.co/wordpress/128603/hacking/pjsip-library-critical-flaws.html)
+7. [Apple, Google, Microsoft, Mozilla agree on something: Make web dev lives easier](https://www.theregister.com/2022/03/04/web_dev_tech/)
+8. [Kubernetes: Separating the Hype From Production Success](https://containerjournal.com/features/kubernetes-separating-the-hype-from-production-success/)
+9. [VMware Adds Capability to Secure Container Runtimes](https://containerjournal.com/features/vmware-adds-capability-to-secure-container-runtimes/)
+10. [Harvard, MIT, Berkeley are still fighting over genome-editing patents. Now another ruling](https://www.theregister.com/2022/03/02/us_patent_crispr/)
+
+##  2022-02-25
 1. [Why open source is essential in a cloud era](https://www.infoworld.com/article/3650473/why-open-source-is-essential-in-a-cloud-era.html)
 2. [Linus Torvalds prepares to move the Linux kernel to modern C](https://www.zdnet.com/article/linus-torvalds-prepares-to-move-the-linux-kernel-to-modern-c/)
 3. [GitHub puts prebuilt Codespaces into public beta](https://www.theregister.com/2022/02/25/github_codespaces_beta/)
