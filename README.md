@@ -1,6 +1,18 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
-##  2022-02-25
+##  2022-03-11
+1. [Growing Our Support for Scientific Open Source]( https://cziscience.medium.com/growing-our-support-for-scientific-open-source-e71d692e7772)
+2. [Google Focuses on Enterprise Cloud With Mandiant Acquisition](https://devops.com/google-focuses-on-enterprise-cloud-with-mandiant-acquisition/)
+3. [DataStax scales K8ssandra for cloud-native Cassandra](https://www.techtarget.com/searchdatamanagement/news/252514333/DataStax-scales-K8ssandra-for-cloud-native-Cassandra)
+4. [Quickwit takes on Elasticsearch with an open source search engine for large datasets](https://venturebeat.com/2022/03/10/quickwit-takes-on-elasticsearch-with-an-open-source-search-engine-for-large-datasets/)
+5. [Open Source Zone grinds away at patent trolls](https://www.zdnet.com/article/open-source-zone-grinds-away-at-patent-trolls/)
+6. [Sysdig Allies With Snyk to Improve Container Security](https://containerjournal.com/features/sysdig-allies-with-snyk-to-improve-container-security/)
+7. [Mirantis Tightens Lens Integration with Managed K8s Services](https://containerjournal.com/features/mirantis-tightens-lens-integration-with-managed-k8s-services/)
+8. [Snowflake acquires Streamlit for $800M to help customers build data-based apps](https://techcrunch.com/2022/03/02/snowflake-acquires-streamlit-for-800m-to-help-customers-build-data-based-apps/)
+9. [A new Linux kernel vulnerability was found: Dirty Pipe]( https://cloud7.news/security/a-new-linux-kernel-vulnerability-was-found-dirty-pipe/)
+10. [Azure pulls in front of AWS in public cloud adoption](https://www.theregister.com/2022/03/09/state_of_cloud_survey/)
+
+##  2022-03-04
 1. [Open source security fears are fading away](https://www.zdnet.com/article/is-open-source-as-proprietary-software-these-tech-chiefs-think-it-is/#ftag=RSSbaffb68)
 2. [SenseTime unveils open source computer vision platform](https://www.biometricupdate.com/202203/sensetime-unveils-open-source-computer-vision-platform)
 3. [Oracle creates new form of free Solaris](https://www.theregister.com/2022/03/04/solaris_common_build_environments_free/)
