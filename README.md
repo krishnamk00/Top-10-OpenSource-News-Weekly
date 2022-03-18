@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2022-03-18
+1. [Open source chip design language is based around Python](https://www.eenewseurope.com/en/open-source-chip-design-language-is-based-around-python/)
+2. [Nasty Linux netfilter firewall security hole found](https://www.zdnet.com/article/nasty-linux-netfilter-firewall-security-hole-found/)
+3. [Microsoft released an open-source tool to secure MikroTik routers](https://securityaffairs.co/wordpress/129167/hacking/microsoft-tool-mikrotik-routers.html)
+4. [Firefly Announces Release of ValidIaC Open Source Solution](https://www.darkreading.com/application-security/firefly-announces-thefirefly-announces-release-of-validiac-open-source-solution)
+5. [AlmaLinux OS Foundation welcomes AMD to the fold](https://www.theregister.com/2022/03/18/almalinux_os_foundation_amd/)
+6. [Academy Software Foundation publishes paper on open source technology](https://www.tvbeurope.com/production-post/academy-software-foundation-publishes-paper-on-open-source-technology)
+7. [Code-Sabotage Incident in Protest of Ukraine War Exposed Open Source Risks](https://www.darkreading.com/application-security/recent-code-sabotage-incident-latest-to-highlight-code-dependency-risks)
+8. [Open Source Trends for 2022: A Look into the Future of Southeast Asia](https://www.media-outreach.com/news/singapore/2022/03/17/124589/open-source-trends-for-2022-a-look-into-the-future-of-southeast-asia/)
+9. [US Court affirms it's false advertising to claim software is Open Source when it’s not](https://opensource.org/node/1218)
+10. [China declares a new era of digitization has begun](https://www.theregister.com/2022/03/18/china_declares_new_era_of/)
+
 ##  2022-03-11
 1. [Growing Our Support for Scientific Open Source]( https://cziscience.medium.com/growing-our-support-for-scientific-open-source-e71d692e7772)
 2. [Google Focuses on Enterprise Cloud With Mandiant Acquisition](https://devops.com/google-focuses-on-enterprise-cloud-with-mandiant-acquisition/)
