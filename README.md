@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2022-03-25
+1. [Ermetic launches open source tool that analyzes AWS CloudTrail AccessDenied events](https://www.helpnetsecurity.com/2022/03/25/ermetic-access-undenied-on-aws/)
+2. [Survey Surfaces Spike in Cloud-Native App Development](https://containerjournal.com/features/survey-surfaces-spike-in-cloud-native-app-development/)
+3. [Comcast is taking its xGitGuard security software open source](https://www.zdnet.com/article/comcast-is-taking-its-xgitguard-security-software-open-source/#ftag=RSSbaffb68)
+4. [Checkmarx Supply Chain Security identifies potentially malicious open source packages](https://www.helpnetsecurity.com/2022/03/24/checkmarx-supply-chain-security/)
+5. [A Developer Altered Open Source Software to Wipe Files in Russia](https://www.wired.com/story/developer-altered-open-source-software-to-wipe-files-in-russia/)
+6. [The Fragile Open Source Ecosystem Isn’t Ready for ‘Protestware’](https://www.wired.com/story/open-source-sabotage-protestware/)
+7. [Cloud convenience and open source](https://www.infoworld.com/article/3654271/cloud-convenience-and-open-source.html)
+8. [Open source project Tea is brew2 for web3](https://techcrunch.com/2022/03/23/open-source-project-tea-is-brew2-for-web3/)
+9. [Google opens Play Store to third party payment systems – starting with Spotify](https://www.theregister.com/2022/03/25/google_opens_up_to_third/)
+10. [VMware fixes command injection, file upload flaws in Carbon Black security tool]( https://www.theregister.com/2022/03/23/critical_bugs_vmware_carbon_black/)
+
 ##  2022-03-18
 1. [Open source chip design language is based around Python](https://www.eenewseurope.com/en/open-source-chip-design-language-is-based-around-python/)
 2. [Nasty Linux netfilter firewall security hole found](https://www.zdnet.com/article/nasty-linux-netfilter-firewall-security-hole-found/)
