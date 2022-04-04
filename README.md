@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2022-04-01
+1. [As Docker gains momentum, it hauls in $105M Series C on $2B valuation](https://techcrunch.com/2022/03/31/as-docker-gains-momentum-it-hauls-in-105m-series-c-on-2b-valuation/)
+2. [Unveiling the Idem Project: Cloud Automation Without the Code](https://octo.vmware.com/unveiling-the-idem-project-cloud-automation-without-the-code/)
+3. [Rust Foundation launches Rust Community Grants program](https://www.zdnet.com/article/rust-foundation-opens-up-rust-community-grants-program/)
+4. [How VMware Tanzu Changes the Cloud Computing Equation](https://containerjournal.com/features/how-vmware-tanzu-changes-the-cloud-computing-equation/)
+5. [The Fragile Open Source Ecosystem Isn’t Ready for ‘Protestware’](https://www.wired.com/story/open-source-sabotage-protestware/)
+6. [Rethinking Anomaly Detection in Cloud-Native Applications](https://containerjournal.com/features/rethinking-anomaly-detection-in-cloud-native-applications/)
+7. [Intel buys cloud-optimization startup Granulate](https://www.theregister.com/2022/03/31/intel_buys_cloud_optimization_software/)
+8. [Cloud convenience and open source](https://www.infoworld.com/article/3654271/cloud-convenience-and-open-source.html)
+9. [IDC: Public clouds to surpass non-cloud spending this year](https://www.theregister.com/2022/04/01/idc_public_cloud_spending/)
+10. [Yoga: OpenStack IaaS cloud gets its 25th update](https://www.zdnet.com/article/openstack-iaas-cloud-25th-release-arrives/)
+
 ##  2022-03-25
 1. [Ermetic launches open source tool that analyzes AWS CloudTrail AccessDenied events](https://www.helpnetsecurity.com/2022/03/25/ermetic-access-undenied-on-aws/)
 2. [Survey Surfaces Spike in Cloud-Native App Development](https://containerjournal.com/features/survey-surfaces-spike-in-cloud-native-app-development/)
