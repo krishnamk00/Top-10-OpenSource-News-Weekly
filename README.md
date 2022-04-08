@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2022-04-08
+1. [NetApp acquires Instaclustr to deliver open source databases as a service](https://techcrunch.com/2022/04/07/netapp-acquires-instaclustr-to-deliver-open-source-databases-as-a-service/)
+2. [Rocky Linux arrives on Google Cloud](https://www.zdnet.com/article/rocky-linux-arrives-on-google-cloud/)
+3. [Ridge, Hivelocity Ally on Managed Bare-Metal Service](https://containerjournal.com/features/ridge-hivelocity-ally-on-managed-bare-metal-service/)
+4. [Comcast is taking its xGitGuard security software open source](https://www.zdnet.com/article/comcast-is-taking-its-xgitguard-security-software-open-source/#ftag=RSSbaffb68)
+5. [Lockheed Martin goes open-source for satellite on-orbit docking](https://www.electronicsweekly.com/news/lockheed-martin-goes-open-source-satellite-orbit-docking-2022-04/)
+6. [Airbyte acquires data synchronization service Grouparoo](https://techcrunch.com/2022/04/07/airbyte-acquires-data-synchronization-service-grouparoo-to-launch-reverse-etl-capabilities/)
+7. [Appwrite raises $27 million to support open source adoption of developers platform](https://www.calcalistech.com/ctechnews/article/bj60000nyq5)
+8. [Open-Source Software Developer Grafana Labs Scores $240 Million In Funding Round](https://www.crn.com/news/applications-os/open-source-software-developer-grafana-labs-scores-240-million-in-funding-round)
+9. [Antmicro releases open-source hardware Snapdragon 845 baseboard designed with KiCad](https://www.cnx-software.com/2022/04/06/antmicro-open-source-hardware-snapdragon-845-baseboard-designed-with-kicad/)
+10.	[Why Cloud-Native Companies Should Support Open Source](https://containerjournal.com/features/why-cloud-native-companies-should-support-open-source/)
+
 ##  2022-04-01
 1. [As Docker gains momentum, it hauls in $105M Series C on $2B valuation](https://techcrunch.com/2022/03/31/as-docker-gains-momentum-it-hauls-in-105m-series-c-on-2b-valuation/)
 2. [Unveiling the Idem Project: Cloud Automation Without the Code](https://octo.vmware.com/unveiling-the-idem-project-cloud-automation-without-the-code/)
