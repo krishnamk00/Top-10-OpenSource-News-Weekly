@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2022-04-15
+1. [Perforce acquires DevOps power Puppet](https://www.zdnet.com/article/perforce-acquires-devops-power-puppet/)
+2. [Elon Musk Believes Twitter Algorithm Should Be Open-Source]( https://news.itsfoss.com/elon-musk-twitter-open-source/)
+3. [As 5G shifts to the cloud, open source software projects are in upheaval](https://www.lightreading.com/service-provider-cloud/as-5g-shifts-to-cloud-open-source-software-projects-are-in-upheaval-/d/d-id/776821)
+4. [Intel acquires open source foundations team](https://www.convergedigest.com/2022/04/intel-acquires-open-networking.html)
+5. [Fuzzing tool company launches initiative to secure open-source software](https://www.csoonline.com/article/3656654/fuzzing-tool-company-launches-initiative-secure-open-source-software.html)
+6. [There's huge potential for this 'unbrickable' open source BIOS now it's running on modern Intel PCs](https://www.pcgamer.com/coreboot-on-intel-motherboard/)
+7. [WSO2 Unfurls Choreo Integration Service for Cloud-Native APIs](https://containerjournal.com/topics/container-networking/wso2-unfurls-choreo-integration-service-for-cloud-native-apis/)
+8. [Speckle snags $5.5M seed to build open source platform for 3D drawings](https://techcrunch.com/2022/04/14/speckle-snags-5-5m-seed-to-build-open-source-platform-for-3d-drawings/)
+9. [Intel’s neurochips could one day end up in PCs or a cloud service](https://www.theregister.com/2022/04/15/intels_neurochips_could_one_day/)
+10. [Eclipse VOLTTRON™ Proves Its Versatility and Value in Real-World IoT Deployments](https://outreach.eclipse.foundation/volttron-iot-use-cases?utm_campaign=VOLTTRON%20Case%20Study&utm_content=203927139)
+
 ##  2022-04-08
 1. [NetApp acquires Instaclustr to deliver open source databases as a service](https://techcrunch.com/2022/04/07/netapp-acquires-instaclustr-to-deliver-open-source-databases-as-a-service/)
 2. [Rocky Linux arrives on Google Cloud](https://www.zdnet.com/article/rocky-linux-arrives-on-google-cloud/)
