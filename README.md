@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2022-04-22
+1. [Hot Log4jShell Fix from AWS Needs a Fix on Kubernetes Clusters](https://containerjournal.com/features/hot-log4jshell-fix-from-aws-needs-a-fix-on-kubernetes-clusters/)
+2. [81% of codebases contain known open source vulnerabilities](https://www.helpnetsecurity.com/2022/04/19/open-source-usage-trends/)
+3. [Canonical Expands Ubuntu Container Image Portfolio](https://containerjournal.com/features/canonical-expands-ubuntu-container-image-portfolio/)
+4. [Intel boosts its open source, private networks brains trust](https://www.telecomtv.com/content/private-networks/intel-boosts-its-open-source-private-networks-brains-trust-44225/)
+5. [Calico Open Source Announces General Availability for Azure Kubernetes Service (AKS)](https://itsecuritywire.com/news/calico-open-source-announces-general-availability-for-azure-kubernetes-service-aks/)
+6. [GNU is ready for elections, Dbeibah tells UN](https://www.libyaobserver.ly/news/gnu-ready-elections-dbeibah-tells-un)
+7. [So, what happened with GitHub, Heroku, and those raided private repos?](https://www.theregister.com/2022/04/21/github-stolen-oauth-tokens-used-in-breaches/)
+8. [NUnit uses open source tools to test .NET code](https://www.infoworld.com/article/3655955/nunit-uses-open-source-tools-to-test-net-code.html)
+9. [The changing economics of open source](https://www.technologyreview.com/2022/04/21/1050788/the-changing-economics-of-open-source/)
+10. [Cloud spending to scrape $500 billion this year – Gartner](https://www.theregister.com/2022/04/20/gartner_cloud_spending/)
+
 ##  2022-04-15
 1. [Perforce acquires DevOps power Puppet](https://www.zdnet.com/article/perforce-acquires-devops-power-puppet/)
 2. [Elon Musk Believes Twitter Algorithm Should Be Open-Source]( https://news.itsfoss.com/elon-musk-twitter-open-source/)
