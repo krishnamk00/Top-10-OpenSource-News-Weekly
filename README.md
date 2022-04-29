@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2022-04-29
+1. [Google to donate Istio service mesh to the CNCF](https://www.infoworld.com/article/3658206/google-to-donate-istio-service-mesh-to-the-cncf.html)
+2. [ARMO raises $30M for the first open-source Kubernetes security platform](https://itsecuritywire.com/news/armo-raises-30m-for-the-first-open-source-kubernetes-security-platform/)
+3. [Data Profiler: Capital One’s open-source machine learning technology for data monitoring](https://sdtimes.com/data/data-profiler-capital-ones-open-source-machine-learning-technology-for-data-monitoring/)
+4. [Samsung joins as an official member of the O-RAN open source project](https://www.sammobile.com/news/samsung-official-member-o-ran-open-source-project/)
+5. [Open-source Wi-Fi mesh’ solution adds features and quickens time to market for ISPs](https://www.vanillaplus.com/2022/04/27/69392-open-source-wi-fi-mesh-solution-adds-features-and-quickens-time-to-market-for-isps/)
+6. [Smallstep takes big step toward authenticating machine-to-machine communications](https://techcrunch.com/2022/04/28/smallstep-takes-big-step-toward-authenticating-machine-to-machine-communications/)
+7. [Verica launches Prowler Pro solution to enhance AWS security](https://www.csoonline.com/article/3657871/verica-launches-prowler-pro-solution-to-enhance-aws-security.html)
+8. [Docker, Inc. Makes Transition to CRI Transparent for Developers](https://containerjournal.com/features/docker-inc-makes-transition-to-cri-transparent-for-developers/)
+9. [Cloudflare stomps huge DDoS attack on crypto platform](https://www.theregister.com/2022/04/28/cloudflare-largest-ddos-attack-/)
+10. [$10b National Security Agency contract re-awarded to AWS](https://www.theregister.com/2022/04/28/nsa_wands_aws/)
+
 ##  2022-04-22
 1. [Hot Log4jShell Fix from AWS Needs a Fix on Kubernetes Clusters](https://containerjournal.com/features/hot-log4jshell-fix-from-aws-needs-a-fix-on-kubernetes-clusters/)
 2. [81% of codebases contain known open source vulnerabilities](https://www.helpnetsecurity.com/2022/04/19/open-source-usage-trends/)
