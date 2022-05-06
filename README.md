@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2022-05-06
+1. [Twitter’s decentralized, open-source offshoot just released its first code](https://www.theverge.com/2022/5/4/23057473/twitter-bluesky-adx-release-open-source-decentralized-social-network)
+2. [OpenSSF is working on a tool to conduct a dynamic analysis of packages uploaded to popular open-source repositories](https://securityaffairs.co/wordpress/130831/security/package-analysis-project.html)
+3. [ESI Group Deploys Open Source : “Inspector” Software](https://industrytoday.com/esi-group-deploys-open-source-inspector-software/)
+4. [Spotify, startups launch funds to support open source maintainers](https://www.infoworld.com/article/3658999/spotify-startups-launch-funds-to-support-open-source-maintainers.html)
+5. [RNA Modifications Quickly Sussed Out with Mass Spec Software](https://www.genengnews.com/topics/drug-discovery/rna-modifications-quickly-sussed-out-with-mass-spec-software/)
+6. [This open source tool used by Google, Meta and MIT is helping rethink knowledge management](https://techcrunch.com/2022/05/05/this-open-source-tool-used-by-google-meta-and-mit-is-helping-rethink-knowledge-management/)
+7. [Apple, Google, Microsoft Move Closer to a Password-free Future](https://www.informationweek.com/security-and-risk-strategy/apple-google-microsoft-move-closer-to-a-password-free-future)
+8. [CrowdStrike: DoS Attack Against Russia Uses Containers](https://containerjournal.com/features/crowdstrike-dos-attack-against-russia-uses-containers/)
+9. [Alibaba opens up code for federated learning platform]( https://www.theregister.com/2022/05/06/alibaba_federatedscope/)
+10. [California to accelerate devops adoption with GitLab](https://venturebeat.com/2022/05/06/california-to-accelerate-devops-adoption-with-gitlab/)
+
 ##  2022-04-29
 1. [Google to donate Istio service mesh to the CNCF](https://www.infoworld.com/article/3658206/google-to-donate-istio-service-mesh-to-the-cncf.html)
 2. [ARMO raises $30M for the first open-source Kubernetes security platform](https://itsecuritywire.com/news/armo-raises-30m-for-the-first-open-source-kubernetes-security-platform/)
