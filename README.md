@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2022-05-13
+1. [We Know Cloud-Native. What’s Cloud-Next?](https://containerjournal.com/features/we-know-cloud-native-whats-cloud-next/)
+2. [Google I/O 2022: Here's everything Google announced](https://www.zdnet.com/article/google-io-2022-heres-everything-google-just-announced/)
+3. [Redhat summit 2022  highlights](https://www.redhat.com/en/about/newsroom/red-hat-summit-2022-newsroom)
+4. [NVIDIA GPUs Go Open-Source With Its Linux Graphics Drivers](https://wccftech.com/nvidia-gpus-go-open-source-with-its-linux-graphics-drivers/)
+5. [Komodor wants to make every engineer a Kubernetes troubleshooting expert](https://techcrunch.com/2022/05/12/komodor-is-building-kubernetes-troubleshooting-platform-for-the-masses/)
+6. [NEW GOOGLE TEAM TO HELP CRITICAL OPEN SOURCE PROJECTS IMPROVE SECURITY](https://duo.com/decipher/new-google-team-to-help-critical-open-source-projects-improve-security)
+7. [Loft Labs Simplifies Virtual Kubernetes Cluster Management with New Open Source Project](https://www.businesswire.com/news/home/20220512005260/en/Loft-Labs-Simplifies-Virtual-Kubernetes-Cluster-Management-with-New-Open-Source-Project)
+8. [How Intel and AMD hope to win the cloud security game](https://www.theregister.com/2022/05/12/intel_amd_security/)
+9. [AWS Investing an Additional $10 Million in Open Source Supply Chain Security](https://aws.amazon.com/blogs/opensource/aws-investing-an-additional-10-million-in-open-source-supply-chain-security/?)
+10. [10-Point Open Source and Software Supply Chain Security Mobilization Plan Released with Initial Pledges Surpassing $30M](https://www.linuxfoundation.org/press-release/linux-foundation-openssf-gather-industry-government-leaders-open-source-software-security-summit/?)
+
 ##  2022-05-06
 1. [Twitter’s decentralized, open-source offshoot just released its first code](https://www.theverge.com/2022/5/4/23057473/twitter-bluesky-adx-release-open-source-decentralized-social-network)
 2. [OpenSSF is working on a tool to conduct a dynamic analysis of packages uploaded to popular open-source repositories](https://securityaffairs.co/wordpress/130831/security/package-analysis-project.html)
