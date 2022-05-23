@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2022-05-20
+1. [CNCF launches ethics in open source training course](https://www.infoworld.com/article/3660637/cncf-launches-ethics-in-open-source-training-course.html)
+2. [Google will start distributing a security-vetted collection of open-source software libraries](https://www.theverge.com/2022/5/17/23097529/google-assured-open-source-software-security-vetted-libraries)
+3. [CipherMode Labs launches open source solution to protect data without encryption expertise](https://techcrunch.com/2022/05/18/ciphermode-labs-launches-open-source-solution-protect-data-without-encryption-expertise/)
+4. [Software Freedom Conservancy wins big step forward for open-source rights](https://www.zdnet.com/article/software-freedom-conservancy-wins-big-step-forward-for-open-source-rights/)
+5. [Former AWS engineer sets out to build a better log search engine](https://techcrunch.com/2022/05/19/former-aws-engineer-sets-out-to-build-a-better-log-search-engine/)
+6. [Meta to squeeze money from WhatsApp with Cloud API for businesses](https://www.theregister.com/2022/05/20/whatsapp_cloud_api/)
+7. [US won’t prosecute ‘good faith’ security researchers under CFAA](https://www.theregister.com/2022/05/20/cfaa_rule_change/?td=rt-3a)
+8. [Lawmakers launch bill to break up tech giants' ad dominance](https://www.theregister.com/2022/05/19/senate_ctda_advertising/)
+9. [How Aurora Serverless made the database server obsolete](https://www.theregister.com/2022/04/29/how_aurora_serverless_made_the/?td=rt-9bq)
+10. [Intel plans immersion lab to chill its power-hungry chips](https://www.theregister.com/2022/05/19/intel_immersion_lab/?td=rt-3a)
+
 ##  2022-05-13
 1. [We Know Cloud-Native. What’s Cloud-Next?](https://containerjournal.com/features/we-know-cloud-native-whats-cloud-next/)
 2. [Google I/O 2022: Here's everything Google announced](https://www.zdnet.com/article/google-io-2022-heres-everything-google-just-announced/)
