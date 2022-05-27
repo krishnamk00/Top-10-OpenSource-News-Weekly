@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2022-05-27
+1. [Broadcom buying VMware could create an edge infrastructure and IoT empire](https://www.theregister.com/2022/05/26/broadcom_buying_vmware_makes_sense/?td=rt-3a)
+2. [DeepMind’s open-source version of MuJoCo available on GitHub](https://www.therobotreport.com/deepmind-open-source-mujoco-on-github/)
+3. [Microsoft claims its new tools make language models safer to use](https://techcrunch.com/2022/05/23/microsoft-claims-its-new-projects-make-language-models-safer-to-use/)
+4. [This open source tool used by Google, Meta and MIT is helping rethink knowledge management](https://techcrunch.com/2022/05/05/this-open-source-tool-used-by-google-meta-and-mit-is-helping-rethink-knowledge-management/)
+5. [OpenFeature feature flag project applies for CNCF sandbox project status](https://www.infoworld.com/article/3661548/feature-flagging-openfeature-project-applies-for-cncf-sandbox-project-status.html)
+6. [Open-source tech company WSO2 closes $93-million funding round led by Goldman Sachs](https://www.thehindubusinessline.com/info-tech/open-source-tech-company-wso2-closes-93-million-funding-round-led-by-goldman-sachs/article65457424.ece)
+7. [JFrog Launches Project Pyrsia to Help Prevent Software Supply Chain Attacks](https://www.darkreading.com/application-security/jfrog-launches-project-pyrsia-to-help-prevent-software-supply-chain-attacks)
+8. [We have bigger targets than beating Oracle, say open source DB pioneers](https://www.theregister.com/2022/05/25/oracle_rivalry_no_longer_the/)
+9. [Weaveworks Allies With Microsoft to Advance GitOps Adoption]( https://containerjournal.com/features/weaveworks-allies-with-microsoft-to-advance-gitops-adoption/)
+10. [There’s a new hub for open source jobs, and it’s not just about developers and admins](https://www.techrepublic.com/article/new-hub-open-source-jobs/)
+
 ##  2022-05-20
 1. [CNCF launches ethics in open source training course](https://www.infoworld.com/article/3660637/cncf-launches-ethics-in-open-source-training-course.html)
 2. [Google will start distributing a security-vetted collection of open-source software libraries](https://www.theverge.com/2022/5/17/23097529/google-assured-open-source-software-security-vetted-libraries)
