@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2022-06-02
+1. [FINOPS - Google Cloud, Société Générale, American Express, Point72, and Mirantis joins]( https://www.finos.org/press/six-new-members-join-finos-as-open-source-collaboration-becomes-increasingly-critical-across-the-global-financial-ecosystem?hs_amp=true)
+2. [Keyfactor Unveils New Open-Source Community to Fuel Innovation in Cybersecurity](https://www.businesswire.com/news/home/20220601005056/en/Keyfactor-Unveils-New-Open-Source-Community-to-Fuel-Innovation-in-Cybersecurity)
+3. [Microsoft claims its new tools make language models safer to use](https://techcrunch.com/2022/05/23/microsoft-claims-its-new-projects-make-language-models-safer-to-use/)
+4. [Kubecost launches open-source OpenCost project to keep a lid on Kubernetes spending](https://siliconangle.com/2022/06/02/kubecost-launches-open-source-opencost-project-keep-lid-kubernetes-spending/)
+5. [Mirantis Integrates Lens IDE With Docker Desktop](https://containerjournal.com/features/mirantis-integrates-lens-ide-with-docker-desktop/)
+6. [Wovenware Develops Open-Source Plugin to Adyen Payments Gateway; Extends Reach of Kill Bill’s Payments and Billing Platform](https://www.businesswire.com/news/home/20220601005209/en)
+7. [How Can Enterprises Govern Surging Kubernetes Use?](https://containerjournal.com/features/how-can-enterprises-govern-surging-kubernetes-use/)
+8. [Vectorized and performance-portable Quicksort](https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html)
+9. [Why Do Enterprises Use and Contribute to Open Source Software](https://www.linux.com/news/why-do-enterprises-use-and-contribute-to-open-source-software/)
+10. [Linux Foundation's World of Open Source: 2022 Europe](https://www.research.net/r/7Q9H62H)
+
 ##  2022-05-27
 1. [Broadcom buying VMware could create an edge infrastructure and IoT empire](https://www.theregister.com/2022/05/26/broadcom_buying_vmware_makes_sense/?td=rt-3a)
 2. [DeepMind’s open-source version of MuJoCo available on GitHub](https://www.therobotreport.com/deepmind-open-source-mujoco-on-github/)
