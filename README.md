@@ -1,6 +1,30 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
-##  2022-06-02
+##  2022-06-17
+1. [How can the United States build its Open Source Software policy?](https://github.blog/2022-06-14-how-can-the-united-states-build-its-open-source-software-policy/)
+2. [SDK supports Modular Open Source Identity Platform](https://www.eeworldonline.com/neurotechnology-sdk-supports-modular-open-source-identity-platform/)
+3. [The OpenInfra Foundation launches ‘directed funding’ as a new way to support open source projects](https://techcrunch.com/2022/06/07/the-openinfra-foundation-launches-directed-funding-as-a-new-way-to-fund-open-source-projects/)
+4. [Research shows Twitter drives popularity, contributors to open-source software](https://techxplore.com/news/2022-06-twitter-popularity-contributors-open-source-software.html)
+5. [ZITADEL Rakes $2.5 million to Accelerate its developer-focused open-source identity management platform](https://itsecuritywire.com/news/zitadel-rakes-2-5-million-to-accelerate-its-developer-focused-open-source-identity-management-platform/)
+6. [Ubuntu Core brings real-time processing to Linux IoT](https://www.zdnet.com/article/ubuntu-core-brings-real-time-processing-to-linux-iot/)
+7. [Elasticsearch server with no password or encryption leaks a million records](https://www.theregister.com/2022/06/16/storehub_data_leak/)
+8. [GPUs aren’t always your best bet, Twitter ML tests suggest](https://www.theregister.com/2022/06/16/graphcore_nvidia_gpus/?td=rt-3a)
+9. [Envoy Proxy Unveils Envoy Gateway For North-South Traffic](https://containerjournal.com/features/envoy-proxy-unveils-envoy-gateway-for-north-south-traffic/)
+10. [Microsoft warns IT admins on EU data processing, fixes File Explorer flaws](https://www.theregister.com/2022/06/16/windows_11_build_25140/)
+
+##  2022-06-10
+1. [Majority of Apps Will Use Cloud-Native Development By 2023](https://containerjournal.com/features/majority-of-apps-will-use-cloud-native-development-by-2023/)
+2. [McKinsey thinks quantum computing could create $80b in revenue ... eventually](https://www.theregister.com/2022/06/16/mckinsey_quantum_computing_could_create/)
+3. [Bill Gates says NFTs '100% based on greater fool theory' amid crypto cataclysm](https://www.theregister.com/2022/06/16/bill_gates_nfts/)
+4. [Huawei's big role in open source threatens new security backlash](https://www.lightreading.com/security/huaweis-big-role-in-open-source-threatens-new-security-backlash/d/d-id/778104)
+5. [Thunderbird is taking over a beloved open-source email app to transform it into its own mobile client](https://www.androidpolice.com/mozilla-thunderbird-mobile-k-9-mail/)
+6. [Chainguard raises $50M to guard supply chains](https://techcrunch.com/2022/06/02/chainguard-raises-50m-to-guard-supply-chains/)
+7. [MongoDB grows up](https://www.infoworld.com/article/3662759/mongodb-grows-up.html)
+8. [DataStax proves it’s still possible to raise nine-figures at higher valuation in 2022](https://techcrunch.com/2022/06/15/datastax-proves-its-still-possible-to-raise-nine-figures-at-higher-valuation-in-2022/)
+9. [SDK supports Modular Open Source Identity Platform](https://www.eeworldonline.com/neurotechnology-sdk-supports-modular-open-source-identity-platform/)
+10. [Survey Surfaces Raft of Application Security Issues](https://devops.com/survey-surfaces-raft-of-application-security-issues/)
+
+##  2022-06-03
 1. [FINOPS - Google Cloud, Société Générale, American Express, Point72, and Mirantis joins]( https://www.finos.org/press/six-new-members-join-finos-as-open-source-collaboration-becomes-increasingly-critical-across-the-global-financial-ecosystem?hs_amp=true)
 2. [Keyfactor Unveils New Open-Source Community to Fuel Innovation in Cybersecurity](https://www.businesswire.com/news/home/20220601005056/en/Keyfactor-Unveils-New-Open-Source-Community-to-Fuel-Innovation-in-Cybersecurity)
 3. [Microsoft claims its new tools make language models safer to use](https://techcrunch.com/2022/05/23/microsoft-claims-its-new-projects-make-language-models-safer-to-use/)
