@@ -1,5 +1,29 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2022-06-30
+1. [Open source developers urged to ditch GitHub following Copilot launch](https://techcrunch.com/2022/07/01/open-source-developers-urged-to-ditch-github-following-copilot-launch/)
+2. [Databricks announces major contributions to flagship open source projects](https://www.itpro.co.uk/development/open-source/368384/databricks-announces-major-contributions-to-flagship-open-source)
+3. [Academic, Industry Leaders Form OpenFold AI Research Consortium to Develop Open Source Software Tools](https://www.businesswire.com/news/home/20220628005101/en)
+4. [Rafay Systems launches new open-source Kubernetes project](https://sdtimes.com/security/rafay-systems-launches-new-open-source-kubernetes-project/)
+5. [CodeSee Launches Open Source Hub](https://www.opensourceforu.com/2022/06/codesee-launches-open-source-hub/)
+6. [Open source giant Red Hat joins HPE GreenLake ecosystem](https://www.itpro.co.uk/business-strategy/automation/368370/open-source-giant-red-hat-joins-hpe-greenlake-ecosystem)
+7. [Codenotary introduces Software Bill of Materials service for Kubernetes](https://www.zdnet.com/article/codenotary-introduces-software-bill-of-materials-service-for-kubernetes/)
+8. [Microsoft’s complicated dance C# & open source](https://www.infoworld.com/article/3664338/microsofts-complicated-dance-with-open-source.html)
+9. [Gaming laptops could learn a lot from this adorable open source mini laptop]( https://www.pcgamer.com/mnt-pocket-reform-mini-laptop/)
+10. [Taiwan creates new challenge for tech industry: stern content regulation laws](https://www.theregister.com/2022/06/30/taiwan_digital_intermediary_service_act/)
+
+##  2022-06-23
+1. [Linus Torvalds says Rust is coming to the Linux kernel real soon now](https://www.theregister.com/2022/06/23/linus_torvalds_rust_linux_kernel/)
+2. [Aqua Security Ships Open Source Tool for Auditing Software Supply Chain](https://www.securityweek.com/aqua-security-ships-open-source-tool-auditing-software-supply-chain)
+3. [Blind trust in open source security is hurting us: Report](https://www.zdnet.com/article/blind-trust-in-open-source-security-is-hurting-us/)
+4. [Open-source online platform shows how Europe may become energy-independent](https://www.pv-magazine.com/2022/06/21/open-source-online-platform-shows-how-europe-may-become-energy-independent-with-renewables-by-2050/)
+5. [MIT CSAIL releases open-source simulator for autonomous vehicles](https://www.therobotreport.com/mit-csail-releases-open-source-simulator-for-autonomous-vehicles/)
+6. [Datafold Launches Open Source data-diff to Compare Tables of Any Size Across Databases](https://www.businesswire.com/news/home/20220622005348/en)
+7. [Researchers Launches Open Source Photorealistic Simulator For Autonomous Driving](https://www.opensourceforu.com/2022/06/researchers-launches-open-source-photorealistic-simulator-for-autonomous-driving/)
+8. [Cisco Unfurls Observability Cloud for Kubernetes Environments](https://containerjournal.com/features/cisco-unfurls-observability-cloud-for-kubernetes-environments/)
+9. [Where software development is headed in 2022](https://www.infoworld.com/article/3660642/where-software-development-is-headed-in-2022.html)
+10. [Meta now involved in making metalevel standards for the metaverse](https://www.theregister.com/2022/06/22/metaverse_standards_forum/)
+
 ##  2022-06-17
 1. [How can the United States build its Open Source Software policy?](https://github.blog/2022-06-14-how-can-the-united-states-build-its-open-source-software-policy/)
 2. [SDK supports Modular Open Source Identity Platform](https://www.eeworldonline.com/neurotechnology-sdk-supports-modular-open-source-identity-platform/)
