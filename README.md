@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2022-07-04
+1. [AWS is quietly getting better at open source](https://www.techrepublic.com/article/aws-getting-better-at-open-source/)
+2. [Meta Open Sources AI Translation Tool That Works Across 200 Languages](https://www.opensourceforu.com/2022/07/meta-open-sources-ai-translation-tool-that-works-across-200-languages/)
+3. [Sure, GitHub's AI-assisted Copilot writes code for you, but is it legal or ethical?](https://www.zdnet.com/blog/open-source/)
+4. [Codenotary introduces Software Bill of Materials service for Kubernetes](https://www.zdnet.com/article/codenotary-introduces-software-bill-of-materials-service-for-kubernetes/)
+5. [Microsoft Denies It Is Banning Commercial Open-Source Apps, Many Remain Unconvinced](https://www.webpronews.com/microsoft-foss-ban/)
+6. [Adobe Researchers Release Open Source Image Captioning AI CLIP-S](https://www.opensourceforu.com/2022/07/adobe-researchers-release-open-source-image-captioning-ai-clip-s/)
+7. [HPE Allies With Red Hat and SUSE on Containers](https://containerjournal.com/features/hpe-allies-with-red-hat-and-suse-on-containers/)
+8. [Red Hat follows open-source game plan to drive the enterprise hybrid future](https://siliconangle.com/2022/07/05/red-hat-follows-open-source-game-plan-to-drive-the-enterprise-hybrid-future-rhsummit/)
+9. [Ant Group makes its “Secret Flow” computation framework open-source](https://en.pingwest.com/w/10455)
+10. [China's cyberspace regulator details data export requirements](https://www.theregister.com/2022/07/08/cac_china_data_export_rules/)
+
 ##  2022-06-30
 1. [Open source developers urged to ditch GitHub following Copilot launch](https://techcrunch.com/2022/07/01/open-source-developers-urged-to-ditch-github-following-copilot-launch/)
 2. [Databricks announces major contributions to flagship open source projects](https://www.itpro.co.uk/development/open-source/368384/databricks-announces-major-contributions-to-flagship-open-source)
