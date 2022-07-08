@@ -1,6 +1,6 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
-##  2022-07-04
+##  2022-07-08
 1. [AWS is quietly getting better at open source](https://www.techrepublic.com/article/aws-getting-better-at-open-source/)
 2. [Meta Open Sources AI Translation Tool That Works Across 200 Languages](https://www.opensourceforu.com/2022/07/meta-open-sources-ai-translation-tool-that-works-across-200-languages/)
 3. [Sure, GitHub's AI-assisted Copilot writes code for you, but is it legal or ethical?](https://www.zdnet.com/blog/open-source/)
