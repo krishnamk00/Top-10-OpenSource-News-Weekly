@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2022-07-15
+1. [Soda Data debuts open-source framework for embedding data reliability checks-as-code](https://siliconangle.com/2022/07/12/soda-data-intros-open-source-framework-embedding-data-reliability-checks-code/)
+2. [Scribe Security Releases Code Integrity Validator Alongside Github Security Open Source Project](https://www.darkreading.com/application-security/scribe-security-releases-code-integrity-validator-alongside-github-security-open-source-project)
+3. [Paladin Cloud’s open source security-as-code platform available to the public](https://www.scmagazine.com/news/cloud-security/paladin-clouds-open-source-security-as-code-platform-available-to-the-public)
+4. [Intel rolls out Open Source AI Reference Kits for enterprises](https://www.itpro.co.uk/technology/artificial-intelligence-ai/368528/intel-rolls-out-open-source-ai-reference-kits-for)
+5. [Kubeshop acquires majority stake in InfraCloud’s OSS product BotKube](https://economictimes.indiatimes.com/small-biz/sme-sector/rural-tech-firm-faarms-raises-10mn-in-recent-funding-round/articleshow/92870343.cms)
+6. [New open source solutions library from Shoreline.io aims to deliver self-healing infrastructure](https://www.techrepublic.com/article/shoreline-deliver-self-healing-infrastructure/)
+7. [Red Hat Enlists ABB to Push OpenShift to the Industrial Edge](https://containerjournal.com/features/red-hat-enlists-abb-to-push-openshift-to-the-industrial-edge/)
+8. [Arm in the cloud definitely a trend now with Google Cloud’s embrace]( https://www.theregister.com/2022/07/14/arm_cloud_trend/?td=rt-3a)
+9. [HHVM: A Contributor’s Story with Jonathan Warner]( https://developers.facebook.com/blog/post/2022/07/07/hhvm-contributors-story-jonathan-warner/)
+10. [How one European bank embraces open source](https://opensource.com/article/22/7/european-bank-open-source)
+
 ##  2022-07-08
 1. [AWS is quietly getting better at open source](https://www.techrepublic.com/article/aws-getting-better-at-open-source/)
 2. [Meta Open Sources AI Translation Tool That Works Across 200 Languages](https://www.opensourceforu.com/2022/07/meta-open-sources-ai-translation-tool-that-works-across-200-languages/)
