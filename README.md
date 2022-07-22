@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2022-07-22
+1. [Microsoft rethinks rules on open-source software apps in its Microsoft Store](https://www.zdnet.com/article/microsoft-rethinks-rules-on-open-source-software-apps-in-its-microsoft-store/#ftag=RSSbaffb68)
+2. [Scribe Security Launches Code Integrity Validator Alongside Github Security Open Source Project](https://itsecuritywire.com/news/scribe-security-launches-code-integrity-validator-alongside-github-security-open-source-project/)
+3. [1 Billion Flux Downloads Show GitOps Gaining Ground](https://containerjournal.com/features/1-billion-flux-downloads-show-gitops-gaining-ground/)
+4. [Open source security needs automation as usage climbs amongst organisations](https://www.zdnet.com/article/open-source-security-needs-automation-as-usage-climbs-amongst-organisations/#ftag=RSSbaffb68)
+5. [Rocky Linux optimized for Google Cloud arrives](https://www.zdnet.com/article/rocky-linux-optimized-for-google-cloud-arrives/)
+6. [Nutanix accused of violating open source licence in object storage product](https://www.itpro.co.uk/development/open-source/368616/nutanix-accused-of-violating-open-source-license-object-storage)
+7. [Using Open Source Technology To Boost Climate-Resilient Agriculture With DiCRA](https://www.opensourceforu.com/2022/07/using-open-source-technology-to-boost-climate-resilient-agriculture-with-dicra/)
+8. [Majority of Apps Will Use Cloud-Native Development By 2023](https://containerjournal.com/features/majority-of-apps-will-use-cloud-native-development-by-2023/)
+9. [Kubeshop Acquires Kubefirst - GitOps Infrastructure & Application Delivery Platform](https://kubeshop.io/blog/kubeshop-acquires-kubefirst-gitops-infrastructure-application-delivery-platform)
+10. [AWS open sources Cloudscape Design System](https://devclass.com/2022/07/21/aws-open-sources-cloudscape-design-system/)
+
 ##  2022-07-15
 1. [Soda Data debuts open-source framework for embedding data reliability checks-as-code](https://siliconangle.com/2022/07/12/soda-data-intros-open-source-framework-embedding-data-reliability-checks-code/)
 2. [Scribe Security Releases Code Integrity Validator Alongside Github Security Open Source Project](https://www.darkreading.com/application-security/scribe-security-releases-code-integrity-validator-alongside-github-security-open-source-project)
