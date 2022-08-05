@@ -1,5 +1,29 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2022-08-05
+1. [KubeEdge releases the first Cloud Native Edge Computing Threat Model and Security Protection Analysis paper](https://www.cncf.io/blog/2022/07/27/kubeedge-releases-the-first-cloud-native-edge-computing-threat-model-and-security-protection-analysis-paper/)
+2. [OSINT Foundation Launched by Former Intelligence Leaders](https://news.clearancejobs.com/2022/08/01/osint-foundation-launched-by-former-intelligence-leaders/)
+3. [Open source isn’t working for AI](https://www.infoworld.com/article/3667433/open-source-isnt-working-for-ai.html)
+4. [Mirantis releases Lens Pro Kubernetes IDE](https://www.zdnet.com/article/mirantis-releases-lens-pro-kubernetes-ide/)
+5. [Google and SkyWater expand open source chip design platform](https://www.itnews.com.au/news/google-and-skywater-expand-open-source-chip-design-platform-583315)
+6. [Flashpoint acquires Echosec to expand its open-source intelligence capabilities](https://siliconangle.com/2022/08/04/flashpoint-acquires-echosec-expand-osint-capabilities/)
+7. [Securing Containers With Zero-Trust Tools](https://containerjournal.com/features/securing-containers-with-zero-trust-tools/)
+8. [GitGuardian releases its open-source canary tokens project to help organizations detect compromised environments.](https://itsecuritywire.com/news/gitguardian-releases-its-open-source-canary-tokens-project-to-help-organizations-detect-compromised-developer-and-devops-environments/)
+9. [Contrast Security Extends Free Developer Tool by Bringing Open Source Security and SBOM Creation](https://itsecuritywire.com/news/contrast-security-extends-free-developer-tool-by-bringing-open-source-security-and-sbom-creation/)
+10. [US aims to step up security for federal datacenters: Both physical and cyber](https://www.theregister.com/2022/08/04/us_aims_to_step_up/)
+
+##  2022-07-29
+1. [GlobalFoundries Participates In Google’s Open Source Silicon Project](https://www.opensourceforu.com/2022/08/globalfoundries-participates-in-googles-open-source-silicon-project/)
+2. [First open-source SystemVerilog RISC-V processor functional coverage library](https://www.eenewseurope.com/en/first-open-source-systemverilog-risc-v-processor-functional-coverage-library/)
+3. [Tencent Cloud expands CDN using its own security tools](https://www.theregister.com/2022/08/02/tencent_edgeone/?td=keepreading)
+4. [Why program management matters in open source](https://opensource.com/article/22/8/why-program-management-matters-open-source)
+5. [Cirq, A Google Open Source Framework For Quantum Computing Reaches Version 1.0.](https://www.opensourceforu.com/2022/08/cirq-a-google-open-source-framework-for-quantum-computing-reaches-version-1-0/)
+6. [“The future is SaaS plus open source”](https://www.opensourceforu.com/2022/05/the-future-is-saas-plus-open-source/)
+7. [Cybersecurity: Open source is a double-edged sword](https://www.financialexpress.com/industry/technology/cybersecurity-open-source-is-a-double-edged-sword/2608610/)
+8. [osCommerce launches the latest version of its free shopping cart, the most powerful open-source ecommerce platform](https://www.prnewswire.com/news-releases/oscommerce-launches-the-latest-version-of-its-free-shopping-cart-the-most-powerful-open-source-ecommerce-platform-301592250.html)
+9. [Alibaba OSS Buckets Compromised to Distribute Malicious Shell Scripts via Steganography](https://www.trendmicro.com/en_us/research/22/g/alibaba-oss-buckets-compromised-to-distribute-malicious-shell-sc.html)
+10. [OSS Security Highlights from the 2022 Open Source Summit North America](https://www.linux.com/news/oss-security-highlights-from-the-2022-open-source-summit-north-america/)
+
 ##  2022-07-22
 1. [Microsoft rethinks rules on open-source software apps in its Microsoft Store](https://www.zdnet.com/article/microsoft-rethinks-rules-on-open-source-software-apps-in-its-microsoft-store/#ftag=RSSbaffb68)
 2. [Scribe Security Launches Code Integrity Validator Alongside Github Security Open Source Project](https://itsecuritywire.com/news/scribe-security-launches-code-integrity-validator-alongside-github-security-open-source-project/)
