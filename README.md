@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2022-08-12
+1. [Tech giants, security vendors team up for Open Cybersecurity Schema Framework (OCSF)](https://www.crn.com.au/news/tech-giants-security-vendors-team-up-for-open-source-data-sharing-583836)
+2. [NSA’s Kubernetes Hardening Guidelines and Pod Security](https://containerjournal.com/features/nsas-kubernetes-hardening-guidelines-and-pod-security/)
+3. [Intel, Amazon, and SpaceX asked to tuck into DARPA's Space-BACN](https://www.theregister.com/2022/08/11/intel_amazon_spacex_darpa_space_bacn/)
+4. [Google expands its open-source chip initiative with new partnership](https://www.siliconrepublic.com/machines/google-open-source-chip-design-globalfoundries)
+5. [DreamWorks Animation Plans to Open Source MoonRay Renderer](https://www.webpronews.com/dreamworks-animation-plans-to-open-source-moonray-renderer/)
+6. [Academy Software Foundation Developing Open Source Review and Playback Tools](https://www.hollywoodreporter.com/business/digital/academy-software-foundation-open-source-review-and-playback-tools-1235194467/)
+7. [Google overtakes Microsoft in open-source contributors, research finds](https://www.siliconrepublic.com/enterprise/google-microsoft-open-source-amazon-github)
+8. [New Open Source Tools From NetSPI Address Information Security Issues](https://www.opensourceforu.com/2022/08/new-open-source-tools-from-netspi-address-information-security-issues/)
+9. [Sysdig Employs AI to Thwart Container Cryptojacking Attacks](https://containerjournal.com/features/sysdig-employs-ai-to-thwart-container-cryptojacking-attacks/)
+10. [Microsoft’s emoji library goes open source](https://www.digitaltrends.com/computing/microsofts-emoji-library-goes-open-source/)
+
 ##  2022-08-05
 1. [KubeEdge releases the first Cloud Native Edge Computing Threat Model and Security Protection Analysis paper](https://www.cncf.io/blog/2022/07/27/kubeedge-releases-the-first-cloud-native-edge-computing-threat-model-and-security-protection-analysis-paper/)
 2. [OSINT Foundation Launched by Former Intelligence Leaders](https://news.clearancejobs.com/2022/08/01/osint-foundation-launched-by-former-intelligence-leaders/)
