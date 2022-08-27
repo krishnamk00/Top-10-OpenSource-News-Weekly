@@ -1,5 +1,29 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2022-08-26
+1. [Open-source software gives a leg up to robot research](https://techxplore.com/news/2022-08-open-source-software-leg-robot.html)
+2. [Kubernetes 1.25 Update Focuses on Security and Storage](https://containerjournal.com/features/kubernetes-1-25-update-focuses-on-security-and-storage/)
+3. [Carbon language aims to be a better C++](https://www.infoworld.com/article/3668688/carbon-language-aims-to-be-a-better-c-plus-plus.html)
+4. [How open source software shapes AI policy, open source comes to medical datasets, and more](https://opensource.com/article/21/8/open-source-news)
+5. [OpenSSF Announces 13 New Members Committed to Strengthening the Security of the Open Source Software Supply Chain](https://www.prnewswire.com/news-releases/openssf-announces-13-new-members-committed-to-strengthening-the-security-of-the-open-source-software-supply-chain-301607262.html)
+6. [TDengine Brings Open Source Time-Series Database to Kubernetes](https://containerjournal.com/features/tdengine-brings-open-source-time-series-database-to-kubernetes/)
+7. [How W4 plans to monetize the Godot game engine using Red Hat’s open source playbook](https://techcrunch.com/2022/08/19/how-w4-plans-to-commercialize-the-godot-game-engine-by-following-red-hats-playbook/)
+8. [My open source journey from user to contributor to CTO](https://opensource.com/article/22/8/my-open-source-career-story)
+9. [NGINX commits to modernizing, optimizing, and extending its open-source ecosystem](https://sdtimes.com/webdev/nginx-commits-to-modernizing-optimizing-and-extending-its-open-source-ecosystem/)
+10. [Acorn, a Lightweight, Portable PaaS for Kubernetes](https://thenewstack.io/acorn-a-lightweight-portable-paas-for-kubernetes/)
+
+##  2022-08-19
+1. [Open source software is needed to prevent future crypto hacks, Polygon CISO says](https://techcrunch.com/2022/08/12/open-source-software-is-needed-to-prevent-future-crypto-hacks-polygon-ciso-says/)
+2. [Open Source JobHub connects job hunters with companies working in FOSS](https://www.lpi.org/blog/2022/08/25/open-source-jobhub-connects-job-hunters-companies-working-foss)
+3. [Canonical adds .NET to Ubuntu 22.04](https://www.zdnet.com/article/canonical-adds-net-to-ubuntu-22-04/)
+4. [Crypto, where the fallen seek a fresh start](https://techcrunch.com/2022/08/21/crypto-chain-reaction-adam-neumann-flow-flowcarbon-startup-newsletter/)
+5. [Some frank advice for open source startups seeking product-market fit](https://techcrunch.com/2022/08/12/some-frank-advice-for-open-source-startups-seeking-product-market-fit/)
+6. [Google says there's no Waze forward, carpool app axed](https://www.theregister.com/2022/08/25/google_waze_carpooling_closes/)
+7. [China's Baidu enters quantum computing chat with Qian Shi system](https://www.theregister.com/2022/08/25/china_baidu_quantum_computing/)
+8. [How Google Cloud blocked the largest Layer 7 DDoS attack at 46 million rps](https://cloud.google.com/blog/products/identity-security/how-google-cloud-blocked-largest-layer-7-ddos-attack-at-46-million-rps)
+9. [PyPI warns of first-ever phishing campaign against its users](https://www.theregister.com/2022/08/26/pypi_warns_of_firstever_phishing/)
+10. [Intel's Gelsinger talks up 'systems foundry' era of trillion-transistor chips](https://www.theregister.com/2022/08/23/intels_gelsinger_hot_chips/?td=rt-9cp)
+
 ##  2022-08-12
 1. [Tech giants, security vendors team up for Open Cybersecurity Schema Framework (OCSF)](https://www.crn.com.au/news/tech-giants-security-vendors-team-up-for-open-source-data-sharing-583836)
 2. [NSA’s Kubernetes Hardening Guidelines and Pod Security](https://containerjournal.com/features/nsas-kubernetes-hardening-guidelines-and-pod-security/)
