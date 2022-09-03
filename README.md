@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2022-09-02
+1. [Google’s new bug bounty program targets open-source vulnerabilities](https://www.oodaloop.com/briefs/2022/09/01/googles-new-bug-bounty-program-targets-open-source-vulnerabilities/)
+2. [Introducing Velox: An open source unified execution engine](https://engineering.fb.com/2022/08/31/open-source/velox/)
+3. [VMware Embraces Kubernetes APIs in VMware vSphere 8](https://containerjournal.com/features/vmware-embraces-kubernetes-apis-in-vmware-vsphere-8/)
+4. [HomeGrid Forum Unveils The VectorBoost Open Source Software](https://www.opensourceforu.com/2022/09/homegrid-forum-unveils-the-vectorboost-open-source-software/)
+5. [AWS Taps Kubecost to Help Rein in AKS Costs](https://containerjournal.com/features/aws-taps-kubecost-to-help-rein-in-aks-costs/)
+6. [Two open-source projects vulnerable to ‘GitHub Environment Injection’](https://www.scmagazine.com/news/cloud-security/two-open-source-projects-vulnerable-to-github-environment-injection)
+7. [Is open source leadership helping Google?](https://www.infoworld.com/article/3669851/is-open-source-leadership-helping-google.html)
+8. [Linux Foundation’s Open Programmable Infrastructure project](https://www.theregister.com/2022/08/31/opening_doors_to_open_source/)
+9. [OpenSSF releases npm best practices to help developers tackle open-source dependency risks](https://www.csoonline.com/article/3672530/openssf-releases-npm-best-practices-to-help-developers-tackle-open-source-dependency-risks.html)
+10. [Should Uncle Sam Worry About ‘Foreign’ Open-Source Software?](https://www.lawfareblog.com/should-uncle-sam-worry-about-foreign-open-source-software-geographic-known-unknowns-and-open-source)
+
 ##  2022-08-26
 1. [Open-source software gives a leg up to robot research](https://techxplore.com/news/2022-08-open-source-software-leg-robot.html)
 2. [Kubernetes 1.25 Update Focuses on Security and Storage](https://containerjournal.com/features/kubernetes-1-25-update-focuses-on-security-and-storage/)
