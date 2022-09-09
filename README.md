@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2022-09-09
+1.	[Two open-source projects vulnerable to ‘GitHub Environment Injection’](https://www.scmagazine.com/news/cloud-security/two-open-source-projects-vulnerable-to-github-environment-injection)
+2.	[The EU’s AI Act could have a chilling effect on open source efforts, experts warn](https://techcrunch.com/2022/09/06/the-eus-ai-act-could-have-a-chilling-effect-on-open-source-efforts-experts-warn/)
+3.	[HomeGrid Forum releases the VectorBoost open-source software](https://www.vanillaplus.com/2022/09/01/72245-homegrid-forum-releases-the-vectorboost-open-source-software-to-accelerate-g-hn-access-deployments-with-gigawire-profile/)
+4.	[Slim.AI Integrates Vulnerability Scanning in Container Platform](https://containerjournal.com/features/slim-ai-integrates-vulnerability-scanning-in-container-platform/)
+5.	[Google’s open source database breaks free from expensive proprietary solutions](https://www.thehindubusinessline.com/info-tech/googles-open-source-database-breaks-free-from-expensive-proprietary-solutions-andi-gutmans/article65862079.ece)
+6.	[OSS/BSS market avoids pandemic slowdown](https://www.lightreading.com/ossbsscx/ossbss-market-avoids-pandemic-slowdown/v/d-id/780171)
+7.	[AssemblyScript project: WASI damages open standards and the web](https://devclass.com/2022/09/08/assemblyscript-project-wasi-damages-open-standards-and-the-web/?td=rt-3a)
+8.	[Virtana Extends Capacity Management Platform to Containers](https://containerjournal.com/features/virtana-extends-capacity-management-platform-to-containers/)
+9.	[US seeks standards dominance, lets Huawei access previously forbidden crypto tech](https://www.theregister.com/2022/09/09/bis_eases_tech_export_restrictions/)
+10.	[Open source startups have a natural growth model: PLG](https://techcrunch.com/2022/09/09/open-source-startups-have-a-natural-growth-model-plg/)
+
 ##  2022-09-02
 1. [Google’s new bug bounty program targets open-source vulnerabilities](https://www.oodaloop.com/briefs/2022/09/01/googles-new-bug-bounty-program-targets-open-source-vulnerabilities/)
 2. [Introducing Velox: An open source unified execution engine](https://engineering.fb.com/2022/08/31/open-source/velox/)
