@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2022-09-016
+1. [Linux Foundation announces OpenWallet Foundation for interoperable open-source digital wallets](https://siliconangle.com/2022/09/13/linux-foundation-announces-openwallet-foundation-interoperable-open-source-digital-wallets/)
+2. [IST and Google sign agreement to produce open-source chips](https://www.fedscoop.com/nist-and-google-sign-agreement-to-produce-open-source-chips/)
+3. [LinkedIn’s open-source Feathr feature store for machine learning joins the LF AI & Data Foundation](https://siliconangle.com/2022/09/12/linkedins-open-source-feathr-feature-store-machine-learning-joins-lf-ai-data-foundation/)
+4. [Google leverages open-source fully homomorphic encryption library](https://siliconangle.com/2022/09/12/linkedins-open-source-feathr-feature-store-machine-learning-joins-lf-ai-data-foundation/)
+5. [Dell Allies With Red Hat to Build OpenShift Platforms](https://containerjournal.com/features/dell-allies-with-red-hat-to-build-openshift-platforms/)
+6. [OPPO joins the Open 3D Foundation to spur the development of 3D graphics on mobile devices](https://www.media-outreach.com/news/china/2022/09/13/162822/oppo-joins-the-open-3d-foundation-to-spur-the-development-of-3d-graphics-on-mobile-devices/)
+7. [Google and the US government partner to make open source chips](https://www.techspot.com/news/95988-google-us-government-partner-make-open-source-chips.html)
+8. [Open source startups have a natural growth model: PLG](https://techcrunch.com/2022/09/09/open-source-startups-have-a-natural-growth-model-plg/)
+9. [Organisations are scaling back their open source software due to security fears – Anaconda](https://www.itpro.co.uk/development/open-source/369079/organisations-are-scaling-back-their-open-source-software-due-to)
+10. [Uber reels from 'security incident' in which cloud systems seemingly hijacked](https://www.theregister.com/2022/09/16/uber_security_incident/?td=rt-9cp)
+
 ##  2022-09-09
 1.	[Two open-source projects vulnerable to ‘GitHub Environment Injection’](https://www.scmagazine.com/news/cloud-security/two-open-source-projects-vulnerable-to-github-environment-injection)
 2.	[The EU’s AI Act could have a chilling effect on open source efforts, experts warn](https://techcrunch.com/2022/09/06/the-eus-ai-act-could-have-a-chilling-effect-on-open-source-efforts-experts-warn/)
