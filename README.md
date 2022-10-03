@@ -1,6 +1,30 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
-##  2022-09-016
+##  2022-09-30
+1. [Cloudflare previews workerd, an open source JavaScript/Wasm runtime for ‘nanoservices’](https://devclass.com/2022/09/28/cloudflare-previews-workerd-an-open-source-javascript-wasm-runtime-for-nanoservices/)
+2. [Here's OpenStack Platform 17 – aka what Red Hat hopes your network operator will one day use](https://www.theregister.com/2022/09/30/red_hat_openstack_platform_17/)
+3. [BellSoft Optimizes Java for Cloud-Native Platform](https://containerjournal.com/features/bellsoft-optimizes-java-for-cloud-native-platform/)
+4. [Prisma Cloud delivers context-aware software composition analysis](https://asiapacificdefencereporter.com/prisma-cloud-delivers-context-aware-software-composition-analysis/)
+5. [Amazon lets you rent Ubuntu Pro. Yes, it's Linux on the virtual desktop](https://www.theregister.com/2022/09/30/ubuntu_amazon_virtual_desktop/)
+6. [Intel CTO spotlights open-source, AI push](https://www.crn.com.au/news/intel-cto-spotlights-software-strategy-with-open-source-ai-push-585831)
+7. [What the Securing Open Source Software Act does and what it misses](https://www.zdnet.com/article/whats-what-in-the-united-states-securing-open-source-software-act/)
+8. [Google delays execution of doomed Chrome extensions](https://www.theregister.com/2022/09/30/google_manifestv3_chrome_extensions/)
+9. [Massive web tech survey shows how bad habits continue – and WebAssembly may be over hyped](https://devclass.com/2022/09/29/massive-web-tech-survey-shows-how-bad-habits-continue-and-webassembly-may-be-over-hyped/)
+10. [Gone in a day: Ethical hackers say it would take mere hours to empty your network](https://www.theregister.com/2022/10/01/ethical_hackers_sans_survey/)
+
+##  2022-09-23
+1. [NdcTech partners with Red Hat for cloud-native and open-source solutions](https://thepaypers.com/online-mobile-banking/ndctech-partners-with-red-hat-for-cloud-native-and-open-source-solutions--1258605)
+2. [Heroku introduces ‘low cost dyno’ tier including scale to zero](https://devclass.com/2022/09/27/%ef%bf%bcafter-axing-free-plans-heroku-introduces-low-cost-tier-including-scale-to-zero/)
+3. [Aiven’s first acquisition is Kafkawize, an open source data governance tool for Kafka](https://techcrunch.com/2022/09/29/aivens-first-acquisition-is-kafkawize-an-open-source-data-governance-tool-for-kafka/)
+4. [Talent Shortage, Open Source Security Worries Hinder Data Science Developments](https://www.itprotoday.com/data-analytics-and-data-management/talent-shortage-open-source-security-worries-hinder-data-science)
+5. [Cloud-Native Apps Driving Major IT Data Crisis](https://containerjournal.com/features/cloud-native-apps-driving-major-it-data-crisis/)
+6. [Is open source leadership helping Google?](https://www.infoworld.com/article/3669851/is-open-source-leadership-helping-google.html)
+7. [North Korean Hackers Use Open Source Software In A Recent Attack](https://www.opensourceforu.com/2022/09/north-korean-hackers-use-open-source-software-in-a-recent-attack/)
+8. [How Can Open Source Sustain Itself without Creating Burnout?](https://thenewstack.io/how-can-open-source-sustain-itself-without-creating-burnout/)
+9. [Docker, Inc. to Integrate Free SBOM Generation Tool](https://containerjournal.com/features/docker-inc-to-integrate-free-sbom-generation-tool/)
+10. [A vision for making open source more equitable and secure](https://www.infoworld.com/article/3672433/a-vision-for-making-open-source-more-equitable-and-secure.html)
+
+##  2022-09-16
 1. [Linux Foundation announces OpenWallet Foundation for interoperable open-source digital wallets](https://siliconangle.com/2022/09/13/linux-foundation-announces-openwallet-foundation-interoperable-open-source-digital-wallets/)
 2. [IST and Google sign agreement to produce open-source chips](https://www.fedscoop.com/nist-and-google-sign-agreement-to-produce-open-source-chips/)
 3. [LinkedIn’s open-source Feathr feature store for machine learning joins the LF AI & Data Foundation](https://siliconangle.com/2022/09/12/linkedins-open-source-feathr-feature-store-machine-learning-joins-lf-ai-data-foundation/)
