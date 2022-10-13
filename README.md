@@ -1,5 +1,29 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2022-10-14
+1. [Microsoft leaves the Office, rebrands everything as 365](https://www.theregister.com/2022/10/13/microsoft_365_rebrand/)
+2. [Endor emerges from stealth with $25M to secure software supply chains](https://techcrunch.com/2022/10/10/endor-emerges-from-stealth-with-25m-to-secure-software-supply-chains/)
+3. [Oil giant Shell lends support to LF Energy in its open source power networks push](https://www.computerweekly.com/news/252525799/Oil-giant-Shell-lends-support-to-LF-Energy-in-its-open-source-power-networks-push)
+4. [North Korea Trojanizing Open-Source Software](https://www.govinfosecurity.com/north-korea-trojanizing-open-source-software-a-20185)
+5. [French open-source cybersecurity startup CrowdSec raises $13.7M](https://siliconangle.com/2022/10/06/french-open-source-cybersecurity-startup-crowdsec-raises-13-7m/)
+6. [Cloud-Native Computing is Good for the Environment](https://containerjournal.com/features/cloud-native-computing-is-good-for-the-environment/)
+7. [New Alchimist attack framework hits Windows, Linux and Mac](https://www.techrepublic.com/article/alchimist-attack-framework-hits-windows-linux-mac/)
+8. [Scout APM Makes Open Source TelemetryHub Public](https://www.opensourceforu.com/2022/10/scout-apm-makes-open-source-telemetryhub-public/)
+9. [Google Cloud Next 2022 – highlights]( https://www.crn.com.au/news/the-biggest-launches-at-google-cloud-next-2022-586347)
+10. [Microsoft Ignite 2022– highlights]( https://nbold.co/microsoft-ignite-2022-10-exciting-updates/)
+
+##  2022-10-07
+1. [Hashicorp Conf 2022– highlights](https://www.hashicorp.com/blog/kubernetes-video-highlights-from-hashitalks-2022)
+2. [Mavenir, Northeastern University offer open-source Open RAN simulator](https://www.rcrwireless.com/20221012/featured/mavenir-northeastern-university-offer-open-source-open-ran-simulator)
+3. [NdcTech partners with Red Hat for cloud-native and open-source solutions](https://thepaypers.com/online-mobile-banking/ndctech-partners-with-red-hat-for-cloud-native-and-open-source-solutions--1258605)
+4. [Aiven’s first acquisition is Kafkawize, an open source data governance tool for Kafka](https://techcrunch.com/2022/09/29/aivens-first-acquisition-is-kafkawize-an-open-source-data-governance-tool-for-kafka/)
+5. [The Open RAN Simulation Platform Is Now Available](https://www.opensourceforu.com/2022/10/the-open-ran-simulation-platform-is-now-available/)
+6. [Kata Containers 3's marriage of virtual machines and containers continues](https://www.zdnet.com/article/kata-containers-3s-marriage-of-virtual-machines-and-containers-continues/)
+7. [JDK 19: The new features in Java 19](https://www.infoworld.com/article/3653331/jdk-19-the-new-features-in-java-19.html)
+8. [Intel and DataStax Are Working Together to Advance Apache Cassandra](https://www.opensourceforu.com/2022/10/intel-and-datastax-are-working-together-to-advance-apache-cassandra/)
+9. [Red Hat and FIWARE Foundation Collaborate to Power Eco-smart Cities with Open Source Technology](https://www.businesswire.com/news/home/20221012005058/en)
+10. [5 Characteristics of a Good Open-Source Project](https://www.makeuseof.com/open-source-project-characteristics/)
+
 ##  2022-09-30
 1. [Cloudflare previews workerd, an open source JavaScript/Wasm runtime for ‘nanoservices’](https://devclass.com/2022/09/28/cloudflare-previews-workerd-an-open-source-javascript-wasm-runtime-for-nanoservices/)
 2. [Here's OpenStack Platform 17 – aka what Red Hat hopes your network operator will one day use](https://www.theregister.com/2022/09/30/red_hat_openstack_platform_17/)
