@@ -1,5 +1,29 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2022-10-28
+1. [Kubecon North America 2022 Highlights]( https://www.youtube.com/watch?v=C2wv7Ot4TKc)
+2. [Serverside WebAssembly hyped at Kubecon North America: tooling for Docker and Dapr integration introduced](https://devclass.com/2022/10/24/serverside-webassembly-hyped-at-kubecon-north-america-tooling-for-docker-and-dapr-integration-introduced/)
+3. [JFrog Grants Open Source Pyrsia(Blockchain tech) To CD Foundation](https://www.opensourceforu.com/2022/10/jfrog-grants-pyrsia-open-source-to-cd-foundation/)
+4. [Red Hat Introduces Lightweight Kubernetes Solution to Power the Next Evolution of Open Edge Computing](https://www.businesswire.com/news/home/20221025005129/en/Red-Hat-Introduces-Lightweight-Kubernetes-Solution-to-Power-the-Next-Evolution-of-Open-Edge-Computing)
+5. [Spyderbat Announces Open Source Program for Cloud Native Visibility and Security](https://www.darkreading.com/cloud/spyderbat-announces-open-source-program-for-cloud-native-visibility-and-security)
+6. [Google Trumpets US Federal Open Source Security Initiative](https://www.darkreading.com/risk/google-trumpets-us-federal-open-source-security-initiative)
+7. [Sigstore launches free software signing and verification service for open source projects](https://techcrunch.com/2022/10/26/sigstore-launches-free-software-signing-and-verification-service-for-open-source-projects/?)
+8. [Oracle contributes GraalVM to OpenJDK to address ‘obstacles to adoption’](https://devclass.com/2022/10/27/oracle-contributes-graalvm-to-openjdk-to-address-obstacles-to-adoption/)
+9. [Meta met Kotylin, as it likes better than Java](https://www.theregister.com/2022/10/25/meta_java_kotlin/?td=rt-9cp)
+10. [Elon Musk jettisons Twitter leadership, says takeover was 'to try to help humanity'](https://www.theregister.com/2022/10/28/musk_twitter_takeover/)
+
+##  2022-10-21
+1. [Red Hat releases a virtual Red Hat Enterprise Linux desktop on AWS](https://www.zdnet.com/article/red-hat-releases-a-virtual-red-hat-enterprise-linux-desktop-on-aws/)
+2. [The best open source software of 2022](https://www.infoworld.com/article/3676829/the-best-open-source-software-of-2022.html)
+3. [Cloud-Native Architectures Require Specially Skilled Architects](https://containerjournal.com/features/cloud-native-architectures-require-specially-skilled-architects/)
+4. [Consumer behaviors are the root of open source risk](https://www.helpnetsecurity.com/2022/10/24/software-supply-chain-state/)
+5. [Bumble Releases Open-Source Version of A.I. Anti Cyber-flashing Tool](https://techreport.com/software/3482405/bumble-releases-open-source-version-of-a-i-anti-cyber-flashing-tool/)
+6. [DataStax Stargate v2: Unlocking Apache Cassandra Data to Serve Billions of Devices in Real Time](https://www.businesswire.com/news/home/20221026005317/en)
+7. [A New Movie Highlights The Open Source Impact](https://www.opensourceforu.com/2022/10/a-new-movie-highlights-the-open-source-impact/)
+8. [Purpleurchin cryptocurrency miners spotted scouring free GitHub, Heroku accounts](https://www.theregister.com/2022/10/27/purpleurchin_cryptomining_github_accounts/)
+9. [Turnkey VDP Open Source: making a difference in enhancing cybersecurity as a “public good”](https://blog.yeswehack.com/vulnerability-coordination/turnkey-vdp-open-source-making-a-difference-in-enhancing-cybersecurity-as-a-public-good/)
+10. [How GitHub Copilot could steer Microsoft into a copyright storm](https://www.theregister.com/2022/10/19/github_copilot_copyright/?td=rt-9cp)
+
 ##  2022-10-14
 1. [Microsoft leaves the Office, rebrands everything as 365](https://www.theregister.com/2022/10/13/microsoft_365_rebrand/)
 2. [Endor emerges from stealth with $25M to secure software supply chains](https://techcrunch.com/2022/10/10/endor-emerges-from-stealth-with-25m-to-secure-software-supply-chains/)
