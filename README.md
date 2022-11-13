@@ -1,5 +1,29 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2022-11-11
+1. [Grafana Labs releases new open-source application monitoring tools](https://siliconangle.com/2022/11/02/grafana-labs-releases-new-open-source-application-monitoring-tools/)
+2. [Canonical Adds MindSpore AI Framework to Kubeflow Distribution](https://containerjournal.com/features/canonical-adds-mindspore-ai-framework-to-kubeflow-distribution/)
+3. [Speedb’s Speedb Data Engine Becomes Open Source](https://www.opensourceforu.com/2022/11/speedbs-speedb-data-engine-becomes-open-source/)
+4. [GitHub launches channel to ease vulnerability disclosure process for open source software](https://www.scmagazine.com/analysis/application-security/github-launches-channel-to-ease-vulnerability-disclosure-process-for-open-source-software)
+5. [ActiveState Enables Software Vendors to Comply with White House Orders for Securing the Software Supply Chain](https://www.prnewswire.com/news-releases/activestate-enables-software-vendors-to-comply-with-white-house-orders-for-securing-the-software-supply-chain-301674005.html)
+6. [With Linode, Akamai expands into edge cloud computing development](https://www.zdnet.com/article/with-linode-akamai-expands-into-edge-cloud-computing-development/)
+7. [Microsoft moves to tighten Azure DevOps security with granular access tokens](https://www.theregister.com/2022/11/11/microsoft_azure_pat_scope/)
+8. [Open-source software fosters innovation, but only with the right controls in place](https://www.helpnetsecurity.com/2022/11/03/open-source-software-innovation-controls-oss-packaging-video/)
+9. [World Cup apps pose a data security and privacy nightmare](https://www.theregister.com/2022/11/11/world_cup_security/)
+10. [Netflix deploys open source software in worldwide content operations](https://www.tvbeurope.com/media-management/netflix-deploys-open-source-software-in-worldwide-content-operations)
+
+##  2022-11-04
+1.	[Open-source repository SourceHut to remove all cryptocurrency-related projects](https://www.techrepublic.com/article/open-source-repository-sourcehut-removes-all-cryptocurrency-projects/)
+2.	[Red Hat Enlists Lockheed Martin to Bring AI to K8s Edge](https://containerjournal.com/features/red-hat-enlists-lockheed-martin-to-bring-ai-to-k8s-edge/)
+3.	[Most reported CVEs for Docker Hub images are harmless](https://www.infoworld.com/article/3677550/most-reported-cves-for-docker-hub-images-are-harmless.html)
+4.	[6 Kubernetes distributions leading the container revolution](https://www.infoworld.com/article/3265059/6-kubernetes-distributions-leading-the-container-revolution.html)
+5.	[Open Source Community Trends Are Prospering, According To A GitHub Research](https://www.opensourceforu.com/2022/11/open-source-community-trends-are-prospering-according-to-a-github-research/)
+6.	[OpenSSL warns of critical security vulnerability with upcoming patch](https://www.zdnet.com/article/openssl-warns-of-critical-security-vulnerability-with-upcoming-patch/)
+7.	[A vision for making open source more equitable and secure](https://www.infoworld.com/article/3672433/a-vision-for-making-open-source-more-equitable-and-secure.html)
+8.	[Optimizer Rescale recommends Rescale's optimization recommender](https://www.theregister.com/2022/11/09/rescale_nvidia_hpc/)
+9.	[OpenPrinting keeps old printers working – even on Windows](https://www.theregister.com/2022/11/10/openprinting_keeps_old_printers_working/)
+10.	[NSA urges orgs to use memory-safe programming languages](https://www.theregister.com/2022/11/11/nsa_urges_orgs_to_use/)
+
 ##  2022-10-28
 1. [Kubecon North America 2022 Highlights]( https://www.youtube.com/watch?v=C2wv7Ot4TKc)
 2. [Serverside WebAssembly hyped at Kubecon North America: tooling for Docker and Dapr integration introduced](https://devclass.com/2022/10/24/serverside-webassembly-hyped-at-kubecon-north-america-tooling-for-docker-and-dapr-integration-introduced/)
