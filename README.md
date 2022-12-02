@@ -1,5 +1,29 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2022-12-02
+1. [The pros and cons of using open-source Kubernetes security software](https://www.helpnetsecurity.com/2022/11/21/open-source-kubernetes-security/)
+2. [Owkin taps Linux Foundation to open-source its AI learning software](https://pharmaphorum.com/digital/owkin-taps-linux-foundation-to-open-source-its-ai-learning-software/)
+3. [Web 3.0 Gaming Companies Receives $100 Million Funding For Open Source Technology](https://www.opensourceforu.com/2022/11/web-3-0-gaming-companies-receives-100-million-funding-for-open-source-technology/)
+4. [Microsoft 365 faces more GDPR headwinds as Germany bans it in schools](https://www.theregister.com/2022/11/30/office_365_faces_more_gdpr/?td=rt-3a)
+5. [Consortium of Japan partners successfully promote domestic production and cost reduction for 5G core technology](https://www.asiaone.com/business/consortium-japan-partners-successfully-promote-domestic-production-and-cost-reduction-5g)
+6. [Contrast Security announces new program to financially support open source developers](https://sdtimes.com/open-source/contrast-security-announces-new-program-to-financially-support-open-source-developers/)
+7. [Where Microsoft’s open source policy went wrong](https://www.infoworld.com/article/3680048/where-microsofts-open-source-policy-went-wrong.html)
+8. [Open Source Copyright Infringements Drive the Battle To Court](https://www.opensourceforu.com/2022/12/open-source-copyright-infringements-drive-the-battle-to-court/)
+9. [Small open source projects pose significant security risks](https://www.techtarget.com/searchsoftwarequality/news/252527749/Small-open-source-projects-pose-significant-security-risks)
+10. [Top Announcements of AWS re:Invent 2022](https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2022/)
+
+##  2022-11-18
+1. [Microsoft warns: This forgotten open-source web server could let hackers 'silently' gain access to your system](https://www.zdnet.com/article/microsoft-warns-this-forgotten-open-source-web-server-could-let-hackers-silently-gain-access-to-your-system/#ftag=RSSbaffb68)
+2. [Flux Graduates from the Cloud Native Computing Foundation](https://www.cncf.io/announcements/2022/11/30/flux-graduates-from-cncf-incubator/)
+3. [Red Hat Updates App Modernization Toolkit for OpenShift](https://containerjournal.com/features/red-hat-updates-app-modernization-toolkit-for-openshift/)
+4. [Consortium aims to speed progress on smart field devices](https://drivesncontrols.com/news/fullstory.php/aid/7193/Consortium_aims_to_speed_progress_on_smart_field_devices.html)
+5. [4 tactics for building robust open source DevOps toolsets](https://techcrunch.com/2022/09/06/4-tactics-for-building-robust-open-source-devops-toolsets/)
+6. [openSUSE makes baseline CPU requirements a little friendlier than feared](https://www.theregister.com/2022/11/30/opensuse_drops_x86_32/)
+7. [.NET open source is 'heavily under-funded' says AWS](https://www.theregister.com/2022/12/01/net_open_source_heavily_underfunded/)
+8. [Is sustainability still a thing in open source?](https://opensource.com/article/22/11/sustainability-open-source)
+9. [Neuralink's AI brain chip could be in humans within six months claims Elon Musk](https://www.theregister.com/2022/12/02/neuralink_ai_brain_chip/)
+10. [9 holiday gift ideas for open source enthusiasts in 2022](https://opensource.com/article/22/11/gift-ideas-open-source-enthusiasts)
+
 ##  2022-11-11
 1. [Grafana Labs releases new open-source application monitoring tools](https://siliconangle.com/2022/11/02/grafana-labs-releases-new-open-source-application-monitoring-tools/)
 2. [Canonical Adds MindSpore AI Framework to Kubeflow Distribution](https://containerjournal.com/features/canonical-adds-mindspore-ai-framework-to-kubeflow-distribution/)
