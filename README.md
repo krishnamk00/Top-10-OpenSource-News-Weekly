@@ -1,5 +1,28 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2022-12-16
+1. [Google launches OSV-Scanner, a new open-source vulnerability database](https://www.ghacks.net/2022/12/15/google-launches-osv-scanner-open-source)
+2. [Triggermesh Introduces an Open-Source AWS Eventbridge Alternative with Project Shaker](https://www.infoq.com/news/2022/12/triggermesh-project-shaker/)
+3. [OpenPLC open-source Programmable Logic Controller Suite](https://www.cnx-software.com/2022/12/18/openplc-open-source-programmable-logic-controller-suite-arduino-esp8266-esp32-raspberry-pi/)
+4. [Microsoft to open source Soundscapes, the audio navigation research project](https://www.onmsft.com/news/microsoft-to-open-source-soundscapes-the-audio-navigation-research-project)
+5. [Intel Labs introduces open-source simulator for AI](https://www.therobotreport.com/intel-labs-introduces-open-source-simulator-for-ai/)
+6. [ActiveState Offers A Free Artifact Repository To Strengthens Open Source Supply Chain Security](https://www.opensourceforu.com/2022/12/activestate-offers-a-free-artifact-repository-to-strengthens-open-source-supply-chain-security/)
+7. [Canonical Adds Bevy of Tools to Curated Instances of Kubernetes](https://containerjournal.com/features/canonical-adds-bevy-of-tools-to-curated-instances-of-kubernetes/)
+8. [To protect its cloud, Microsoft bans crypto mining from its online services](https://www.theregister.com/2022/12/15/microsoft_online_services_cryptomining_ban/)
+9. [IBM to create 24-core Power chip so customers can exploit Oracle database license](https://www.theregister.com/2022/12/15/new_ibm_power_cpu_for_oracle/)
+10. [5 Kubernetes Predictions for 2023](https://containerjournal.com/features/5-kubernetes-predictions-for-2023/)
+
+##  2022-12-09
+1. [The future of finance belongs to open source](https://www.zdnet.com/finance/the-future-of-finance-belongs-to-open-source/#ftag=RSSbaffb68)
+2. [Meta’s New Open-Source Content Mod Scans for Terrorism and Photo-Based Abuse](https://petapixel.com/2022/12/13/metas-new-open-source-content-mod-scans-for-terrorism-and-photo-based-abuse/)
+3. [How to Optimize your GitHub Repository for Open Source Development](https://hackernoon.com/how-to-optimize-your-github-repository-for-open-source-development)
+4. [Where to Find the Best Open Source Security Technology](https://www.darkreading.com/application-security/where-to-find-the-best-open-source-security-technology)
+5. [Amazon joins Open Invention Network](https://www.zdnet.com/article/amazon-joins-open-invention-network/) 
+6. [Twitter turns its back on open-source development](https://www.zdnet.com/article/twitter-turns-its-back-on-open-source-development/)
+7. [NIST says you better dump weak SHA-1 ... by 2030](https://www.theregister.com/2022/12/16/nist_sets_sha1_retirement_date/)
+8. [Rust support merged for the forthcoming GCC 13](https://www.theregister.com/2022/12/15/gcc_13_rust_support_merged/)
+9. [A new generation of tools for open source vulnerability management](https://opensource.com/article/22/12/tools-open-source-vulnerability-management)
+10. [What did Unix fans learn from the end of Unix workstations?](https://www.theregister.com/2022/12/13/unix_workstations_lessons/)
 ##  2022-12-02
 1. [The pros and cons of using open-source Kubernetes security software](https://www.helpnetsecurity.com/2022/11/21/open-source-kubernetes-security/)
 2. [Owkin taps Linux Foundation to open-source its AI learning software](https://pharmaphorum.com/digital/owkin-taps-linux-foundation-to-open-source-its-ai-learning-software/)
