@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2022-12-30
+1. [Best of 2022: The Ultimate List of Open Source Cloud-Native Tools](https://containerjournal.com/features/the-ultimate-list-of-open-source-cloud-native-tools/)
+2. [Google expands open-source software portfolio with new privacy capabilities](https://siliconangle.com/2022/12/22/google-expands-open-source-software-portfolio-new-privacy-capabilities/)
+3. [AWS Releases Open-Source Tool for Command-Line Container Management](https://www.infoq.com/news/2022/12/finch-container-management/)
+4. [OpenAI gets to the Point•E with open source text-to-3D model](https://www.theregister.com/2022/12/21/openai_pointe_3d_model/)
+5. [Google Cloud Places Bet On Selected Open Source Software](https://www.opensourceforu.com/2022/12/google-cloud-places-bet-on-selected-open-source-software/)
+6. [Sysdig CEO on How Open Source Fuels Cloud, Container Defense](https://www.govinfosecurity.com/sysdig-ceo-on-how-open-source-fuels-cloud-container-defense-a-20754)
+7. [Firefox, Tumblr team up to support Mastodon open-source social network](https://www.business-standard.com/article/technology/firefox-tumblr-team-up-to-support-mastodon-open-source-social-network-122122600305_1.html)
+8. [As liquid cooling takes off in the datacenter, fortune favors the brave](https://www.theregister.com/2022/12/29/liquid_cooling_now/)
+9. [Finding the next Log4j – OpenSSF’s Brian Behlendorf on pivoting to a ‘risk-centred view’ of open source development](https://portswigger.net/daily-swig/finding-nbsp-the-next-log4j-nbsp-openssfs-brian-behlendorf-on-pivoting-to-a-risk-centred-view-of-open-source-development)
+10. [Alphabet reshuffles to meet ChatGPT threat](https://www.theregister.com/2022/12/25/in_brief_ai/)
+
 ##  2022-12-16
 1. [Google launches OSV-Scanner, a new open-source vulnerability database](https://www.ghacks.net/2022/12/15/google-launches-osv-scanner-open-source)
 2. [Triggermesh Introduces an Open-Source AWS Eventbridge Alternative with Project Shaker](https://www.infoq.com/news/2022/12/triggermesh-project-shaker/)
