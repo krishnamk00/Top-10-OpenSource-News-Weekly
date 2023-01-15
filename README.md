@@ -1,5 +1,29 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2023-01-13
+1. [Why developers choose open source in the hybrid cloud](https://opensource.com/article/23/1/open-source-hybrid-cloud)
+2. [NASA Science Directorate Wants Help Prioritizing What Digital Resources It Should Open-Source First](https://www.nextgov.com/analytics-data/2023/01/nasa-science-directorate-wants-help-prioritizing-what-digital-resources-it-should-open-source-first/381501/)
+3. [Open Source Founders' Advice on Marketing that You Should not Ignore](https://hackernoon.com/open-source-founders-advice-on-marketing-that-you-should-not-ignore)
+4. [Microsoft applies coat of Rust to Azure Sphere IoT platform](https://www.theregister.com/2023/01/13/microsoft_rust_azure_sphere/)
+5. [Third-party Twitter apps stopped dead with no explanation from El Musko](https://www.theregister.com/2023/01/14/third_party_twitter_clients_stop_working/)
+6. [Vaadin Brings Java Framework to Kubernetes Clusters](https://containerjournal.com/features/vaadin-brings-java-framework-to-kubernetes-clusters/)
+7. [Cooler Master plans an open-source MasterPlus+ update to support third-party APIs](https://www.windowscentral.com/software-apps/cooler-master-open-source-masterplus-third-party-apis)
+8. [NASA overspent $15m on Oracle software because it was afraid an audit could cost more](https://www.theregister.com/2023/01/13/nasa_software_oracle_overpayment/?td=rt-3a)
+9. [Machine Learning Is Not Your Copilot: AI System Accused of Violating Open Source Copyright Licenses](https://www.jdsupra.com/legalnews/machine-learning-is-not-your-copilot-ai-5914929/)
+10. [Governments View Open Source as Critical for Enhancing Digital Services, Experts Say](https://www.nextgov.com/it-modernization/2023/01/governments-view-open-source-critical-enhancing-digital-services-experts-say/381666/)
+
+##  2023-01-06
+1. [Confluent Announces Intent to Acquire Immerok to Accelerate the Development of a Cloud Native Apache Flink Offering](https://www.businesswire.com/news/home/20230106005080/en/Confluent-Announces-Intent-to-Acquire-Immerok-to-Accelerate-the-Development-of-a-Cloud-Native-Apache-Flink-Offering)
+2. [Best of 2022: Why Run Postgres in Kubernetes?](https://containerjournal.com/kubecon-cnc-eu-2022/why-run-postgres-in-kubernetes/)
+3. [A JsonWebToken Open Source Project Vulnerability Results In Code Execution](https://www.opensourceforu.com/2023/01/a-jsonwebtoken-open-source-project-vulnerability-results-in-code-execution/)
+4. [Virtana Brings AIOps to Kubernetes Cluster Management](https://containerjournal.com/features/virtana-brings-aiops-to-kubernetes-cluster-management/)
+5. [Rapid Silicon is raising $30m to boost the rollout of its end-to-end open source FPGA software and entry level hardware.](https://www.eenewseurope.com/en/30m-for-open-source-end-to-end-fpga-software/)
+6. [Half of environmental claims about products are full of crap, says EU](https://www.theregister.com/2023/01/13/environmental_claims_eu/)
+7. [An introduction to DocArray, an open source AI library](https://opensource.com/article/23/1/docarray-open-source-ai)
+8. [Open-source platform 'Home Assistant' to get new voice assistant in 2023](https://www.business-standard.com/article/technology/open-source-platform-home-assistant-to-get-new-voice-assistant-in-2023-122122800191_1.html)
+9. [Arm’s push into cars ‘a logical step’ as competition grows from open-source RISC-V](https://thenextweb.com/news/arm-targets-cars-as-chip-competition-grows-from-open-source-risc-v)
+10. [7 downsides of open source culture](https://www.infoworld.com/article/3679870/7-downsides-of-open-source-culture.html)
+
 ##  2022-12-30
 1. [Best of 2022: The Ultimate List of Open Source Cloud-Native Tools](https://containerjournal.com/features/the-ultimate-list-of-open-source-cloud-native-tools/)
 2. [Google expands open-source software portfolio with new privacy capabilities](https://siliconangle.com/2022/12/22/google-expands-open-source-software-portfolio-new-privacy-capabilities/)
