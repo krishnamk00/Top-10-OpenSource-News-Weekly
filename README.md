@@ -1,5 +1,29 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2023-01-27
+1. [OpenAI, Microsoft want court to toss lawsuit accusing them of abusing open-source code](https://www.reuters.com/legal/litigation/openai-microsoft-want-court-toss-lawsuit-accusing-them-abusing-open-source-code-2023-01-27/?rpc=401&)
+2. [Experts warn of steep increase in Java costs under changes to Oracle license regime](https://www.theregister.com/2023/01/27/oracle_java_licensing_change/?td=rt-3a)
+3. [How Palo Alto Approaches Platform Engineering using opensource](https://www.infoq.com/news/2023/01/palo-alto-platform-engineering/?utm_source=twitter&utm_medium=link&utm_campaign=calendar)
+4. [Open Source Initiative and OpenLogic Release 2023 State of Open Source Report](https://wptavern.com/open-source-initiative-and-openlogic-release-2023-state-of-open-source-report)
+5. [Venafi Adds Kubernetes Support to Certificate Management Platform](https://containerjournal.com/features/venafi-adds-kubernetes-support-to-certificate-management-platform/)
+6. [Rust has no formal specification and it is time that was fixed, says team which ‘longs for formalized type system’](https://devclass.com/2023/01/23/rust-has-no-formal-specification-and-it-is-time-that-was-fixed-says-team-which-longs-for-formalized-type-system/)
+7. [Trellix automates tackling open source vulnerabilities at scale](https://portswigger.net/daily-swig/trellix-automates-tackling-open-source-vulnerabilities-at-scale)
+8. [AI Developers Release Open-Source Implementations of ChatGPT Training Algorithm](https://www.infoq.com/news/2023/01/open-source-chatgpt/)
+9. [Chinese Hackers Adopting Open Source ‘SparkRAT’ Tool](https://www.securityweek.com/chinese-hackers-adopting-open-source-sparkrat-tool/)
+10. [The Importance of Open Source in the Metaverse](https://www.opensourceforu.com/2023/01/the-importance-of-open-source-in-the-metaverse/)
+
+##  2023-01-20
+1. [Open Metaverse Foundation established to build standards and open-source software](https://www.biometricupdate.com/202301/open-metaverse-foundation-established-to-build-standards-and-open-source-software)
+2. [Log4j Forever Changed What (Some) Cyber Pros Think About OSS](https://securityintelligence.com/articles/log4j-vulnerability-changed-oss-cybersecurity/)
+3. [Armo goes CNCF sandbox, wider platform offering emerges](https://www.computerweekly.com/blog/Open-Source-Insider/Armo-goes-CNCF-sandbox-wider-platform-offering-emerges)
+4. [NSF 5G testbed to support open source](https://www.lightreading.com/open-ran/nsf-5g-testbed-to-support-open-source/d/d-id/782900)
+5. [Aerospike adds connector for Elasticsearch to run full-text queries](https://www.infoworld.com/article/3685788/aerospike-adds-connector-for-elasticsearch-to-run-full-text-queries.html)
+6. [ServiceNow Will Use Snyk To Identify Open Source Security Flaws](https://www.opensourceforu.com/2023/01/servicenow-will-use-snyk-to-identify-open-source-security-flaws/)
+7. [Google’s Flutter showcases new graphics capabilities, WebAssembly and RISC-V support](https://techcrunch.com/2023/01/25/googles-flutter-showcases-new-graphics-capabilities-webassembly-and-risc-v-support/)
+8. [EU’s proposed CE mark for software could have dire impact on open source](https://devclass.com/2023/01/24/eus-proposed-ce-mark-for-software-could-have-dire-impact-on-open-source/)
+9. [If You Like Open-Source, You Should Love Web3](https://www.linkedin.com/pulse/you-like-open-source-should-love-web3-todd-barr/)
+10. [godotengine is a Top 10 open source project above Kubernetes, Spark, Elastic ...more](https://ossrank.com/p/211-godot)
+
 ##  2023-01-13
 1. [Why developers choose open source in the hybrid cloud](https://opensource.com/article/23/1/open-source-hybrid-cloud)
 2. [NASA Science Directorate Wants Help Prioritizing What Digital Resources It Should Open-Source First](https://www.nextgov.com/analytics-data/2023/01/nasa-science-directorate-wants-help-prioritizing-what-digital-resources-it-should-open-source-first/381501/)
