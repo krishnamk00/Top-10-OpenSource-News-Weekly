@@ -1,5 +1,41 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2023-02-17
+1. [Cisco issues patch for critical vulnerability in open source ClamAV antivirus](https://www.itpro.com/security/cyber-security/370089/cisco-issues-patch-critical-vulnerability-clamav-antivirus)
+2. [AMD FSR 2.2 Open-Source Code Released, Allowing all Devs to Access the Upscaling Tech](https://wccftech.com/amd-fsr-2-2-open-source-code-release/)
+3. [Oligo Security Exits Stealth with $28M for AppSec, Open Source Security](https://www.securityweek.com/oligo-security-exits-stealth-with-28m-for-appsec-open-source-security/)
+4. [Sequoia backs open source data-validation framework Pydantic to commercialize with cloud services](https://techcrunch.com/2023/02/16/sequoia-backs-open-source-data-validation-framework-pydantic-to-commercialize-with-cloud-services/)
+5. [Solving open-source security — from Alpha to Omega](https://www.scmagazine.com/feature/devops/solving-open-source-security-from-alpha-to-omega)
+6. [How To Avoid Cloud-Native Observability Tooling Sprawl](https://containerjournal.com/features/how-to-avoid-cloud-native-observability-tooling-sprawl/)
+7. [DoD Taps Sylabs and DeciSym for Test Framework Using Singularity Containers](https://containerjournal.com/features/dod-taps-sylabs-and-decisym-for-test-framework-using-singularity-containers/)
+8. [Google's big security cert log overhaul broke Android apps. Now it's hit undo](https://www.theregister.com/2023/02/16/google_delays_certificate_transparency_log/)
+9. [Two open source data lakehouse platforms will emerge, says db insight](https://blocksandfiles.com/2023/02/17/two-open-source-data-lakehouse-platforms-will-emerge-says-db-insight/)
+10. [Sequoia backs open source data validation tool Pydantic](https://www.uktech.news/cloud/pydantic-sequoia-20230217)
+
+##  2023-02-10
+1. [ChatGPT lies about scientific results, needs open-source alternatives, say researchers](https://www.zdnet.com/article/chatgpt-lies-about-scientific-results-needs-open-source-alternatives-say-researchers/#ftag=RSSbaffb68)
+2. [Linux’s OpenWallet Foundation readies launch of open-source engine for digital wallets](https://www.biometricupdate.com/202302/linuxs-openwallet-foundation-readies-launch-of-open-source-engine-for-digital-wallets)
+3. [GitHub CEO on why open source developers should be exempt from the EU’s AI Act](https://techcrunch.com/2023/02/03/github-ceo-on-why-open-source-developers-should-be-exempt-from-the-eus-ai-act/)
+4. [Balthazar – An open-source hardware modular RISC-V, Arm, or FPGA laptop](https://www.cnx-software.com/2023/02/10/balthazar-an-open-source-hardware-modular-risc-v-arm-or-fpga-laptop/)
+5. [Avoiding the success trap: Toward policy for open-source software as infrastructure](https://www.atlanticcouncil.org/in-depth-research-reports/report/open-source-software-as-infrastructure/)
+6. [The IC’s Biggest Open-Source Intelligence Challenge: Mission Creep](https://www.justsecurity.org/84997/the-ics-biggest-open-source-intelligence-challenge-mission-creep/)
+7. [Intel has killed off its open-source RISC-V dev environment](https://www.techradar.com/news/intel-has-killed-off-its-open-source-risc-v-dev-environment)
+8. [Ubuntu Advantage is being wired deeper into the distro](https://www.theregister.com/2023/02/17/ubuntu_advantage/)
+9. [POWDER, the NSF PAWR testbed, unveils open source 5G research network](https://www.lightreading.com/test-and-measurement/powder-nsf-pawr-testbed-unveils-open-source-5g-research-network/d/d-id/782942)
+10. [Are Open Source Elections More Secure?](https://www.govtech.com/elections/are-open-source-elections-more-secure-part-1)
+
+##  2023-02-03
+1. [Google AI Open Sources Vizier](https://www.ghacks.net/2023/02/11/google-ai-open-sources-vizier/)
+2. [Stargaze from the web browser with an open source planetarium](https://opensource.com/article/23/2/open-source-planetarium)
+3. [Symposium on Fairness, Equality, and Diversity in Open Source Investigations](https://opiniojuris.org/2023/02/10/symposium-on-fairness-equality-and-diversity-in-open-source-investigations-re-imagining-standards-of-fairness-in-open-source-investigations-a-commentary-on-fact-finding-in-the-tigray-conflict/)
+4. [World rushes to adopt the 'India Stack' while 'UPI' goes global](https://www.aninews.in/news/business/world-rushes-to-adopt-the-india-stack-while-upi-goes-global20230215184006/)
+5. [The Eclipse Foundation Announces the Automotive Open Source Summit for 2023](https://www.globenewswire.com/news-release/2023/02/15/2608518/0/en/The-Eclipse-Foundation-Announces-the-Automotive-Open-Source-Summit-for-2023.html)
+6. [State Department aims to build on open-source effort to track war crimes in Ukraine](https://federalnewsnetwork.com/big-data/2023/02/state-department-aims-to-build-on-open-source-effort-to-track-war-crimes-in-ukraine/)
+7. [The importance of open-source in computer science and software development](https://cointelegraph.com/news/the-importance-of-open-source-in-computer-science-and-software-development)
+8. [Tesla's self-driving code may ignore stop signs, act unsafe. Patch coming ... soon](https://www.theregister.com/2023/02/17/tesla_fsd_upgrade_recall/)
+9. [Enter the Matrix, a new portable, affordable open-source grid controller ](https://www.musicradar.com/news/matrix-grid-controller)
+10. [Netcracker Wins Glotel Awards for BSS/OSS Transformation Excellence and Best Digital Transformation Project](https://www.businesswire.com/news/home/20230216005099/en/Netcracker-Wins-Glotel-Awards-for-BSSOSS-Transformation-Excellence-and-Best-Digital-Transformation-Project)
+
 ##  2023-01-27
 1. [OpenAI, Microsoft want court to toss lawsuit accusing them of abusing open-source code](https://www.reuters.com/legal/litigation/openai-microsoft-want-court-toss-lawsuit-accusing-them-abusing-open-source-code-2023-01-27/?rpc=401&)
 2. [Experts warn of steep increase in Java costs under changes to Oracle license regime](https://www.theregister.com/2023/01/27/oracle_java_licensing_change/?td=rt-3a)
