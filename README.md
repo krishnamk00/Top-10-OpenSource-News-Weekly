@@ -1,5 +1,17 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2023-02-24
+1. [Twitter could make its algorithm open source as soon as next week](https://www.neowin.net/news/twitter-could-make-its-algorithm-open-source-as-soon-as-next-week/)
+2. [At least one open source vulnerability found in 84% of code bases: Report](https://www.csoonline.com/article/3688911/at-least-one-open-source-vulnerability-found-in-84-of-code-bases-report.html)
+3. [OpenWallet Foundation announces 37 backers for open source digital wallet project](https://www.nfcw.com/2023/02/24/382202/openwallet-foundation-announces-37-backers-for-open-source-digital-wallet-project/)
+4. [Open Source Data Governance Integration Project Gets Unveiled By ALTR](https://www.opensourceforu.com/2023/02/open-source-data-governance-integration-project-gets-unveiled-by-altr/)
+5. [Open source dominates IoT and edge solutions](https://www.electronicproducts.com/open-source-dominates-iot-and-edge-solutions/)
+6. [Aegis Authenticator: open source Google Authenticator and Authy alternative](https://www.ghacks.net/2023/02/24/aegis-authenticator-open-source-google-authenticator-and-authy-alternative/)
+7. [Canonical announces real-time Ubuntu kernel](https://www.techrepublic.com/article/canonical-announces-real-time-ubuntu-kernal/)
+8. [The 2023 Kubernetes Benchmark Report: Are K8s Workloads Better Configured?](https://containerjournal.com/features/the-2023-kubernetes-benchmark-report-are-k8s-workloads-better-configured/)
+9.[Isovalent Update Advances Cilium Networking](https://containerjournal.com/features/isovalent-update-advances-cilium-networking/)
+10. [NVIDIA TO BUILD DGX COMPLEXES IN CLOUDS TO BETTER CAPITALIZE ON GENERATIVE AI](https://www.nextplatform.com/2023/02/22/nvidia-to-build-dgx-complexes-in-clouds-to-better-capitalize-on-generative-ai/)
+
 ##  2023-02-17
 1. [Cisco issues patch for critical vulnerability in open source ClamAV antivirus](https://www.itpro.com/security/cyber-security/370089/cisco-issues-patch-critical-vulnerability-clamav-antivirus)
 2. [AMD FSR 2.2 Open-Source Code Released, Allowing all Devs to Access the Upscaling Tech](https://wccftech.com/amd-fsr-2-2-open-source-code-release/)
