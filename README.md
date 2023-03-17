@@ -1,5 +1,41 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2023-03-17
+1. [Is GPT-4 open-source or not?](https://www.ghacks.net/2023/03/14/gpt-4-open-source-gpt-4-price/)
+2. [Leveraging Hugging Face Models on Azure Machine Learning](https://www.ghacks.net/2023/03/17/leveraging-hugging-face-models-on-azure-machine-learning/)
+3. [HPE intros new IoT data converter for Aruba-to-Azure IoT workloads](https://www.rcrwireless.com/20230315/internet-of-things-4/hpe-intros-new-iot-data-converter-for-aruba-to-azure-iot-workloads)
+4. [DreamWorks Animation Releases Open Source ‘MoonRay’](https://www.awn.com/news/dreamworks-animation-releases-open-source-moonray)
+5. [GitHub releases blueprint for budding open source program offices](https://techcrunch.com/2023/03/15/github-releases-blueprint-for-budding-open-source-program-offices/)
+6. [AI-generated art can be copyrighted, say US officials – with a catch](https://www.theregister.com/2023/03/16/ai_art_copyright_usco/?td=rt-3a)
+7. [Docker apologizes for shooting itself in the foot](https://www.theregister.com/2023/03/17/docker_free_teams_plan/)
+8. [Microsoft dips Teams in the metaverse vat with avatars ahead](https://www.theregister.com/2023/03/15/microsoft_teams_filters_avatars/)
+9. [China’s Baidu claims its ERNIE chatbot reinvents the computing stack](https://www.theregister.com/2023/03/16/baidu_ernie_chatbot_launch/)
+10. [Open Source Software: Top Sites](https://www.datamation.com/open-source/open-source-software-top-59-sites/)
+
+##  2023-03-10
+1. [Introducing Velox: An open source unified execution engine](https://engineering.fb.com/2023/03/09/open-source/velox-open-source-execution-engine/)
+2. [MCUXpresso development tool adds open source](https://www.eenewseurope.com/en/mcuxpresso-development-tool-adds-open-source/)
+3. [Eclipse Foundation finds significant momentum for open source Java this year](https://sdtimes.com/software-development/eclipse-foundation-finds-significant-momentum-for-open-source-java-this-year/)
+4. [Microsoft Brings More AI to Developers at Azure Open Source Day 2023](https://www.thurrott.com/dev/280186/microsoft-brings-more-ai-to-developers-at-azure-open-source-day-2023)
+5. [Linux desktop leaders unite behind Flathub app store. Here's why](https://www.zdnet.com/article/linux-desktop-leaders-unite-behind-flathub-app-store-heres-why/)
+6. [Kubernetes is the key to cloud, but cost containment is critical](https://www.techrepublic.com/topic/open-source/)
+7. [During The ChatGPT Boom, SenseTime Releases A Large Multimodal Model](https://www.opensourceforu.com/2023/03/during-the-chatgpt-boom-sensetime-releases-a-large-multimodal-model/)
+8. [Lightweight Environments in Kubernetes](https://containerjournal.com/features/lightweight-environments-in-kubernetes/)
+9. [First open-source tool to let planners map pedestrian networks](https://techxplore.com/news/2023-03-open-source-tool-planners-pedestrian-networks.html)
+10. [Grafana acquires Pyroscope and merges it with its Phlare continuous profiling database](https://techcrunch.com/2023/03/15/grafana-acquires-pyroscope-and-merges-it-with-its-phlare-continuous-profiling-database/)
+
+##  2023-03-03
+1. [IData Releases an Open-Source No-Code Data Pipeline for Amazon Web Services (AWS) and Snowflake](https://martechseries.com/sales-marketing/marketing-clouds/idata-releases-an-open-source-no-code-data-pipeline-for-amazon-web-services-aws-and-snowflake/)
+2. [NASA’s Thirst for Open Source Software — and for Open Science](https://thenewstack.io/nasas-thirst-for-open-source-software-and-for-open-science/)
+3. [Kristin Wood on the intelligence value of open source data — "Intelligence Matters"](https://www.cbsnews.com/news/kristin-wood-on-the-intelligence-value-of-open-source-data-intelligence-matters/)
+4. [Major educational hurdles need addressing to boost UK's GDP through open source](https://www.itpro.co.uk/development/open-source/370240/educational-hurdles-addressing-boost-uk-gdp-open-source)
+5. [Funding Worries Threaten Ability to Secure OSS Projects](https://thenewstack.io/funding-downturn-threaten-ability-to-secure-oss-projects/)
+6. [Top 10 open source software risks for 2023](https://www.csoonline.com/article/3688924/top-10-open-source-software-risks-for-2023.html)
+7. [Adopting FinOps in a Large-Scale Cloud Deployment](https://containerjournal.com/features/adopting-finops-in-a-large-scale-cloud-deployment/)
+8. [Ermetic Adds Kubernetes Support to CNAPP](https://containerjournal.com/features/ermetic-adds-kubernetes-support-to-cnapp/)
+9. [Global OSS BSS Market Report and Forecast 2023-2028](https://www.businesswire.com/news/home/20230315005488/en/Global-OSS-BSS-Market-Report-and-Forecast-2023-2028-Increasing-Emphasis-of-Communication-Service-Providers-CSPS-on-Improving-Customer-Experiences-Drives-Growths---ResearchAndMarkets.com)
+10. [The Complete Guide for Open Source Licenses 2022](https://www.govinfosecurity.com/whitepapers/complete-guide-for-open-source-licenses-2022-w-11670)
+
 ##  2023-02-24
 1. [Twitter could make its algorithm open source as soon as next week](https://www.neowin.net/news/twitter-could-make-its-algorithm-open-source-as-soon-as-next-week/)
 2. [At least one open source vulnerability found in 84% of code bases: Report](https://www.csoonline.com/article/3688911/at-least-one-open-source-vulnerability-found-in-84-of-code-bases-report.html)
