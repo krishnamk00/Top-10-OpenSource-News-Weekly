@@ -1,5 +1,78 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+##  2023-04-21
+1. [Kubecon Eu 2023 highlights](https://medium.com/@mike_tyson_cloud/highlight-kubecon-cloudnativecon-europe-2023-1cb2bd453525)
+2. [AI platform "Fujitsu Kozuchi," streamlining access to AI and ML solutions to contribute to a sustainable society](https://www.asiaone.com/business/fujitsu-launches-ai-platform-fujitsu-kozuchi-streamlining-access-ai-and-ml-solutions)
+3. [Stability AI releases open-source language model](https://siliconangle.com/2023/04/19/stability-ai-releases-open-source-language-model/)
+4. [hylum Adds Open Policy Agent to Open Source Analysis Engine](https://www.securityweek.com/phylum-adds-open-policy-agent-to-open-source-analysis-engine/)
+5. [Linux Foundation Europe chief warns EU bill could fragment open source – and load risk onto devs](https://devclass.com/2023/04/21/linux-foundation-europe-chief-warns-eu-bill-could-fragment-open-source-and-load-risk-onto-devs/?td=rt-9cs)
+6. [Meta CEO announces open-source AI tools, features for Instagram creators](https://www.thehindu.com/sci-tech/technology/meta-ceo-announces-open-source-ai-tools-features-instagram-creators/article66750555.ece)
+7. [Winzo Establishes An Open Source Technology Development Strategy For Cybersecurity](https://www.opensourceforu.com/2023/04/winzo-establishes-an-open-source-technology-development-strategy-for-cybersecurity/)
+8. [Cisco Adds More Cloud-Native App Networking Projects](https://cloudnativenow.com/features/cisco-adds-more-cloud-native-app-networking-projects/)
+9. [Atlassian Embeds Generative AI Across Cloud App Portfolio](https://devops.com/atlassian-embeds-generative-ai-across-cloud-app-portfolio/)
+10. [Microsoft Releases Multimodal Visual ChatGPT Chatbot Source Code](https://www.opensourceforu.com/2023/04/microsoft-releases-multimodal-visual-chatgpt-chatbot-source-code/)
+
+##  2023-04-14
+1. [Google Cloud offers Assured Open Source Software for free](https://www.techrepublic.com/article/google-cloud-offers-aoss-free/) 
+2. [THE CYBER RESILIENCE ACT THREATENS OPEN SOURCE](https://hackaday.com/2023/04/21/the-cyber-resilience-act-threatens-open-source/)
+3. [DentOS 3.0 Unveiled: Open Source NOS Powering Distributed Enterprise Edge](https://www.prnewswire.com/news-releases/dentos-3-0-unveiled-open-source-nos-powering-distributed-enterprise-edge-brings-network-management-scalability-and-security-via-new-rapid-release-cycle-301802592.html)
+4. [Canonical unveils Ubuntu 23.04 'Lunar Lobster': A Linux distro for work and play](https://www.zdnet.com/article/canonical-unveils-ubuntu-23-04-a-lunar-lobster-thats-good-for-work-and-play/)
+5. [Why did Databricks open source its LLM in the form of Dolly 2.0?](https://www.infoworld.com/article/3693349/why-did-databricks-open-source-its-llm-in-the-form-of-dolly-20.html)
+6. [According To FSF, Google Is Disregarding JPEG-XL For Its Own Nefarious Purposes](https://www.opensourceforu.com/2023/04/according-to-fsf-google-is-disregarding-jpeg-xl-for-its-own-nefarious-purposes/)
+7. [Cloud Foundry Foundation Advances Korifi PaaS for Kubernetes](https://cloudnativenow.com/features/cloud-foundry-foundation-advances-korifi-paas-for-kubernetes/)
+8. [Stability AI Introduces StableLM, Open Source ChatGPT Substitutes](https://www.opensourceforu.com/2023/04/stability-ai-introduces-stablelm-open-source-chatgpt-substitutes/)
+9. [Cilium has become the de-facto networking solution for the cloud-native world](https://cloudnativenow.com/features/the-cilium-story-so-far/)
+10. [ChatGPT creates mostly insecure code, but won't tell you unless you ask](https://www.theregister.com/2023/04/21/chatgpt_insecure_code/?td=rt-3a)
+
+##  2023-04-7
+1. [Meta open-sources ‘significantly faster’ build system](https://www.infoworld.com/article/3693049/meta-open-sources-significantly-faster-build-system.html)
+2. [6 best open-source kanban boards for managing projects in 2023](https://www.techrepublic.com/article/open-source-kanban-boards/)
+3. [Is Kubernetes Fit For Purpose?](https://cloudnativenow.com/topics/is-kubernetes-fit-for-purpose/)
+4. [Why You Should Run Your Pipelines in Kubernetes](https://cloudnativenow.com/features/why-you-should-run-your-pipelines-in-kubernetes/)
+5. [Twitter’s Open Source Algorithm Is a Red Herring](https://www.wired.com/story/twitters-open-source-algorithm-is-a-red-herring/)
+6. [Taiwan asks US if it could chill out on the anti-China rhetoric](https://www.theregister.com/2023/04/21/taiwan_china_rhetoric/)
+7. [Google backs Bard to generate ads, which apparently improves creativity](https://www.theregister.com/2023/04/21/google_bard_ai/)
+8. [International cops urge Meta not to implement secure encryption for all](https://www.theregister.com/2023/04/21/meta_encryption_police/)
+9. [Samsung Targets The Health Sector With Its Open Source Platform](https://www.opensourceforu.com/2023/04/samsung-targets-the-health-sector-with-its-open-source-platform/)
+10. [The Challenges of Conducting Open Source Research on China](https://www.bellingcat.com/resources/2023/04/18/china-challenges-open-source-osint-social-media/)
+
+##  2023-03-31
+1. [The Ultimate List of Open Source Cloud-Native Tools](https://cloudnativenow.com/features/the-ultimate-list-of-open-source-cloud-native-tools/)
+2. [Central UK govt awards £12M+ contract to leave Google Workspace for Microsoft 365](https://www.theregister.com/2023/04/21/cabinet_office_m365_from_google_suite/)
+3. [Docker subscription revenue 30 times higher than three years ago, CEO claims](https://devclass.com/2023/03/24/docker-subscription-revenue-30-times-higher-than-three-years-ago-ceo-claims/?td=rt-9cs)
+5. [Many open-source software components have worrying security risks](https://www.techradar.com/news/many-open-source-software-components-have-worrying-security-risks)
+4. [CISA Taking Over Open-Source Logging Tool Created by UK Government](https://www.nextgov.com/cybersecurity/2023/04/cisa-taking-over-open-source-logging-tool-created-uk-government/385446/)
+5. [LG wins ISO certification for open-source software security assurance](https://www.koreaherald.com/view.php?mp=1&np=1&ud=20230421000531)
+6. [RS announces DesignSpark Environmental Sensor Development Kit certified by Open-Source Hardware Association](https://designsolutionsmag.co.uk/rs-announces-designspark-environmental-sensor-development-kit-certified-by-open-source-hardware-association/)
+7. [Scythe Robotics Releases Open-Source CAN-based Development Platform for Autonomous Lawn Mower](https://www.robotics247.com/article/scythe_robotics_releases_open_source_can_based_development_platform_for_autonomous_lawn_mower)
+8. [Linux Foundation Energy Announces Conference Schedule for LF Energy Embedded Summit](https://www.prnewswire.com/news-releases/linux-foundation-energy-announces-conference-schedule-for-lf-energy-embedded-summit-301796905.html)
+9. [Fiberplane open-source libraries assist developers using metrics in the observability stack](https://siliconangle.com/2023/04/13/fiberplane-open-source-libraries-assist-developers-using-metrics-observability-stack/)
+10. [How Open Source Has Turned the Tables on Enterprise Software](https://thenewstack.io/how-open-source-has-turned-the-tables-on-enterprise-software/)
+
+##  2023-03-24
+1. [Docker’s bad week](https://www.infoworld.com/article/3691292/dockers-bad-week.html)
+2. [Winzo launches cybersecurity programme to build open source technologies](https://economictimes.indiatimes.com/tech/startups/winzo-launches-cybersecurity-program-to-build-open-source-technologies/articleshow/99658668.cms)
+3. [10 ways to celebrate Earth Day with open source](https://opensource.com/article/23/4/celebrate-earth-day-open-source)
+4. [These are the fastest-growing open-source startups in Europe in Q1 2023](https://tech.eu/2023/04/19/these-are-the-fastest-growing-open-source-startups-in-europe-in-q1-2023/)
+5. [Microsoft pushes for more women in cybersecurity](https://www.theregister.com/2023/04/21/microsoft_women_cybersecurity/)
+6. [Ushering In a New Era for Open-Source Silicon Development](https://www.eetimes.com/ushering-in-a-new-era-for-open-source-silicon-development/)
+7. [Robocorp Awarded "Overall Open Source Data Solution Provider of the Year" for the Second Consecutive Year](https://www.prnewswire.com/news-releases/robocorp-awarded-overall-open-source-data-solution-provider-of-the-year-for-the-second-consecutive-year-301796276.html)
+8. [Aiven launches free plans for PostgreSQL®, MySQL, and Redis® to boost open source adoption and make its platform more accessible](https://www.businesswire.com/news/home/20230412005054/en/Aiven-launches-free-plans-for-PostgreSQL%C2%AE-MySQL-and-Redis%C2%AE-to-boost-open-source-adoption-and-make-its-platform-more-accessible)
+9. [Seven Free Open Source GPT Models Released](https://www.searchenginejournal.com/seven-free-open-source-gpt-models-released/484195/)
+10. [Open-source tool enables air-quality checking on a budget](https://envirotecmagazine.com/2023/04/06/open-source-tool-enables-air-quality-checking-on-a-budget/)
+
+##  2023-03-17
+1. [Linux desktop leaders unite behind Flathub app store. Here's why](https://www.zdnet.com/article/linux-desktop-leaders-unite-behind-flathub-app-store-heres-why/)
+2. [How to replace Windows with Linux Mint on your PC](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/)
+3. [AMD Open-Source Vulkan “AMDVLK” Driver For Linux Gets Updated With Mesh Shading & Steam Play Support](https://wccftech.com/amd-open-source-vulkan-amdvlk-driver-for-linux-gets-updated-with-mesh-shading-steam-play-support/)
+4. [EVerest is an open-source software stack for car charging stations](https://www.cnx-software.com/2023/04/19/everest-open-source-software-stack-for-car-charging-stations/)
+5. [The Evolution of Open Source in Financial Services](https://www.govinfosecurity.com/whitepapers/evolution-open-source-in-financial-services-w-11852)
+6. [IceTeaGroup Releases Open Source Tools For Building Modern Web Applications](https://www.opensourceforu.com/2022/08/iceteagroup-releases-open-source-tools-for-building-modern-web-applications/)
+7. [GitHub India: The Focus is on the Community, Commerce and Country](https://www.opensourceforu.com/2021/08/github-india-the-focus-is-on-the-community-commerce-and-country/)
+8. [RTX Remix Open Source Runtime Gets Released By Nvidia On GitHub](https://www.opensourceforu.com/2023/04/rtx-remix-open-source-runtime-gets-released-by-nvidia-on-github/)
+9. [Open Source Platforms You Can Use for AR and VR](https://www.opensourceforu.com/2022/03/open-source-platforms-you-can-use-for-ar-and-vr/)
+10. [Why and How to Become an Open Source Contributor](https://www.opensourceforu.com/2022/03/why-and-how-to-become-an-open-source-contributor/)
+
 ##  2023-03-17
 1. [Is GPT-4 open-source or not?](https://www.ghacks.net/2023/03/14/gpt-4-open-source-gpt-4-price/)
 2. [Leveraging Hugging Face Models on Azure Machine Learning](https://www.ghacks.net/2023/03/17/leveraging-hugging-face-models-on-azure-machine-learning/)
