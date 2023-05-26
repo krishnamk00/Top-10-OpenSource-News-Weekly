@@ -1,5 +1,53 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+## 2023-05-26
+1. [The future of open source: Red Hat CTO weighs in on acceleration, innovation and integrity](https://siliconangle.com/2023/05/25/future-open-source-red-hat-cto-weighs-acceleration-innovation-integrity/)
+2. [Launching our new Open Source Software Sponsorships Program](https://blog.cloudflare.com/cloudflare-new-oss-sponsorships-program/)
+3. [Open-Source Projects in Generative AI](https://www.topbots.com/open-source-projects-generative-ai/)
+4. [WordPress and Drupal Co-Founders Discuss Open Source, AI, and the Future of the Web](https://wptavern.com/wordpress-and-drupal-co-founders-discuss-open-source-ai-and-the-future-of-the-web)
+5. [Microsoft uses open source to kill WinRAR by adding native .rar support to Windows 11](https://betanews.com/2023/05/23/windows-11-update-microsoft-native-support-rar-archives/)
+6. [PayPal’s Key-Value Store JunoDB Goes Open Source](https://linuxiac.com/paypals-key-value-store-junodb-goes-open-source/)
+7. [Following ChatGPT's success, OpenAI may be releasing an open-source AI model soon](https://www.xda-developers.com/gpt-chatgpt-openai-open-source-ai-model-soon/)
+8. [HPE Ezmeral refresh broadens open-source support and now works with objects and streams](https://siliconangle.com/2023/05/16/hpe-ezmeral-refresh-broadens-open-source-support-now-works-objects-streams/)
+9. [Before you sprinkle AI on all your analytics, check data quality](https://www.theregister.com/2023/05/25/hold_on_with_sprinkling_ai/)
+10. [Open Source Services Market to be Worth $83.87 Billion by 2030: Grand View Research, Inc.](https://www.prnewswire.com/news-releases/open-source-services-market-to-be-worth-83-87-billion-by-2030-grand-view-research-inc-301819565.html)
+
+## 2023-05-19
+1. [OpenAI preps new open-source language model](https://www.thehindu.com/newsletter/newsletter-today-cache/todays-cache-openai-preps-new-open-source-language-model-whatsapp-gets-chat-lock-amazon-announces-lord-of-the-rings-game/article66857091.ece)
+2. [House Panel Advances Bills to Boost CISA’s Oversight of Open Source Software](https://www.nextgov.com/cybersecurity/2023/05/house-panel-advances-bills-boost-cisas-oversight-open-source-software-cyber-training/386494/)
+3. [Solving Open Source Problems With AI Code Generators](https://www.jdsupra.com/legalnews/solving-open-source-problems-with-ai-8618054/)
+4. [GridPlus to open-source wallet firmware in Q3 amid Ledger debacle](https://cointelegraph.com/news/gridplus-open-source-wallet-firmware-ledger-debacle)
+5. [Open source AI model for cybersecurity](https://www.eenewseurope.com/en/open-source-ai-model-for-cybersecurity/)
+6. [Ballerine brings open source to banks’ risk and identity decision-making](https://techcrunch.com/2023/05/23/ballerine-brings-open-source-to-banks-risk-and-identity-decision-making/)
+7. [Stability AI releases StableStudio to become an open-source platform for AI](https://siliconangle.com/2023/05/17/stability-ai-releases-stablestudio-become-open-source-platform-ai/)
+8. [Open-source optimization tool for energy systems offers global coverage](https://www.pv-magazine.com/2023/05/17/open-source-optimization-tool-for-energy-systems-offers-global-coverage/)
+9. [LEAKED INTERNAL GOOGLE DOCUMENT CLAIMS OPEN SOURCE AI WILL OUTCOMPETE GOOGLE AND OPENAI](https://hackaday.com/2023/05/05/leaked-internal-google-document-claims-open-source-ai-will-outcompete-google-and-openai/)
+10. [Open Source MongoDB Alternative FerretDB Now Generally Available](https://www.infoq.com/news/2023/05/ferretdb-mongodb-ga/)
+
+## 2023-05-12
+1. [Insights from the OpenSSF on addressing key challenges](https://www.helpnetsecurity.com/2023/05/18/brian-behlendorf-openssf-open-source-security/)
+2. [Red Hat launches cloud-agnostic application connectivity solution](https://securitybrief.co.nz/story/red-hat-launches-cloud-agnostic-application-connectivity-solution)
+3. [Insight from Open Source Summit](https://siliconangle.com/2023/05/16/three-insights-might-missed-open-source-summit-ossummit/)
+4. [Harnessing open-source power in a multicloud world](https://siliconangle.com/2023/05/26/harnessing-open-source-power-multicloud-world-thecubes-final-analysis-red-hat-summit-rhsummit/)
+5. [UAE's Technology Innovation Institute Launches Open-Source Falcon 40B Large Language Model for Research](https://www.businesswire.com/news/home/20230525005043/en/UAEs-Technology-Innovation-Institute-Launches-Open-Source-Falcon-40B-Large-Language-Model-for-Research-Commercial-Utilization)
+6. [Open-Source Info Stealer RAT Hides in Malicious npm Packages](https://www.govinfosecurity.com/open-source-info-stealer-rat-hides-in-malicious-npm-packages-a-22122)
+7. [Somehow OpenSearch has succeeded](https://www.infoworld.com/article/3695576/somehow-opensearch-has-succeeded.html)
+8. [GridPlus To Open Source Crypto Wallets](https://www.outlookindia.com/business/latest-crypto-news-gridplus-to-open-source-crypto-wallets-matic-usdc-daipay-support-added-to-crypto-com-news-287273)
+9. [Socket Adds ChatGPT to Its Vulnerability Detection Arsenal](https://thenewstack.io/socket-adds-chatgpt-to-its-vulnerability-detection-arsenal/)
+10. [Kubernetes Bill of Materials (KBOM) open-source tool enhances cloud security response to CVEs](https://www.helpnetsecurity.com/2023/05/10/kubernetes-bill-of-materials-kbom/)
+
+## 2023-05-05
+1. [Stability AI releases StableStudio to become an open-source platform for AI](https://siliconangle.com/2023/05/17/stability-ai-releases-stablestudio-become-open-source-platform-ai/)
+2. [NCC Group Releases Open Source Tools for Developers](https://www.securityweek.com/ncc-group-releases-open-source-tools-for-developers-pentesters/)
+3. [API bug in OAuth dev tool opened websites, apps to account hijacking](https://www.scmagazine.com/news/application-security/api-bug-oauth-dev-tool-hijacking)
+4. [GridPlus to open-source wallet firmware in Q3 amid Ledger debacle](https://cointelegraph.com/news/gridplus-open-source-wallet-firmware-ledger-debacle)
+5. [Solving Open Source Problems With AI Code Generators](https://www.jdsupra.com/legalnews/solving-open-source-problems-with-ai-8618054/)
+6. [India bans open source messaging apps for security reasons. FOSS community says good luck](https://www.theregister.com/2023/05/09/india_messaging_apps_ban/)
+7. [AWS open sources Cedar](https://sdtimes.com/open-source/open-source-summit-aws-open-sources-cedar-spdx-release-candidate-3-0-and-openssf-updates/)
+8. [DLUHC begins research into developing open-source MMC system](https://www.building.co.uk/news/dluhc-begins-research-into-developing-open-source-mmc-system/5123089.article)
+9. [Open Source and Patent Rights](https://ipwatchdog.com/2023/05/11/patently-strategic-podcast-open-source-and-patent-rights/id=160761/)
+10. [AMD Plans to Transition from AGESA to Open Source OpenSIL Firmware by 2026 for Enhanced Security & Simplicity](https://www.guru3d.com/news-story/amd-plans-to-transition-from-agesa-to-open-source-opensil-firmware-by-2026-for-enhanced-security-simplicity.html)
+
 ##  2023-04-21
 1. [Kubecon Eu 2023 highlights](https://medium.com/@mike_tyson_cloud/highlight-kubecon-cloudnativecon-europe-2023-1cb2bd453525)
 2. [AI platform "Fujitsu Kozuchi," streamlining access to AI and ML solutions to contribute to a sustainable society](https://www.asiaone.com/business/fujitsu-launches-ai-platform-fujitsu-kozuchi-streamlining-access-ai-and-ml-solutions)
