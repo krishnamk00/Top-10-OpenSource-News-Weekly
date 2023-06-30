@@ -1,5 +1,65 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+## 2023-06-30
+1. [Battle brews between open source and closed AI models](https://www.itbusiness.ca/news/hashtag-trending-jun-27-battle-brews-between-open-source-and-closed-ai-models-j-p-morgan-fined-for-deleting-data-a-company-prepares-to-launch-a-robot-dog-with-a-flamethrower/125416)
+2. [How free and open-source silicon chips are becoming a reality](https://www.theregister.com/2023/06/30/foss_semiconductors/)
+3. [Free open-source software to speed up quantum research](https://www.eenewseurope.com/en/free-open-source-software-to-speed-up-quantum-research/)
+4. [MEDIA BUSINESSBBC News Announces New Open Source Reporting Initiative](https://barrettnewsmedia.com/2023/06/29/bbc-news-announces-new-open-source-reporting-initiative/)
+5. [Why the FDA's SBOM Mandate Changes the Game for OSS Security](https://www.darkreading.com/attacks-breaches/fda-sbom-mandate-changes-oss-security)
+6. [Revolutionizing data management and AI with open-source power: Analysis from Databricks’ Data + AI Summit](https://siliconangle.com/2023/06/30/revolutionizing-data-management-ai-open-source-power-analysis-data-ai-summit-databrickssummit/)
+7. [Microsoft's GitHub under fire for DDoSing crucial open source project website](https://www.theregister.com/2023/06/28/microsofts_github_gmp_project/)
+8. [Meta’s Zuckerberg grilled by senators over ‘leak’ of LLaMA AI model](https://www.oodaloop.com/technology/2023/06/07/metas-zuckerberg-grilled-by-senators-over-leak-of-llama-ai-model/)
+9. [Microsoft Releases New Open Source AI Model Orca](https://www.opensourceforu.com/2023/06/microsoft-releases-open-source-ai-model-orca/)
+10. [Open Source May Yet Eat Google’s and OpenAI’s AI Lunch](https://thenewstack.io/open-source-may-yet-eat-googles-and-openais-ai-lunch/)
+
+## 2023-06-23
+1. [Mend.io Launches Inaugural Open Source Reliability Leaderboard](https://www.darkreading.com/application-security/mend-io-launches-inaugural-open-source-reliability-leaderboard)
+2. [Most popular generative AI projects on GitHub are the least secure](https://www.csoonline.com/article/643505/most-popular-generative-ai-projects-on-github-are-the-least-secure.html)
+3. [The Linux Foundation Announces Schedule for Open Source Summit Europe 2023](https://www.prnewswire.com/news-releases/the-linux-foundation-announces-schedule-for-open-source-summit-europe-2023-301866649.html)
+4. [Brilliant Labs puts AI in front of your eye with its tiny open-source AR lens](https://techcrunch.com/2023/06/27/brilliant-labs-puts-ai-in-front-of-your-eye-with-its-tiny-open-source-ar-lens/)
+5. [VMware, AMD, Samsung and RISC-V push for confidential computing standards](https://www.theregister.com/2023/06/30/confidential_computing_standards/)
+6. [Oracle certifies its database for Arm architecture on-prem and in cloud](https://www.theregister.com/2023/06/29/oracle_certifies_db_for_arm/)
+7. [Snowflake Embraces Containers Alongside DevOps Workflows](https://cloudnativenow.com/features/snowflake-embraces-containers-alongside-devops-workflows/)
+8. [Virtana Buys OpsCruise to Bring Observability to Kubernetes](https://cloudnativenow.com/features/virtana-buys-opscruise-to-bring-observability-to-kubernetes/)
+9. [Docker Inc. Adds File Synchronization by Acquiring Mutagen](https://cloudnativenow.com/features/docker-inc-adds-file-synchronization-by-acquiring-mutagen/)
+10. [92% of programmers are using AI tools, says GitHub developer survey](https://www.zdnet.com/article/github-developer-survey-finds-92-of-programmers-using-ai-tools/)
+
+## 2023-06-16
+1. [Proton Launches Open Source Password Manager](https://www.securityweek.com/proton-launches-open-source-password-manager/)
+2. [CCP for open source intelligence for Military](https://www.theepochtimes.com/ccp-harvesting-open-source-intelligence-for-military-advantage-report_5357576.html)
+3. [YouTube Tells Open-Source Privacy Software ‘Invidious’ to Shut Down](https://www.vice.com/en/article/88xxex/youtube-tells-open-source-privacy-software-invidious-to-shut-down)
+4. [Huawei claims it’s ready to ship entire 5.5G networks – whatever they are – in 2024](https://www.theregister.com/2023/06/30/huawei_5point5_g_2024_boast/)
+5. [Databricks puts cards on the table format as Snowflake looks for more players](https://www.theregister.com/2023/06/29/databricks_snowflake_tables/)
+6. [Getting Data Architecture Right in Cloud-Native Apps](https://cloudnativenow.com/features/getting-data-architecture-right-in-cloud-native-apps/)
+7. [2023 Benchmark Kubernetes Report: 6 K8s Reliability Missteps](https://cloudnativenow.com/features/2023-benchmark-kubernetes-report-6-k8s-reliability-missteps/)
+8. [How Grafana made observability accessible](https://www.infoworld.com/article/3699258/how-grafana-made-observability-accessible.html)
+9. [Somehow OpenSearch has succeeded](https://www.infoworld.com/article/3695576/somehow-opensearch-has-succeeded.html)
+10. [Meta open-sources ‘significantly faster’ build system](https://www.infoworld.com/article/3693049/meta-open-sources-significantly-faster-build-system.html)
+
+
+## 2023-06-9
+1. [Zeroscope: A Free and Open-Source Text-to-Video Model](https://mpost.io/zeroscope-a-free-and-open-source-text-to-video-model/)
+2. [MosaicML releases open-source 30B parameter AI model for enterprise applications](https://siliconangle.com/2023/06/22/mosaicml-releases-open-source-30b-parameter-ai-model-enterprise-applications/)
+3. [New developments at Opensource.com](https://opensource.com/article/23/6/new-developments-opensourcecom)
+4. [Cisco buys SamKnows to give ThousandEyes a look at millions of endpoints](https://www.theregister.com/2023/06/27/cisco_thousandeyes_samknows/)
+5. [Bluesky Social just took a big open-source step forward](https://www.zdnet.com/article/bluesky-social-just-took-a-big-open-source-step-forward/)
+6. [Serverless is the future of PostgreSQL](https://www.infoworld.com/article/3698688/serverless-is-the-future-of-postgresql.html)
+7. [Yugabyte adds multiregion Kubernetes support to YugabyteDB 2.18](https://www.infoworld.com/article/3696939/yugabyte-adds-multiregion-kubernetes-support-to-yugabytedb-218.html)
+8. [Integral Announces The Company’s First 0pen Source Project, Robin AI](https://www.opensourceforu.com/2023/06/integral-announces-open-source-project-robin-ai/)
+9. [GM Creates Open Source uProtocol and Invites Automakers to Adopt It](https://www.devx.com/uncategorized/gm-creates-open-source-uprotocol-and-invites-automakers-to-adopt-it-revolutionizing-automotive-software-development/)
+10. [“I Wish The Industry Would Not Follow This Ever Increasing Hype Cycle For New Stuff”](https://www.opensourceforu.com/2022/08/i-wish-the-industry-would-not-follow-this-ever-increasing-hype-cycle-for-new-stuff/)
+
+## 2023-06-02
+1. [Open source WiFi sees successful hardware and software validation](https://www.eenewseurope.com/en/open-source-wifi-sees-successful-hardware-and-software-validation/)
+2. [Can You be Cloud Native Without Being in the Cloud?](https://cloudnativenow.com/features/can-you-be-cloud-native-without-being-in-the-cloud/)
+3. [Traefik Labs Adds API Hub for Kubernetes Environments](https://cloudnativenow.com/features/traefik-labs-adds-api-hub-for-kubernetes-environments/)
+4. [Open source and Linux skills are still in demand in a dark economy](https://www.zdnet.com/article/open-source-and-linux-skills-still-in-demand-in-a-dark-economy/)
+5. [Why did Databricks open source its LLM in the form of Dolly 2.0?](https://www.infoworld.com/article/3693349/why-did-databricks-open-source-its-llm-in-the-form-of-dolly-20.html)
+6. [Why the FreeBSD open source project has endured](https://www.infoworld.com/article/3699263/happy-30th-freebsd-why-the-freebsd-open-source-project-has-endured.html)
+7. [Non-free programs are a threat to everyone’s freedom](https://www.opensourceforu.com/2023/03/non-free-programs-are-a-threat-to-everyones-freedom/)
+8. [An Open Source Benchmark To Empower Assembly Robots With Manipulation and Planning Skills](https://www.opensourceforu.com/2023/06/an-open-source-benchmark-to-empower-assembly-robots-with-manipulation-and-planning-skills/)
+9. [Databricks Gains MosaicML and Its Generative AI for $1.3 Billion](https://www.techrepublic.com/article/databricks-gains-mosaicml-generative-ai/)
+10. [Cosmonic Open Source Project Integrates Nomad and Cilium](https://cloudnativenow.com/features/cosmonic-open-source-project-integrates-nomad-and-cilium/)
 ## 2023-05-26
 1. [The future of open source: Red Hat CTO weighs in on acceleration, innovation and integrity](https://siliconangle.com/2023/05/25/future-open-source-red-hat-cto-weighs-acceleration-innovation-integrity/)
 2. [Launching our new Open Source Software Sponsorships Program](https://blog.cloudflare.com/cloudflare-new-oss-sponsorships-program/)
