@@ -1,5 +1,41 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+## 2023-07-21
+1. [Meta and Microsoft Launch Open-source AI Model Llama 2](https://bitcoinworld.co.in/meta-and-microsoft-launch-open-source-ai-model-llama-2/)
+2. [NVIDIA GeForce RTX 40 GPUs Receive Initial Open-Source Support In Mesa](https://wccftech.com/nvidia-geforce-rtx-40-gpus-receive-initial-open-source-support-in-mesa/)
+3. [Checkmarx details first open-source supply chain attacks against the banking sector](https://siliconangle.com/2023/07/21/checkmarx-details-first-open-source-supply-chain-attacks-banking-sector/)
+4. [European and UK startups lead the way in open source AI despite the looming threat of regulation](https://tech.eu/2023/07/20/european-and-uk-startups-lead-the-way-in-open-source-ai/)
+5. [Arm expands open-source partnerships to reinforce commitment to open collaboration](https://www.newelectronics.co.uk/content/blogs/arm-expands-open-source-partnerships-to-reinforce-commitment-to-open-collaboration)
+6. [Microsoft’s M12 Fund and GitHub Invest in Open-source Low-Code Platform ToolJet](https://www.businesswire.com/news/home/20230717533783/en/Microsoft%E2%80%99s-M12-Fund-and-GitHub-Invest-in-Open-source-Low-Code-Platform-ToolJet)
+7. [CISA makes more open-source cloud protection tools available](https://siliconangle.com/2023/07/19/cisa-makes-more-open-source-cloud-protection-tools-available/)
+8. [Oracle takes on Red Hat in Linux code fight](https://www.zdnet.com/article/oracle-takes-on-red-hat-in-linux-code-fight/)
+9. [Creating Your Cloud-Native Data Strategy](https://cloudnativenow.com/features/creating-your-cloud-native-data-strategy/)
+10. [Chivas Brothers makes its carbon saving technology ‘open source’](https://dramscotland.co.uk/2023/07/19/chivas-brothers-makes-its-carbon-saving-technology-open-source/)
+
+## 2023-07-14
+1. [Open Source Services Market is expected to witness Incredible Growth forecast 2031 - IBM, SUSE, Percona, MuleSoft, Wipro](https://industrytoday.co.uk/pr_and_marketing/open-source-services-market-is-expected-to-witness-incredible-growth-forecast-2031-ibm-suse-percona-mulesoft-wipro#)
+2. [Over half of AI open source projects contain vulnerabilities](https://betanews.com/2023/07/20/over-half-of-ai-open-source-projects-contain-vulnerabilities/)
+3. [First known open-source software attacks on banking sector could kickstart long-running trend](https://www.itpro.com/security/cyber-attacks/first-known-open-source-software-attacks-on-banking-sector-could-kickstart-long-running-trend)
+4. [Wing Cloud announces $20 million in Seed funding for open-source programming language](https://www.calcalistech.com/ctechnews/article/sy3ro1149h)
+5. [VMware Adds Self-Hosted Edition of Tanzu Control Plane](https://cloudnativenow.com/features/vmware-adds-self-hosted-edition-of-tanzu-control-plane/)
+6. [92% of programmers are using AI tools, says GitHub developer survey](https://www.zdnet.com/article/github-developer-survey-finds-92-of-programmers-using-ai-tools/)
+7. [Chainguard Adds Automatic SBOM Generation Capability](https://cloudnativenow.com/features/chainguard-adds-automatic-sbom-generation-capability/)
+8. [EU Cyber Resilience Act a ‘death knell’ for open source software, critics warn](https://www.itpro.com/software/open-source/eu-cyber-resilience-act-a-death-knell-for-open-source-software-critics-warn)
+9. [Meta leans on 'wisdom of crowds' in AI model release](https://www.npr.org/2023/07/19/1188543421/metas-nick-clegg-on-the-companys-decision-to-offer-ai-tech-as-open-source-softwa)
+10. [Emerging Report Highlights Disruptive Technologies in Open Source Forum Software Market by 2023-2030](https://industrytoday.co.uk/it/emerging-report-highlights-disruptive-technologies-in-open-source-forum-software-market-by-2023-2030-discourse-php-bb-vanilla)
+
+## 2023-07-07
+1. [China releases its first open-source operating system to cut reliance on US tech](https://www.straitstimes.com/asia/east-asia/china-releases-its-first-open-source-operating-system-to-cut-reliance-on-us-tech)
+2. [JFrog Curation blocks malicious open source software packages](https://www.infoworld.com/article/3703049/jfrog-curation-blocks-malicious-open-source-software-packages.html)
+3. [MOVEit body count closes in on 400 orgs, 20M+ individuals](https://www.theregister.com/2023/07/20/moveit_victim_count/?td=rt-3a)
+4. [Effective Code Documentation for Containerized Applications](https://cloudnativenow.com/features/effective-code-documentation-for-containerized-applications/)
+5. [BeagleV-Ahead: A Revolutionary Open-Source RISC-V Single Board Computer](https://www.guru3d.com/news-story/beaglev-ahead-a-revolutionary-open-source-risc-v-single-board-computer-(sbc).html)
+6. [Security Threats to High Impact Open Source Large Language Models](https://hackernoon.com/security-threats-to-high-impact-open-source-large-language-models)
+7. [Open-source supply chain attacks expand to the banking sector](https://therecord.media/banks-open-source-software-supply-chain-cyberattacks-npm)
+8. [Salesforce Introduces XGen-7B, A Large Language Model With Longer Context Support](https://www.forbes.com/sites/janakirammsv/2023/07/03/salesforce-introduces-xgen-7b-a-large-language-model-with-longer-context-support/?sh=54095b1d5889)
+9. [Can Open Source save AI?](https://gigaom.com/2023/07/17/can-open-source-save-ai/)
+10. [Open-source technologies and cloud computing will continue to power India’s digital economy](https://economictimes.indiatimes.com/tech/information-tech/open-source-technologies-and-cloud-computing-will-continue-to-power-indias-digital-economy-says-karmendra-trivedi-of-canonical-india/articleshow/101446012.cms)
+
 ## 2023-06-30
 1. [Battle brews between open source and closed AI models](https://www.itbusiness.ca/news/hashtag-trending-jun-27-battle-brews-between-open-source-and-closed-ai-models-j-p-morgan-fined-for-deleting-data-a-company-prepares-to-launch-a-robot-dog-with-a-flamethrower/125416)
 2. [How free and open-source silicon chips are becoming a reality](https://www.theregister.com/2023/06/30/foss_semiconductors/)
