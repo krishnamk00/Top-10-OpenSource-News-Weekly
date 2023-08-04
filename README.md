@@ -1,5 +1,30 @@
 ## WEEKLY top #10 news from open source world! Mainly Cloud related news...
 
+## 2023-08-04
+1. [GitHub, Hugging Face, urge EU to relax open-source AI rules](https://cointelegraph.com/news/github-hugging-face-urge-eu-relax-open-source-ai-rules)
+2. [Alibaba takes AI fight to Meta with 2 open-source models](https://www.newsbytesapp.com/news/science/alibaba-launches-two-open-source-ai-models/story)
+3. [Assess multi-cloud security with the open-source CNAPPgoat project](https://www.helpnetsecurity.com/2023/08/03/cnappgoat-open-source-assess-multi-cloud-security/)
+4. [VMware Extends XDR to Containers and Kubernetes](https://cloudnativenow.com/features/vmware-extends-xdr-to-containers-and-kubernetes/)
+5. [Meta’s Open Source Llama Upsets the AI Horse Race](https://www.wired.com/story/metas-open-source-llama-upsets-the-ai-horse-race/)
+6. [Microsoft concession: You can run our wares in AWS virtual desktop under 'revised policy'](https://www.theregister.com/2023/08/02/microsoft_concession_you_can_run/)
+7. [SAP CEO push for cloud-only 'innovation' shatters users' trust in German-speaking heartlands](https://www.theregister.com/2023/08/03/sap_ceo_push_for_cloudonly/)
+7. [BloodHound Rewrites Open Source Tool, Launches Community Edition](https://www.darkreading.com/dr-tech/bloodhound-open-source-community-edition)
+8. [The Linux Community Is Circumventing Red Hat's Controversial New Strategy](https://www.vice.com/en/article/pka3xz/the-linux-community-is-circumventing-red-hats-controversial-new-strategy)
+9. [Big Tech's going to love India's new personal data protection bill](https://www.theregister.com/2023/08/04/india_personal_data_protection_bill/)
+10. [New Mirantis Open Source Project Streamlines Kubernetes Management](https://www.businesswire.com/news/home/20230801142043/en/New-Mirantis-Open-Source-Project-Streamlines-Kubernetes-Management)
+
+## 2023-07-28
+1. [Intel Seeks To Win Over AI Developers With Open-Source Reference Kits](https://www.crn.com/news/software/intel-seeks-to-win-over-ai-developers-with-open-source-reference-kits)
+2. [Polygon Zero and Matter Labs square off over open-source norms](https://blockworks.co/news/polygon-zero-matter-labs-open-source-norms)
+3. [UNLEASHING AN OPEN SOURCE TORRENT ON CPUS AND AI ENGINES](https://www.nextplatform.com/2023/08/02/unleashing-an-open-source-torrent-on-cpus-and-ai-engines/)
+4. [Cloud-Native Security and the Risks of AI](https://cloudnativenow.com/features/cloud-native-security-and-the-risks-of-ai/)
+5. [IBM and NASA Open source AI model to study climate data](https://www.siliconrepublic.com/business/ibm-nasa-ai-foundation-model-open-source-hugging-face)
+6. [Endor Labs, which helps companies secure their open source packages, raises $70M](https://techcrunch.com/2023/08/03/endor-labs-which-helps-companies-secure-their-open-source-packages-raises-70m/)
+7. [Russian university to offer open source investigation course taught by analysts from pro-war Telegram channel Rybar](https://meduza.io/en/news/2023/08/02/russian-university-to-offer-open-source-investigation-course-taught-by-analysts-from-pro-war-telegram-channel-rybar)
+8. [Generative Artificial Intelligence: The Progress and the Future](https://www.opensourceforu.com/2023/07/generative-artificial-intelligence-progress-future/)
+9. [Google wants to 'supercharge Assistant' with AI as Meta gives bots a personality](https://www.theregister.com/2023/08/01/google_meta_ai_chatbots/)
+10. [Rethinking Reality: The Profound Role of Open Source in AI Development](https://uxplanet.org/rethinking-reality-the-profound-role-of-open-source-in-ai-development-6933fb9fd406)
+
 ## 2023-07-21
 1. [Meta and Microsoft Launch Open-source AI Model Llama 2](https://bitcoinworld.co.in/meta-and-microsoft-launch-open-source-ai-model-llama-2/)
 2. [NVIDIA GeForce RTX 40 GPUs Receive Initial Open-Source Support In Mesa](https://wccftech.com/nvidia-geforce-rtx-40-gpus-receive-initial-open-source-support-in-mesa/)
