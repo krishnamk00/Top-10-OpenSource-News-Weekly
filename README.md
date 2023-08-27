@@ -1,4 +1,40 @@
-## WEEKLY top #10 news from open source world! Mainly Cloud related news...
+## WEEKLY 10 TOP NEWS from the Open Source world... (Cloud, AI, Software, CyberSecurity, Crypto, etc.) 
+
+## 2023-08-25
+1. [Terraform Community Breaks Ground on Open-Source Alternative](https://www.ccsinsight.com/blog/terraform-community-breaks-ground-on-open-source-alternative/)
+2. [OpenSSF launches Open Source Consumption Manifesto](https://sdtimes.com/open-source/openssf-launches-open-source-consumption-manifesto/)
+3. [Open-Source vs Proprietary AI: Epic Battle for Dominance](https://www.devx.com/news/open-source-vs-proprietary-ai-epic-battle-for-dominance/)
+4. [Tech giants back $235M round for open-source AI startup Hugging Face](https://siliconangle.com/2023/08/24/tech-giants-back-235m-round-open-source-ai-startup-hugging-face/)
+5. [Meta lets Code Llama run riot under almost-open terms](https://www.theregister.com/2023/08/25/meta_lets_code_llama_run/)
+6. [NVIDIA Releases ‘Neuralangelo’ Open Source Code](https://www.awn.com/news/nvidia-releases-neuralangelo-open-source-code)
+7. [Datadog Report Shows More Reliance on Serverless Computing](https://cloudnativenow.com/features/datadog-report-shows-more-reliance-on-serverless-computing/)
+8. [UN cybercrime treaty risks becoming a global surveillance pact](https://www.theregister.com/2023/08/24/un_cybercrime_treaty/?td=rt-3a)
+9. [As Gov’t Agencies Turn to K8s, Cost Control is Critical](https://cloudnativenow.com/features/as-govt-agencies-turn-to-k8s-cost-control-is-critical/)
+10. [Open Source Intelligence (OSINT) Market Size, Top Companies, Industry Analysis, Forecast Report 2023-2028](https://industrytoday.co.uk/it/open-source-intelligence-osint-market-size-top-companies-industry-analysis-forecast-report-2023-2028#)
+
+## 2023-08-18
+1. [Microsoft turns to Databricks for more open-source AI models](https://techmonitor.ai/technology/ai-and-automation/microsoft-turns-to-databricks-for-open-source-ai)
+2. [Arthur launches open-source tool to help companies make data-driven decisions about LLMs](https://siliconangle.com/2023/08/17/arthur-launches-open-source-tool-help-companies-make-data-driven-decisions-llms/)
+3. [Prefect Creates Open Source Committee to Oversee the Growth of Marvin](https://www.prnewswire.com/news-releases/prefect-creates-open-source-committee-to-oversee-the-growth-of-marvin-welcomes-jason-liu-as-core-team-member-301908550.html)
+4. [How Important Is Open Source to AI Adoption?](https://thenewstack.io/how-important-is-open-source-to-ai-adoption/)
+5. [Airbyte Makes API and Terraform Provider Available for Open Source](https://www.businesswire.com/news/home/20230822504993/en/Airbyte-Makes-API-and-Terraform-Provider-Available-for-Open-Source)
+6. [OpenCopilot Aims to Be Your Open Source AI Copilot](https://www.webpronews.com/opencopilot-aims-to-be-your-open-source-ai-copilot/)
+7. [Crypto Biz: Worldcoin plans to open source data, MicroStrategy preps for BTC halving, and more](https://cointelegraph.com/news/crypto-biz-worldcoin-plans-open-source-data-microstrategy-preps-btc-halving)
+8. [Suse, Oracle, CIQ join forces to fuel RHEL-compatible Linux distros](https://www.infoworld.com/article/3704728/suse-oracle-ciq-join-forces-to-fuel-rhel-compatible-linux-distros.html)
+9. [VMware sees no need to Arm itself for multi-architecture multi-cloud](https://www.theregister.com/2023/08/23/vmware_for_arm_parked/?td=rt-9cs)
+10. [SandboxAQ launches open-source meta-library of cryptographic algorithms](https://www.helpnetsecurity.com/2023/08/09/sandboxaq-sandwich/)
+
+## 2023-08-11
+1. [Intel agencies just ‘scratching the surface’ on open source initiatives](https://federalnewsnetwork.com/intelligence-community/2023/08/intel-agencies-just-scratching-the-surface-on-open-source-initiatives/)
+2. [Reducing Mean Time To Remediation for Open Source Vulnerabilities](https://www.activestate.com/blog/reducing-mean-time-to-remediation-for-open-source-vulnerabilities/)
+3. [Alibaba Cloud contributes to the open-source community](https://dcnnmagazine.com/data/alibaba-cloud-contributes-to-the-open-source-community/)
+4. [IBM and NASA Release Open Source Geospatial AI Foundation Model](https://www.satellitetoday.com/imagery-and-sensing/2023/08/04/ibm-and-nasa-release-open-source-geospatial-ai-foundation-model/)
+5. [Buoyant Extends Linkerd Service Mesh Across Multiple Kubernetes Clusters](https://cloudnativenow.com/features/buoyant-extends-linkerd-service-mesh-across-multiple-kubernetes-clusters/) 
+6. [Scaling, Security Driving Adoption of Calico Networking Software](https://cloudnativenow.com/features/scaling-security-driving-adoption-of-calico-networking-software/)
+7. [Microsoft makes some certification exams open book](https://www.theregister.com/2023/08/25/microsoft_certification_exams_to_become/)
+8. [OpenWallet Foundation Announces Google as a Premier Member, New Code Contributions from MOSIP](https://www.prnewswire.com/news-releases/openwallet-foundation-announces-google-as-a-premier-member-new-code-contributions-from-mosip-301907454.html)
+9. [Europe's tough new rules for Big Tech start today. Is anyone ready?](https://www.theregister.com/2023/08/25/google_eu_dsa/?td=rt-3a)
+10. [Generative Artificial Intelligence: The Progress and the Future](https://www.opensourceforu.com/2023/07/generative-artificial-intelligence-progress-future/)
 
 ## 2023-08-04
 1. [GitHub, Hugging Face, urge EU to relax open-source AI rules](https://cointelegraph.com/news/github-hugging-face-urge-eu-relax-open-source-ai-rules)
@@ -8,7 +44,6 @@
 5. [Meta’s Open Source Llama Upsets the AI Horse Race](https://www.wired.com/story/metas-open-source-llama-upsets-the-ai-horse-race/)
 6. [Microsoft concession: You can run our wares in AWS virtual desktop under 'revised policy'](https://www.theregister.com/2023/08/02/microsoft_concession_you_can_run/)
 7. [SAP CEO push for cloud-only 'innovation' shatters users' trust in German-speaking heartlands](https://www.theregister.com/2023/08/03/sap_ceo_push_for_cloudonly/)
-7. [BloodHound Rewrites Open Source Tool, Launches Community Edition](https://www.darkreading.com/dr-tech/bloodhound-open-source-community-edition)
 8. [The Linux Community Is Circumventing Red Hat's Controversial New Strategy](https://www.vice.com/en/article/pka3xz/the-linux-community-is-circumventing-red-hats-controversial-new-strategy)
 9. [Big Tech's going to love India's new personal data protection bill](https://www.theregister.com/2023/08/04/india_personal_data_protection_bill/)
 10. [New Mirantis Open Source Project Streamlines Kubernetes Management](https://www.businesswire.com/news/home/20230801142043/en/New-Mirantis-Open-Source-Project-Streamlines-Kubernetes-Management)
