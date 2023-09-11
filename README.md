@@ -1,5 +1,29 @@
 ## WEEKLY 10 TOP NEWS from the Open Source world... (Cloud, AI, Software, CyberSecurity, Crypto, etc.) 
 
+## 2023-09-08
+1. [Meta Platforms reportedly building open-source generative AI system to rival OpenAI’s ChatGPT](https://siliconangle.com/2023/09/10/meta-platforms-reportedly-building-open-source-generative-ai-system-rival-openais-chatgpt/)
+2. [A consortium by SiloGen and TurkuNLP develops Europe's largest open-source LLMs](https://tech.eu/2023/08/30/silogen-turkunlp-consortium-develops-europes-largest-open-source-language-models/)
+3. [Cloud OSS/BSS Market May See a Big Move | Microsoft, Ericsson, Nokia, Oracle, Huawei](https://industrytoday.co.uk/it/cloud-ossbss-market-may-see-a-big-move-microsoft-ericsson-nokia-oracle-huawei)
+4. [Open Source Observability Reduces Vulnerability Risk](https://www.activestate.com/blog/open-source-observability-reduces-vulnerability-risk/)
+5. [D2iQ Delivers on Generative AI Promise to Simplify Kubernetes](https://cloudnativenow.com/features/d2iq-delivers-on-generative-ai-promise-to-simplify-kubernetes/)
+6. [Ransomware fiends pounce on Cisco VPN brute-force zero-day flaw](https://www.theregister.com/2023/09/08/cisco_zeroday_vpn_bug/)
+7. [Are We Approaching the End of Open Source](https://www.itprotoday.com/software-development/are-we-approaching-end-open-source)
+8. [Cosmonic Commits to Next Iteration of Wasm Standard](https://cloudnativenow.com/features/cosmonic-commits-to-next-iteration-of-wasm-standard/)
+9. [Measuring Up: How to Calculate the Size of Objects in Open Source Material](https://www.bellingcat.com/resources/2023/09/07/measuring-up-how-to-calculate-the-size-of-objects-in-open-source-material/)
+10. [Open-Source vs Proprietary AI: Epic Battle for Dominance](https://www.devx.com/news/open-source-vs-proprietary-ai-epic-battle-for-dominance/)
+
+## 2023-09-01
+1. [Summay List of items announced in Google Cloud Next 2023](https://cloud.google.com/blog/topics/google-cloud-next/next-2023-wrap-up)
+2. [MITRE Caldera for OT now available as extension to open-source platform](https://www.helpnetsecurity.com/2023/09/06/mitre-caldera-for-ot/)
+3. [Kubernetes: The ‘All Things’ Platform](https://cloudnativenow.com/features/kubernetes-the-all-things-platform/)
+4. [Microsoft, recently busted by Beijing, thinks it's across China's ever-changing cyber-offensive](https://www.theregister.com/2023/09/08/microsoft_east_asia_infosec_report/?td=rt-3a)
+5. [Skopenow Tops Frost Radar™ for Open-Source Intelligence Solutions](https://www.businesswire.com/news/home/20230906316248/en/Skopenow-Tops-Frost-Radar%E2%84%A2-for-Open-Source-Intelligence-Solutions)
+6. [Splinter group officially launches OpenTF fork of HashiCorp Terraform](https://techcrunch.com/2023/08/28/splinter-group-officially-launches-opentf-fork-of-hashicorp-terraform/)
+7. [How Microsoft Misled the Public By Professing Love for Open Source](https://hackernoon.com/how-microsoft-misled-the-public-by-professing-love-for-open-source)
+8. [Kubecost Embraces GCP to Control Kubernetes Costs](https://cloudnativenow.com/features/kubecost-embraces-gcp-to-control-kubernetes-costs/)
+9. [What is LLVM? The power behind Swift, Rust, Clang, and more](https://www.infoworld.com/article/3247799/what-is-llvm-the-power-behind-swift-rust-clang-and-more.html)
+10. [How Startups Thrive through Open-Source Contributions](https://memuk.org/technology/academia-rd/open-source-odyssey-how-startups-thrive-through-open-source-contributions-82919)
+    
 ## 2023-08-25
 1. [Terraform Community Breaks Ground on Open-Source Alternative](https://www.ccsinsight.com/blog/terraform-community-breaks-ground-on-open-source-alternative/)
 2. [OpenSSF launches Open Source Consumption Manifesto](https://sdtimes.com/open-source/openssf-launches-open-source-consumption-manifesto/)
