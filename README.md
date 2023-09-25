@@ -1,5 +1,28 @@
 ## WEEKLY 10 TOP NEWS from the Open Source world... (Cloud, AI, Software, CyberSecurity, Crypto, etc.) 
 
+## 2023-09-22
+1. [Linux Foundation to Fork HashiCorp Terraform into ‘OpenTofu’](https://thenewstack.io/linux-foundation-joins-opentf-to-fork-for-terraform-into-opentofu/)
+2. [CISA OUTLINES PLANS TO TACKLE OPEN SOURCE SOFTWARE SECURITY](https://duo.com/decipher/cisa-outlines-plans-to-tackle-open-source-software-security)
+3. [OneAPI Computing Aims to Ease Multi-Architecture Computing](https://thenewstack.io/oneapi-computing-aims-to-ease-multi-architecture-computing/)
+4. [F5 Provides Cost And Performance Enhancing Technology In Support Of Open Source Telemetry Project](https://www.scoop.co.nz/stories/WO2309/S00133/f5-provides-cost-and-performance-enhancing-technology-in-support-of-open-source-telemetry-project.htm)
+5. [Vianai Introduces Powerful Open-Source Toolkit to Verify Accuracy of LLM-Generated Responses](https://www.prnewswire.com/news-releases/vianai-introduces-powerful-open-source-toolkit-to-verify-accuracy-of-llm-generated-responses-301929386.html)
+6. [Oracle Bets on Graal to Run Cloud-Native Java Apps Faster](https://cloudnativenow.com/topics/cloudnativedevelopment/oracle-bets-on-graal-to-run-cloud-native-java-apps-faster/)
+7. [Red Hat Previews OpenShift Platform for AI Models](https://cloudnativenow.com/topics/cloudnativedevelopment/red-hat-previews-openshift-platform-for-ai-models/)
+8. [Deploy Multilanguage Apps to Kubernetes with Open Source Korifi](https://thenewstack.io/deploy-multilanguage-apps-to-kubernetes-with-open-source-korifi/)
+9. [OpenSSF Welcomes New Members in Support of Securing Open Source Software](https://www.prnewswire.com/news-releases/openssf-welcomes-new-members-in-support-of-securing-open-source-software-301929689.html)
+10. [Open Source Can Deflate the ‘Threat’ of AI ](https://thenewstack.io/open-source-can-deflate-the-threat-of-ai/)
+
+## 2023-09-15
+1. [Harness launches Gitness, an open-source GitHub competitor](https://techcrunch.com/2023/09/21/oh-gitness-harness-launches-gitness-an-open-source-github-competitor/)
+2. [Washington summit grapples with securing open source software](https://cyberscoop.com/openssf-open-source-security-summit/)
+3. [Red Hat Collaborates with Intel to Deliver Open Source Industrial Automation](https://www.businesswire.com/news/home/20230919278918/en/Red-Hat-Collaborates-with-Intel-to-Deliver-Open-Source-Industrial-Automation-to-the-Manufacturing-Shop-Floor) 
+4. [Fujitsu and the Linux Foundation launch Fujitsu's automated machine learning and AI fairness technologies](https://www.prnewswire.com/news-releases/fujitsu-and-the-linux-foundation-launch-fujitsus-automated-machine-learning-and-ai-fairness-technologies-as-linux-foundation-hosted-open-source-projects-301928582.html)
+5. [UK-US data deal could hinge on fate of legal challenges to EU arrangement](https://www.theregister.com/2023/09/22/uk_us_data_deal/)
+6. [Cloud is here to stay, but customers are starting to question the cost](https://www.theregister.com/2023/09/11/cloud_costs_feature/?td=rt-9cs)
+7. [How to Calculate the Size of Objects in Open Source Material](https://www.bellingcat.com/resources/2023/09/07/measuring-up-how-to-calculate-the-size-of-objects-in-open-source-material/)
+8. [Akuity Launches Kargo - a New Open Source Project to Automate the Declarative Promotion of Changes](https://www.businesswire.com/news/home/20230918552920/en/Akuity-Launches-Kargo---a-New-Open-Source-Project-to-Automate-the-Declarative-Promotion-of-Changes-Across-Multiple-Application-Environments)
+9. [Presto Foundation Announces Contributions by IBM and Uber](https://www.businesswire.com/news/home/20230920470086/en)
+10. [Open Source, the Harbinger of AI Revolution](https://analyticsindiamag.com/open-source-will-break-all-shackles-and-win/)
 ## 2023-09-08
 1. [Meta Platforms reportedly building open-source generative AI system to rival OpenAI’s ChatGPT](https://siliconangle.com/2023/09/10/meta-platforms-reportedly-building-open-source-generative-ai-system-rival-openais-chatgpt/)
 2. [A consortium by SiloGen and TurkuNLP develops Europe's largest open-source LLMs](https://tech.eu/2023/08/30/silogen-turkunlp-consortium-develops-europes-largest-open-source-language-models/)
