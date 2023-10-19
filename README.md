@@ -1,5 +1,53 @@
 ## WEEKLY 10 TOP NEWS from the Open Source world... (Cloud, AI, Software, CyberSecurity, Crypto, etc.) 
 
+##  2023-10-20
+1. [Microsoft announces Radius, a new open source platform for cloud-based apps](https://www.neowin.net/news/microsoft-announces-radius-a-new-open-source-platform-for-cloud-based-apps/)
+2. [AMD to acquire Nod.ai to boost open source AI software capabilities](https://www.arnnet.com.au/article/709098/amd-acquire-nod-ai-boost-open-source-ai-software-capabilities/?fp=2&fpid=1)
+3. [Can the open source be saved from the EU's Cyber Resilience Act?](https://www.theregister.com/2023/10/13/can_open_source_be_saved/)
+4. [Google Cloud’s ‘State of Kubernetes Cost Optimization Report’](https://cloudnativenow.com/topics/the-aha-moments-in-google-clouds-state-of-kubernetes-cost-optimization-report/)
+5. [Software Supply Chain Security Attacks Up 200%: New Sonatype Research](https://www.techrepublic.com/article/sonatype-state-software-supply-chain-security/)
+6. [PSA and UOB Recognized for Creative Use of Open Source at the Red Hat APAC](https://www.businesswire.com/news/home/20231017737219/en/PSA-and-UOB-Recognized-for-Creative-Use-of-Open-Source-at-the-Red-Hat-APAC-Innovation-Awards-2023-for-Singapore)
+7. [French startup Neurxcore has launched a Neural Processor Units (NPU) AI chiplet](https://www.eenewseurope.com/en/french-ai-chiplet-boost-for-open-source-nvidia-accelerator/)
+8. [Meet two open source challengers to OpenAI’s ‘multimodal’ GPT-4V](https://techcrunch.com/2023/10/18/meet-the-open-source-multimodal-models-rivaling-gpt-4v/)
+9. [Microsoft’s F# refines loops in computation expressions](https://www.infoworld.com/article/3707809/microsofts-f-refines-loops-in-computation-expressions.html)
+10. [US Government Releases Security Guidance for Open Source Software in OT, ICS](https://www.securityweek.com/us-government-releases-open-source-security-guidance-for-ot-ics/)
+
+##  2023-10-13
+1. [OpenSSF launches Malicious Packages repository to track reports of compromised open source packages](https://sdtimes.com/security/openssf-launches-malicious-packages-repository-to-track-reports-of-compromised-open-source-packages/)
+2. [CNCF and Tetrate Branch Out to Offer Istio Certification](https://cloudnativenow.com/features/cncf-and-tetrate-branch-out-to-offer-istio-certification/)
+3. [Tidelift improves software supply chain security with open source intelligence capabilities](https://www.helpnetsecurity.com/2023/10/12/tidelift-open-source-package/)
+4. [How AlmaLinux stays Red Hat Enterprise Linux compatible without Red Hat code](https://www.zdnet.com/article/how-almalinux-stays-red-hat-enterprise-linux-compatible-without-red-hat-code/)
+5. [Unified Kubernetes Monitoring With OpenTelemetry](https://cloudnativenow.com/news/unified-kubernetes-monitoring-with-opentelemetry/)
+6. [Biden has brought the ban hammer down on US export of AI chips to China](https://www.theregister.com/2023/10/19/china_biden_ai/)
+7. [Streaming Video Technology Alliance Announces First Public Open Source Repository: Common Media Library](https://www.businesswire.com/news/home/20231019229734/en/Streaming-Video-Technology-Alliance-Announces-First-Public-Open-Source-Repository-Common-Media-Library)
+8. [How Cloud-Native Zero-Trust Could Up its Game With Permissions](https://cloudnativenow.com/features/how-cloud-native-zero-trust-could-up-its-game-with-permissions/)
+9. [HashiCorp CEO talks license changes and the role of foundations](https://www.theregister.com/2023/10/19/hashicorp_ceo_license_changes/)
+10. [Analysts scratch heads over MariaDB's decision to ditch DBaaS crown jewels](https://www.theregister.com/2023/10/19/mariadb_restructure_analysts/)
+
+##  2023-10-06
+1. [U.S. restriction on Chinese use of open-source microchip tech would be hard to enforce](https://thechinaproject.com/2023/10/13/u-s-bar-on-chinese-use-of-open-source-microchip-tech-could-be-hard-to-enforce/)
+2. [AWS Advances Relational Technologies with Open Source and Vector Database Support](https://thenewstack.io/aws-advances-relational-technologies-with-open-source-and-vector-database-support/)
+3. [Learning from Let’s Encrypt’s 10 years of success](https://www.infoworld.com/article/3708294/learning-from-lets-encrypts-10-years-of-success.html)
+4. [In-memory database Redis wants to dabble in disk](https://www.theregister.com/2023/10/19/redis_disk_support/)
+5. [Are You Giving DNS the Respect it Deserves?](https://cloudnativenow.com/features/are-you-giving-dns-the-respect-it-deserves/)
+6. [Septentrio is introducing two new open-source hardware projects](https://www.eenewseurope.com/en/septentrio-broadens-its-ecosystem-with-new-open-source-projects/)
+7. [Buoyant Adds Proprietary Enterprise Edition of Linkerd Service Mesh](https://cloudnativenow.com/features/buoyant-adds-proprietary-enterprise-edition-of-linkerd-service-mesh/)
+8. [TabbyML, an open source challenger to GitHub Copilot, raises $3.2 million](https://techcrunch.com/2023/10/10/tabbyml-github-copilot-alternative-raises-3-2-million/)
+9. [‘How not to hire a North Korean plant posing as a techie’ guide updated by US and South Korean authorities](https://www.theregister.com/2023/10/19/north_korea_fake_freelance_avoidance/)
+10. [A warning to software founders developing apps with lean teams and open source code](https://techcrunch.com/2023/10/19/a-warning-to-software-founders-developing-apps-with-lean-teams-and-open-source-code)
+
+##  2023-09-29
+1. [When open source cloud development doesn't play nice](https://www.infoworld.com/article/3708293/when-open-source-cloud-development-doesnt-play-nice.html)
+2. [Fermyon Brings Wasm and AI Together via Serverless Framework](https://cloudnativenow.com/topics/cloudnativeplatforms/fermyon-brings-wasm-and-ai-together-via-serverless-framework/)
+3. [Microsoft takes another run at closing Exchange brute-force security hole](https://www.theregister.com/2023/10/11/microsoft_exchange_bug_fix/?td=rt-9c)
+4. [HashiCorp’s software license turns realpolitik](https://www.infoworld.com/article/3704809/hashicorps-software-license-turns-realpolitik.html)
+5. [Hyperscale datacenter capacity set to triple because of AI demand](https://www.theregister.com/2023/10/18/hyperscale_datacenter_capacity/)
+6. [TSMC abandons plans for 2nm chip plant after Taiwanese locals protest](https://www.theregister.com/2023/10/17/tsmc_chip_factory_shelved/)
+7. [Open source AI with retrieval beats ChatGPT: Nvidia paper claims](https://readwrite.com/open-source-ai-with-retrieval-beats-chatgpt-nvidia-paper-claims/)
+8. [Embracing Progressive Delivery in Kubernetes with GitOps](https://www.opensourceforu.com/2023/10/embracing-progressive-delivery-in-kubernetes-with-gitops/)
+9. [Suse, Oracle, CIQ join forces to fuel RHEL-compatible Linux distros](https://www.infoworld.com/article/3704728/suse-oracle-ciq-join-forces-to-fuel-rhel-compatible-linux-distros.html)
+10. [Open Source Development Threatened in Europe](https://thenewstack.io/open-source-development-threatened-in-europe/)
+
 ## 2023-09-22
 1. [Linux Foundation to Fork HashiCorp Terraform into ‘OpenTofu’](https://thenewstack.io/linux-foundation-joins-opentf-to-fork-for-terraform-into-opentofu/)
 2. [CISA OUTLINES PLANS TO TACKLE OPEN SOURCE SOFTWARE SECURITY](https://duo.com/decipher/cisa-outlines-plans-to-tackle-open-source-software-security)
