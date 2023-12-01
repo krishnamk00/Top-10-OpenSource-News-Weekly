@@ -1,4 +1,16 @@
 ## WEEKLY 10 TOP NEWS from the Open Source world... (Cloud/Software/CyberSecurity/AI/etc.) 
+## 2023-12-01
+1. [Why OpenSource is a key enabler for hybrid multi-cloud](https://www.techuk.org/resource/why-open-source-is-a-key-enabler-for-hybrid-multi-cloud-but-cloud-must-pay-it-back.html)
+2. [The 10 Coolest Open-Source Software Tools Of 2023](https://www.crn.com/news/software/the-10-coolest-open-source-software-tools-of-2023)
+3. [Nitrokey releases NetHSM, a fully open-source hardware security module](https://www.helpnetsecurity.com/2023/11/30/nitrokey-nethsm-open-source-hardware-security-module/)
+4. [Github users revolt over new login requirement for searches](https://www.dailydot.com/debug/github-search-login-requirement-repository/)
+5. [5 Surprising Uses for Docker Debug](https://cloudnativenow.com/topics/cloudnativesecurity/5-surprising-uses-for-docker-debug/)
+6. [New Chinese chip uses IBM's open standard Power ISA instead of x86 or Arm](https://www.tomshardware.com/news/china-chip-ibm-open-source-power-isa-x86-arm-server-cpu-us-sanctions)
+7. [Vigil: Open-source LLM security scanner](https://www.helpnetsecurity.com/2023/11/29/vigil-llm-security-scanner/)
+8. [Applying Generative AI Within Cloud-Native Workflows](https://cloudnativenow.com/topics/cloudnativesecurity/applying-generative-ai-within-cloud-native-workflows/)
+9. [Metaverse: Current Status and What to Come](https://www.opensourceforu.com/2023/05/metaverse-current-status-and-what-to-come/)
+10. [OpenAI Saga Shows Why Open Source is Necessary](https://analyticsindiamag.com/openai-saga-shows-why-open-source-is-necessary/)
+
 ##  2023-11-17
 1. [KubeCon Chicago Key Takeaways](https://danielbryantuk.medium.com/kubecon-chicago-key-takeaways-3de5ca13b375)
 2. [Nokia tests 5G SA core on Sylva open-source cloud stack](https://telecoms.com/524753/nokia-tests-5g-sa-core-on-sylva-open-source-cloud-stack/)
