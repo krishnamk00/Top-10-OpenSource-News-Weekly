@@ -1,4 +1,53 @@
 ## WEEKLY 10 TOP NEWS from the Open Source world... (Cloud/Software/CyberSecurity/AI/etc.) 
+
+## 2024-01-05
+1. [Apple quietly launched an open-source multimodal LLM called Ferret](https://siliconangle.com/2023/12/25/apple-quietly-launched-open-source-multimodal-llm-called-ferret/)
+2. [2023: The Year Open Source Security Supply Chain Grew Up](https://thenewstack.io/2023-the-year-open-source-security-supply-chain-grew-up/)
+3. [2024: Open source needs to catch up in 2024](https://www.infoworld.com/article/3711881/open-source-needs-to-catch-up-in-2024.html)
+4. [Meta's chief AI scientist says terrorists and rogue states aren't going to take over the world with open-source AI](https://www.businessinsider.com/meta-ai-chief-terrorists-cannot-takeover-world-open-source-ai-2023-12)
+5. [Cisco signals open source intentions with Isovalent acquisition](https://www.itpro.com/software/open-source/cisco-signals-open-source-intentions-with-isovalent-acquisition)
+6. [Mistral AI to Open Source GPT-4 Level Model in 2024](https://analyticsindiamag.com/mistral-ai-to-open-source-gpt-4-level-model-in-2024/)
+7. [NIST: If someone's trying to sell you some secure AI, it's snake oil](https://www.theregister.com/2024/01/05/nist_ai_security/)
+8. [Open-source AI can outperform private models like Chat-GPT — ARK Invest](https://cointelegraph.com/news/opensource-ai-outperform-private-models-chat-gpt-ark-invest-research)
+9. [Open Source in 2024: More Volatility, More Risk, More AI](https://thenewstack.io/open-source-in-2024-more-volatility-more-risk-more-ai/)
+10. [Best of 2023: Three Newly-Discovered Kubernetes Ingress Vulnerabilities Create Security Challenge](https://cloudnativenow.com/features/three-newly-discovered-kubernetes-ingress-vulnerabilities-create-security-challenge/)
+
+## 2023-12-22
+1. [The evolution of open source in the enterprise](https://betanews.com/2023/12/27/the-evolution-of-open-source-in-the-enterprise-qa/)
+2. [InvoiceMate Performs First Private Credit Transaction On XDC Network Blockchain Using TradeFinex Open Source Web3 Standards](https://www.benzinga.com/markets/cryptocurrency/23/12/36385876/invoicemate-performs-first-private-credit-transaction-on-xdc-network-blockchain-using-trad)
+3. [Open-Source Project ‘GuardRail’ to Help Enterprises Build Responsible AI Solutions](https://mpost.io/open-source-project-guardrail-to-help-enterprises-build-responsible-ai-solutions/)
+4. [Zoom Launches Open-source Vulnerability Impact Scoring System](https://cybersecuritynews.com/zoom-launches-open-source-vulnerability/)
+5. [Meta and IBM Lead Formation of AI Alliance to Drive Open-Source Innovation](https://www.infoq.com/news/2023/12/ai-alliance-meta-ibm/)
+6. [ThreatNG open-source datasets aim to improve cybersecurity practices](https://www.helpnetsecurity.com/2023/12/13/threatng-open-source-datasets/)
+7. [Meta releases open-source tools for AI safety](https://www.infoworld.com/article/3711284/meta-releases-open-source-tools-for-ai-safety.html)
+8. [GitHub’s all-in bet on AI may overlook Git](https://www.infoworld.com/article/3710428/githubs-all-in-bet-on-ai-may-overlook-git.html)
+9. [Global AI Alliance Aims to Accelerate Responsible and Transparent AI Innovation](https://www.techrepublic.com/article/global-ai-alliance-initiative/)
+10. [Best of 2023: Why Container Runtimes Still Matter](https://cloudnativenow.com/features/why-container-runtimes-still-matter/)
+
+## 2023-12-15
+1. [3 ways to fix old, unsafe code that lingers from open-source and legacy programs](https://www.csoonline.com/article/1249162/3-ways-to-fix-old-unsafe-code.html)
+2. [The EU AI Act - dissecting the detail](https://diginomica.com/eu-ai-act-dissecting-detail)
+3. [Top 8 Papers by Meta AI](https://analyticsindiamag.com/top-8-papers-by-meta-ai/)
+4. [Google Adds Gemini Pro API to AI Studio and Vertex AI](https://www.techrepublic.com/topic/open-source/)
+5. [Open Source Initiative co-founder imagines a post-open-source world](https://www.techspot.com/news/101366-open-source-initiative-co-founder-imagines-post-open.html)
+6. [Uncle Sam will pay for your big ideas to end AI voice-cloning fraud](https://www.theregister.com/2024/01/05/ftc_voice_cloning_solution/)
+7. [VeriSilicon and Google Collaborate on the Open-Source Project Open Se Cura](https://www.businesswire.com/news/home/20231218555725/en/VeriSilicon-and-Google-Collaborate-on-the-Open-Source-Project-Open-Se-Cura)
+8. [DataCebo launches enterprise version of popular open source synthetic data library](https://techcrunch.com/2023/12/07/datacebo-launches-commercial-version-of-popular-open-source-synthetic-data-library/)
+9. [Top 10 Programming Languages on GitHub in 2023](https://analyticsindiamag.com/top-10-programming-languages-on-github-in-2023/)
+10. [Best of 2023: Top 9 Microservices Design Patterns](https://cloudnativenow.com/features/top-9-microservices-design-patterns/)
+
+## 2023-12-08
+1. [The Upsides and Downsides of Open Source Adoption](https://www.infoq.com/news/2023/12/upsides-downsides-open-source/)
+2. [Subdominator: Open-source tool for detecting subdomain takeovers](https://www.helpnetsecurity.com/2023/12/20/subdominator-open-source-tool-detecting-subdomain-takeovers/)
+3. [Korean LLM Solar tops ranking of best open source models](https://koreajoongangdaily.joins.com/news/2023-12-15/business/industry/Korean-LLM-Solar-tops-ranking-of-best-open-source-models/1936901)
+4. [A Case for Distributed Computing for LLMs in Fintech](https://www.finextra.com/blogposting/25469/a-case-for-distributed-computing-for-llms-in-fintech)
+5. [OpenTofu: Open-source alternative to Terraform](https://www.helpnetsecurity.com/2023/12/07/opentofu-open-source-alternative-to-terraform/)
+6. [In surprise move, Gentoo Linux starts offering binaries](https://www.theregister.com/2024/01/03/gentoo_starts_offering_binaries/)
+7. [Kubernetes Environments Grow in Complexity, Challenging Ops Teams](https://cloudnativenow.com/features/kubernetes-environments-grow-in-complexity-challenging-ops-teams/)
+8. [Best of 2023: The Ultimate List of Open Source Cloud-Native Tools](https://cloudnativenow.com/features/the-ultimate-list-of-open-source-cloud-native-tools/)
+9. [Microsoft pulls the plug on WordPad, the world's least favorite text editor](https://www.theregister.com/2024/01/05/wordpad_off_windows_11/)
+10. [Best of 2023: Setting up Kubernetes in an On-Premises Environment](https://cloudnativenow.com/features/setting-up-kubernetes-in-an-on-premises-environment/)
+
 ## 2023-12-01
 1. [Why OpenSource is a key enabler for hybrid multi-cloud](https://www.techuk.org/resource/why-open-source-is-a-key-enabler-for-hybrid-multi-cloud-but-cloud-must-pay-it-back.html)
 2. [The 10 Coolest Open-Source Software Tools Of 2023](https://www.crn.com/news/software/the-10-coolest-open-source-software-tools-of-2023)
