@@ -1,5 +1,53 @@
 ## WEEKLY 10 TOP NEWS from the Open Source world... (Cloud/Software/CyberSecurity/AI/etc.) 
 
+##  2024-02-02
+1. [Hugging Face and Google Cloud Announce Collaboration](https://www.infoq.com/news/2024/01/hugging-face-gcp-ai/)
+2. [Why open-source generative AI models are still a step behind GPT-4](https://www.zdnet.com/article/this-is-why-open-source-generative-ai-models-are-a-step-behind-gpt-4/#ftag=RSSbaffb68)
+3. [Open-source AI innovation wave continues with Google Cloud](https://coingeek.com/open-source-ai-innovation-wave-continues-with-google-cloud/)
+4. [2024 Informed: Technical AI predictions](https://techinformed.com/2024-informed-technical-ai-predictions/)
+5. [Tech Trends for 2024: Generative AI Models Will Get Smaller, An iPhone’s Average Life Will Be 8 Years](https://www.techrepublic.com/article/tech-trends-2024/)
+6. [Allen Institute for AI releases ‘truly open source’  LLM to drive ‘critical shift’ in AI development](https://venturebeat.com/ai/truly-open-source-llm-from-ai2-to-drive-critical-shift-in-ai-development/)
+7. [Generative AI: The Next Big Thing](https://www.opensourceforu.com/2023/05/generative-ai-the-next-big-thing/)
+8. [ROOT ACCESS VULNERABILITY IN GNU LIBRARY C GLIBC IMPACTS MANY LINUX DISTROS](https://securityaffairs.com/158369/breaking-news/gnu-library-c-glibc-cve-2023-6246-flaw.html)
+9. [Protect AI adds LLM support with open source acquisition](https://www.csoonline.com/article/1303232/protect-ai-adds-llm-support-with-open-source-acquisition.html)
+10. [Attackers Could Eavesdrop on AI Conversations on Apple, AMD, Imagination and Qualcomm GPUs](https://www.techrepublic.com/article/leftoverlocals-vulnerability-apple-amd-imagination-qualcomm/)
+
+##  2024-01-26
+1. [Meta is developing open source AGI, says Zuckerberg](https://venturebeat.com/ai/meta-is-all-in-on-open-source-agi-says-zuckerberg/)
+2. [Open-source vector database Qdrant raises $28M](https://siliconangle.com/2024/01/23/open-source-vector-database-qdrant-raises-28m/)
+3. [Rafay Deploys Calico Open Source to Achieve Turnkey Kubernetes Security on AWS](https://www.prnewswire.com/news-releases/rafay-deploys-calico-open-source-to-achieve-turnkey-kubernetes-security-on-aws-302041702.html)
+4. [White House releases report on securing open-source software](https://cyberscoop.com/white-house-securing-open-source-software/)
+5. [ClimateGPT: The First Open Source Foundational AI Platform Dedicated to Addressing the Impact of Climate Change](https://www.prnewswire.com/news-releases/announcing-climategpt-the-first-open-source-foundational-ai-platform-dedicated-to-addressing-the-impact-of-climate-change-302038979.html)
+6. [Snyk Discloses ‘Leaky Vessels’ Vuln Requiring Docker Command Line Tool Fix](https://cloudnativenow.com/features/snyk-discloses-leaky-vessels-vuln-requiring-docker-command-line-tool-fix/)
+7. [Mozilla slams Microsoft for using dark patterns to drive Windows users toward Edge](https://www.theregister.com/2024/02/02/mozilla_slams_microsoft_dark_patterns/?td=rt-3a)
+8. [German Open Source Expert B1 Systems Partners with LPI Linux Professional Institute](https://www.lpi.org/articles/german-open-source-expert-b1-systems-partners-with-lpi/)
+9. [Cado Security Labs Exposes Commando Cat Container Malware Campaign](https://cloudnativenow.com/features/cado-security-labs-exposes-commando-cat-container-malware-campaign/)
+10. [Open-source technology's rising impact on agriculture](https://www.newsbytesapp.com/news/science/adoption-of-open-source-tech-into-agriculture/story)
+
+##  2024-01-19
+1. [Unveiling the future of open-source generative AI: Insights from the Linux Foundation's 2023 survey](https://www.zdnet.com/article/unveiling-the-future-of-generative-ai-insights-from-the-linux-foundations-2023-survey/#ftag=RSSbaffb68)
+2. [Developer’s Guide to Building Bitcoin Wallets with Open-Source Frameworks](https://hackernoon.com/developers-guide-to-building-bitcoin-wallets-with-open-source-frameworks)
+3. [These are the fastest-growing open-source startups in Europe Q4 2023](https://tech.eu/2024/01/19/these-are-the-fastest-growing-open-source-startups-in-europe-q4-2023/)
+4. [Why Security and Cost go Hand-in-Hand in the Enterprise Cloud](https://www.opensourceforu.com/2023/11/why-security-and-cost-go-hand-in-hand-in-the-enterprise-cloud/)
+5. [Sysdig Report Surfaces Major Container Security Challenges](https://cloudnativenow.com/features/sysdig-report-surfaces-major-container-security-challenges/)
+6. [Red Hat Makes IDP Based on Backstage Generally Available](https://cloudnativenow.com/features/red-hat-makes-idp-based-on-backstage-generally-available/)
+7. [Is critical infrastructure prepared for OT ransomware?](https://www.theregister.com/2024/02/02/critical_infrastructure_ot_ransomware/)
+8. [Linus Torvalds flames Google kernel contributor over filesystem suggestion](https://www.theregister.com/2024/01/29/linux_6_8_rc2/)
+9. [Kubernetes Security Best Practices for 2024](https://cloudnativenow.com/features/kubernetes-security-best-practices-for-2024/)
+10. [Open-Source Tools Firing Up Supply Chain Attacks: Researchers](https://whowhatwhy.org/editors-picks/open-source-tools-firing-up-supply-chain-attacks-researchers/)
+
+##  2024-01-12
+1. [How enterprises are using open source LLMs: 16 examples](https://venturebeat.com/ai/how-enterprises-are-using-open-source-llms-16-examples/)
+2. [Interpol's latest cybercrime intervention dismantles ransomware, banking malware servers](https://www.theregister.com/2024/02/02/interpols_latest_cybercrime_intervention_dismantles/)
+3. [PixieFail Bugs in UEFI Open Source Implementation Threaten Computers](https://securityboulevard.com/2024/01/pixiefail-bugs-in-uefi-open-source-implementation-threaten-computers/)
+4. [Infield wants to make open source dependency management trivial](https://techcrunch.com/2024/01/16/infield-wants-to-make-open-source-dependency-management-trivial/)
+5. [Fairwinds Report Surfaces Biggest Kubernetes Management Challenges](https://cloudnativenow.com/features/fairwinds-report-surfaces-biggest-kubernetes-management-challenges/)
+6. [THE KYBERSLASH VULNERABILITY AND THE CRYSTALS-GO LIBRARY: A RETROSPECTIVE STORY](https://research.kudelskisecurity.com/2024/02/01/the-kyberslash-vulnerability-and-the-crystals-go-library-a-retrospective-story/)
+7. [Valve continues to improve the gaming performance of Linux open source drivers for AMD GPUs, as part of the Mesa project](https://www.pcgamer.com/valve-continues-to-improve-the-gaming-performance-of-linux-open-source-drivers-for-amd-gpus-as-part-of-the-mesa-project/)
+8. [Open-Source Generative AI-Model Dedicated to Nature](https://hypebeast.com/2024/1/refik-anadol-large-nature-model-installation-preview)
+9. [Indian PM's advisors suggest AI might lead to 'mass schizophrenia'](https://www.theregister.com/2024/02/01/indian_pms_ai_advice/)
+10. [EU amendment changes open source definition](https://www.computerweekly.com/news/366566353/EU-amendment-changes-open-source-definition)
+
 ## 2024-01-05
 1. [Apple quietly launched an open-source multimodal LLM called Ferret](https://siliconangle.com/2023/12/25/apple-quietly-launched-open-source-multimodal-llm-called-ferret/)
 2. [2023: The Year Open Source Security Supply Chain Grew Up](https://thenewstack.io/2023-the-year-open-source-security-supply-chain-grew-up/)
