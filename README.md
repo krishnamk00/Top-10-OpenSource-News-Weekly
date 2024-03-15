@@ -1,5 +1,77 @@
 ## WEEKLY 10 TOP NEWS from the Open Source world... (Cloud/Software/CyberSecurity/AI/etc.) 
 
+##  2024-03-15
+1. [Grok AI goes open-source in Elon Musk's latest move in xAI's spat against OpenAI](https://www.notebookcheck.net/Grok-AI-goes-open-source-in-Elon-Musk-s-latest-move-in-xAI-s-spat-against-OpenAI.812138.0.html)
+2. [ElasticSearch Goes Deep on OpenTelemetry with eBPF Donation](https://thenewstack.io/elasticsearch-goes-deep-on-opentelemetry-with-ebpf-donation/)
+3. [Canonical turns 20: Shaping the Ubuntu Linux world](https://www.zdnet.com/article/canonical-turns-20-shaping-the-ubuntu-linux-world/)
+4. [Open Source Dapr Project Adds SDKs to Better Manage Workflows](https://cloudnativenow.com/features/open-source-dapr-project-adds-sdks-to-better-manage-workflows/)
+5. [Where is Technology Headed in 2024?](https://www.opensourceforu.com/2024/03/where-is-technology-headed-in-2024/)
+6. [AR, VR, and MR: What’s Trending?](https://www.opensourceforu.com/2024/03/ar-vr-and-mr-whats-trending/)
+7. [LinkedIn Open Sources OpenHouse Data Lakehouse Control Plane](https://thenewstack.io/linkedin-open-sources-openhouse-data-lakehouse-control-plane/)
+8. [Can OpenTofu Become the HTTP of Infrastructure as Code?](https://thenewstack.io/can-opentofu-become-the-http-of-infrastructure-as-code/)
+9. [From quantum AI to photonics, what OpenAI’s latest hire tells us about its future](https://www.theregister.com/2024/03/13/quantum_openai_hire/)
+10. [India will be an Open-Source AI Champion. Here’s Why](https://analyticsindiamag.com/why-will-india-champion-open-source-ai/)
+
+##  2024-03-08
+1. [New open-source tool CloudGrappler aims to strengthen AWS and Azure security](https://siliconangle.com/2024/03/07/new-open-source-tool-cloudgrappler-aims-strengthen-aws-azure-security/)
+2. [Copilot Enterprise Introduces Search and Customized Best Practices](https://thenewstack.io/copilot-enterprise-introduces-search-and-customized-best-practices/)
+3. [CISA Outlines Efforts to Secure Open Source Software](https://www.securityweek.com/cisa-details-efforts-to-secure-open-source-software/)
+4. [Google Gives Advertisers An Open-Source Privacy Measurement Tool](https://www.mediapost.com/publications/article/394209/google-gives-advertisers-an-open-source-privacy-me.html?edition=133588)
+5. [Technical Challenges and Open Source Advocacy in AMD GPU Firmware for TinyBox AI Servers](https://www.guru3d.com/story/technical-challenges-and-open-source-advocacy-in-amds-gpu-firmware-for-tinybox-ai-servers/)
+6. [OpenAI responds to Elon Musk lawsuit by clarifying its “open“ nature](https://arstechnica.com/information-technology/2024/03/openai-clarifies-the-meaning-of-open-in-its-name-responding-to-musk-lawsuit/)
+7. [PyRIT: Open-source framework to find risks in generative AI systems](https://www.helpnetsecurity.com/2024/03/04/pyrit-microsoft-framework-find-risks-generative-ai-systems/)
+8. [Open Source Library Taipy Turns AI Algorithms, Data into Web Apps](https://thenewstack.io/open-source-library-taipy-turns-ai-algorithms-data-into-web-apps/)
+9. [Data Solutions Framework: an Open Source Project for Building Data Solutions on AWS](https://www.infoq.com/news/2024/03/aws-data-solutions-framework-cdk/)
+10. [Marc Andreessen And Former Windows Chief Steven Sinofsky Back Elon Musk Amidst OpenAI Lawsuit: 'Open Source Can't Be Secure... 100% Wrong'](https://www.benzinga.com/news/24/03/37531299/marc-andreessen-and-former-windows-chief-steven-sinofsky-back-elon-musk-amidst-openai-lawsuit-open-s)
+
+##  2024-02-30
+1. [IBM Announces Availability of Open-Source Mistral AI Model on watsonx](https://newsroom.ibm.com/2024-02-29-IBM-Announces-Availability-of-Open-Source-Mistral-AI-Model-on-watsonx,-Expands-Model-Choice-to-Help-Enterprises-Scale-AI-with-Trust-and-Flexibility)
+2. [OpenARIA: Open-source edition of the Aviation Risk Identification and Assessment (ARIA)](https://www.helpnetsecurity.com/2024/03/08/mitre-openaria-open-source/)
+3. [Tiny Corp is 70% confident that AMD will make at least some of its GPU firmware open source](https://www.tomshardware.com/pc-components/gpus/tiny-corp-is-70-confident-that-amd-will-make-at-least-some-of-its-gpu-firmware-open-source)
+4. [H2O.ai Releases New Language Model H2O-Danube-1.8B for Mobile](https://www.businesswire.com/news/home/20240229953848/en/H2O.ai-Releases-New-Language-Model-H2O-Danube-1.8B-for-Mobile)
+5. [RagaAI Launches Open-Source LLM Hub to Ease Language Model Evaluation & Safety](https://mpost.io/ragaai-launches-open-source-llm-hub-to-ease-language-model-evaluation-safety/)
+6. [Ente Cloud-Based Photos App Goes Fully Open Source](https://linuxiac.com/ente-cloud-based-photos-app-goes-fully-open-source/)
+7. [Majority of commercial codebases contain high-risk open-source code](https://www.csoonline.com/article/1310819/majority-of-commercial-codebases-contain-high-risk-open-source-code.html)
+8. [Kubernetes Is Gaining Momentum, but Security Still Lags Behind](https://cloudnativenow.com/features/kubernetes-is-gaining-momentum-but-security-still-lags-behind/)
+9. [European Union lawmakers line up to defend world's first AI Act](https://www.theregister.com/2024/03/13/eu_ai_act/?td=rt-3a)
+10. [Open-source Nvidia Nouveau contributor confident driver will add HDMI 2.1 support](https://www.tomshardware.com/pc-components/gpus/open-source-nvidia-nouveau-contributor-confident-driver-will-add-hdmi-21-support-for-nvidia-gpus)
+
+##  2024-02-23
+1. [Mistral AI CEO commits to open-source despite Microsoft deal](https://www.thehindu.com/sci-tech/technology/mistral-ai-ceo-commits-to-open-source-despite-microsoft-deal/article67899404.ece)
+2. [Open Source Software Use Driven by Cost Cutting](https://thenewstack.io/open-source-software-use-driven-by-cost-cutting-survey-says/)
+3. [Jim Zemlin and the Linux Foundation share not-so-secret open-source sauce](https://www.zdnet.com/article/jim-zemlin-and-the-linux-foundation-share-not-so-secret-open-source-sauce/)
+4. [Google Enters the Lightweight AI Market With Gemma](https://www.techrepublic.com/article/google-gemma-chat-ai/)
+5. [Solo.io Delivers on Cilium Support Promise for Gloo Networks](https://cloudnativenow.com/features/solo-io-delivers-on-cilium-support-promise-for-gloo-networks/)
+6. [Is Open Source Under Threat or Primed to Go to the Next Level?](https://thenewstack.io/is-open-source-under-threat-or-primed-to-go-to-the-next-level/)
+7. [High-risk open source vulnerabilities on the rise, Synopsys reports](https://www.infoworld.com/article/3713306/high-risk-open-source-vulnerabilities-on-the-rise-synopsys-reports.html)
+8. [Civo snaps up open source GitOps platform Kubefirst](https://www.itpro.com/business/acquisition/civo-snaps-up-open-source-gitops-platform-kubefirst)
+9. [Team behind popular Falcon AI models unveils new startup with $20 million in funding aimed at helping companies tailor LLMs for business](https://fortune.com/2024/03/11/adaptive-startup-funding-falcon-ai-models-team-rlhf-rlaif/)
+10. [What is the Android Open Source Project?](https://www.androidpolice.com/android-open-source-project-guide/)
+
+##  2024-02-16
+1. [OSS leaders detail commitments to bolster software security](https://www.computerweekly.com/news/366572795/OSS-leaders-detail-commitments-to-bolster-software-security)
+2. [Shim vulnerability exposes most Linux systems to attack](https://www.zdnet.com/article/shim-vulnerability-exposes-most-linux-systems-to-attack/)
+3. [How Platform-as-a-Product Drives Cloud-Native Platform Maturity](https://cloudnativenow.com/topics/how-platform-as-a-product-drives-cloud-native-platform-maturity/)
+4. [Open Source LLMs: Evaluating and Building Applications on Open Source](https://hackernoon.com/open-source-llms-evaluating-and-building-applications-on-open-source)
+5. [CloudGrappler: Open-source tool detects activity in cloud environments](https://www.helpnetsecurity.com/2024/03/11/cloudgrappler-free-open-source-cloud-security-tool/)
+6. [AI startup Hugging Face is looking into open-source robotics](https://siliconangle.com/2024/03/07/ai-startup-hugging-face-looking-open-source-robotics/)
+7. [RagaAI Launches Open-Source LLM Hub to Ease Language Model Evaluation & Safety](https://mpost.io/ragaai-launches-open-source-llm-hub-to-ease-language-model-evaluation-safety/)
+8. [Ubicloud plans open source cloud platform by combining bare-metal services](https://www.datacenterdynamics.com/en/news/ubicloud-plans-open-source-cloud-platform-by-combining-bare-metal-services/)
+9. [Grafana Labs Dives Deeper Into Kubernetes Observability](https://cloudnativenow.com/features/grafana-labs-dives-deeper-into-kubernetes-observability/)
+10. [Distribution, Commercialization and the Future of Open Source](https://thenewstack.io/distribution-commercialization-and-the-future-of-open-source/)
+
+##  2024-02-09
+1. [The Linux Foundation and its partners are working on cryptography for the post-quantum world](https://www.zdnet.com/article/cryptography-for-the-post-quantum-world/)
+2. [Tech Trends for 2024: Generative AI Models Will Get Smaller](https://www.techrepublic.com/article/tech-trends-2024/)
+3. [Protecting against software supply chain attacks](https://www.infoworld.com/article/3712543/protecting-against-software-supply-chain-attacks.html)
+4. [6 Reasons to Consider Dev Containers](https://cloudnativenow.com/topics/6-reasons-to-consider-dev-containers/)
+5. [New Open Source Standard Brings Consistency to Webhooks](https://thenewstack.io/new-open-source-standard-brings-consistency-to-webhooks/)
+6. [OpenUSD Could Enable a Real Metaverse](https://thenewstack.io/openusd-could-enable-a-real-metaverse/)
+7. [A secure-by-design approach to federal open-source software](https://www.federaltimes.com/opinions/2024/03/07/a-secure-by-design-approach-to-federal-open-source-software/)
+8. [BobTheSmuggler: Open-source tool for undetectable payload delivery](https://www.helpnetsecurity.com/2024/02/29/bobthesmuggler-open-source-tool-undetectable-payload-delivery/)
+9. [Open-source moderation](https://zeldman.com/2024/03/13/open-source-moderation/)
+10. [Attackers Could Eavesdrop on AI Conversations on Apple, AMD, Imagination and Qualcomm GPUs](https://www.techrepublic.com/article/leftoverlocals-vulnerability-apple-amd-imagination-qualcomm/)
+
 ##  2024-02-02
 1. [Hugging Face and Google Cloud Announce Collaboration](https://www.infoq.com/news/2024/01/hugging-face-gcp-ai/)
 2. [Why open-source generative AI models are still a step behind GPT-4](https://www.zdnet.com/article/this-is-why-open-source-generative-ai-models-are-a-step-behind-gpt-4/#ftag=RSSbaffb68)
