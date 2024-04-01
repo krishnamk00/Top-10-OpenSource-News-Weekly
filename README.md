@@ -1,5 +1,28 @@
 ## WEEKLY 10 TOP NEWS from the Open Source world... (Cloud/Software/CyberSecurity/AI/etc.) 
 
+##  2024-03-39
+1. [Databrix Announces DBRX, an Open Source General Purpose LLM](https://www.infoq.com/news/2024/03/databrix-dbrx-llm/)
+2. [AI and data infrastructure dominate Runa Capital's annual open source startup index](https://tech.eu/2024/03/27/ai-and-data-infrastructure-dominate-runa-capitals-annual-open-source-startup-index/)
+3. [Arm China bolsters its AI accelerator with open source driver to compete against AMD, Intel, and Apple](https://www.tomshardware.com/tech-industry/artificial-intelligence/arm-china-bolsters-its-ai-accelerator-in-a-bid-to-compete-against-amd-intel-and-apple)
+4. [Linux Foundation Backs ‘Valkey’ Open Source Fork of Redis](https://thenewstack.io/linux-foundation-forks-the-open-source-redis-as-valkey/)
+5. [Istio Move Closer to Delivering on Lighter-Weight Ambient Promise](https://cloudnativenow.com/features/maintainers-of-istio-move-closer-to-delivering-on-lighter-weight-ambient-promise/)
+6. [New open source GPU is free to all — FuryGPU runs Quake at 60fps, supports modern Windows software](https://www.tomshardware.com/pc-components/gpus/new-open-source-gpu-is-free-to-all-supports-modern-windows-software-stack-runs-on-an-fpga-with-custom-pcb)
+7. [Microsoft announces Garnet - a new open source tool that could make apps run faster](https://www.techradar.com/computing/software/microsoft-announces-garnet-a-new-open-source-tool-that-could-make-apps-run-faster)
+8. [CISA undertakes new efforts to fortify open source ecosystem](https://www.securitymagazine.com/articles/100497-cisa-undertakes-new-efforts-to-fortify-open-source-ecosystem)
+9. [Creator of Devika, the Indian Open Source Devin Alternative](https://analyticsindiamag.com/meet-the-21-year-old-creator-of-devika-the-indian-open-source-devin-alternative/)
+10. [CNCF Formally Convenes End User Technical Advisory Board](https://cloudnativenow.com/features/cncf-formally-convenes-end-user-technical-advisory-board/)
+
+##  2024-03-22
+1. [Not open source, but Musk's xAI makes Grok-1 AI available for developers](https://www.business-standard.com/technology/tech-news/not-open-source-but-musk-s-xai-makes-grok-1-ai-available-for-developers-124031800215_1.html)
+2. [OSRF launches Open Source Robotics Alliance to strengthen open-source software projects](https://www.therobotreport.com/osrf-launches-open-source-robotics-alliance-strengthen-software-projects/)
+3. [MobSF: Open-source security research platform for mobile apps](https://www.helpnetsecurity.com/2024/03/14/mobsf-open-source-mobile-security-framework/)
+4. [Mirantis Doubles Down on Open Source - refocus large customers](https://thenewstack.io/kubecon24-mirantis-doubles-down-on-open-source/)
+5. [Open source in 2024: Tackling challenges related to security, AI, and long-term sustainability](https://sdtimes.com/os/open-source-in-2024-tackling-challenges-related-to-security-ai-and-long-term-sustainability/)
+6. [Software vendors dump open source, go for the cash grab](https://www.computerworld.com/article/3714821/software-vendors-dump-open-source-go-for-the-cash-grab.html)
+7. [French startup Mistral AI vows to maintain open source](https://www.legit.ng/business-economy/technology/1583151-french-startup-mistral-ai-vows-maintain-open-source/)
+8. [Distribution, Commercialization and the Future of Open Source](https://thenewstack.io/distribution-commercialization-and-the-future-of-open-source/)
+9. [Drozer: Open-source Android security assessment framework](https://www.helpnetsecurity.com/2024/03/27/drozer-open-source-android-security-assessment-framework/)
+10. [An Open Source Journey to Greener Cloud Native Environments](https://thenewstack.io/an-open-source-journey-to-greener-cloud-native-environments/)
 ##  2024-03-15
 1. [Grok AI goes open-source in Elon Musk's latest move in xAI's spat against OpenAI](https://www.notebookcheck.net/Grok-AI-goes-open-source-in-Elon-Musk-s-latest-move-in-xAI-s-spat-against-OpenAI.812138.0.html)
 2. [ElasticSearch Goes Deep on OpenTelemetry with eBPF Donation](https://thenewstack.io/elasticsearch-goes-deep-on-opentelemetry-with-ebpf-donation/)
