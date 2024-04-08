@@ -10,7 +10,7 @@
 7. [TIER IV launches new partner program: Accelerating open-source software for autonomous driving](https://www.prnewswire.com/news-releases/tier-iv-launches-new-partner-program-accelerating-open-source-software-for-autonomous-driving-302108195.html)
 8. [Navigating Risks and Solutions of Container Security](https://cloudnativenow.com/features/navigating-risks-and-solutions-of-container-security/)
 9. [Red Hat Engineer Bethany Griggs on Backstage](https://thenewstack.io/kubecon-eu-qa-red-hat-engineer-bethany-griggs-on-backstage/)
-10. [https://www.theregister.com/2024/04/04/opentofu_on_forking_terraform/](https://securityboulevard.com/2024/04/a-software-supply-chain-meltdown-what-we-know-about-the-xz-trojan/)
+10. [A software supply chain meltdown: What we know about the XZ Trojan](https://securityboulevard.com/2024/04/a-software-supply-chain-meltdown-what-we-know-about-the-xz-trojan/)
     
 ##  2024-03-29
 1. [Databrix Announces DBRX, an Open Source General Purpose LLM](https://www.infoq.com/news/2024/03/databrix-dbrx-llm/)
