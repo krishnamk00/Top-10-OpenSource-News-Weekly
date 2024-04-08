@@ -1,6 +1,18 @@
-## WEEKLY 10 TOP NEWS from the Open Source world... (Cloud/Software/CyberSecurity/AI/etc.) 
+## WEEKLY 10 TOP NEWS from the Open Source world (Cloud & AI ...) 
 
-##  2024-03-39
+##  2024-04-05
+1. [Eclipse joins with industry groups to secure open source](https://www.infoworld.com/article/3715042/eclipse-joins-with-industry-groups-to-secure-open-source.html)
+2. [AMD to open source Micro Engine Scheduler firmware for Radeon GPUs](https://www.theregister.com/2024/04/05/amd_mes_open_source/)
+3. [How HashiCorp's license shakeup seeded a new open source rebel](https://www.theregister.com/2024/04/04/opentofu_on_forking_terraform/)
+4. [Will Spotify Open Source its Microservices Framework?](https://thenewstack.io/spotify-plans-release-of-microservices-component-framework/)
+5. [Naver debuts multilingual HyperCLOVA X LLM it will use to build sovereign AI for Asia](https://www.theregister.com/2024/04/08/naver_cloud_hyperclova_llm_sovereign_ai/)
+6. [ZeroASIC has launched a lightweight open source FPGA toolchain to automate circuit design](https://www.eenewseurope.com/en/zeroasic-launches-simplified-open-source-fpga-toolchain/)
+7. [TIER IV launches new partner program: Accelerating open-source software for autonomous driving](https://www.prnewswire.com/news-releases/tier-iv-launches-new-partner-program-accelerating-open-source-software-for-autonomous-driving-302108195.html)
+8. [Navigating Risks and Solutions of Container Security](https://cloudnativenow.com/features/navigating-risks-and-solutions-of-container-security/)
+9. [Red Hat Engineer Bethany Griggs on Backstage](https://thenewstack.io/kubecon-eu-qa-red-hat-engineer-bethany-griggs-on-backstage/)
+10. [https://www.theregister.com/2024/04/04/opentofu_on_forking_terraform/](https://securityboulevard.com/2024/04/a-software-supply-chain-meltdown-what-we-know-about-the-xz-trojan/)
+    
+##  2024-03-29
 1. [Databrix Announces DBRX, an Open Source General Purpose LLM](https://www.infoq.com/news/2024/03/databrix-dbrx-llm/)
 2. [AI and data infrastructure dominate Runa Capital's annual open source startup index](https://tech.eu/2024/03/27/ai-and-data-infrastructure-dominate-runa-capitals-annual-open-source-startup-index/)
 3. [Arm China bolsters its AI accelerator with open source driver to compete against AMD, Intel, and Apple](https://www.tomshardware.com/tech-industry/artificial-intelligence/arm-china-bolsters-its-ai-accelerator-in-a-bid-to-compete-against-amd-intel-and-apple)
@@ -28,7 +40,7 @@
 2. [ElasticSearch Goes Deep on OpenTelemetry with eBPF Donation](https://thenewstack.io/elasticsearch-goes-deep-on-opentelemetry-with-ebpf-donation/)
 3. [Canonical turns 20: Shaping the Ubuntu Linux world](https://www.zdnet.com/article/canonical-turns-20-shaping-the-ubuntu-linux-world/)
 4. [Open Source Dapr Project Adds SDKs to Better Manage Workflows](https://cloudnativenow.com/features/open-source-dapr-project-adds-sdks-to-better-manage-workflows/)
-5. [Where is Technology Headed in 2024?](https://www.opensourceforu.com/2024/03/where-is-technology-headed-in-2024/)
+5. [Where is Technology Headed in 2024?](https://www.opensourceforu.com/2024/03/where-is-technology-headed-in-2024/)sp
 6. [AR, VR, and MR: What’s Trending?](https://www.opensourceforu.com/2024/03/ar-vr-and-mr-whats-trending/)
 7. [LinkedIn Open Sources OpenHouse Data Lakehouse Control Plane](https://thenewstack.io/linkedin-open-sources-openhouse-data-lakehouse-control-plane/)
 8. [Can OpenTofu Become the HTTP of Infrastructure as Code?](https://thenewstack.io/can-opentofu-become-the-http-of-infrastructure-as-code/)
