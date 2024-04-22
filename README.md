@@ -1,5 +1,29 @@
 ## WEEKLY 10 TOP NEWS from the Open Source world (Cloud & AI ...) 
 
+##  2024-04-19
+1. [Meta releases Llama 3 open-source AI model: Better than GPT-4?](https://www.newsbytesapp.com/news/science/meta-releases-llama-3-language-models-to-compete-with-openai/story)
+2. [OpenTofu vs. HashiCorp Takes Center Stage at Open Source Summit](https://thenewstack.io/opentofu-vs-hashicorp-takes-center-stage-at-open-source-summit/)
+3. [Alibaba Leverages Open Source to Supercharge AI](https://www.benzinga.com/news/24/04/38288330/alibaba-leverages-open-source-to-supercharge-ai)
+4. [Open Platform for Enterprise AI by Linux Foundation, Intel, RedHat and others...](https://www.newsbytesapp.com/news/science/intel-others-partner-to-build-open-genai-solutions-for-businesses/story)
+5. [OpenSSF, CISA, and DHS collaborate on new open-source project for creating SBOMs](https://sdtimes.com/security/openssf-cisa-and-dhs-collaborate-on-new-open-source-project-for-creating-sboms/)
+6. [Cosmonic Donates Kubernetes Operator for wasmCloud to CNCF](https://cloudnativenow.com/topics/cloudnativeplatforms/cosmonic-donates-kubernetes-operator-for-wasmcloud-to-cncf/)
+7. [Linux Foundation Overture Maps the Globe with Open Data](https://thenewstack.io/linux-foundation-overture-maps-the-globe-with-open-data/)
+8. [Microsoft teases deepfake AI that's too good to release](https://www.theregister.com/2024/04/20/microsoft_deepfake_vasa/)
+9. [What’s Next for Companies Built on Open Source?](https://thenewstack.io/whats-next-for-companies-built-on-open-source/)
+10. [Linus Torvalds on Security, AI, Open Source and Trust](https://thenewstack.io/linus-torvalds-on-security-ai-open-source-and-trust/)
+
+##  2024-04-12
+1. [Google Announces Agent Builder, Expanded Gemini 1.5, Open-Source Additions](https://www.infoq.com/news/2024/04/gcn-agent-builder/)
+2. [Red Hat Adds Developer Tools to Extend DevSecOps Reach](https://cloudnativenow.com/uncategorized/red-hat-adds-developer-tools-to-extend-devsecops-reach/)
+3. [New open-source tool from Permiso aims to simplify AWS console event analysis](https://siliconangle.com/2024/04/18/new-open-source-tool-permiso-aims-simplify-aws-console-event-analysis/)
+4. [Open source versus Microsoft: The new rebellion begins](https://www.theregister.com/2024/04/15/opinion_microsoft_sovereignty/)
+5. [Open Source AI – definition and selected legal challenges](https://copyrightblog.kluweriplaw.com/2024/04/15/open-source-ai-definition-and-selected-legal-challenges/)
+6. [Livin’ on the Edge: Why WebAssembly Belongs in CDNs](https://cloudnativenow.com/social-x/livin-on-the-edge-why-webassembly-belongs-in-cdns/)
+7. [New open-source project takeover attacks spotted, stymied](https://www.helpnetsecurity.com/2024/04/16/open-source-project-takeover/)
+8. [Open source comes to real-time metering](https://www.infoworld.com/article/3714620/open-source-comes-to-real-time-metering.html)
+9. [XZ Utils Supply Chain Attack: A Threat Actor Spent Two Years to Implement a Linux Backdoor](https://www.techrepublic.com/article/xz-backdoor-linux/)
+10. [Stanford AI Index shows more AI models open-source now, 52% people nervous about AI](https://www.thehindu.com/sci-tech/technology/stanford-ai-index-shows-more-ai-models-open-source-now-52-people-nervous-about-ai/article68078992.ece)
+
 ##  2024-04-05
 1. [Eclipse joins with industry groups to secure open source](https://www.infoworld.com/article/3715042/eclipse-joins-with-industry-groups-to-secure-open-source.html)
 2. [AMD to open source Micro Engine Scheduler firmware for Radeon GPUs](https://www.theregister.com/2024/04/05/amd_mes_open_source/)
@@ -35,6 +59,7 @@
 8. [Distribution, Commercialization and the Future of Open Source](https://thenewstack.io/distribution-commercialization-and-the-future-of-open-source/)
 9. [Drozer: Open-source Android security assessment framework](https://www.helpnetsecurity.com/2024/03/27/drozer-open-source-android-security-assessment-framework/)
 10. [An Open Source Journey to Greener Cloud Native Environments](https://thenewstack.io/an-open-source-journey-to-greener-cloud-native-environments/)
+    
 ##  2024-03-15
 1. [Grok AI goes open-source in Elon Musk's latest move in xAI's spat against OpenAI](https://www.notebookcheck.net/Grok-AI-goes-open-source-in-Elon-Musk-s-latest-move-in-xAI-s-spat-against-OpenAI.812138.0.html)
 2. [ElasticSearch Goes Deep on OpenTelemetry with eBPF Donation](https://thenewstack.io/elasticsearch-goes-deep-on-opentelemetry-with-ebpf-donation/)
