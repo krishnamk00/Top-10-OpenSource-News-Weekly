@@ -1,5 +1,17 @@
 ## WEEKLY 10 TOP NEWS from the Open Source world (Cloud & AI ...) 
 
+##  2024-04-26
+1. [Meta’s Open Source Llama 3 Is Already Nipping at OpenAI’s Heels](https://www.wired.com/story/metas-open-source-llama-3-nipping-at-openais-heels/)
+2. [Nvidia acquires AI workload management startup Run:ai](https://techcrunch.com/2024/04/24/nvidia-acquires-ai-workload-management-startup-runai/)
+3. [InOrbit joins the Open Source Robotics Alliance](https://www.therobotreport.com/inorbit-joins-the-open-source-robotics-alliance/)
+4. [The hyper-clouds are open source's friends](https://www.theregister.com/2024/04/27/opinion_hyperscale_open_source/)
+5. [Microsoft Releases New-Open Source Tool for OT Security](https://www.govinfosecurity.com/microsoft-releases-new-open-source-tool-for-ot-security-a-24961)
+6. [Researchers from the University of Illinois Urbana-Champaign found that OpenAI’s GPT-4 is able to exploit 87% of a list of vulnerabilities](https://www.techrepublic.com/article/openai-gpt4-exploit-vulnerabilities/)
+7. [Snowflake is taking on OpenAI, Google, Meta and others with its open-source Arctic AI model](https://siliconangle.com/2024/04/24/snowflake-taking-openai-google-meta-others-open-source-arctic-ai-model/)
+8. [Cosmonic Donates Kubernetes Operator for wasmCloud to CNCF](https://cloudnativenow.com/topics/cloudnativeplatforms/cosmonic-donates-kubernetes-operator-for-wasmcloud-to-cncf/)
+9. [GitHub’s 2FA Push Boosts Adoption among Developers](https://thenewstack.io/githubs-2fa-push-boosts-adoption-among-developers/)
+10. [Mark Zuckerberg Won't Just Open-Source Instagram's Code But Would He Do It For A $10B AI Model?](https://www.benzinga.com/news/24/04/38358203/mark-zuckerberg-wont-just-open-source-instagrams-code-but-would-he-do-it-for-a-10b-ai-model-he-says)
+
 ##  2024-04-19
 1. [Meta releases Llama 3 open-source AI model: Better than GPT-4?](https://www.newsbytesapp.com/news/science/meta-releases-llama-3-language-models-to-compete-with-openai/story)
 2. [OpenTofu vs. HashiCorp Takes Center Stage at Open Source Summit](https://thenewstack.io/opentofu-vs-hashicorp-takes-center-stage-at-open-source-summit/)
