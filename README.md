@@ -1,5 +1,17 @@
-## WEEKLY 10 TOP NEWS from the Open Source world (Cloud & AI ...) 
+## TOP 10 NEWS from Open Source world (Cloud, AI and ...) 
 
+##  2024-05-05
+1. [Terraform - Return to Open Source Under IBM’s Ownership?](https://thenewstack.io/with-ibms-open-source-roots-terraform-could-be-free-again/)
+2. [OpenELM - Apple takes effective action to power on-device AI](https://www.thenews.com.pk/latest/1182195-apple-takes-effective-action-to-power-on-device-ai)
+3. [Coroot - Open-Source APM and Observability Tool Now GA](https://www.infoq.com/news/2024/05/coroot-apm-observability/)
+4. [Docker Hub Compromise - JFrog Reveals the Spanning Millions of Repositories](https://cloudnativenow.com/topics/cloudnativedevelopment/docker/jfrog-reveals-docker-hub-compromise-spanning-millions-of-repositories/)
+5. [FINOS - launches AI Readiness industry-wide open-source AI initiative for Financial Services]()
+6. [Cloud Big Three - take lion's share as market expands 21%](https://www.theregister.com/2024/05/03/global_cloud_market_growth/)
+7. [AWS - It promotes itself as an alternative to its own VMware service](https://www.theregister.com/2024/05/03/vmc_on_aws_changes/)
+8. [Redis and Elasticsearch - The end of vendor-backed open source?](https://www.infoworld.com/article/3715247/the-end-of-vendor-backed-open-source.html)
+9. [OpenAI - Why Should Become Open-Source?](https://hackernoon.com/why-openai-should-become-open-source)
+10. [Open Source Is a Wonderful Thing, but AI Is Exposing Its Weaknesses](https://goodmenproject.com/featured-content/open-source-is-a-wonderful-thing-but-ai-is-exposing-its-weaknesses/)
+    
 ##  2024-04-26
 1. [Meta’s Open Source Llama 3 Is Already Nipping at OpenAI’s Heels](https://www.wired.com/story/metas-open-source-llama-3-nipping-at-openais-heels/)
 2. [Nvidia acquires AI workload management startup Run:ai](https://techcrunch.com/2024/04/24/nvidia-acquires-ai-workload-management-startup-runai/)
