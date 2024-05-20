@@ -1,6 +1,30 @@
 ## TOP 10 NEWS from Open Source world (Cloud, AI and ...) 
 
-##  2024-05-05
+##  2024-05-17
+1. [IBM open-sources its Granite AI models](https://www.zdnet.com/article/ibm-open-sources-its-granite-ai-models-and-they-mean-business/#ftag=RSSbaffb68)
+2. [Linux distros ban 'tainted' AI-generated code](https://www.tomshardware.com/software/linux/linux-distros-ban-tainted-ai-generated-code)
+3. [Winamp Becomes Open Source under the FreeLLama Name](https://linuxiac.com/winamp-becomes-open-source-under-the-freellama-name/)
+4. [Meta Releases Open Source React Compiler](https://thenewstack.io/meta-releases-open-source-react-compiler/)
+5. [10 things to watch out for with open source gen AI](https://www.cio.com/article/2104280/10-things-to-watch-out-for-with-open-source-gen-ai.html)
+6. [U.K.’s AI Safety Institute Launches Open-Source Testing Platform](https://www.techrepublic.com/article/uk-ai-safety-institute-testing-platform/)
+7. [Rising Kubernetes Costs Highlight the Need for Better Monitoring and FinOps Optimization](https://cloudnativenow.com/social-facebook/rising-kubernetes-costs-highlight-the-need-for-better-monitoring-and-finops-optimization/)
+8. [Reddit goes AI agnostic, signs data training deal with OpenAI](https://www.theregister.com/2024/05/17/reddit_signs_ai_deal/)
+9. [Hugging Face to make $10M worth of old Nvidia GPUs freely available to AI devs](https://www.theregister.com/2024/05/17/hugging_face_nvidia_zerogpu/)
+10. [The debate over ‘open source AI’ has reached boiling point — this new OSI initiative looks to set the record straight](https://www.itpro.com/software/open-source/the-debate-over-open-source-ai-has-reached-boiling-point-this-new-osi-initiative-looks-to-set-the-record-straight)
+
+##  2024-05-10
+1. [Worldcoin Foundation launches open-source data security system](https://crypto.news/worldcoin-launches-data-security-system/)
+2. [How AI affects vulnerability management in open-source software](https://www.helpnetsecurity.com/2024/05/13/ai-affects-open-source-vulnerability-management-video/)
+3. [Upbound Adds Console to Centralize Management of Crossplane](https://cloudnativenow.com/features/upbound-adds-console-to-centralize-management-of-crossplane/)
+4. [SensiML Launches First Complete Open-Source AutoML Solution for Edge AI/ML Development](https://www.prnewswire.com/news-releases/sensiml-launches-first-complete-open-source-automl-solution-for-edge-aiml-development-302144407.html)
+5. [Red Hat Expands Scope of AI Ambitions for OpenShift Platform](https://cloudnativenow.com/news/red-hat-expands-scope-of-ai-ambitions-for-openshift-platform/)
+6. [Spectral Labs Joins Hugging Face’s ESP Program to advance the Onchain x Open-Source AI Community](https://bitcoinworld.co.in/spectral-labs-joins-hugging-faces-esp-program-to-advance-the-onchain-x-open-source-ai-community/)
+7. [Open Source Is at a Crossroads](https://thenewstack.io/open-source-is-at-a-crossroads/)
+8. [AWS to pump billions into sovereign cloud for Germany](https://www.theregister.com/2024/05/17/aws_sovereign_cloud_germany/)
+9. [Leasing North American datacenters before they're finished is so hot right now](https://www.theregister.com/2024/05/17/leasing_datacenters_us/)
+10. [3 Enterprise-Ready Open Source Vector Databases for Your AI Workloads](https://www.itprotoday.com/industry-perspectives/3-enterprise-ready-open-source-vector-databases-your-ai-workloads)
+
+##  2024-05-03
 1. [Terraform - Return to Open Source Under IBM’s Ownership?](https://thenewstack.io/with-ibms-open-source-roots-terraform-could-be-free-again/)
 2. [OpenELM - Apple takes effective action to power on-device AI](https://www.thenews.com.pk/latest/1182195-apple-takes-effective-action-to-power-on-device-ai)
 3. [Coroot - Open-Source APM and Observability Tool Now GA](https://www.infoq.com/news/2024/05/coroot-apm-observability/)
