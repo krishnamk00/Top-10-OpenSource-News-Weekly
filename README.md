@@ -1,5 +1,17 @@
 ## TOP 10 NEWS from Open Source world (Cloud, AI and ...) 
 
+##  2024-05-24
+1. [Google Set to Make Its Largest Acquisition Ever, Threatening Microsoft](https://gizmodo.com/google-acquisition-hubspot-rival-microsoft-cloud-market-1851499164)
+2. [OpenSSF teams up with Eclipse Foundation to define specifications for the EU’s Cyber Resilience Act](https://sdtimes.com/security/openssf-teams-up-with-eclipse-foundation-to-define-specifications-for-the-eus-cyber-resilience-act/)
+3. [Chronon: Open-source data platform for AI/ML applications](https://www.helpnetsecurity.com/2024/05/27/chronon-open-source-data-platform-ai-ml-applications/)
+4. [Where do Terraform and OpenTofu go from here?](https://www.theregister.com/2024/05/24/opinion_column_terraform/)
+5. [Mozilla says openness in AI models and systems is the key to the biggest technology revolution](https://www.windowscentral.com/software-apps/mozilla-says-openness-in-ai-models-and-systems-is-the-key-to-the-biggest-technology-revolution)
+6. [Critical bug discovered in open source utility Fluent Bit](https://www.techtarget.com/searchsecurity/news/366585766/Critical-bug-discovered-in-open-source-utility-Fluent-Bit)
+7. [Nutanix to Containerize Core Operating System to Simplify Migrations](https://cloudnativenow.com/features/nutanix-to-containerize-core-operating-system-to-simplify-migrations/)
+8. [Linux distros ban 'tainted' AI-generated code — NetBSD and Gentoo lead the charge on forbidding AI-written code](https://www.tomshardware.com/software/linux/linux-distros-ban-tainted-ai-generated-code)
+9. [Introducing AKS Automatic, Managed Kubernetes for Developers](https://thenewstack.io/introducing-aks-automatic-managed-kubernetes-for-developers/)
+10. [CLOUD REVENUES WILL BUST THROUGH $1 TRILLION BEFORE TOO LONG](https://www.nextplatform.com/2024/05/21/cloud-revenues-will-bust-through-1-trillion-before-too-long/)
+   
 ##  2024-05-17
 1. [IBM open-sources its Granite AI models](https://www.zdnet.com/article/ibm-open-sources-its-granite-ai-models-and-they-mean-business/#ftag=RSSbaffb68)
 2. [Linux distros ban 'tainted' AI-generated code](https://www.tomshardware.com/software/linux/linux-distros-ban-tainted-ai-generated-code)
