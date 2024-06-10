@@ -1,5 +1,29 @@
 ## TOP 10 NEWS from Open Source world (Cloud, AI and ...) 
 
+##  2024-06-07
+1. [How Kubernetes succeeded](https://www.infoworld.com/article/3715489/how-kubernetes-succeeded.html)
+2. [GitHub adds Arm64 runners to Actions at last, another advance for Arm](https://devclass.com/2024/06/05/github-adds-arm64-runners-to-actions-at-last-another-advance-for-arm/)
+3. [NVIDIA Leverages Containers to Encapsulate AI Inference Models](https://cloudnativenow.com/news/nvidia-leverages-containers-to-encapsulate-ai-inference-models/)
+4. [New open-source platform allows users to evaluate performance of AI-powered chatbots](https://techxplore.com/news/2024-06-source-platform-users-ai-powered.html#google_vignette)
+5. ['New York Times source code' leaks online via 4chan](https://www.theregister.com/2024/06/07/4chan_nyt_code/)
+6. [The AI Revolution Will Not Be Monopolized: How Open-Source Beats Economies of Scale, Even for LLMs](https://www.infoq.com/presentations/ai-monopoly/)
+7. [Commonhaus Foundation Launches at Critical Time for OSS](https://thenewstack.io/commonhaus-foundation-launches-at-critical-time-for-oss/)
+8. [AI businesses split on exclusivity versus open-source](https://www.devx.com/news/ai-businesses-split-on-exclusivity-versus-open-source/)
+9. [Survey Highlights Kubernetes Ascendancy in the Enterprise](https://cloudnativenow.com/topics/cloudnativedevelopment/kubernetes/survey-highlights-kubernetes-ascendancy-in-the-enterprise/)
+10. [Databricks to acquire storage platform maker Tabular](https://www.infoworld.com/article/3715434/databricks-to-acquire-storage-platform-maker-tabular.html)
+
+##  2024-05-31
+1. [Google, Microsoft, Meta and More to Develop Open Standard for AI Chip Components in UALink Promoter Group](https://www.techrepublic.com/article/ualink-promoter-group-ai-chips/)
+2. [Oracle Growls Louder for Graal Cloud Native](https://cloudnativenow.com/topics/cloudnativedevelopment/open-source/oracle-growls-louder-for-graal-cloud-native/)
+3. [India needs open-source AI models for cultural and linguistic representation: IBM](https://economictimes.indiatimes.com/tech/technology/india-needs-open-source-ai-models-for-cultural-and-linguistic-representation-ibm/articleshow/110311591.cms)
+4. [How the open-source world is wrestling with security and licensing issues for generative AI](https://siliconangle.com/2024/06/02/open-source-world-wrestling-security-licensing-issues-generative-ai/)
+5. [OpsMill launches open-source Infrahub platform to ease network data management](https://siliconangle.com/2024/05/28/opsmill-launches-open-source-infrahub-platform-ease-network-data-management/)
+6. [Study finds 268% higher failure rates for Agile software projects](https://www.theregister.com/2024/06/05/agile_failure_rates/)
+7. [China rallies open-source software efforts advance military aims, US defense group says](https://finance.yahoo.com/news/china-rallies-open-source-software-013622158.html)
+8. [Free NAP Framework gets gorgeous rendering, non-profit organization](https://cdm.link/2024/05/nap-070/)
+9. [Open Source AI Is ‘Dangerous:’: Euro Cybersec Chief Warns](https://thenewstack.io/open-source-ai-is-dangerous-euro-cybersec-chief-warns/)
+10. [Nutanix Project Beacon Illuminates Cloud-Native Navigation](https://cloudnativenow.com/features/nutanix-project-beacon-illuminates-cloud-native-navigation)
+    
 ##  2024-05-24
 1. [Google Set to Make Its Largest Acquisition Ever, Threatening Microsoft](https://gizmodo.com/google-acquisition-hubspot-rival-microsoft-cloud-market-1851499164)
 2. [OpenSSF teams up with Eclipse Foundation to define specifications for the EU’s Cyber Resilience Act](https://sdtimes.com/security/openssf-teams-up-with-eclipse-foundation-to-define-specifications-for-the-eus-cyber-resilience-act/)
