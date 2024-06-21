@@ -1,5 +1,29 @@
 ## TOP 10 NEWS from Open Source world (Cloud, AI and ...) 
 
+##  2024-06-21
+1. [Cilium: Open-source eBPF-based networking, security, observability](https://www.helpnetsecurity.com/2024/06/21/cilium-open-source-ebpf-based-networking-security-observability/)
+2. [Llama 3 earns early enterprise wins as open-source AI expands](https://www.ciodive.com/news/enterprise-open-source-generative-ai-usage-Databricks/719047/)
+3. [Meet TORAX, Google DeepMind’s Breakthrough in Open-Source Nuclear Fusion Simulation](https://analyticsindiamag.com/meet-torax-google-deepminds-breakthrough-in-open-source-nuclear-fusion-simulation/)
+4. [SUSE Acquires StackState for Cloud-Native Observability](https://cloudnativenow.com/news/suse-acquires-stackstate-for-cloud-native-observability/)
+5. [Konveyor AI: Changing app modernization with open-source innovation](https://siliconangle.com/2024/06/14/konveyor-ai-transforms-app-modernization-innovative-ai-solutions-rhsummit/)
+6. [Not all ‘open source’ AI models are actually open: here’s a ranking](https://www.nature.com/articles/d41586-024-02012-5)
+7. [Biden bans Kaspersky: No more sales, updates in US](https://www.theregister.com/2024/06/20/us_bans_kaspersky_software/?td=rt-3a)
+8. [Why Open Source Dependencies Must be Managed](https://www.opensourceforu.com/2024/06/why-open-source-dependencies-must-be-managed/)
+9. [SUSE upgrades its distros with 19 years of support - no other Linux comes close](https://www.zdnet.com/article/suse-upgrades-its-distros-with-19-years-of-support-no-other-linux-comes-close/)
+10. [Chinese Hackers Used Open-Source Rootkits for Espionage](https://www.bankinfosecurity.com/chinese-hackers-used-open-source-rootkits-for-espionage-a-25571)
+
+##  2024-06-14
+1. [Databricks races with Snowflake to open up data catalog source code](https://www.infoworld.com/article/3715510/databricks-races-with-snowflake-to-open-up-data-catalog-source-code.html)
+2. [Application Security Market worth $55.0 billion by 2029- Exclusive Report by MarketsandMarkets](https://www.prnewswire.com/news-releases/application-security-market-worth-55-0-billion-by-2029--exclusive-report-by-marketsandmarkets-302172892.html)
+3. [Lifting The Lid On Microsoft Advanced Container Networking Services](https://cloudnativenow.com/topics/cloudnativedevelopment/lifting-the-lid-on-microsoft-advanced-container-networking-services/)
+4. [Event-Driven Architecture in Cloud Native Development: Patterns and Use Cases](https://cloudnativenow.com/topics/cloudnativedevelopment/application-dev/event-driven-architecture-in-cloud-native-development-patterns-and-use-cases/)
+5. [Ghidra: Open-source software reverse engineering framework](https://www.helpnetsecurity.com/2024/06/17/ghidra-nsa-open-source-software-reverse-engineering-framework/)
+6. [Apple researchers add 20 more open-source models to improve text and image AI](https://appleinsider.com/articles/24/06/19/apple-researchers-add-20-more-open-source-models-to-improve-text-and-image-ai)
+7. [SELKS: Open-source Suricata IDS/IPS, network security monitoring, threat hunting](https://www.helpnetsecurity.com/2024/06/19/selks-open-source-suricata-ids-ips-network-security-monitoring-threat-hunting/)
+8. [Researchers introduce OpenVLA, an open-source generalist AI model for robotics tasks](https://siliconangle.com/2024/06/18/researchers-introduce-openvla-open-source-generalist-ai-model-robotics-tasks/)
+9. [Non-free programs are a threat to everyone’s freedom](https://www.opensourceforu.com/2023/03/non-free-programs-are-a-threat-to-everyones-freedom/)
+10. [Oracle's love and hate relationship with open source software](https://www.theregister.com/2024/06/14/oracles_love_and_hate_relationship/)
+    
 ##  2024-06-07
 1. [How Kubernetes succeeded](https://www.infoworld.com/article/3715489/how-kubernetes-succeeded.html)
 2. [GitHub adds Arm64 runners to Actions at last, another advance for Arm](https://devclass.com/2024/06/05/github-adds-arm64-runners-to-actions-at-last-another-advance-for-arm/)
