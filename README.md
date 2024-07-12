@@ -1,5 +1,41 @@
 ## TOP 10 NEWS from Open Source world (Cloud, AI and ...) 
 
+## 2024-07-12
+1. [Microsoft and Apple Back Away from OpenAI Board Over Increased Scrutiny](https://www.spiceworks.com/tech/artificial-intelligence/news/microsoft-apple-back-away-from-openai-board-over-scrutiny-big-tech-investments/)
+2. [Arm has developed a new shader-based upscaler using AMD's open source](https://www.pcgamer.com/hardware/arm-has-developed-a-new-shader-based-upscaler-using-amds-open-source-fsr-22-as-its-starting-base/)
+3. [Open Source AI: What About Data Transparency?](https://thenewstack.io/open-source-ai-what-about-data-transparency/)
+4. [Mirantis Offers Lower Cost Open Source Alternative to VMware with Latest Mirantis OpenStack for Kubernetes](https://www.businesswire.com/news/home/20240709969916/en/Mirantis-Offers-Lower-Cost-Open-Source-Alternative-to-VMware-with-Latest-Mirantis-OpenStack-for-Kubernetes)
+5. [Alibaba’s open-source LLM ranks high in Hugging Face’s top 10 AI models](https://coingeek.com/alibaba-open-source-llm-ranks-high-in-hugging-face-top-10-ai-models/)
+6. [Kubernetes shows the way forward for AI](https://www.infoworld.com/article/2337481/kubernetes-shows-the-way-forward-for-ai.html)
+7. [SAP's bid to woo open source community meets muted response](https://www.theregister.com/2024/07/12/saps_bid_to_woo_open/)
+8. [Bioptimus Unveils its Open-Source AI Foundation Model for Pathology](https://pharmaceuticalmanufacturer.media/pharma-manufacturing-news/latest-pharmaceutical-manufacturing-news/bioptimus-open-source-ai-foundation-model-pathology/)
+9. [Judge Dismisses Lawsuit Over GitHub Copilot AI Coding Assistant](https://alltechmagazine.com/judge-dismisses-lawsuit-over-github-copilot-ai-coding-assistant/)
+10. [Break-in at 'third-party cloud platform' leaked 110M customer records, says AT&T](https://www.theregister.com/2024/07/12/att_admits_110_million_ppl_data_lost/)
+
+## 2024-07-05
+1. [Nvidia's RTX Remix goes open source, giving classic games an AI-powered remastering renaissance](https://www.techspot.com/news/103689-nvidia-rtx-remix-goes-open-source-giving-classic.html)
+2. [CISA offers tools to promote secure use of open-source software](https://www.scmagazine.com/news/cisa-offers-tools-to-promote-secure-use-of-open-source-software)
+3. [GNU Parties Can’t Implement Own Policies Without Cabinet Approval](https://iafrica.com/gnu-parties-cant-implement-own-policies-without-cabinet-approval-ntshavheni/)
+4. [At the Forefront of AI Research: Multimodality, Agents, Open-Source LLM, and Beyond](https://hackernoon.com/at-the-forefront-of-ai-research-multimodality-agents-open-source-llm-and-beyond)
+5. [Palantir, Oracle cosy up to offer Karp firm's tech across Big Red's cloud](https://www.theregister.com/2024/07/11/palantir_and_oracle_cosy_up/)
+6. [AMD buys developer Silo AI in bid to match Nvidia's product range](https://www.theregister.com/2024/07/11/amd_buys_developer_silo_ai/)
+7. [GNU Cabinet announcement gave business confidence a boost, says BLSA](https://www.engineeringnews.co.za/article/gnu-cabinet-announcement-gave-business-confidence-a-boost-says-blsa-2024-07-08)
+8. [Apple, Google, ease cross-cloud data transfers, perhaps with costly catch](https://www.theregister.com/2024/07/11/apple_gogle_photo_cloud_interoperability/)
+9. [Advancing responsible practices for open source AI](https://github.blog/2024-07-11-advancing-responsible-practices-for-open-source-ai/)
+10. [Zero Trust Security for Distributed Applications with Dapr Open Source](https://thenewstack.io/zero-trust-security-for-distributed-applications-with-dapr-open-source/)
+
+## 2024-06-28
+1. [Open source distributed ledger blockchain technology (DLT) developer Iota](https://www.eenewseurope.com/en/open-source-blockchain-for-ev-battery-passport/)
+2. [Hugging Face Announces Profitability with Free and Open-Source Models](https://analyticsindiamag.com/hugging-face-announces-profitability-with-free-and-open-source-models)
+3. [Apple’s Open Source Roots: The BSD Heritage Behind macOS and iOS](https://thenewstack.io/apples-open-source-roots-the-bsd-heritage-behind-macos-and-ios/)
+4. [Kaggle is a Humbling Machine for PhD Students](https://analyticsindiamag.com/kaggle-is-a-humbling-machine-for-phd-students)
+5. [NTT Data VP: Cloud-Native Adoption Starts at the Top](https://cloudnativenow.com/topics/cloudnativeplatforms/ntt-data-vp-cloud-native-adoption-starts-at-the-top/)
+6. [Strategies for Building Resilient, Scalable Cloud-Native Applications](https://cloudnativenow.com/promo/cloud-native/strategies-for-building-resilient-scalable-cloud-native-applications/)
+7. [China’s homebrew openKylin OS creates a cut for AI PCs](https://www.theregister.com/2024/07/11/openkylin_os_aipc_edition/)
+8. [HPE to build supercomputer to enhance Japans AI sovereignty](https://www.theregister.com/2024/07/12/hpe_to_build_supercomputer_to/)
+9. [SUSE Acquires StackState for Cloud-Native Observability](https://cloudnativenow.com/editorial-calendar/cloud-native-security/suse-updates-cloud-native-tool-portfolio/)
+10. [IISc to Open Source Project Vaani Under Bhashini with 16,000 Hours of Speech Data](https://analyticsindiamag.com/iisc-to-open-source-project-vaani-under-bhashini-with-16000-hours-of-speech-data)
+
 ##  2024-06-21
 1. [Cilium: Open-source eBPF-based networking, security, observability](https://www.helpnetsecurity.com/2024/06/21/cilium-open-source-ebpf-based-networking-security-observability/)
 2. [Llama 3 earns early enterprise wins as open-source AI expands](https://www.ciodive.com/news/enterprise-open-source-generative-ai-usage-Databricks/719047/)
