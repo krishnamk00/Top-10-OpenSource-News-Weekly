@@ -1,5 +1,17 @@
 ## TOP 10 NEWS from Open Source world (Cloud, AI and ...) 
 
+# 2024-07-19
+1. [Nvidia will fully transition to open-source GPU kernel modules with R560 drivers](https://www.techspot.com/news/103871-nvidia-fully-transition-open-source-gpu-kernel-modules.html)
+2. [Google to make abandoned VR app open-source in revival project](https://www.phonearena.com/ar-vr/news/third-party-convinces-google-to-make-vr-app-open-source_id160501)
+3. [Developers' Guide to Unlocking the Power of Open Source LLMs](https://www.itprotoday.com/software-development-techniques/developers-guide-to-unlocking-the-power-of-open-source-llms)
+4. [Google backs Indian open source Uber rival](https://techcrunch.com/2024/07/15/google-backs-indian-open-source-uber-rival-namma-yatri/)
+5. [Google Adds Air-Gapped Kubernetes Appliance for Harsh Environments](https://cloudnativenow.com/editorial-calendar/kubernetes-at-the-edge/google-adds-air-gapped-kubernetes-appliance-for-harsh-environments/)
+6. [Datadog Adds Automatic Kubernetes Scaling to Observability Platform](https://cloudnativenow.com/features/datadog-adds-automatic-kubernetes-scaling-to-observability-platform/)
+7. [OpenAI’s GPT-4o Mini is indeed small – like its lead over rivals in certain tests](https://www.theregister.com/2024/07/19/openaigpt4o_mini/?td=rt-3a)
+8. [How open source attracts some of the world's top innovators](https://www.zdnet.com/article/how-open-source-attracts-some-of-the-worlds-top-innovators/)
+9. [Realm: Open-source adversary emulation framework](https://www.helpnetsecurity.com/2024/07/15/realm-open-source-adversary-emulation-framework/)
+10. [Microsoft: Linux Is the Top Operating System on Azure Today](https://thenewstack.io/microsoft-linux-is-the-top-operating-system-on-azure-today/)
+
 ## 2024-07-12
 1. [Microsoft and Apple Back Away from OpenAI Board Over Increased Scrutiny](https://www.spiceworks.com/tech/artificial-intelligence/news/microsoft-apple-back-away-from-openai-board-over-scrutiny-big-tech-investments/)
 2. [Arm has developed a new shader-based upscaler using AMD's open source](https://www.pcgamer.com/hardware/arm-has-developed-a-new-shader-based-upscaler-using-amds-open-source-fsr-22-as-its-starting-base/)
