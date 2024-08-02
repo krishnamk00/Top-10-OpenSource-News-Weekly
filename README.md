@@ -1,5 +1,29 @@
 ## TOP 10 NEWS from Open Source world (Cloud, AI and ...) 
 
+# 2024-08-02
+1. [Mark Zuckerberg Says Apple's 'Constrained' Platform Is the 'Major Reason' He's Pushing for Open Source AI](https://www.entrepreneur.com/business-news/mark-zuckerberg-calls-out-apple-outlines-meta-ai-strategy/477517)
+2. [Google DeepMind releases Gemma 2 2B, its most compact, open-source AI model](https://www.thehindu.com/sci-tech/technology/google-deepmind-releases-gemma-2-2b-its-most-compact-open-source-ai-model/article68476438.ece)
+3. [NIST releases open-source platform for AI safety testing](https://www.scmagazine.com/news/nist-releases-open-source-platform-for-ai-safety-testing)
+4. [NVIDIA’s Open-Source Linux Drivers Have Performance Parity With Proprietary Drivers, Great GPU Optimizations Across The Board](https://wccftech.com/nvidia-open-source-linux-drivers-performance-parity-proprietary-drivers-great-gpu-optimizations/)
+5. [Is AI going to pay its way? Wall Street wants tech world to show it the money](https://www.theregister.com/2024/08/01/is_ai_going_to_pay/?td=rt-3a)
+6. [Microsoft whiz dishes the dirt on the Blue Screen Of Death's colorful past](https://www.theregister.com/2024/08/02/who_wrote_windows_bsod/)
+7. [What Next For The Open Container Initiative (OCI)?](https://cloudnativenow.com/topics/cloudnativeplatforms/what-next-for-the-open-container-initiative-oci/?)
+8. [Switzerland mandates open-source software for government](https://www.devx.com/news/switzerland-mandates-open-source-software-for-government/)
+9. [Apple ships truly open-source AI models](https://www.computerworld.com/article/3475866/apple-ships-truly-open-source-ai-models.html)
+10. ['Revolutionary Tools:' The Dept. of Commerce Just Published a 70-Page Report in Support of Open-Source AI Models](https://www.entrepreneur.com/business-news/dept-of-commerce-urges-white-house-to-support-open-ai-models/477854)
+
+# 2024-07-26
+1. [ The Linux Foundation has announced the formation of LF Broadband, an open and collaborative initiative](https://convergedigest.blogspot.com/2024/07/linux-foundation-launches-lf-broadband.html)
+2. [Open-source startup FOSSA acquires developer tool community StackShare](https://siliconangle.com/2024/08/01/open-source-startup-fossa-acquires-developer-tool-community-stackshare/)
+3. [Web5 Decentralized Web Nodes Now on Google Cloud](https://cloudnativenow.com/topics/cloudnativedevelopment/web5-decentralized-web-nodes-now-on-google-cloud/)
+4. [Why Open Source AI is Good For Developers, Meta, and the World](https://hackernoon.com/why-open-source-ai-is-good-for-developers-meta-and-the-world)
+5. [Nine big BSS/OSS modernization considerations for 5G monetization](https://www.rcrwireless.com/20240801/fundamentals/nine-big-bss-oss-modernization-considerations-for-5g-monetization)
+6. [“More than a technical problem, Open Source management, Is a business problem”](https://www.opensourceforu.com/2024/02/more-than-a-technical-problem-open-source-management-is-a-business-problem/)
+7. [The Open Home Foundation adds HACS, microWakeWord, and Music Assistant open-source projects](https://www.cnx-software.com/2024/08/01/the-open-home-foundation-adds-hacs-microwakeword-and-music-assistant-open-source-projects/)
+8. [Metify & Taikun Partner On ‘Advanced Total Stack’ Kubernetes](https://cloudnativenow.com/topics/cloudnativedevelopment/metify-taikun-partner-on-advanced-total-stack-kubernetes/)
+9. [Nasscom and Meta partner to launch Open-Source and GenAI in India](https://www.thehindu.com/sci-tech/technology/nasscom-and-meta-partner-to-launch-open-source-and-genai-in-india/article68448807.ece)
+10. [White House is recommending that use of open source AI models not be restricted](https://sdtimes.com/ai/white-house-is-recommending-that-use-of-open-source-ai-models-not-be-restricted/)
+
 # 2024-07-19
 1. [Nvidia will fully transition to open-source GPU kernel modules with R560 drivers](https://www.techspot.com/news/103871-nvidia-fully-transition-open-source-gpu-kernel-modules.html)
 2. [Google to make abandoned VR app open-source in revival project](https://www.phonearena.com/ar-vr/news/third-party-convinces-google-to-make-vr-app-open-source_id160501)
