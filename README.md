@@ -1,5 +1,40 @@
 ## TOP 10 NEWS from Open Source world (Cloud, AI and ...) 
 
+# 2024-08-23
+1. [Linux Foundation Backs Open Source LLM Initiative](https://thenewstack.io/linux-foundation-backs-open-source-llm-initiative/)
+2. [MariaDB Introduces Open-Source Vector Preview, Aiming to Become Default MySQL Option](https://www.infoq.com/news/2024/08/mariadb-vector-search/)
+3. [Linus Torvalds talks AI, Rust adoption, and why the Linux kernel is 'the only thing that matters'](https://www.zdnet.com/article/linus-torvalds-talks-ai-rust-adoption-and-why-the-linux-kernel-is-the-only-thing-that-matters/#ftag=RSSbaffb68)
+4. [Bouyant Extends Reach and Scope of Linkerd Service Mesh](https://cloudnativenow.com/social-facebook/bouyant-extends-reach-and-scope-of-linkerd-service-mesh/)
+5. [Top companies ground Microsoft Copilot over data governance concerns](https://www.theregister.com/2024/08/21/microsoft_ai_copilots/?td=rt-3a)
+6. [Open source AI now has a definition. This it what it means and why it’s still tricky](https://uk.news.yahoo.com/open-source-ai-now-definition-150544614.html)
+7. [Segment Anything Model 2 (SAM 2) is a foundation model from Meta for AI](https://sam2.metademolab.com/?utm_source=twitter&utm_medium=organic_social&utm_content=video&utm_campaign=sam2)
+8. [China AI devs use cloud services to game US chip sanctions](https://www.theregister.com/2024/08/23/china_aws_restricted_technology/)
+9. [Platform9 Arrives at Simplified Kubernetes With Fairwinds](https://cloudnativenow.com/topics/cloudnativedevelopment/platform9-arrives-at-simplified-kubernetes-with-fairwinds/)
+10. [How to Release a New Version of an Open Source Project Under the Apache Software Foundation](https://hackernoon.com/how-to-release-a-new-version-of-an-open-source-project-under-the-apache-software-foundation)
+
+# 2024-08-16
+1. [How the latest Kubernetes release now handles AI workloads - and more](https://www.zdnet.com/article/how-the-latest-kubernetes-release-now-handles-ai-workloads-and-more/)
+2. [Open source biz promises to slash bills with observability-as-a-service in the cloud](https://www.newsnow.com/us/Business/IT/Computer+Technology/Software/Open+Source)
+3. [AI software resists open source](https://www.infoworld.com/article/3485382/ai-software-resists-open-source.html)
+4. [Karpenter Carves Out Keener Kubernetes Compute Consumption](https://cloudnativenow.com/topics/cloudnativedevelopment/karpenter-carves-out-keener-kubernetes-compute-consumption/)
+5. [OpenCTI: Open-source cyber threat intelligence platform](https://www.helpnetsecurity.com/2024/08/21/opencti-open-source-cyber-threat-intelligence-platform/)
+6. [OSI releases latest draft of Open Source AI Definition](https://sdtimes.com/ai/osi-releases-latest-draft-of-open-source-ai-definition/)
+7. [CockroachDB scuttles away from open source Core offering](https://www.theregister.com/2024/08/19/cockroachdb_abandons_open_core/)
+8. [CrowdStrike deja vu as 'performance issue' leaves systems sluggish](https://www.theregister.com/2024/08/22/crowdstrike_deja_vu/)
+9. [White House Pledges $10 Million for Open Source Initiative](https://www.darkreading.com/application-security/white-house-pledges-10-million-for-open-source-initiative)
+10. [How to Tame The Complexity of Open Source Dependency Security](https://www.activestate.com/blog/how-to-tame-the-complexity-of-open-source-dependency-security/)
+
+# 2024-08-09
+1. [Latest Nvidia drivers for Linux default to open-source GPU kernel modules](https://www.notebookcheck.net/Latest-Nvidia-drivers-for-Linux-default-to-open-source-GPU-kernel-modules.878109.0.html)
+2. [LG Electronics aims to become a datacenter cooling player, with aircon and immersion tech](https://www.theregister.com/2024/08/22/lg_electronics_datacenter_cooling_2030_vision/)
+3. [Meet OpenShift Lightspeed, Red Hat's AI tool for Kubernetes admins](https://www.zdnet.com/article/meet-openshift-lightspeed-redhats-ai-tool-for-kubernetes-admins/)
+4. [Endor Labs unveils tools to enhance OSS security efforts](https://securitybrief.co.nz/story/endor-labs-unveils-tools-to-enhance-oss-security-efforts)
+5. [Godot 4.3 Open-Source Game Engine Released, Here’s What’s New](https://linuxiac.com/godot-4-3-open-source-game-engine-released/)
+6. [Latest Open Source Dapr Boosts Productivity for Building Distributed Applications](https://www.businesswire.com/news/home/20240815036633/en/Latest-Open-Source-Dapr-Boosts-Productivity-for-Building-Distributed-Applications)
+7. [TigerEye releases open-source DuckDB.dart to simplify data-intensive application development](https://siliconangle.com/2024/08/15/tigereye-releases-open-source-duckdb-dart-simplify-data-intensive-application-development/)
+8. [17 Open Source Tools That Could Replace Your Favorite Software](https://hackernoon.com/17-open-source-tools-that-could-replace-your-favorite-software)
+9. [AI Angels, an open source list of active angel investors in AI startups.](https://www.aiangels.fund/)
+10. [Ex-Microsoft engineer resurrects PDP-11 from junkyard parts](https://www.theregister.com/2024/08/23/build_your_own_pdp11/)
 # 2024-08-02
 1. [Mark Zuckerberg Says Apple's 'Constrained' Platform Is the 'Major Reason' He's Pushing for Open Source AI](https://www.entrepreneur.com/business-news/mark-zuckerberg-calls-out-apple-outlines-meta-ai-strategy/477517)
 2. [Google DeepMind releases Gemma 2 2B, its most compact, open-source AI model](https://www.thehindu.com/sci-tech/technology/google-deepmind-releases-gemma-2-2b-its-most-compact-open-source-ai-model/article68476438.ece)
