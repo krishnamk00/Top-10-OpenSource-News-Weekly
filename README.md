@@ -1,5 +1,29 @@
 ## TOP 10 NEWS from Open Source world (Cloud, AI and ...) 
 
+# 2024-09-06
+1. [Meta’s open source Llama AI sees exponential popularity growth as major companies adopt it](https://www.phonearena.com/news/metas-open-source-llama-ai-popularity-growth_id162053)
+2. [Elastic Returns to Open Source: Will the Community Follow?](https://www.infoq.com/news/2024/09/elastic-open-source-agpl/)
+3. [Salesforce previews new XGen-Sales model, releases xLAM family of LLMs](https://www.infoworld.com/article/3507169/salesforce-previews-new-xgen-sales-model-releases-xlam-family-of-llms.html)
+4. [AMD OpenSIL in 2025 - Transition Away from AGESA: Milestones and Progress](https://www.guru3d.com/story/amd-opensil-development-and-transition-away-from-agesa-milestones-and-progress/)
+5. [Broadcom Revamps Tanzu to Simplify Cloud-Native App Development and Deployment](https://cloudnativenow.com/editorial-calendar/app-dev-platforms-for-kubernetes/broadcom-revamps-tanzu-to-simplify-cloud-native-app-development-and-deployment/)
+6. [Microsoft Launches Open-Source Phi-3.5 Models for Advanced AI Development](https://www.infoq.com/news/2024/08/microsoft-phi-3-5/)
+7. [Profiting From The GenAI Boom Is Tough Even If It Democratizes](https://www.nextplatform.com/2024/09/05/profiting-from-the-genai-boom-is-tough-even-if-it-democratizes/?td=rt-3a)
+8. [Meet Reflection 70B, AI model that can fix its mistakes](https://www.newsbytesapp.com/news/science/reflection-70b-debuts-as-world-s-most-powerful-open-source-ai-model/story)
+9. [Red Hat Enterprise Linux AI Now Generally Available for Enterprise AI Innovation in Production](https://www.businesswire.com/news/home/20240905544240/en/Red-Hat-Enterprise-Linux-AI-Now-Generally-Available-for-Enterprise-AI-Innovation-in-Production)
+10. [Roblox Builds Open-Source 3D AI Model, Adds Tech for Faster Game Loading](https://www.pcmag.com/news/roblox-builds-open-source-3d-ai-model-adds-tech-for-faster-game-loading)
+
+# 2024-08-30
+1. [AI Models From Google, Meta, Others May Not Be Truly 'Open Source'](https://www.pcmag.com/news/ai-models-from-google-meta-others-may-not-be-truly-open-source)
+2. [Tigera Simplifies Network Migrations Away From VMware NSX](https://cloudnativenow.com/editorial-calendar/container-networking-editorial-calendar/tigera-simplifies-network-migrations-away-from-vmware-nsx/)
+3. [PyPi repository vulnerable to deleted package hijack, say researchers](https://devclass.com/2024/09/04/pypi-repository-vulnerable-to-deleted-package-hijack-say-researchers/)
+4. [Latest Nvidia drivers for Linux default to open-source GPU kernel modules](https://www.notebookcheck.net/Latest-Nvidia-drivers-for-Linux-default-to-open-source-GPU-kernel-modules.878109.0.html)
+5. [Open-source data platforms as lifelines during disasters](https://www.thehindubusinessline.com/business-tech/open-source-data-platforms-as-lifelines-during-disasters/article68585120.ece)
+6. [Patria Expands Cyber Portfolio by Acquiring WithSecure’s Open-Source Data Collection Unit.](https://www.armyrecognition.com/news/army-news/army-news-2024/patria-expands-cyber-portfolio-by-acquiring-withsecures-open-source-data-collection-unit)
+7. [Global powers sign AI pact promising to preserve human rights, democracy](https://www.theregister.com/2024/09/05/ai_treaty/)
+8. [The GNU is controlled by the markets?](https://www.iol.co.za/business-report/economy/the-gnu-is-controlled-by-the-markets-6bb96811-617d-4f0b-8b9b-0923ce33ba91)
+9. [A former Nvidia researcher who left the chip giant for academia shares why AI models should be open source and free for all](https://www.businessinsider.com/anima-anandkumar-ai-climate-change-open-source-caltech-nvidia-2024-8)
+10. [OpenBAS: Open-source breach and attack simulation platform](https://www.helpnetsecurity.com/2024/09/04/openbas-open-source-breach-and-attack-simulation-platform/)
+    
 # 2024-08-23
 1. [Linux Foundation Backs Open Source LLM Initiative](https://thenewstack.io/linux-foundation-backs-open-source-llm-initiative/)
 2. [MariaDB Introduces Open-Source Vector Preview, Aiming to Become Default MySQL Option](https://www.infoq.com/news/2024/08/mariadb-vector-search/)
