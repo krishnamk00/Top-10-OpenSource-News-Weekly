@@ -1,5 +1,17 @@
 ## TOP 10 NEWS from Open Source world (Cloud, AI and ...) 
 
+# 2024-09-13
+1. [OpenAI's latest o1 model family tries to emulate 'reasoning' – tho might overthink things a bit](https://www.theregister.com/2024/09/13/openai_rolls_out_reasoning_o1/?td=rt-3a)
+2. [Docker Inc. Hikes Subscription Pricing in Return for Providing Increased Tool Access](https://cloudnativenow.com/social-facebook/docker-inc-hikes-subscription-pricing-in-return-for-providing-increased-tool-access/)
+3. [JFrog and GitHub unveil open source security integrations](https://www.computerweekly.com/news/366609897/JFrog-and-GitHub-unveil-new-open-source-security-integrations)
+4. [Red Hat Enables OpenStack to Run Natively on OpenShift Platform](https://cloudnativenow.com/features/red-hat-enables-openstack-to-run-natively-on-openshift-platform/)
+5. [Valkey Emerges as Leading Open Source Alternative to Redis After Relicensing Row](https://www.businesswire.com/news/home/20240912258232/en)
+6. [Roblox announces AI tool for generating 3D game worlds from text](https://arstechnica.com/information-technology/2024/09/open-source-roblox-tool-will-allow-3d-world-creation-from-text-prompts/)
+7. [Concerns Rise in Open-Source Community as CockroachDB Ends Core Free Edition](https://www.infoq.com/news/2024/09/cockroachdb-license-concerns/)
+8. [Cloud-Based AI Services from Azure, AWS and GCP: An Overview](https://www.opensourceforu.com/2024/09/cloud-based-ai-services-from-azure-aws-and-gcp-an-overview/)
+9. [Azure Flaw Highlights Need to Secure Kubernetes Cloud Clusters](https://cloudnativenow.com/topics/cloudnativedevelopment/kubernetes/azure-flaw-highlights-need-to-secure-kubernetes-cloud-clusters/)
+10. [MongoDB CEO says if AI hype were the dotcom boom, it is 1996](https://www.theregister.com/2024/09/13/mongodb_ceo_says_if_ai/)
+
 # 2024-09-06
 1. [Meta’s open source Llama AI sees exponential popularity growth as major companies adopt it](https://www.phonearena.com/news/metas-open-source-llama-ai-popularity-growth_id162053)
 2. [Elastic Returns to Open Source: Will the Community Follow?](https://www.infoq.com/news/2024/09/elastic-open-source-agpl/)
