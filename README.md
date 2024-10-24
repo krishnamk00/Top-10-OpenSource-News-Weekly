@@ -1,5 +1,77 @@
 ## TOP 10 NEWS from Open Source world (Cloud, AI and ...) 
 
+# 2024-10-25
+1. [GNU Boot uncovers non-free code in its software, warns other projects](https://www.neowin.net/news/gnu-boot-uncovers-non-free-code-in-its-software-warns-other-projects/)
+2. [Huawei launches HarmonyOS NEXT as a complete Android replacement](https://www.notebookcheck.net/Huawei-launches-HarmonyOS-NEXT-as-a-complete-Android-replacement.906044.0.html)
+3. [New Scoring System Helps Secure the Open Source AI Model Supply Chain](https://www.securityweek.com/new-scoring-system-helps-secure-the-open-source-ai-model-supply-chain/)
+4. [Microsoft Open Sources OpenVMM Rust-Powered VM Monitor](https://thenewstack.io/microsoft-open-sources-openvmm-rust-powered-vm-monitor/)
+5. [Meta Launches Meta Spirit LM, an Open Source Language Model for Speech and Text Integration](https://analyticsindiamag.com/ai-news-updates/meta-launches-meta-spirit-lm-an-open-source-language-model-for-speech-and-text-integration/)
+9. [Hugging Face puts the squeeze on Nvidia's software ambitions](https://www.theregister.com/2024/10/24/huggingface_hugs_nvidia/)
+7. [New open-source tool from Permiso targets cloud policy obfuscation risk](https://siliconangle.com/2024/10/24/new-open-source-tool-permiso-targets-cloud-policy-obfuscation-risks/)
+8. [Should JavaScript be split into two languages? New Google-driven proposal divides opinion](https://devclass.com/2024/10/22/should-javascript-be-split-into-two-languages-new-google-driven-proposal-divides-opinion/?td=rt-3a)
+9. [Google DeepMind is making its AI text watermark open source](https://www.technologyreview.com/2024/10/23/1106105/google-deepmind-is-making-its-ai-text-watermark-open-source/)
+10. [Yet another UK government seeks to reform GDPR](https://www.theregister.com/2024/10/24/uk_proposes_new_data_law/)
+
+# 2024-10-18
+1. [Meta unveils OMat24: AI-powered materials discovery goes open-source](https://www.notebookcheck.net/Meta-unveils-OMat24-AI-powered-materials-discovery-goes-open-source.904139.0.html)
+2. [OpenGradient to Decentralize AI Infrastructure and Accelerate Secure, Open-Source AI](https://www.darkreading.com/application-security/opengradient-raises-8-5m-to-decentralize-ai-infrastructure-and-accelerate-secure-open-source-ai)
+3. [Microsoft Introduces Drasi: Open-Source System for Real-Time Event Processing and Automation](https://www.infoq.com/news/2024/10/drasi-open-source-system/)
+4. [How Mixtral 8x7B Sets New Standards in Open-Source AI with Innovative Design](https://hackernoon.com/how-mixtral-8x7b-sets-new-standards-in-open-source-ai-with-innovative-design)
+5. [Survey Surfaces Steady Pace of Investment in Cloud-Native App Development](https://cloudnativenow.com/social-facebook/survey-surfaces-steady-pace-of-investment-in-cloud-native-app-development/)
+6. [Morse Micro Launches Wi-Fi Community Forum and Open-Source GitHub Repositories](https://www.prnewswire.com/news-releases/morse-micro-launches-wi-fi-community-forum-and-open-source-github-repositories-302279124.html)
+7. [Meta gives Llama 3 vision, now if only it had a brain](https://www.theregister.com/2024/10/06/meta_llama_vision_brain/?td=rt-4a)
+8. [HashiCorp Updates Terraform; Wider Cloud Infrastructure Developer Toolsets](https://devops.com/hashicorp-updates-terraform-wider-cloud-infrastructure-developer-toolsets/)
+9. [BMC CEO: Time for IT Teams to Shift Gears is Now](https://devops.com/bmc-ceo-time-for-it-teams-to-shift-gears-is-now/?)
+10. [Infosys Expands Strategic Collaboration with Meta: Unveils Center of Excellence to Drive Enterprise AI Innovation through Open Source](https://www.prnewswire.com/news-releases/infosys-expands-strategic-collaboration-with-meta-unveils-center-of-excellence-to-drive-enterprise-ai-innovation-through-open-source-302284579.html)
+
+# 2024-10-11
+1. [OpenTofu Whets the Appetite for Open Source Cloud Management](https://thenewstack.io/opentofu-whets-the-appetite-for-open-source-cloud-management/)
+2. [Open source LLM tool primed to sniff out Python zero-days](https://www.theregister.com/2024/10/20/python_zero_day_tool/)
+3. [Diagrid Makes Beta of Managed Dapr Service Available](https://cloudnativenow.com/social-facebook/diagrid-makes-beta-of-managed-dapr-service-available/)
+4. [AWS brings Finch container development to Linux, but it’s not so easy to get started](https://devclass.com/2024/10/17/aws-brings-finch-container-development-to-linux-but-its-not-so-easy-to-get-started/)
+5. [Winamp source code vanishes from GitHub](https://betanews.com/2024/10/17/winamp-source-code-vanishes-from-hithub/#google_vignette)
+6. [Homologous Topographies, SUSE Edge Evolves Datacenter-Like Maturity ](https://cloudnativenow.com/topics/cloudnativedevelopment/homologous-topographies-suse-edge-evolves-datacenter-like-maturity/)
+7. [Chainbase unveils open source of AI language model focusing on crypto](https://www.cryptopolitan.com/chainbase-open-source-crypto-ai-model/)
+8. [Groundlight Unveils Open-Source ROS Package, Revolutionizing Embodied AI for Robotics](https://www.businesswire.com/news/home/20241010137366/en/Groundlight-Unveils-Open-Source-ROS-Package-Revolutionizing-Embodied-AI-for-Robotics)
+9. [Open source protocol redefines robotics, automotive and IoT connectivity](https://www.eenewseurope.com/en/open-source-protocol-redefines-robotics-automotive-and-iot-connectivity/)
+10. [The World Will Eat $2 Trillion In AI Servers, AI Will Eat The World Right Back](https://www.nextplatform.com/2024/10/18/the-world-will-eat-2-trillion-in-ai-servers-ai-will-eat-the-world-right-back/)
+
+# 2024-10-04
+1. [Meta gives Llama 3 vision, now if only it had a brain](https://www.theregister.com/2024/10/06/meta_llama_vision_brain/?td=rt-4a)
+2. [Huawei releases data detailing serverless secrets](https://www.theregister.com/2024/10/24/huawei_serverless_cold_start_research/)
+3. [StackGen Extends AI Platform for Generating IaC Code to Argo CD Platform](https://cloudnativenow.com/topics/cloudnativedevelopment/open-source/stackgen-extends-ai-platform-for-generating-iac-code-to-argo-cd-platform/)
+4. [Zerodha Announces $1M FLOSS Fund to Support Open Source Projects](https://analyticsindiamag.com/ai-news-updates/zerodha-announces-1m-floss-fund-to-support-open-source-projects/)
+5. [From Flashpoint to Foundation: OpenSearch’s Path Clears](https://thenewstack.io/from-flashpoint-to-foundation-opensearchs-path-clears/)
+6. [How to Secure Cloud-Native Architectures Without Sacrificing Agility ](https://cloudnativenow.com/social-facebook/how-to-secure-cloud-native-architectures-without-sacrificing-agility/)
+7. [OpenAI Introduces Swarm, a Framework for Building Multi-Agent Systems](https://analyticsindiamag.com/ai-news-updates/openai-introduces-swarm-a-framework-for-building-multi-agent-systems/)
+8. [Open source AI video generator Pyramid Flow now available online](https://www.notebookcheck.net/Open-source-AI-video-generator-Pyramid-Flow-now-available-online.901605.0.html)
+9. [ANC, DA gloves off in GNU dust-up](https://www.timeslive.co.za/sunday-times/news/politics/2024-10-20-anc-da-gloves-off-in-gnu-dust-up/)
+10. [Malicious open-source software packages have exploded in 2024](https://www.csoonline.com/article/3560646/malicious-open-source-software-packages-have-exploded-in-2024.html)
+
+# 2024-09-27
+1. [Open Source: Winning Over the Financial Services Industry](https://thenewstack.io/open-source-winning-over-the-financial-services-industry/)
+2. [Holistic AI Launches Open-Source Library to Advance Responsible AI](https://www.businesswire.com/news/home/20241022936311/en/Holistic-AI-Launches-Open-Source-Library-to-Advance-Responsible-AI)
+3. [Tetrate Allies With Bloomberg to Build AI Gateway Based on Envoy and Kubernetes APIs](https://cloudnativenow.com/social-x/tetrate-allies-with-bloomberg-to-build-ai-gateway-based-on-envoy-and-kubernetes-apis/)
+4. [Open source LLM tool primed to sniff out Python zero-days](https://www.theregister.com/2024/10/20/python_zero_day_tool/)
+5. [Socket Accelerates Open-Source Security With $40M Series B](https://www.inforisktoday.com/socket-accelerates-open-source-security-40m-series-b-a-26576)
+6. [Meta unveils OMat24: AI-powered materials discovery goes open-source](https://www.notebookcheck.net/Meta-unveils-OMat24-AI-powered-materials-discovery-goes-open-source.904139.0.html)
+7. [Meta Platforms under fire over open-source AI branding](https://www.mobileworldlive.com/ai-cloud/meta-platforms-under-fire-over-open-source-ai-branding/)
+8. [Chainbase unveils open source of AI language model focusing on crypto](https://www.cryptopolitan.com/chainbase-open-source-crypto-ai-model/)
+9. [The transformation of open source: Lessons from the past decade](https://securityboulevard.com/2024/10/the-transformation-of-open-source-lessons-from-the-past-decade/)
+10. [How do we fund open source?](https://www.infoworld.com/article/3557846/how-do-we-fund-open-source.html)
+
+# 2024-09-20
+1. [LF Charities Welcomes Project Jupyter, Expanding Role in Data Science and Furthering Community Innovation]()
+2. [Regulatory Compliance & Open Source Software](https://www.activestate.com/blog/regulatory-compliance-open-source-software/)
+3. [Sonatype report highlights rising threats in open source](https://securitybrief.co.nz/story/sonatype-report-highlights-rising-threats-in-open-source)
+4. [11 open source AI projects that developers will love](https://www.infoworld.com/article/3566915/11-open-source-ai-projects-that-developers-will-love.html)
+5. [Open-source security threats surge amid increasing usage](https://www.scworld.com/brief/open-source-security-threats-surge-amid-increasing-usage)
+6. [Argus: Open-source information gathering toolkit](https://www.helpnetsecurity.com/2024/10/23/argus-open-source-information-gathering-toolkit/)
+7. [Socket secures $40M to strengthen open-source software security](https://siliconangle.com/2024/10/22/socket-secures-40m-strengthen-open-source-software-security/)
+8. [The transformation of open source: Lessons from the past decade](https://securityboulevard.com/2024/10/the-transformation-of-open-source-lessons-from-the-past-decade/)
+9. [Open source platform Edgee secures Pre-Seed funding for data transformation](https://tech.eu/2024/10/17/open-source-platform-edgee-secures-pre-seed-funding-for-data-transformation/)
+10. [Open Mainframe Project Redefines Developer Experience on the Mainframe with AI and Open Source Community](https://www.prnewswire.com/news-releases/open-mainframe-project-redefines-developer-experience-on-the-mainframe-with-ai-and-open-source-community-302281101.html)
+
 # 2024-09-13
 1. [OpenAI's latest o1 model family tries to emulate 'reasoning' – tho might overthink things a bit](https://www.theregister.com/2024/09/13/openai_rolls_out_reasoning_o1/?td=rt-3a)
 2. [Docker Inc. Hikes Subscription Pricing in Return for Providing Increased Tool Access](https://cloudnativenow.com/social-facebook/docker-inc-hikes-subscription-pricing-in-return-for-providing-increased-tool-access/)
