@@ -1,5 +1,29 @@
 ## TOP 10 NEWS from Open Source world (Cloud, AI and ...) 
 
+# 2024-11-08
+1. [The United States Must Win The Global Open Source AI Race - China with AI in Military!](https://www.justsecurity.org/104676/american-ai-leadership-requires-support-open-source/)
+2. [Meta Launches NotebookLlama, an Open Source Alternative to Google’s NotebookLM](https://analyticsindiamag.com/ai-news-updates/meta-launches-notebookllama-an-open-source-alternative-to-googles-notebooklm/)
+3. [Microsoft unveils open-source multi-agent AI system Magnetic-One](https://www.thehindu.com/sci-tech/technology/microsoft-unveils-open-source-multi-agent-ai-system-magnetic-one/article68840029.ece)
+4. [Tencent Launches Hunyuan Large, Outperforms Llama 3.1 70B & 405B](https://analyticsindiamag.com/ai-news-updates/tencent-launches-hunyuan-large-outperforms-llama-3-1-70b-405b/)
+5. [Hugging Face and NVIDIA to Accelerate Open-Source AI Robotics Research and Development](https://blogs.nvidia.com/blog/hugging-face-lerobot-open-source-robotics/)
+6. [Aerospike Extends Scope of Kubernetes Operator for Real-Time Database](https://cloudnativenow.com/news/aerospike-extends-scope-of-kubernetes-operator-for-real-time-database/)
+7. [You Are Paying The Clouds To Build Better AI Than They Will Rent You](https://www.nextplatform.com/2024/11/05/you-are-paying-the-clouds-to-build-better-ai-than-they-will-rent-you/)
+8. [AWS Lambda Introduces a Visual Studio Code-Based Editor with Advanced Features and AI Integration](https://www.infoq.com/news/2024/10/aws-lambda-code-editor/)
+9. [Embracing the Open-Source Revolution: A New Pathway for MSP Growth](https://hackernoon.com/embracing-the-open-source-revolution-a-new-pathway-for-msp-growth)
+10. [The best open-source AI models: All your free-to-use options explained](https://www.zdnet.com/article/the-best-open-source-ai-models-all-your-free-to-use-options-explained/)
+
+# 2024-11-01
+1. [Using open source means you’re hiring the whole world as your support system](https://www.opensourceforu.com/2024/11/using-open-source-means-youre-hiring-the-whole-world-as-your-support-system/)
+2. [Mastering open-source software security in a cloud-native era](https://siliconangle.com/2024/11/07/open-source-software-security-cubeconversations/)
+3. [Bad Actors Exploiting Docker Remote API Servers in Attacks](https://cloudnativenow.com/topics/cloudnativesecurity/bad-actors-exploiting-docker-remote-api-servers-in-attacks/)
+4. [SigstoreCon Supply Chain Day 2024: Celebrating the Impact of Sigstore on Digital Signing and Supply Chain Security](https://cloudnativenow.com/topics/cloudnativesecurity/sigstorecon-supply-chain-day-2024-celebrating-the-impact-of-sigstore-on-digital-signing-and-supply-chain-security/)
+5. [Users struggle with recipe when moving enterprise apps to the cloud](https://www.theregister.com/2024/11/05/cloud_migration_sap_oracle/)
+6. [Killer app for AI is still years away, says industry analyst](https://www.theregister.com/2024/11/07/it_spend_europe_2025/)
+7. [Nutanix tightens ties with AWS on hybrid cloud solutions](https://blocksandfiles.com/2024/11/07/easier-access-to-nutanix-cloud-clusters-on-aws/)
+8. [Open-source cybersecurity platform Filigran raises $35m Series B](https://sifted.eu/articles/filigran-open-source-raise-news)
+9. [Introducing Reaper: Ghost Security’s Open-Source Application Security Testing Framework – Built by Humans, for AI](https://www.businesswire.com/news/home/20241031406449/en)
+10. [Opening up about AI: OSI defines open source AI](https://www.jdsupra.com/legalnews/opening-up-about-ai-osi-defines-open-9549359/)
+
 # 2024-10-25
 1. [GNU Boot uncovers non-free code in its software, warns other projects](https://www.neowin.net/news/gnu-boot-uncovers-non-free-code-in-its-software-warns-other-projects/)
 2. [Huawei launches HarmonyOS NEXT as a complete Android replacement](https://www.notebookcheck.net/Huawei-launches-HarmonyOS-NEXT-as-a-complete-Android-replacement.906044.0.html)
