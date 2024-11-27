@@ -1,5 +1,29 @@
 ## TOP 10 NEWS from Open Source world (Cloud, AI and ...) 
 
+# 2024-11-22
+1. [Numenta, backed by Gates Foundation, releases open-source AI model](https://uk.finance.yahoo.com/news/numenta-backed-gates-foundation-releases-140309367.html)
+2. [KubeCon NA 2024 Highlights](https://www.cncf.io/blog/2024/11/26/the-ultimate-kubecon-cloudnativecon-north-america-2024-recap-the-cncf-ambassadors-edition/)
+3. [Harness AI, analytics and automation for unprecedented growth in OSS/BSS](https://www.mobileeurope.co.uk/harness-ai-analytics-and-automation-for-unprecedented-growth-in-oss-bss/)
+4. [AMD Unveils Open-Source 1B Language Model to Drive Innovation in AI](https://www.azoai.com/news/20241110/AMD-Unveils-Open-Source-1B-Language-Model-to-Drive-Innovation-in-AI.aspx)
+5. [Franklin Templeton makes bold prediction for Open-Source AI and crypto](https://www.cryptopolitan.com/franklin-templeton-prediction-ai-crypto/)
+6. [OpenSource Ai summit Key discussions](https://www.bernama.com/en/business/news.php?id=2368325)
+7. [VTS: The Open-Source Vector Data Migration Tool That May Become Indispensable in AI and ML](https://hackernoon.com/vts-the-open-source-vector-data-migration-tool-that-may-become-indispensable-in-ai-and-ml)
+8. [An Open-Source Platform for Multi-Agent AI Orchestration](https://hackernoon.com/an-open-source-platform-for-multi-agent-ai-orchestration)
+9. [How Open Source Cloud Solutions are Impacting Modern IT Infrastructure](https://www.opensourceforu.com/2024/11/how-open-source-cloud-solutions-are-impacting-modern-it-infrastructure/)
+10. [GitHub launches new funding program to improve security of open source projects](https://sdtimes.com/security/github-launches-new-funding-program-to-improve-security-of-open-source-projects/)
+
+# 2024-11-15
+1. [Anthropic introduces open source Model Context Protocol to boost AI model interoperability](https://www.techmonitor.ai/digital-economy/ai-and-automation/anthropic-introduces-open-source-mcp-to-simplify-ai-system-integrations)
+2. [CNCF Launches Hero Challenge to Combat Patent Trolls](https://cloudnativenow.com/features/cncf-launches-hero-challenge-to-combat-patent-trolls/)
+3. [Google Confirms Critical Security Flaw Using AI](https://www.forbes.com/sites/daveywinder/2024/11/20/google-confirms-critical-20-year-old-security-flaw-using-new-fuzzy-ai/)
+4. [Open-source champion Kelsey Hightower on the promise of Bluesky](https://www.siliconrepublic.com/enterprise/kelsey-hightower-bluesky-ap-protocol-open-source-kubernetes)
+5. [Google AI Tool Finds 26 Bugs in Open-Source Projects](https://www.inforisktoday.com/google-ai-tool-finds-26-bugs-in-open-source-projects-a-26886)
+6. [CNCF Graduates Dapr to Help Improve Developer Productivity](https://cloudnativenow.com/features/cncf-graduates-dapr-to-help-improve-developer-productivity/)
+7. [Women leading the charge in open source AI](https://www.capacitymedia.com/article/women-leading-the-charge-in-open-source-ai)
+8. [Generating High-Quality Test Data for MySQL Through De-identification and Synthesis](https://securityboulevard.com/2024/11/generating-high-quality-test-data-for-mysql-through-de-identification-and-synthesis/)
+9. [Open Source, Forced Innovation, And Making Good Products](https://hackaday.com/2024/11/23/open-source-forced-innovation-and-making-good-products/)
+10. [Nearly half of Gen AI adopters want it open source - here's why](https://www.zdnet.com/article/nearly-half-of-gen-ai-adopters-want-it-open-source-heres-why/)
+    
 # 2024-11-08
 1. [The United States Must Win The Global Open Source AI Race - China with AI in Military!](https://www.justsecurity.org/104676/american-ai-leadership-requires-support-open-source/)
 2. [Meta Launches NotebookLlama, an Open Source Alternative to Google’s NotebookLM](https://analyticsindiamag.com/ai-news-updates/meta-launches-notebookllama-an-open-source-alternative-to-googles-notebooklm/)
