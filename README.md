@@ -1,5 +1,44 @@
 ## TOP 10 NEWS from Open Source world (Cloud, AI and ...) 
 
+# Happy Year Ending 2024! 
+# Will pull data using GenAI in 2025... :-)
+
+# 2024-12-20
+1. [Going open source could be the key to helping companies get the most out of AI](https://www.techradar.com/pro/going-open-source-could-be-the-key-to-helping-companies-get-the-most-out-of-ai)
+2. [GPT4All: An Ecosystem of Open-Source Compressed Language Models](https://hackernoon.com/gpt4all-an-ecosystem-of-open-source-compressed-language-models)
+3. [Mcity says open-source digital twin enables cheaper autonomous vehicle testing](https://www.therobotreport.com/mcity-open-source-digital-twin-enables-cheaper-av-testing/)
+4. [5 biggest Linux and open-source stories of 2024: From AI arguments to security close calls](https://www.zdnet.com/article/5-biggest-linux-and-open-source-stories-of-2024-from-ai-arguments-to-security-close-calls/)
+5. [Open-washing and the illusion of AI openness](https://www.infoworld.com/article/3615678/open-washing-and-the-illusion-of-ai-openness.html)
+6. [IBM's new enterprise AI models are more powerful than anything from OpenAI or Google](https://www.zdnet.com/article/ibms-new-enterprise-ai-models-are-more-powerful-than-anything-from-openai-or-google/)
+7. [Best of 2024: JFrog Reveals Docker Hub Compromise Spanning Millions of Repositories](https://cloudnativenow.com/editorial-calendar/best-of-2024/best-of-2024-jfrog-reveals-docker-hub-compromise-spanning-millions-of-repositories/)
+8. [Reflecting on 2024 and Looking Ahead to 2025: Cloud-Native DevOps, Security and the Road Ahead](https://cloudnativenow.com/editorial-calendar/best-of-2024/reflecting-on-2024-and-looking-ahead-to-2025-cloud-native-devops-security-and-the-road-ahead/)
+9. [Evilginx: Open-source man-in-the-middle attack framework](https://www.helpnetsecurity.com/2024/12/23/evilginx-open-source-man-in-the-middle-attack-framework/)
+10. [Inside Linux Foundation’s Vision for Open-Source Models](https://analyticsindiamag.com/ai-insights-analysis/inside-linux-foundations-vision-for-open-source-models/)
+
+# 2024-12-13
+1. [Linux Foundation launches LF India to boost open source innovation](https://www.thehindu.com/sci-tech/technology/linux-foundation-launches-lf-india-to-boost-open-source-innovation/article68973343.ece)
+2. [Leveraging Containers for Deploying Generative AI Applications](https://www.opensourceforu.com/2024/12/leveraging-containers-for-deploying-generative-ai-applications/)
+3. [How AI and ML Can Transform CloudOps](https://cloudnativenow.com/social-facebook/how-ai-and-ml-can-transform-cloudops/)
+4. [Perforce Forks Puppet, Community Considers Muppet](https://devops.com/perforce-forks-puppet-community-considers-muppet/)
+5. [Sonar acquires open-source security specialist Tidelift](https://siliconangle.com/2024/12/17/sonar-acquires-open-source-security-specialist-tidelift/)
+6. [Survey Surfaces Raft of Cloud Native Application Security Challenges](https://cloudnativenow.com/news/survey-surfaces-raft-of-cloud-native-application-security-challenges/)
+7. [OSS in the crosshairs: Cryptomining hacks highlight key new threat](https://securityboulevard.com/2024/12/oss-in-the-crosshairs-cryptomining-hacks-highlight-key-new-threat/)
+8. [Hugging Face launches an open source tool for affordable AI deployment]()
+9. [Nuon Emerges to Makes Porting SaaS Applications to Other Clouds Simpler](https://cloudnativenow.com/features/nuon-emerges-to-makes-porting-saas-applications-to-other-clouds-simpler/)
+10. [Technology Innovation institute Falcon 3](https://www.bernama.com/en/business/news.php?id=2374922)
+
+# 2024-12-06
+1. [MIT researchers introduce Boltz-1, a fully open-source model for predicting biomolecular structures](https://news.mit.edu/2024/researchers-introduce-boltz-1-open-source-model-predicting-biomolecular-structures-1217)
+2. [The Key to Securing Hybrid Cloud Environments is Zero-Trust](https://cloudnativenow.com/social-x/the-key-to-securing-hybrid-cloud-environments-is-zero-trust/)
+3. [Generative AI Security Tools Go Open Source](https://www.darkreading.com/application-security/generative-ai-breaking-tools-go-open-source)
+4. [CyberArk Unveils Breakthrough Open-Source Tool That Helps Organizations Safeguard Against AI Model Jailbreaks](https://www.businesswire.com/news/home/20241211837303/en/CyberArk-Unveils-Breakthrough-Open-Source-Tool-That-Helps-Organizations-Safeguard-Against-AI-Model-Jailbreaks)
+5. [51% of companies leveraging open-source AI see positive returns, survey reveals](https://www.techmonitor.ai/digital-economy/ai-and-automation/51-companies-leveraging-open-source-ai-positive-returns-ibm-survey)
+6. [RunSafe Security Extends Platform Reach to Build More Accurate SBOMs](https://devops.com/runsafe-security-extends-platform-reach-to-build-more-accurate-sboms/?)
+7. ['World's first' open-source Armv9 motherboard surfaces](https://www.tomshardware.com/pc-components/motherboards/worlds-first-open-source-armv9-motherboard-surfaces-radxa-orion-o6s-pricing-starts-at-usd200-for-the-8gb-ram-model)
+8. [Useless security reports generated by AI are frustrating open-source maintainers](https://www.techspot.com/news/105913-useless-ai-generated-security-reports-frustrating-open-source.html)
+9. [4 Reasons Why Discoverability & Observability Matter for Enterprise Open Source](https://cdn.activestate.com/blog/reasons-why-discoverability-observability-important-enterprise-open-source/)
+10. [How to make open source software more secure](https://techcrunch.com/2024/11/01/how-to-make-open-source-software-more-secure/)
+    
 # 2024-11-22
 1. [Numenta, backed by Gates Foundation, releases open-source AI model](https://uk.finance.yahoo.com/news/numenta-backed-gates-foundation-releases-140309367.html)
 2. [KubeCon NA 2024 Highlights](https://www.cncf.io/blog/2024/11/26/the-ultimate-kubecon-cloudnativecon-north-america-2024-recap-the-cncf-ambassadors-edition/)
